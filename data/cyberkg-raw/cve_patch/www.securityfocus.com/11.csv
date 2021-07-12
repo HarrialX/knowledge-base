@@ -1,0 +1,501 @@
+|cve-ids|ex_url|types|solution
+0|CVE-2018-2789|http://www.securityfocus.com/bid/103851|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+1|CVE-2018-2790|http://www.securityfocus.com/bid/103877|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+2|CVE-2018-2791|http://www.securityfocus.com/bid/103800|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+3|CVE-2018-2792|http://www.securityfocus.com/bid/103889|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+4|CVE-2018-2793|http://www.securityfocus.com/bid/103899|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+5|CVE-2018-2794|http://www.securityfocus.com/bid/103817|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+6|CVE-2018-2795|http://www.securityfocus.com/bid/103847|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+7|CVE-2018-2796|http://www.securityfocus.com/bid/103868|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+8|CVE-2018-2797|http://www.securityfocus.com/bid/103846|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+9|CVE-2018-2798|http://www.securityfocus.com/bid/103841|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+10|CVE-2018-2799|http://www.securityfocus.com/bid/103872|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+11|CVE-2018-2800|http://www.securityfocus.com/bid/103849|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+12|CVE-2018-2801|http://www.securityfocus.com/bid/103819|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+13|CVE-2018-2802|http://www.securityfocus.com/bid/103909|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+14|CVE-2018-2803|http://www.securityfocus.com/bid/103912|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+15|CVE-2018-2804|http://www.securityfocus.com/bid/103842|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+16|CVE-2018-2805|http://www.securityfocus.com/bid/103831|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+17|CVE-2018-2806|http://www.securityfocus.com/bid/103816|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+18|CVE-2018-2807|http://www.securityfocus.com/bid/103870|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+19|CVE-2018-2808|http://www.securityfocus.com/bid/103881|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+20|CVE-2018-2809|http://www.securityfocus.com/bid/103890|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+21|CVE-2018-2810|http://www.securityfocus.com/bid/103783|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+22|CVE-2018-2811|http://www.securityfocus.com/bid/103810|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+23|CVE-2018-2812|http://www.securityfocus.com/bid/103836|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+24|CVE-2018-2813|http://www.securityfocus.com/bid/103830|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+25|CVE-2018-2814|http://www.securityfocus.com/bid/103798|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+26|CVE-2018-2815|http://www.securityfocus.com/bid/103848|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+27|CVE-2018-2816|http://www.securityfocus.com/bid/103789|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+28|CVE-2018-2817|http://www.securityfocus.com/bid/103818|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+29|CVE-2018-2818|http://www.securityfocus.com/bid/103824|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+30|CVE-2018-2819|http://www.securityfocus.com/bid/103814|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+31|CVE-2018-2820|http://www.securityfocus.com/bid/103893|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+32|CVE-2018-2821|http://www.securityfocus.com/bid/103910|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+33|CVE-2018-2822|http://www.securityfocus.com/bid/103883|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+34|CVE-2018-2823|http://www.securityfocus.com/bid/103902|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+35|CVE-2018-2824|http://www.securityfocus.com/bid/103900|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+36|CVE-2018-2825|http://www.securityfocus.com/bid/103782|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+37|CVE-2018-2826|http://www.securityfocus.com/bid/103796|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+38|CVE-2018-2827|http://www.securityfocus.com/bid/103914|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+39|CVE-2018-2828|http://www.securityfocus.com/bid/103797|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+40|CVE-2018-2829|http://www.securityfocus.com/bid/103884|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+41|CVE-2018-2830|http://www.securityfocus.com/bid/103856|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+42|CVE-2018-2831|http://www.securityfocus.com/bid/103863|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+43|CVE-2018-2832|http://www.securityfocus.com/bid/103843|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+44|CVE-2018-2833|http://www.securityfocus.com/bid/103887|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+45|CVE-2018-2834|http://www.securityfocus.com/bid/103792|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+46|CVE-2018-2835|http://www.securityfocus.com/bid/103857|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+47|CVE-2018-2836|http://www.securityfocus.com/bid/103858|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+48|CVE-2018-2837|http://www.securityfocus.com/bid/103859|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+49|CVE-2018-2838|http://www.securityfocus.com/bid/103911|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+50|CVE-2018-2839|http://www.securityfocus.com/bid/103845|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+51|CVE-2018-2840|http://www.securityfocus.com/bid/103786|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+52|CVE-2018-2841|http://www.securityfocus.com/bid/103839|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+53|CVE-2018-2842|http://www.securityfocus.com/bid/103853|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+54|CVE-2018-2843|http://www.securityfocus.com/bid/103854|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+55|CVE-2018-2844|http://www.securityfocus.com/bid/103855|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+56|CVE-2018-2845|http://www.securityfocus.com/bid/103861|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+57|CVE-2018-2846|http://www.securityfocus.com/bid/103790|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+58|CVE-2018-2847|http://www.securityfocus.com/bid/103904|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+59|CVE-2018-2848|http://www.securityfocus.com/bid/103901|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+60|CVE-2018-2849|http://www.securityfocus.com/bid/103835|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+61|CVE-2018-2850|http://www.securityfocus.com/bid/103916|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+62|CVE-2018-2851|http://www.securityfocus.com/bid/103896|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+63|CVE-2018-2852|http://www.securityfocus.com/bid/103915|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+64|CVE-2018-2853|http://www.securityfocus.com/bid/103906|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+65|CVE-2018-2854|http://www.securityfocus.com/bid/103823|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+66|CVE-2018-2855|http://www.securityfocus.com/bid/103795|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+67|CVE-2018-2856|http://www.securityfocus.com/bid/103812|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+68|CVE-2018-2857|http://www.securityfocus.com/bid/103892|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+69|CVE-2018-2858|http://www.securityfocus.com/bid/103895|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+70|CVE-2018-2859|http://www.securityfocus.com/bid/103827|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+71|CVE-2018-2860|http://www.securityfocus.com/bid/103860|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+72|CVE-2018-2861|http://www.securityfocus.com/bid/103809|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+73|CVE-2018-2862|http://www.securityfocus.com/bid/103803|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+74|CVE-2018-2863|http://www.securityfocus.com/bid/103898|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+75|CVE-2018-2864|http://www.securityfocus.com/bid/103852|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+76|CVE-2018-2865|http://www.securityfocus.com/bid/103869|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+77|CVE-2018-2866|http://www.securityfocus.com/bid/103873|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+78|CVE-2018-2867|http://www.securityfocus.com/bid/103862|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+79|CVE-2018-2868|http://www.securityfocus.com/bid/103837|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+80|CVE-2018-2869|http://www.securityfocus.com/bid/103840|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+81|CVE-2018-2870|http://www.securityfocus.com/bid/103829|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+82|CVE-2018-2871|http://www.securityfocus.com/bid/103834|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+83|CVE-2018-2872|http://www.securityfocus.com/bid/103865|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+84|CVE-2018-2873|http://www.securityfocus.com/bid/103867|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+85|CVE-2018-2874|http://www.securityfocus.com/bid/103878|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+86|CVE-2018-2876|http://www.securityfocus.com/bid/103793|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+87|CVE-2018-2877|http://www.securityfocus.com/bid/103838|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+88|CVE-2018-2878|http://www.securityfocus.com/bid/103903|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+89|CVE-2018-2879|http://www.securityfocus.com/bid/103788|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+90|CVE-2018-10188|http://www.securityfocus.com/bid/103936|VDB Entry,Third Party Advisory|
+91|CVE-2018-9861|http://www.securityfocus.com/bid/103924||
+92|CVE-2018-3843,CVE-2017-14458,CVE-2018-3850,CVE-2018-3853,CVE-2018-3842|http://www.securityfocus.com/bid/103942|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+93|CVE-2018-0112|http://www.securityfocus.com/bid/103920|VDB Entry,Third Party Advisory|
+94|CVE-2018-0227|http://www.securityfocus.com/bid/104018|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+95|CVE-2018-0228|http://www.securityfocus.com/bid/104220|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+96|CVE-2018-0229|http://www.securityfocus.com/bid/103939|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+97|CVE-2018-0230|http://www.securityfocus.com/bid/103931|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+98|CVE-2018-0233|http://www.securityfocus.com/bid/103930|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+99|CVE-2018-0238|http://www.securityfocus.com/bid/103919|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+100|CVE-2018-0239|http://www.securityfocus.com/bid/103923|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+101|CVE-2018-0240|http://www.securityfocus.com/bid/103934|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+102|CVE-2018-0241|http://www.securityfocus.com/bid/103929|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+103|CVE-2018-0242|http://www.securityfocus.com/bid/103932|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+104|CVE-2018-0243|http://www.securityfocus.com/bid/103943|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+105|CVE-2018-0244|http://www.securityfocus.com/bid/103945|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+106|CVE-2018-0251|http://www.securityfocus.com/bid/103926|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+107|CVE-2018-0254|http://www.securityfocus.com/bid/103940|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+108|CVE-2018-0256|http://www.securityfocus.com/bid/103951|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+109|CVE-2018-0257|http://www.securityfocus.com/bid/103948|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+110|CVE-2018-0259|http://www.securityfocus.com/bid/103928|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+111|CVE-2018-0260|http://www.securityfocus.com/bid/103946|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+112|CVE-2018-0266|http://www.securityfocus.com/bid/103933|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+113|CVE-2018-0267|http://www.securityfocus.com/bid/103937|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+114|CVE-2018-0269|http://www.securityfocus.com/bid/103950|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+115|CVE-2018-0272|http://www.securityfocus.com/bid/103925|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+116|CVE-2018-0273|http://www.securityfocus.com/bid/103935|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+117|CVE-2018-0276|http://www.securityfocus.com/bid/103921|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+118|CVE-2018-6960|http://www.securityfocus.com/bid/103938|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+119|CVE-2018-1289|http://www.securityfocus.com/bid/104005|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+120|CVE-2018-1290|http://www.securityfocus.com/bid/103975|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+121|CVE-2018-1291|http://www.securityfocus.com/bid/104008|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+122|CVE-2018-1292|http://www.securityfocus.com/bid/104007|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+123|CVE-2017-2825|http://www.securityfocus.com/bid/98094|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+124|CVE-2018-4847|http://www.securityfocus.com/bid/103941|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+125|CVE-2016-9586|http://www.securityfocus.com/bid/95019|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+126|CVE-2016-9594|http://www.securityfocus.com/bid/95094|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+127|CVE-2016-9601|http://www.securityfocus.com/bid/97095|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+128|CVE-2018-10322|http://www.securityfocus.com/bid/103960|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+129|CVE-2018-10323|http://www.securityfocus.com/bid/103959|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+130|CVE-2018-7751|http://www.securityfocus.com/bid/103956|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+131|CVE-2018-5228|http://www.securityfocus.com/bid/104006|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+132|CVE-2017-9654,CVE-2017-9656|http://www.securityfocus.com/bid/100471|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+133|CVE-2016-9587|http://www.securityfocus.com/bid/95352|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+134|CVE-2017-2804,CVE-2017-2803,CVE-2016-9043,CVE-2016-8730|http://www.securityfocus.com/bid/99900|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+135|CVE-2017-2802,CVE-2016-9038,CVE-2016-8732|http://www.securityfocus.com/bid/99360|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+136|CVE-2017-2811|http://www.securityfocus.com/bid/100141|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+137|CVE-2017-2812|http://www.securityfocus.com/bid/100140|Broken Link|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+138|CVE-2017-2845,CVE-2017-2827,CVE-2017-2850,CVE-2017-2849,CVE-2017-2844,CVE-2017-2846,CVE-2017-2833,CVE-2017-2848,CVE-2017-2847,CVE-2017-2842,CVE-2017-2841,CVE-2017-2828,CVE-2017-2832,CVE-2017-2843|http://www.securityfocus.com/bid/99184|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+139|CVE-2017-2834,CVE-2017-2837,CVE-2017-2836,CVE-2017-2839,CVE-2017-2838|http://www.securityfocus.com/bid/99942|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+140|CVE-2017-2840|http://www.securityfocus.com/bid/100084|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+141|CVE-2017-2885|http://www.securityfocus.com/bid/100258|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+142|CVE-2017-2923|http://www.securityfocus.com/bid/100807|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+143|CVE-2017-2924|http://www.securityfocus.com/bid/100799|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+144|CVE-2017-17557|http://www.securityfocus.com/bid/103999|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+145|CVE-2018-10372|http://www.securityfocus.com/bid/103976|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+146|CVE-2018-10373|http://www.securityfocus.com/bid/104000|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+147|CVE-2017-12716,CVE-2017-12712,CVE-2017-12714|http://www.securityfocus.com/bid/100523|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+148|CVE-2017-1750|http://www.securityfocus.com/bid/104012|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+149|CVE-2018-1363|http://www.securityfocus.com/bid/104014|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+150|CVE-2018-8716|http://www.securityfocus.com/archive/1/541954/100/0/threaded|Exploit,VDB Entry,Third Party Advisory|
+151|CVE-2018-1335|http://www.securityfocus.com/bid/104001|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+152|CVE-2018-8833,CVE-2018-8837,CVE-2018-8835|http://www.securityfocus.com/bid/103972|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+153|CVE-2016-9590|http://www.securityfocus.com/bid/95448|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+154|CVE-2016-9602|http://www.securityfocus.com/bid/95461|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+155|CVE-2017-14010|http://www.securityfocus.com/bid/101505|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+156|CVE-2018-3855,CVE-2018-3844,CVE-2018-3851,CVE-2018-3845|http://www.securityfocus.com/bid/104023|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+157|CVE-2018-7527|http://www.securityfocus.com/bid/104016|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+158|CVE-2017-1116|http://www.securityfocus.com/bid/104011|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+159|CVE-2018-10471|http://www.securityfocus.com/bid/104003|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+160|CVE-2018-10472|http://www.securityfocus.com/bid/104002|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+161|CVE-2018-10534|http://www.securityfocus.com/bid/104025|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+162|CVE-2018-10535|http://www.securityfocus.com/bid/104021|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+163|CVE-2018-10545|http://www.securityfocus.com/bid/104022|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+164|CVE-2018-10549,CVE-2018-10546,CVE-2018-10548|http://www.securityfocus.com/bid/104019|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+165|CVE-2017-2591|http://www.securityfocus.com/bid/95670|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+166|CVE-2018-1389|http://www.securityfocus.com/bid/104026|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+167|CVE-2018-1430|http://www.securityfocus.com/bid/104027|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+168|CVE-2017-9658,CVE-2017-9657|http://www.securityfocus.com/bid/100813|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+169|CVE-2018-7891|http://www.securityfocus.com/bid/104120|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+170|CVE-2018-8839|http://www.securityfocus.com/bid/104013|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+171|CVE-2018-5234|http://www.securityfocus.com/bid/103955|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+172|CVE-2018-1183|http://www.securityfocus.com/bid/104024|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+173|CVE-2017-18264|http://www.securityfocus.com/bid/97211|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+174|CVE-2017-14012,CVE-2017-14014|http://www.securityfocus.com/bid/101510|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+175|CVE-2018-5512|http://www.securityfocus.com/bid/104095|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+176|CVE-2018-5514|http://www.securityfocus.com/bid/104097|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+177|CVE-2018-5515|http://www.securityfocus.com/bid/104099|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+178|CVE-2017-4952|http://www.securityfocus.com/bid/103093|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+179|CVE-2013-6272|http://www.securityfocus.com/bid/68415|VDB Entry,Third Party Advisory|Reportedly, the issue is fixed; however, Symantec has not confirmed this. Please contact the vendor for more information.
+180|CVE-2018-10675|http://www.securityfocus.com/bid/104093|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+181|CVE-2018-8115|http://www.securityfocus.com/bid/104061|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+182|CVE-2018-10115|http://www.securityfocus.com/bid/104132|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+183|CVE-2018-0226|http://www.securityfocus.com/bid/104124|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+184|CVE-2018-0234|http://www.securityfocus.com/bid/104081|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+185|CVE-2018-0235|http://www.securityfocus.com/bid/104080|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+186|CVE-2018-0245|http://www.securityfocus.com/bid/104123|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+187|CVE-2018-0247|http://www.securityfocus.com/bid/104087|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+188|CVE-2018-0253|http://www.securityfocus.com/bid/104075|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+189|CVE-2018-0258|http://www.securityfocus.com/bid/104074|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+190|CVE-2018-0262|http://www.securityfocus.com/bid/104079|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+191|CVE-2018-0264|http://www.securityfocus.com/bid/104073|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+192|CVE-2018-0278|http://www.securityfocus.com/bid/104122|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+193|CVE-2018-0281|http://www.securityfocus.com/bid/104096|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+194|CVE-2018-0283|http://www.securityfocus.com/bid/104121|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+195|CVE-2018-0285|http://www.securityfocus.com/bid/104082|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+196|CVE-2018-0286|http://www.securityfocus.com/bid/104083|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+197|CVE-2018-0287|http://www.securityfocus.com/bid/104128|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+198|CVE-2018-0288|http://www.securityfocus.com/bid/104091|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+199|CVE-2018-10689|http://www.securityfocus.com/bid/104142|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+200|CVE-2018-4849|http://www.securityfocus.com/bid/104105|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+201|CVE-2018-10167,CVE-2018-10164,CVE-2018-10165,CVE-2018-10168,CVE-2018-10166|http://www.securityfocus.com/bid/104094|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+202|CVE-2018-8003|http://www.securityfocus.com/bid/104161|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+203|CVE-2018-10562,CVE-2018-10561|http://www.securityfocus.com/bid/107053|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are error or if you are aware of any more recent information, please mail us at: vuldb@securityfocus.com.
+204|CVE-2017-1743|http://www.securityfocus.com/bid/104134|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+205|CVE-2018-7522,CVE-2018-8872|http://www.securityfocus.com/bid/103947|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+206|CVE-2018-8861,CVE-2018-8857,CVE-2018-8853|http://www.securityfocus.com/bid/104088|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+207|CVE-2018-8869,CVE-2018-8865|http://www.securityfocus.com/bid/104098|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+208|CVE-2018-9063|http://www.securityfocus.com/bid/104125|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+209|CVE-2018-7507,CVE-2018-7494,CVE-2018-7509|http://www.securityfocus.com/bid/103179|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+210|CVE-2018-10229|http://www.securityfocus.com/bid/104084|VDB Entry,Third Party Advisory|Reportedly, the issue is fixed; however, Symantec has not confirmed this. Please contact the vendor for more information.
+211|CVE-2018-0494|http://www.securityfocus.com/bid/104129|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+212|CVE-2018-10779|http://www.securityfocus.com/bid/104089|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+213|CVE-2018-1313|http://www.securityfocus.com/bid/104140|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+214|CVE-2018-1413|http://www.securityfocus.com/bid/104117|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+215|CVE-2017-17540,CVE-2017-17539|http://www.securityfocus.com/bid/104119|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+216|CVE-2018-1239|http://www.securityfocus.com/bid/104092|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+217|CVE-2018-1247|http://www.securityfocus.com/bid/104107|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+218|CVE-2018-1248|http://www.securityfocus.com/bid/104113|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+219|CVE-2018-1000168|http://www.securityfocus.com/bid/103952|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+220|CVE-2018-1000173|http://www.securityfocus.com/bid/104210|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+221|CVE-2018-1000174|http://www.securityfocus.com/bid/104211|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+222|CVE-2017-2592|http://www.securityfocus.com/bid/95827|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+223|CVE-2017-2594|http://www.securityfocus.com/bid/95793|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+224|CVE-2017-2611|http://www.securityfocus.com/bid/95956|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+225|CVE-2018-8897|http://www.securityfocus.com/bid/104071|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+226|CVE-2018-6920|http://www.securityfocus.com/bid/104114|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+227|CVE-2018-6921|http://www.securityfocus.com/bid/104118|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+228|CVE-2017-2606|http://www.securityfocus.com/bid/95962|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+229|CVE-2018-1089|http://www.securityfocus.com/bid/104137|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+230|CVE-2018-10940|http://www.securityfocus.com/bid/104154|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+231|CVE-2017-5175|http://www.securityfocus.com/bid/96210|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+232|CVE-2018-0765|http://www.securityfocus.com/bid/104060|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+233|CVE-2018-0824|http://www.securityfocus.com/bid/104030|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+234|CVE-2018-0854|http://www.securityfocus.com/bid/104029|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+235|CVE-2018-0943|http://www.securityfocus.com/bid/103980|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+236|CVE-2018-0945|http://www.securityfocus.com/bid/103987|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+237|CVE-2018-0946|http://www.securityfocus.com/bid/103989|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+238|CVE-2018-0951|http://www.securityfocus.com/bid/103983|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+239|CVE-2018-0953|http://www.securityfocus.com/bid/103990|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+240|CVE-2018-0954|http://www.securityfocus.com/bid/103991|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+241|CVE-2018-0955|http://www.securityfocus.com/bid/103993|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+242|CVE-2018-0958|http://www.securityfocus.com/bid/104064|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+243|CVE-2018-0959|http://www.securityfocus.com/bid/104031|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+244|CVE-2018-0961|http://www.securityfocus.com/bid/104032|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+245|CVE-2018-1021|http://www.securityfocus.com/bid/103964|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+246|CVE-2018-1022|http://www.securityfocus.com/bid/103978|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+247|CVE-2018-1025|http://www.securityfocus.com/bid/103984|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+248|CVE-2018-1039|http://www.securityfocus.com/bid/104072|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+249|CVE-2018-8112|http://www.securityfocus.com/bid/103963|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+250|CVE-2018-8114|http://www.securityfocus.com/bid/103994|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+251|CVE-2018-8119|http://www.securityfocus.com/bid/104070|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+252|CVE-2018-8120|http://www.securityfocus.com/bid/104034|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+253|CVE-2018-8122|http://www.securityfocus.com/bid/103995|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+254|CVE-2018-8123|http://www.securityfocus.com/bid/103965|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+255|CVE-2018-8124|http://www.securityfocus.com/bid/104037|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+256|CVE-2018-8126|http://www.securityfocus.com/bid/103997|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+257|CVE-2018-8127|http://www.securityfocus.com/bid/104040|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+258|CVE-2018-8128|http://www.securityfocus.com/bid/103979|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+259|CVE-2018-8129|http://www.securityfocus.com/bid/104065|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+260|CVE-2018-8130|http://www.securityfocus.com/bid/103981|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+261|CVE-2018-8132|http://www.securityfocus.com/bid/104066|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+262|CVE-2018-8133|http://www.securityfocus.com/bid/103982|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+263|CVE-2018-8134|http://www.securityfocus.com/bid/104041|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+264|CVE-2018-8136|http://www.securityfocus.com/bid/104044|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+265|CVE-2018-8137|http://www.securityfocus.com/bid/103967|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+266|CVE-2018-8139|http://www.securityfocus.com/bid/103977|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+267|CVE-2018-8141|http://www.securityfocus.com/bid/104078|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+268|CVE-2018-8145|http://www.securityfocus.com/bid/103986|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+269|CVE-2018-8147|http://www.securityfocus.com/bid/104035|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+270|CVE-2018-8148|http://www.securityfocus.com/bid/104053|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+271|CVE-2018-8149|http://www.securityfocus.com/bid/104036|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+272|CVE-2018-8150|http://www.securityfocus.com/bid/104039|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+273|CVE-2018-8151|http://www.securityfocus.com/bid/104042|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+274|CVE-2018-8152|http://www.securityfocus.com/bid/104043|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+275|CVE-2018-8153|http://www.securityfocus.com/bid/104045|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+276|CVE-2018-8154|http://www.securityfocus.com/bid/104054|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+277|CVE-2018-8155|http://www.securityfocus.com/bid/104047|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+278|CVE-2018-8156|http://www.securityfocus.com/bid/104048|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+279|CVE-2018-8157|http://www.securityfocus.com/bid/104046|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+280|CVE-2018-8158|http://www.securityfocus.com/bid/104049|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+281|CVE-2018-8159|http://www.securityfocus.com/bid/104056|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+282|CVE-2018-8160|http://www.securityfocus.com/bid/104051|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+283|CVE-2018-8161|http://www.securityfocus.com/bid/104052|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+284|CVE-2018-8162|http://www.securityfocus.com/bid/104058|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+285|CVE-2018-8163|http://www.securityfocus.com/bid/104059|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+286|CVE-2018-8164|http://www.securityfocus.com/bid/104033|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+287|CVE-2018-8165|http://www.securityfocus.com/bid/104038|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+288|CVE-2018-8166|http://www.securityfocus.com/bid/104062|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+289|CVE-2018-8167|http://www.securityfocus.com/bid/104063|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+290|CVE-2018-8168|http://www.securityfocus.com/bid/104067|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+291|CVE-2018-8170|http://www.securityfocus.com/bid/104068|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+292|CVE-2018-8173|http://www.securityfocus.com/bid/104069|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+293|CVE-2018-8174|http://www.securityfocus.com/bid/103998|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+294|CVE-2018-8177|http://www.securityfocus.com/bid/104090|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+295|CVE-2018-8178|http://www.securityfocus.com/bid/104076|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+296|CVE-2018-8179|http://www.securityfocus.com/bid/104077|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+297|CVE-2018-8860,CVE-2018-8866|http://www.securityfocus.com/bid/103966|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+298|CVE-2018-2415|http://www.securityfocus.com/bid/104130|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+299|CVE-2018-2416|http://www.securityfocus.com/bid/104106|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+300|CVE-2018-2416|http://www.securityfocus.com/bid/105076|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+301|CVE-2018-2417|http://www.securityfocus.com/bid/104112|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+302|CVE-2018-2418|http://www.securityfocus.com/bid/104115|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+303|CVE-2018-2419|http://www.securityfocus.com/bid/104116|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+304|CVE-2018-2420|http://www.securityfocus.com/bid/104108|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+305|CVE-2018-2421|http://www.securityfocus.com/bid/104111|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+306|CVE-2018-2422|http://www.securityfocus.com/bid/104110|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+307|CVE-2018-2423|http://www.securityfocus.com/bid/104109|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+308|CVE-2017-2601|http://www.securityfocus.com/bid/95960|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+309|CVE-2017-6293,CVE-2017-6289|http://www.securityfocus.com/bid/104145|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+310|CVE-2018-10803|http://www.securityfocus.com/bid/104251|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+311|CVE-2018-9849|http://www.securityfocus.com/bid/104160|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+312|CVE-2018-1115|http://www.securityfocus.com/bid/104285|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+313|CVE-2018-10981|http://www.securityfocus.com/bid/104149|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+314|CVE-2018-10982|http://www.securityfocus.com/bid/104150|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+315|CVE-2016-8627|http://www.securityfocus.com/bid/95698|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+316|CVE-2017-6015|http://www.securityfocus.com/bid/96996|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+317|CVE-2018-7248|http://www.securityfocus.com/bid/104287|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+318|CVE-2018-1257|http://www.securityfocus.com/bid/104260|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+319|CVE-2018-1258|http://www.securityfocus.com/bid/104222|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+320|CVE-2018-1260|http://www.securityfocus.com/bid/104158|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+321|CVE-2018-1261|http://www.securityfocus.com/bid/104178|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+322|CVE-2018-1278|http://www.securityfocus.com/bid/104227|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+323|CVE-2018-1280|http://www.securityfocus.com/bid/104153|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+324|CVE-2018-10996|http://www.securityfocus.com/bid/104277|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+325|CVE-2018-10678|http://www.securityfocus.com/bid/104187|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+326|CVE-2017-16860|http://www.securityfocus.com/bid/104188|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+327|CVE-2017-6021|http://www.securityfocus.com/bid/96768|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+328|CVE-2018-8843|http://www.securityfocus.com/bid/104166|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+329|CVE-2018-1131|http://www.securityfocus.com/bid/104218|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+330|CVE-2018-3634|http://www.securityfocus.com/bid/104250|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+331|CVE-2018-3661|http://www.securityfocus.com/bid/104247|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+332|CVE-2018-1087|http://www.securityfocus.com/bid/104127|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+333|CVE-2017-2600|http://www.securityfocus.com/bid/95954|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+334|CVE-2017-2608|http://www.securityfocus.com/bid/95953|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+335|CVE-2017-2612|http://www.securityfocus.com/bid/95957|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+336|CVE-2018-1263|http://www.securityfocus.com/bid/104179|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+337|CVE-2017-2602|http://www.securityfocus.com/bid/95952|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+338|CVE-2017-2603|http://www.securityfocus.com/bid/95955|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+339|CVE-2017-2604|http://www.securityfocus.com/bid/95959|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+340|CVE-2017-2610|http://www.securityfocus.com/bid/95951|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+341|CVE-2017-2613|http://www.securityfocus.com/bid/95967|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+342|CVE-2018-10590,CVE-2018-10589,CVE-2018-8845,CVE-2018-7497,CVE-2018-7499,CVE-2018-7495,CVE-2018-7505,CVE-2018-10591,CVE-2018-8841,CVE-2018-7503,CVE-2018-7501|http://www.securityfocus.com/bid/104190|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+343|CVE-2018-5231|http://www.securityfocus.com/bid/104205|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+344|CVE-2018-8014|http://www.securityfocus.com/bid/104203|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+345|CVE-2018-11212|http://www.securityfocus.com/bid/106583|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+346|CVE-2018-4850|http://www.securityfocus.com/bid/104217|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+347|CVE-2017-17688|http://www.securityfocus.com/bid/104162|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+348|CVE-2017-17689|http://www.securityfocus.com/bid/104165|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+349|CVE-2018-0222|http://www.securityfocus.com/bid/104193|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+350|CVE-2018-0268|http://www.securityfocus.com/bid/104192|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+351|CVE-2018-0270|http://www.securityfocus.com/bid/104242|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+352|CVE-2018-0271|http://www.securityfocus.com/bid/104191|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+353|CVE-2018-0277|http://www.securityfocus.com/bid/104212|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+354|CVE-2018-0279|http://www.securityfocus.com/bid/104243|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+355|CVE-2018-0280|http://www.securityfocus.com/bid/104209|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+356|CVE-2018-0289|http://www.securityfocus.com/bid/104196|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+357|CVE-2018-0290|http://www.securityfocus.com/bid/104201|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+358|CVE-2018-0297|http://www.securityfocus.com/bid/104197|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+359|CVE-2018-0323|http://www.securityfocus.com/bid/104206|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+360|CVE-2018-0324|http://www.securityfocus.com/bid/104208|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+361|CVE-2018-0325|http://www.securityfocus.com/bid/104202|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+362|CVE-2018-0326|http://www.securityfocus.com/bid/104204|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+363|CVE-2018-0327|http://www.securityfocus.com/bid/104194|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+364|CVE-2018-0328|http://www.securityfocus.com/bid/104200|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+365|CVE-2017-15533|http://www.securityfocus.com/bid/104163|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+366|CVE-2017-18268|http://www.securityfocus.com/bid/104164|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+367|CVE-2018-1111|http://www.securityfocus.com/bid/104195|VDB Entry,Third Party Advisory|Reportedly, the issue is fixed; however, Symantec has not confirmed this. Please contact the vendor for more information.
+368|CVE-2018-10728,CVE-2018-10730,CVE-2018-10731,CVE-2018-10729|http://www.securityfocus.com/bid/104231|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+369|CVE-2018-8714|http://www.securityfocus.com/bid/104157|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+370|CVE-2018-1464,CVE-2018-1463,CVE-2018-1465,CVE-2018-1434,CVE-2018-1433,CVE-2018-1466,CVE-2018-1461,CVE-2018-1438,CVE-2018-1462|http://www.securityfocus.com/bid/104349|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+371|CVE-2017-9637,CVE-2017-9635|http://www.securityfocus.com/bid/99469|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+372|CVE-2018-8849|http://www.securityfocus.com/bid/104213|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+373|CVE-2017-18270|http://www.securityfocus.com/bid/104254|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+374|CVE-2018-11236|http://www.securityfocus.com/bid/104255|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+375|CVE-2018-11237|http://www.securityfocus.com/bid/104256|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+376|CVE-2018-8015|http://www.securityfocus.com/bid/104215|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+377|CVE-2018-1000400|http://www.securityfocus.com/bid/104262|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+378|CVE-2018-6562|http://www.securityfocus.com/archive/1/542016/100/0/threaded||
+379|CVE-2018-8867|http://www.securityfocus.com/bid/104241|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+380|CVE-2018-4991,CVE-2018-4873,CVE-2018-4992|http://www.securityfocus.com/bid/104103|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+381|CVE-2018-4910,CVE-2018-4917,CVE-2018-4890,CVE-2018-4904|http://www.securityfocus.com/bid/102992|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+382|CVE-2018-4879,CVE-2018-4895,CVE-2018-4916,CVE-2018-4901,CVE-2018-4915,CVE-2018-4898,CVE-2018-4918|http://www.securityfocus.com/bid/102994|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+383|CVE-2018-4919|http://www.securityfocus.com/bid/103385|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+384|CVE-2018-4920|http://www.securityfocus.com/bid/103383|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+385|CVE-2018-4921|http://www.securityfocus.com/bid/103393|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+386|CVE-2018-4923|http://www.securityfocus.com/bid/103391|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+387|CVE-2018-4924|http://www.securityfocus.com/bid/103395|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+388|CVE-2018-4926,CVE-2018-4925|http://www.securityfocus.com/bid/103712|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+389|CVE-2018-4927|http://www.securityfocus.com/bid/103716|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+390|CVE-2018-4928|http://www.securityfocus.com/bid/103714|VDB Entry,Third Party Advisory|
+391|CVE-2018-4929|http://www.securityfocus.com/bid/103707|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+392|CVE-2018-4930|http://www.securityfocus.com/bid/103706|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+393|CVE-2018-4931|http://www.securityfocus.com/bid/103709|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+394|CVE-2018-4936,CVE-2018-4935,CVE-2018-4934,CVE-2018-4933,CVE-2018-4937,CVE-2018-4932|http://www.securityfocus.com/bid/103708|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+395|CVE-2018-4941,CVE-2018-4938,CVE-2018-4940,CVE-2018-4942,CVE-2018-4939|http://www.securityfocus.com/bid/103718|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+396|CVE-2018-4943|http://www.securityfocus.com/bid/103710|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+397|CVE-2018-4944|http://www.securityfocus.com/bid/104101|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+398|CVE-2018-4994|http://www.securityfocus.com/bid/104102|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+399|CVE-2018-8142|http://www.securityfocus.com/bid/103962|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+400|CVE-2018-7268|http://www.securityfocus.com/archive/1/542024/100/0/threaded||
+401|CVE-2018-8010|http://www.securityfocus.com/bid/104239|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+402|CVE-2018-8012|http://www.securityfocus.com/bid/104253|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+403|CVE-2018-1108|http://www.securityfocus.com/bid/104055|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+404|CVE-2017-2607|http://www.securityfocus.com/bid/95963|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+405|CVE-2018-3639|http://www.securityfocus.com/bid/104232|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+406|CVE-2018-3640|http://www.securityfocus.com/bid/104228|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+407|CVE-2018-6962|http://www.securityfocus.com/bid/104235|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+408|CVE-2018-6963|http://www.securityfocus.com/bid/104237|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+409|CVE-2018-11321|http://www.securityfocus.com/bid/104271|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+410|CVE-2018-11322|http://www.securityfocus.com/bid/104272|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+411|CVE-2018-11323|http://www.securityfocus.com/bid/104276|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+412|CVE-2018-11324|http://www.securityfocus.com/bid/104274|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+413|CVE-2018-11325|http://www.securityfocus.com/bid/104278|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+414|CVE-2018-11326|http://www.securityfocus.com/bid/104270|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+415|CVE-2018-11327|http://www.securityfocus.com/bid/104273|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+416|CVE-2018-11328|http://www.securityfocus.com/bid/104269|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+417|CVE-2018-6378|http://www.securityfocus.com/bid/104268|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+418|CVE-2016-8656|http://www.securityfocus.com/bid/96035|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+419|CVE-2017-2609|http://www.securityfocus.com/bid/95964|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+420|CVE-2017-2617|http://www.securityfocus.com/bid/96036|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+421|CVE-2018-6494|http://www.securityfocus.com/bid/104141|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+422|CVE-2018-6493,CVE-2018-6492|http://www.securityfocus.com/bid/104131|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+423|CVE-2018-11356,CVE-2018-11359,CVE-2018-11358,CVE-2018-11360,CVE-2018-11355,CVE-2018-11354,CVE-2018-11362,CVE-2018-11357,CVE-2018-11361|http://www.securityfocus.com/bid/104308|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+424|CVE-2017-2598|http://www.securityfocus.com/bid/95948|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+425|CVE-2018-1121,CVE-2018-1123,CVE-2018-1122,CVE-2018-1125,CVE-2018-1126,CVE-2018-1124|http://www.securityfocus.com/bid/104214|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+426|CVE-2018-8176|http://www.securityfocus.com/bid/104184|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+427|CVE-2018-10357|http://www.securityfocus.com/bid/104355|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+428|CVE-2018-10428|http://www.securityfocus.com/archive/1/542025/100/0/threaded|Exploit,VDB Entry,Third Party Advisory|
+429|CVE-2018-11410|http://www.securityfocus.com/bid/104324|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+430|CVE-2018-1000300|http://www.securityfocus.com/bid/104207|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+431|CVE-2018-1000301|http://www.securityfocus.com/bid/104225|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+432|CVE-2018-9920|http://www.securityfocus.com/archive/1/542035/100/0/threaded|VDB Entry,Third Party Advisory|
+433|CVE-2018-8013|http://www.securityfocus.com/bid/104252|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+434|CVE-2018-11412|http://www.securityfocus.com/bid/104291|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+435|CVE-2018-11415|http://www.securityfocus.com/bid/104311|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+436|CVE-2017-14187|http://www.securityfocus.com/bid/104312|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+437|CVE-2017-9664|http://www.securityfocus.com/bid/100260|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+438|CVE-2018-5676,CVE-2018-5677,CVE-2018-5680,CVE-2018-5674,CVE-2018-5679,CVE-2018-7407,CVE-2018-5675,CVE-2018-7406,CVE-2018-5678|http://www.securityfocus.com/bid/104300|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+439|CVE-2018-11440|http://www.securityfocus.com/bid/104321|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+440|CVE-2018-1133,CVE-2018-1136,CVE-2018-1137,CVE-2018-1135,CVE-2018-1134|http://www.securityfocus.com/bid/104307|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+441|CVE-2018-6664|http://www.securityfocus.com/bid/104299|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+442|CVE-2017-1752|http://www.securityfocus.com/bid/104289|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+443|CVE-2018-11469|http://www.securityfocus.com/bid/104347|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+444|CVE-2018-1467|http://www.securityfocus.com/bid/104290|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+445|CVE-2017-9641|http://www.securityfocus.com/bid/99540|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+446|CVE-2017-14185|http://www.securityfocus.com/bid/104288|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+447|CVE-2018-8864,CVE-2018-8862|http://www.securityfocus.com/bid/103721|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+448|CVE-2018-8871|http://www.securityfocus.com/bid/104216|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+449|CVE-2018-11489|http://www.securityfocus.com/bid/104341|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+450|CVE-2018-11490|http://www.securityfocus.com/bid/104327|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+451|CVE-2018-11508|http://www.securityfocus.com/bid/104292|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+452|CVE-2018-11516|http://www.securityfocus.com/bid/104293|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+453|CVE-2016-7076|http://www.securityfocus.com/bid/95778|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+454|CVE-2017-1768|http://www.securityfocus.com/bid/104493|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+455|CVE-2018-5241|http://www.securityfocus.com/bid/104282|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com
+456|CVE-2018-1242,CVE-2018-1241,CVE-2018-1235|http://www.securityfocus.com/bid/104246|VDB Entry,Third Party Advisory|Reportedly these issues are fixed, however Symantec has not confirmed this. Please contact the vendor for more information.
+457|CVE-2018-11027|http://www.securityfocus.com/archive/1/542040/100/0/threaded||
+458|CVE-2018-11392|http://www.securityfocus.com/archive/1/542038/100/0/threaded||
+459|CVE-2018-6964|http://www.securityfocus.com/bid/104315|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+460|CVE-2012-4428|http://www.securityfocus.com/bid/55540|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+461|CVE-2012-4526,CVE-2012-4525|http://www.securityfocus.com/bid/55710|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+462|CVE-2012-4576|http://www.securityfocus.com/bid/56654|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+463|CVE-2013-4410|http://www.securityfocus.com/bid/63022|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+464|CVE-2013-2228|http://www.securityfocus.com/bid/60868|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+465|CVE-2013-4411|http://www.securityfocus.com/bid/63023|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+466|CVE-2016-1000104|http://www.securityfocus.com/bid/91822||Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+467|CVE-2013-2738,CVE-2013-2745|https://www.securityfocus.com/archive/1/527299/30/0|VDB Entry,Third Party Advisory|
+468|CVE-2012-1104|https://www.securityfocus.com/bid/52279|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+469|CVE-2012-1105|https://www.securityfocus.com/bid/52280|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+470|CVE-2012-1114,CVE-2012-1115|http://www.securityfocus.com/bid/52255|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+471|CVE-2012-1615|http://www.securityfocus.com/bid/52884|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+472|CVE-2012-2092|http://www.securityfocus.com/bid/52971|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+473|CVE-2012-2130|http://www.securityfocus.com/bid/53610|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.
+474|CVE-2014-0242|http://www.securityfocus.com/bid/67534|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+475|CVE-2013-0342,CVE-2013-0294|http://www.securityfocus.com/bid/57984|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+476|CVE-2013-0293|http://www.securityfocus.com/bid/58227|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+477|CVE-2013-2159|http://www.securityfocus.com/bid/60415|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+478|CVE-2013-2166|http://www.securityfocus.com/bid/60684|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+479|CVE-2013-2167|http://www.securityfocus.com/bid/60680|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+480|CVE-2013-2183|https://www.securityfocus.com/bid/60589|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+481|CVE-2013-4133|http://www.securityfocus.com/bid/61201|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+482|CVE-2013-4184|http://www.securityfocus.com/bid/61534|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+483|CVE-2013-4158|http://www.securityfocus.com/bid/61371|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+484|CVE-2013-4303|http://www.securityfocus.com/bid/62194|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+485|CVE-2013-5978|http://www.securityfocus.com/bid/62977|VDB Entry,Third Party Advisory|Reportedly these issues are fixed, however Symantec has not confirmed this. Please contact the vendor for more information.
+486|CVE-2014-1867|http://www.securityfocus.com/bid/65212|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+487|CVE-2014-2387|http://www.securityfocus.com/bid/66214|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+488|CVE-2014-4913|http://www.securityfocus.com/bid/66971|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+489|CVE-2014-8650|http://www.securityfocus.com/bid/70909|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+490|CVE-2015-8313|http://www.securityfocus.com/archive/1/537012/100/0/threaded|VDB Entry,Third Party Advisory|
+491|CVE-2015-8313|http://www.securityfocus.com/bid/78327|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+492|CVE-2016-1000229|http://www.securityfocus.com/bid/97580|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+493|CVE-2012-6094|http://www.securityfocus.com/bid/57158|VDB Entry,Third Party Advisory|Updates are available. Please see the references for more information.<LINE BREAK><LINE BREAK>			Mandriva Business Server  1 X86 64<LINE BREAK> <LINE BREAK>					Mandriva  cups-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/<LINE BREAK><LINE BREAK>					Mandriva  cups-common-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/<LINE BREAK><LINE BREAK>					Mandriva  cups-serial-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/<LINE BREAK><LINE BREAK>					Mandriva  lib64cups2-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/<LINE BREAK><LINE BREAK>					Mandriva  lib64cups2-devel-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/<LINE BREAK><LINE BREAK>					Mandriva  php-cups-1.5.4-1.1.mbs1.x86_64.rpm<LINE BREAK>http://www.mandriva.com/en/downloads/
+494|CVE-2012-4420|http://www.securityfocus.com/bid/55538|VDB Entry,Third Party Advisory|Currently we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+495|CVE-2013-2011|http://www.securityfocus.com/bid/59473|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+496|CVE-2016-1000029,CVE-2016-1000028|http://www.securityfocus.com/bid/92134|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+497|CVE-2013-4621|http://www.securityfocus.com/bid/60761|VDB Entry,Third Party Advisory|Updates are available. Please see the references or vendor advisory for more information.
+498|CVE-2013-4692|http://www.securityfocus.com/bid/60860|VDB Entry,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or if you are aware of more recent information, please mail us at: vuldb@securityfocus.com.
+499|CVE-2013-4763|https://www.securityfocus.com/bid/61280|VDB Entry,Broken Link,Third Party Advisory|Currently, we are not aware of any vendor-supplied patches. If you feel we are in error or are aware of more recent information, please mail us at: vuldb@securityfocus.com.

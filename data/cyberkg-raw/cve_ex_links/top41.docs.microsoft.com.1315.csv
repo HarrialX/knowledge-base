@@ -1,0 +1,1316 @@
+|cve-ids|ex_url|types
+0|CVE-2006-1540,CVE-2006-1318,CVE-2006-2389,CVE-2006-1316|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-038|
+1|CVE-2006-0033,CVE-2006-0007|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-039|
+2|CVE-2006-0026|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-034|
+3|CVE-2006-1300|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-033|
+4|CVE-2006-3059,CVE-2006-1308,CVE-2006-1306,CVE-2006-2388,CVE-2006-1309,CVE-2006-1302,CVE-2006-1304,CVE-2006-1301|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-037|
+5|CVE-2006-1315,CVE-2006-1314|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-035|
+6|CVE-2006-2372|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-036|
+7|CVE-2006-3357|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-046|
+8|CVE-2006-2387,CVE-2006-3875,CVE-2006-3431,CVE-2006-3867|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-059|
+9|CVE-2006-3311,CVE-2006-3014,CVE-2006-4640,CVE-2006-3588,CVE-2006-3587|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-069|
+10|CVE-2006-3590,CVE-2006-3449|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-048|
+11|CVE-2006-3730|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-057|
+12|CVE-2006-4696,CVE-2006-3942|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-063|
+13|CVE-2006-3438,CVE-2006-3086|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-050|
+14|CVE-2006-3439|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-040|
+15|CVE-2006-3440,CVE-2006-3441|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-041|
+16|CVE-2006-3443,CVE-2006-3648|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-051|
+17|CVE-2006-3444|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-049|
+18|CVE-2006-3451,CVE-2006-3873,CVE-2006-3640,CVE-2006-3639,CVE-2006-3637,CVE-2006-3450,CVE-2006-3638,CVE-2006-3280,CVE-2004-1166|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-042|
+19|CVE-2006-3643|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-044|
+20|CVE-2006-3649|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-047|
+21|CVE-2006-4777,CVE-2006-3890,CVE-2006-4446,CVE-2006-5884,CVE-2006-4687,CVE-2006-5198|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-067|
+22|CVE-2006-0001|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-054|
+23|CVE-2006-0032|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-053|
+24|CVE-2006-3442|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-052|
+25|CVE-2006-3651,CVE-2006-3647,CVE-2006-4693,CVE-2006-4534|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-060|
+26|CVE-2006-3876,CVE-2006-3435,CVE-2006-4694,CVE-2006-3877|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-058|
+27|CVE-2006-4868|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-055|
+28|CVE-2006-3650,CVE-2006-3868,CVE-2006-3864,CVE-2006-3434|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-062|
+29|CVE-2006-3436|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-056|
+30|CVE-2006-3877,CVE-2007-0671|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-015|
+31|CVE-2006-4685,CVE-2006-4686|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-061|
+32|CVE-2006-4692|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-065|
+33|CVE-2006-5559|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-009|
+34|CVE-2006-3445|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-068|
+35|CVE-2006-4689,CVE-2006-4688|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-066|
+36|CVE-2006-4691|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-070|
+37|CVE-2006-4704|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-073|
+38|CVE-2006-5745|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-071|
+39|CVE-2006-5758,CVE-2007-1215,CVE-2007-0038,CVE-2006-5586,CVE-2007-1213,CVE-2007-1212,CVE-2007-1211|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-017|
+40|CVE-2007-0946,CVE-2006-6121,CVE-2007-2221,CVE-2007-0323,CVE-2007-0944,CVE-2007-0942,CVE-2007-0947,CVE-2007-0945|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-027|
+41|CVE-2006-6133|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-052|
+42|CVE-2006-4702,CVE-2006-6134|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-078|
+43|CVE-2007-0033,CVE-2006-1305,CVE-2007-0034|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-003|
+44|CVE-2006-2386|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-076|
+45|CVE-2007-1201,CVE-2006-4695|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-017|
+46|CVE-2006-5574|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-001|
+47|CVE-2006-5581,CVE-2006-5577,CVE-2006-5578,CVE-2006-5579|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-072|
+48|CVE-2006-5583|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-074|
+49|CVE-2006-5584|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-077|
+50|CVE-2006-5585|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-075|
+51|CVE-2007-0208,CVE-2006-5994,CVE-2007-0515,CVE-2007-0209,CVE-2006-6456|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-014|
+52|CVE-2007-1209,CVE-2006-6797,CVE-2006-6696|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-021|
+53|CVE-2004-0568|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-043|
+54|CVE-2004-0901,CVE-2004-0571|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-041|
+55|CVE-2004-0892|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-039|
+56|CVE-2004-0894,CVE-2004-0893|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-044|
+57|CVE-2004-0897|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-003|
+58|CVE-2004-0899,CVE-2004-0900|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-042|
+59|CVE-2004-1080,CVE-2004-0567|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-045|
+60|CVE-2004-0848|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-005|
+61|CVE-2005-0558,CVE-2004-0963|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-023|
+62|CVE-2004-0839,CVE-2004-0844,CVE-2004-0845,CVE-2004-0979,CVE-2004-0216,CVE-2004-0978,CVE-2004-0841,CVE-2004-0843,CVE-2004-0842,CVE-2004-0727|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038|Patch,Vendor Advisory
+63|CVE-2004-0230,CVE-2005-0048,CVE-2004-0790,CVE-2005-0688,CVE-2004-1060|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-019|
+64|CVE-2005-0688,CVE-2004-0230,CVE-2004-0790|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-064|
+65|CVE-2005-0416,CVE-2004-1305,CVE-2004-1049|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-002|
+66|CVE-2005-0555,CVE-2005-0554,CVE-2005-0553|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-020|
+67|CVE-2005-0562|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-022|
+68|CVE-2005-0044,CVE-2005-0047|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-012|
+69|CVE-2005-0045|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-011|
+70|CVE-2005-0049|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-006|
+71|CVE-2005-0050|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-010|
+72|CVE-2005-0051|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-007|
+73|CVE-2005-0053|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-008|
+74|CVE-2005-0055,CVE-2005-0056,CVE-2005-0053,CVE-2005-0054|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-014|
+75|CVE-2005-0057|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-015|
+76|CVE-2005-0059|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-017|
+77|CVE-2005-0551,CVE-2005-0060,CVE-2005-0061,CVE-2005-0550|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-018|
+78|CVE-2005-0063|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-016|
+79|CVE-2005-0560|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-021|Patch,Vendor Advisory
+80|CVE-2005-2123,CVE-2005-2124,CVE-2005-0803|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-053|
+81|CVE-2005-1191|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-024|
+82|CVE-2012-5361,CVE-2012-5360,CVE-2012-5359|https://docs.microsoft.com/en-us/security-updates/VulnerabilityResearchAdvisories/2012/msvr12-017|Mitigation,Third Party Advisory
+83|CVE-2013-2830|https://docs.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/2013/msvr13-005|Patch,Vendor Advisory,Third Party Advisory
+84|CVE-2013-3552|https://docs.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/2013/msvr13-006|Third Party Advisory
+85|CVE-2013-3553|https://docs.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/2013/msvr13-007|Third Party Advisory
+86|CVE-2014-2797,CVE-2014-2787,CVE-2014-2785,CVE-2014-2798,CVE-2014-1763,CVE-2014-2806,CVE-2014-2803,CVE-2014-2802,CVE-2014-2804,CVE-2014-2813,CVE-2014-1765,CVE-2014-2789,CVE-2014-2794,CVE-2014-2788,CVE-2014-2809,CVE-2014-2800,CVE-2014-2801,CVE-2014-4066,CVE-2014-2792,CVE-2014-2783,CVE-2014-2791,CVE-2014-2786,CVE-2014-2795,CVE-2014-2807,CVE-2014-2790|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-037|Patch,Vendor Advisory
+87|CVE-2014-0312,CVE-2014-0299,CVE-2014-0303,CVE-2014-0314,CVE-2014-0321,CVE-2014-0305,CVE-2014-0302,CVE-2014-0322,CVE-2014-0297,CVE-2014-0311,CVE-2014-0313,CVE-2014-0304,CVE-2014-0324,CVE-2014-0309,CVE-2014-0307,CVE-2014-0298,CVE-2014-4112,CVE-2014-0308,CVE-2014-0306|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-012|Patch,Vendor Advisory
+88|CVE-2014-4050,CVE-2014-2820,CVE-2014-2825,CVE-2014-2823,CVE-2014-2822,CVE-2014-4058,CVE-2014-4145,CVE-2014-2817,CVE-2014-2826,CVE-2014-4051,CVE-2014-2784,CVE-2014-4067,CVE-2014-2811,CVE-2014-2821,CVE-2014-2796,CVE-2014-4056,CVE-2014-2810,CVE-2014-4057,CVE-2014-2808,CVE-2014-6354,CVE-2014-2824,CVE-2014-4052,CVE-2014-4063,CVE-2014-2818,CVE-2014-4055,CVE-2014-8985,CVE-2014-2819,CVE-2014-2827,CVE-2014-2774|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-051|Patch,Vendor Advisory
+89|CVE-2014-2781|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-039|Patch,Vendor Advisory
+90|CVE-2014-0325,CVE-2014-1753,CVE-2014-1755,CVE-2014-1752,CVE-2014-1760,CVE-2014-1751|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-018|
+91|CVE-2014-4060|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-043|Patch,Vendor Advisory
+92|CVE-2014-1820,CVE-2014-4061|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-044|
+93|CVE-2014-4062|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-046|
+94|CVE-2014-1819,CVE-2014-4064,CVE-2014-0318|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-045|Patch,Vendor Advisory
+95|CVE-2014-2815|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-048|
+96|CVE-2014-2816|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-050|
+97|CVE-2014-0316|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-047|Patch,Vendor Advisory
+98|CVE-2014-1814|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-049|Patch,Vendor Advisory
+99|CVE-2014-4109,CVE-2014-4081,CVE-2014-4097,CVE-2014-4098,CVE-2014-4091,CVE-2014-4090,CVE-2014-4103,CVE-2013-7331,CVE-2014-4059,CVE-2014-4084,CVE-2014-4102,CVE-2014-4106,CVE-2014-4079,CVE-2014-4099,CVE-2014-2799,CVE-2014-4080,CVE-2014-4104,CVE-2014-4088,CVE-2014-4083,CVE-2014-4111,CVE-2014-4107,CVE-2014-4087,CVE-2014-4065,CVE-2014-4092,CVE-2014-4096,CVE-2014-4082,CVE-2014-4089,CVE-2014-4085,CVE-2014-4105,CVE-2014-4094,CVE-2014-4108,CVE-2014-4101,CVE-2014-4086,CVE-2014-4110,CVE-2014-4093,CVE-2014-4095,CVE-2014-4100|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-052|Patch,Vendor Advisory
+100|CVE-2014-4071,CVE-2014-4070,CVE-2014-4068|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-055|
+101|CVE-2014-4072|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-053|
+102|CVE-2014-4074|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-054|Patch,Vendor Advisory
+103|CVE-2014-4148,CVE-2014-4113|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-058|
+104|CVE-2014-4114|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-060|
+105|CVE-2014-4073,CVE-2014-4121,CVE-2014-4122|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-057|
+106|CVE-2014-4075|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-059|
+107|CVE-2014-4138,CVE-2014-4126,CVE-2014-4127,CVE-2014-4141,CVE-2014-4128,CVE-2014-4132,CVE-2014-4124,CVE-2014-4137,CVE-2014-4129,CVE-2014-4123,CVE-2014-4130,CVE-2014-4133,CVE-2014-4134,CVE-2014-4140|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-056|
+108|CVE-2014-4115|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-063|
+109|CVE-2014-4117|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-061|
+110|CVE-2014-6352,CVE-2014-6332|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-064|Patch,Vendor Advisory
+111|CVE-2014-4076|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-070|
+112|CVE-2014-4077|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-078|
+113|CVE-2014-4078|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-076|
+114|CVE-2014-6347,CVE-2014-6348,CVE-2014-6345,CVE-2014-6342,CVE-2014-6346,CVE-2014-6323,CVE-2014-6343,CVE-2014-4143,CVE-2014-6350,CVE-2014-6344,CVE-2014-6340,CVE-2014-6337,CVE-2014-6339,CVE-2014-6353,CVE-2014-6349,CVE-2014-6341,CVE-2014-6351|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-065|
+115|CVE-2014-4149|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-072|
+116|CVE-2014-4116|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-073|
+117|CVE-2014-4118|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-067|Patch,Vendor Advisory
+118|CVE-2014-6317|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-079|Patch,Vendor Advisory
+119|CVE-2014-6318|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-074|Patch,Vendor Advisory
+120|CVE-2014-6321|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-066|Patch,Vendor Advisory
+121|CVE-2014-6322|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-071|Patch,Vendor Advisory
+122|CVE-2014-6333,CVE-2014-6335,CVE-2014-6334|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-069|
+123|CVE-2014-6324|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-068|
+124|CVE-2014-6331|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-077|
+125|CVE-2014-6336,CVE-2014-6325,CVE-2014-6326,CVE-2014-6319|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-075|
+126|CVE-2014-6355|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-085|
+127|CVE-2014-6356,CVE-2014-6357|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-081|
+128|CVE-2014-6361,CVE-2014-6360|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-083|
+129|CVE-2014-6330,CVE-2014-6374,CVE-2014-6363,CVE-2014-6375,CVE-2014-6328,CVE-2014-6327,CVE-2014-6368,CVE-2014-6365,CVE-2014-6366,CVE-2014-6376,CVE-2014-6369,CVE-2014-6329,CVE-2014-8966,CVE-2014-6373|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-080|
+130|CVE-2014-6363|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-084|
+131|CVE-2014-6364|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-082|
+132|CVE-2013-0004,CVE-2013-0002,CVE-2013-0001,CVE-2013-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-004|
+133|CVE-2013-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-007|
+134|CVE-2013-0007,CVE-2013-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-002|
+135|CVE-2013-0008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-005|
+136|CVE-2013-0010,CVE-2013-0009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-003|
+137|CVE-2013-0011|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-001|
+138|CVE-2013-0013|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-006|
+139|CVE-2013-0418,CVE-2013-0393|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-012|
+140|CVE-2013-0026,CVE-2013-0020,CVE-2013-0024,CVE-2013-0015,CVE-2013-0022,CVE-2013-0019,CVE-2013-0025,CVE-2013-0023,CVE-2013-0027,CVE-2013-0021,CVE-2013-0029,CVE-2013-0018,CVE-2013-0028|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-009|
+141|CVE-2013-0030|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-010|
+142|CVE-2013-0073|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-015|
+143|CVE-2013-0075|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-018|
+144|CVE-2013-0076|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-019|
+145|CVE-2013-0077|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-011|
+146|CVE-2009-0081,CVE-2009-0082,CVE-2009-0083|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-006|
+147|CVE-2009-0085|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-007|
+148|CVE-2009-0093,CVE-2009-0234,CVE-2009-0094,CVE-2009-0233|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-008|
+149|CVE-2009-0077,CVE-2009-0237|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-016|
+150|CVE-2008-1436,CVE-2009-0079,CVE-2009-0080,CVE-2009-0078|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-012|
+151|CVE-2009-0084|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-011|
+152|CVE-2009-0089,CVE-2009-0086,CVE-2009-0550|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-013|
+153|CVE-2008-4841,CVE-2009-0235,CVE-2009-0088,CVE-2009-0087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-010|
+154|CVE-2009-0100,CVE-2009-0238|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-009|
+155|CVE-2009-0553,CVE-2009-0554,CVE-2009-0552,CVE-2009-0551,CVE-2009-0550,CVE-2008-2540|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-014|
+156|CVE-2009-1130,CVE-2009-0222,CVE-2009-1128,CVE-2009-0225,CVE-2009-0556,CVE-2009-1131,CVE-2009-0226,CVE-2009-0220,CVE-2009-0221,CVE-2009-0224,CVE-2009-1129,CVE-2009-0223,CVE-2009-0227,CVE-2009-1137|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-017|
+157|CVE-2009-1537,CVE-2009-1538,CVE-2009-1539|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-028|
+158|CVE-2009-0230,CVE-2009-0228,CVE-2009-0229|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-022|
+159|CVE-2009-0239|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-023|
+160|CVE-2009-1134,CVE-2009-0549,CVE-2009-0557,CVE-2009-0560,CVE-2009-0561,CVE-2009-0558,CVE-2009-0559|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-021|
+161|CVE-2009-0563,CVE-2009-0565|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-027|
+162|CVE-2009-0568|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-026|
+163|CVE-2009-1122,CVE-2009-1535|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-020|Patch,Vendor Advisory
+164|CVE-2009-1123,CVE-2009-1126,CVE-2009-1125,CVE-2009-1124|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-025|
+165|CVE-2009-1139,CVE-2009-1138|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-018|
+166|CVE-2007-3091,CVE-2009-1528,CVE-2009-1532,CVE-2009-1531,CVE-2009-1141,CVE-2009-1140,CVE-2009-1529,CVE-2009-1530|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-019|
+167|CVE-2009-1533|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-024|
+168|CVE-2008-0015|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-032|
+169|CVE-2009-2493,CVE-2009-2494,CVE-2008-0020,CVE-2008-0015,CVE-2009-0901|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-037|
+170|CVE-2009-0231,CVE-2009-0232|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-029|
+171|CVE-2009-0566|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-030|
+172|CVE-2009-2493,CVE-2009-0901,CVE-2009-2495|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-035|
+173|CVE-2009-2493,CVE-2009-0901,CVE-2009-2495|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-060|
+174|CVE-2009-1135|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-031|
+175|CVE-2009-1534,CVE-2009-2496,CVE-2009-0562,CVE-2009-1136|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-043|
+176|CVE-2009-1542|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-033|
+177|CVE-2009-1919,CVE-2009-1918,CVE-2009-1917|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-034|
+178|CVE-2009-2493|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-055|
+179|CVE-2009-2493,CVE-2009-3671,CVE-2009-3672,CVE-2009-3674,CVE-2009-3673|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-072|
+180|CVE-2009-2570,CVE-2009-3735,CVE-2010-0252|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-008|
+181|CVE-2009-0217|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-041|
+182|CVE-2009-1929,CVE-2009-1133|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-044|
+183|CVE-2009-1536|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-036|
+184|CVE-2009-1544|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-041|
+185|CVE-2009-1545,CVE-2009-1546|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-038|
+186|CVE-2009-1922|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-040|
+187|CVE-2009-1924,CVE-2009-1923|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-039|
+188|CVE-2009-1930|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-042|
+189|CVE-2009-2521,CVE-2009-3023|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-053|Patch,Vendor Advisory
+190|CVE-2009-1132|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-049|
+191|CVE-2009-1920|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-045|
+192|CVE-2009-1926,CVE-2008-4609,CVE-2009-1925|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-048|
+193|CVE-2009-2499,CVE-2009-2498|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-047|
+194|CVE-2009-2519|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-046|
+195|CVE-2009-2532,CVE-2009-3103,CVE-2009-2526|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-050|
+196|CVE-2009-0090,CVE-2009-2497,CVE-2009-0091|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-061|
+197|CVE-2009-0555,CVE-2009-2525|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-051|Patch,Vendor Advisory
+198|CVE-2009-2530,CVE-2009-2531,CVE-2009-2529,CVE-2009-1547|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-054|
+199|CVE-2009-2502,CVE-2009-2503,CVE-2009-2518,CVE-2009-2501,CVE-2009-2504,CVE-2009-3126,CVE-2009-2528,CVE-2009-2500|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-062|
+200|CVE-2009-2507|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-057|
+201|CVE-2009-2511,CVE-2009-2510|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-056|
+202|CVE-2009-2515,CVE-2009-2516,CVE-2009-2517|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-058|
+203|CVE-2009-2524|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-059|
+204|CVE-2009-2527|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-052|
+205|CVE-2009-2513,CVE-2009-1127,CVE-2009-2514|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-065|
+206|CVE-2009-1928|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-066|
+207|CVE-2009-2512|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-063|
+208|CVE-2009-2523|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-064|
+209|CVE-2009-3127,CVE-2009-3132,CVE-2009-3133,CVE-2009-3130,CVE-2009-3128,CVE-2009-3129,CVE-2009-3134,CVE-2009-3131|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-067|
+210|CVE-2009-3135|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-068|
+211|CVE-2010-2566,CVE-2009-3555|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-049|
+212|CVE-2010-0476,CVE-2010-0270,CVE-2010-0477,CVE-2010-0269,CVE-2009-3676|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-020|
+213|CVE-2010-0248,CVE-2009-4074,CVE-2010-0244,CVE-2010-0247,CVE-2010-0246,CVE-2010-0245,CVE-2010-0249,CVE-2010-0027|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-002|
+214|CVE-2009-0102|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-074|
+215|CVE-2009-2505,CVE-2009-3677|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-071|
+216|CVE-2009-2506|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-073|
+217|CVE-2009-2508,CVE-2009-2509|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-070|
+218|CVE-2009-3675|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-069|
+219|CVE-2007-0066,CVE-2007-0069|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-001|
+220|CVE-2007-5352|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-002|
+221|CVE-2008-0112,CVE-2008-0117,CVE-2008-0111,CVE-2008-0081,CVE-2008-0114,CVE-2008-0116,CVE-2008-0115|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-014|
+222|CVE-2016-0198,CVE-2016-0126,CVE-2016-0183,CVE-2016-0140|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-054|
+223|CVE-2016-0149|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-065|
+224|CVE-2016-0152|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-058|
+225|CVE-2016-0169,CVE-2016-0170,CVE-2016-0168,CVE-2016-0184,CVE-2016-0195|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-055|
+226|CVE-2016-0175,CVE-2016-0174,CVE-2016-0173,CVE-2016-0171,CVE-2016-0197,CVE-2016-0196,CVE-2016-0176|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-062|
+227|CVE-2016-0178|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-061|
+228|CVE-2016-0179|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-057|
+229|CVE-2016-0180|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-060|
+230|CVE-2016-0181|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-066|
+231|CVE-2016-0182|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-056|
+232|CVE-2016-0185|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-059|
+233|CVE-2016-0192,CVE-2016-0193,CVE-2016-0191,CVE-2016-0186|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-052|
+234|CVE-2016-0189,CVE-2016-0194,CVE-2016-0187,CVE-2016-0192,CVE-2016-0188|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-051|
+235|CVE-2016-0189,CVE-2016-0187|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-053|
+236|CVE-2016-0190|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-067|
+237|CVE-2016-1108,CVE-2016-1099,CVE-2016-1109,CVE-2016-4109,CVE-2016-1102,CVE-2016-4112,CVE-2016-4116,CVE-2016-1107,CVE-2016-4115,CVE-2016-4113,CVE-2016-1096,CVE-2016-1103,CVE-2016-1101,CVE-2016-4110,CVE-2016-4108,CVE-2016-1098,CVE-2016-1104,CVE-2016-1100,CVE-2016-1110,CVE-2016-1097,CVE-2016-4111,CVE-2016-4114,CVE-2016-1105,CVE-2016-1106|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-064|
+238|CVE-2016-3235,CVE-2016-3233,CVE-2016-3234,CVE-2016-0025|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-070|
+239|CVE-2016-0028|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-079|
+240|CVE-2016-3205,CVE-2016-3210,CVE-2016-3212,CVE-2016-3202,CVE-2016-0200,CVE-2016-3206,CVE-2016-3207,CVE-2016-3213,CVE-2016-3211,CVE-2016-0199|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-063|
+241|CVE-2016-3215,CVE-2016-3214,CVE-2016-3202,CVE-2016-3222,CVE-2016-3203,CVE-2016-3198,CVE-2016-3199,CVE-2016-3201|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-068|Patch,Vendor Advisory
+242|CVE-2016-3215,CVE-2016-3201,CVE-2016-3203|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-080|Patch,Vendor Advisory
+243|CVE-2016-3206,CVE-2016-3205,CVE-2016-3207|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-069|
+244|CVE-2016-3213,CVE-2016-3299,CVE-2016-3236|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-077|
+245|CVE-2016-3220,CVE-2016-3219,CVE-2016-3216|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-074|
+246|CVE-2016-3232,CVE-2016-3221,CVE-2016-3218|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-073|
+247|CVE-2016-3223|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-072|
+248|CVE-2016-3225|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-075|
+249|CVE-2016-3226|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-081|
+250|CVE-2016-3227|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-071|
+251|CVE-2016-3228|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-076|
+252|CVE-2016-3230|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-082|
+253|CVE-2016-3231|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-078|
+254|CVE-2016-4130,CVE-2016-4132,CVE-2016-4137,CVE-2016-4135,CVE-2016-4129,CVE-2016-4149,CVE-2016-4150,CVE-2016-4139,CVE-2016-4154,CVE-2016-4166,CVE-2016-4127,CVE-2016-4131,CVE-2016-4144,CVE-2016-4141,CVE-2016-4134,CVE-2016-4145,CVE-2016-4125,CVE-2016-4153,CVE-2016-4140,CVE-2016-4123,CVE-2016-4156,CVE-2016-4133,CVE-2016-4136,CVE-2016-4146,CVE-2016-4147,CVE-2016-4148,CVE-2016-4152,CVE-2016-4155,CVE-2016-4151,CVE-2016-4142,CVE-2016-4124,CVE-2016-4138,CVE-2016-4126,CVE-2016-4143,CVE-2016-4128,CVE-2016-4122|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-083|
+255|CVE-2016-3273,CVE-2016-3241,CVE-2016-3204,CVE-2016-3259,CVE-2016-3248,CVE-2016-3243,CVE-2016-3274,CVE-2016-3277,CVE-2016-3264,CVE-2016-3276,CVE-2016-3245,CVE-2016-3242,CVE-2016-3261,CVE-2016-3240,CVE-2016-3260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-084|
+256|CVE-2016-3204|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-086|
+257|CVE-2016-3238,CVE-2016-3239|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-087|
+258|CVE-2016-3265,CVE-2016-3273,CVE-2016-3269,CVE-2016-3246,CVE-2016-3259,CVE-2016-3244,CVE-2016-3248,CVE-2016-3274,CVE-2016-3277,CVE-2016-3264,CVE-2016-3271,CVE-2016-3276,CVE-2016-3260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-085|
+259|CVE-2016-3252,CVE-2016-3254,CVE-2016-3286,CVE-2016-3249,CVE-2016-3251,CVE-2016-3250|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-090|
+260|CVE-2016-3255|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-091|
+261|CVE-2016-3256|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-089|
+262|CVE-2016-3258,CVE-2016-3272|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-092|
+263|CVE-2016-3279,CVE-2016-3280,CVE-2016-3278,CVE-2016-3284,CVE-2016-3283,CVE-2016-3281,CVE-2016-3282|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-088|
+264|CVE-2016-3287|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-094|
+265|CVE-2016-4231,CVE-2016-4177,CVE-2016-4182,CVE-2016-4225,CVE-2016-4232,CVE-2016-4178,CVE-2016-4249,CVE-2016-4227,CVE-2016-4229,CVE-2016-4248,CVE-2016-4247,CVE-2016-4224,CVE-2016-4223,CVE-2016-4188,CVE-2016-4176,CVE-2016-4175,CVE-2016-4228,CVE-2016-4174,CVE-2016-4230,CVE-2016-4179,CVE-2016-4173,CVE-2016-4222,CVE-2016-4185,CVE-2016-4226|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-093|
+266|CVE-2016-3300,CVE-2016-3237|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-101|Patch,Vendor Advisory
+267|CVE-2016-3329,CVE-2016-3288,CVE-2016-3290,CVE-2016-3327,CVE-2016-3322,CVE-2016-3289,CVE-2016-3321,CVE-2016-3293,CVE-2016-3326|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-095|
+268|CVE-2016-3329,CVE-2016-3293,CVE-2016-3327,CVE-2016-3296,CVE-2016-3322,CVE-2016-3289,CVE-2016-3319,CVE-2016-3326|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-096|
+269|CVE-2016-3304,CVE-2016-3303,CVE-2016-3301|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-097|
+270|CVE-2016-3309,CVE-2016-3311,CVE-2016-3308,CVE-2016-3310|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-098|
+271|CVE-2016-3312|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-103|
+272|CVE-2016-3315,CVE-2016-3313,CVE-2016-3317,CVE-2016-3318,CVE-2016-3316|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-099|
+273|CVE-2016-3319|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-102|
+274|CVE-2016-3320|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-100|Patch,Vendor Advisory
+275|CVE-2016-3360,CVE-2016-3363,CVE-2016-3359,CVE-2016-0137,CVE-2016-3364,CVE-2016-3358,CVE-2016-3357,CVE-2016-3361,CVE-2016-3381,CVE-2016-0141,CVE-2016-3362,CVE-2016-3366,CVE-2016-3365|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-107|
+276|CVE-2016-3379,CVE-2016-3378,CVE-2016-0138|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-108|
+277|CVE-2016-3353,CVE-2016-3297,CVE-2016-3295,CVE-2016-3291,CVE-2016-3247,CVE-2016-3292,CVE-2016-3325,CVE-2016-3375,CVE-2016-3351,CVE-2016-3324|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-104|
+278|CVE-2016-3294,CVE-2016-3297,CVE-2016-3295,CVE-2016-3350,CVE-2016-3370,CVE-2016-3374,CVE-2016-3377,CVE-2016-3291,CVE-2016-3247,CVE-2016-3325,CVE-2016-3330,CVE-2016-3351|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-105|
+279|CVE-2016-3302|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-112|Patch,Vendor Advisory
+280|CVE-2016-3371,CVE-2016-3373,CVE-2016-3372,CVE-2016-3305,CVE-2016-3306|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-111|Patch,Vendor Advisory
+281|CVE-2016-3344|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-113|
+282|CVE-2016-3345|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-114|
+283|CVE-2016-3346,CVE-2016-3352,CVE-2016-3369,CVE-2016-3368|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-110|
+284|CVE-2016-3349,CVE-2016-3356,CVE-2016-3355,CVE-2016-3348,CVE-2016-3354|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-106|
+285|CVE-2016-3367|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-109|
+286|CVE-2016-3374,CVE-2016-3370|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-115|
+287|CVE-2016-3375|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-116|
+288|CVE-2016-0075,CVE-2016-0073,CVE-2016-0070,CVE-2016-0079|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-124|
+289|CVE-2016-0142|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-122|
+290|CVE-2016-7182,CVE-2016-3270,CVE-2016-3262,CVE-2016-3209,CVE-2016-3263,CVE-2016-3393,CVE-2016-3396|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-120|
+291|CVE-2016-7185,CVE-2016-7211,CVE-2016-3376,CVE-2016-3266,CVE-2016-3341|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-123|
+292|CVE-2016-3390,CVE-2016-3331,CVE-2016-3382,CVE-2016-3387,CVE-2016-3391,CVE-2016-3385,CVE-2016-3384,CVE-2016-3267,CVE-2016-3383,CVE-2016-3298,CVE-2016-3388|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-118|
+293|CVE-2016-3390,CVE-2016-3331,CVE-2016-7190,CVE-2016-3382,CVE-2016-3387,CVE-2016-3389,CVE-2016-7189,CVE-2016-3386,CVE-2016-3392,CVE-2016-3391,CVE-2016-7194,CVE-2016-3267,CVE-2016-3388|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-119|
+294|CVE-2016-3298|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-126|
+295|CVE-2016-7188|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-125|
+296|CVE-2016-7193|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-121|
+297|CVE-2016-7855|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-128|Patch,Vendor Advisory
+298|CVE-2016-7860,CVE-2016-7858,CVE-2016-7861,CVE-2016-7857,CVE-2016-7859,CVE-2016-7862,CVE-2016-7863,CVE-2016-7864,CVE-2016-7865|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-141|Patch,Vendor Advisory
+299|CVE-2016-3333,CVE-2016-3343,CVE-2016-3332,CVE-2016-3342,CVE-2016-3335,CVE-2016-0026,CVE-2016-3340,CVE-2016-3338,CVE-2016-7184,CVE-2016-3334|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-134|
+300|CVE-2016-7227,CVE-2016-7243,CVE-2016-7201,CVE-2016-7198,CVE-2016-7203,CVE-2016-7202,CVE-2016-7195,CVE-2016-7240,CVE-2016-7208,CVE-2016-7239,CVE-2016-7241,CVE-2016-7209,CVE-2016-7196,CVE-2016-7199,CVE-2016-7242,CVE-2016-7200,CVE-2016-7204|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-129|
+301|CVE-2016-7227,CVE-2016-7198,CVE-2016-7195,CVE-2016-7239,CVE-2016-7241,CVE-2016-7196,CVE-2016-7199|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-142|
+302|CVE-2016-7281,CVE-2016-7278,CVE-2016-7283,CVE-2016-7287,CVE-2016-7202,CVE-2016-7279,CVE-2016-7282,CVE-2016-7284|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-144|
+303|CVE-2016-7256,CVE-2016-7217,CVE-2016-7205,CVE-2016-7210|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-132|
+304|CVE-2016-7221,CVE-2016-7222,CVE-2016-7212|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-130|
+305|CVE-2016-7231,CVE-2016-7232,CVE-2016-7236,CVE-2016-7235,CVE-2016-7244,CVE-2016-7229,CVE-2016-7213,CVE-2016-7230,CVE-2016-7233,CVE-2016-7228,CVE-2016-7234,CVE-2016-7245|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-133|
+306|CVE-2016-7218,CVE-2016-7214,CVE-2016-7246,CVE-2016-7255,CVE-2016-7215|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-135|
+307|CVE-2016-7216|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-139|
+308|CVE-2016-7238,CVE-2016-7237,CVE-2016-7220|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-137|
+309|CVE-2016-7226,CVE-2016-7223,CVE-2016-7224,CVE-2016-7225|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-138|
+310|CVE-2016-7247|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-140|
+311|CVE-2016-7248|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-131|
+312|CVE-2016-7249,CVE-2016-7252,CVE-2016-7254,CVE-2016-7251,CVE-2016-7253,CVE-2016-7250|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-136|
+313|CVE-2016-7880,CVE-2016-7881,CVE-2016-7875,CVE-2016-7871,CVE-2016-7869,CVE-2016-7873,CVE-2016-7868,CVE-2016-7876,CVE-2016-7890,CVE-2016-7892,CVE-2016-7874,CVE-2016-7867,CVE-2016-7877,CVE-2016-7870,CVE-2016-7872,CVE-2016-7879,CVE-2016-7878|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-154|
+314|CVE-2016-7281,CVE-2016-7297,CVE-2016-7287,CVE-2016-7288,CVE-2016-7286,CVE-2016-7181,CVE-2016-7206,CVE-2016-7279,CVE-2016-7296,CVE-2016-7282,CVE-2016-7280|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-145|
+315|CVE-2016-7292,CVE-2016-7219|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-149|
+316|CVE-2016-7272,CVE-2016-7273,CVE-2016-7257|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-146|
+317|CVE-2016-7263,CVE-2016-7298,CVE-2016-7268,CVE-2016-7277,CVE-2016-7275,CVE-2016-7262,CVE-2016-7265,CVE-2016-7291,CVE-2016-7264,CVE-2016-7266,CVE-2016-7267,CVE-2016-7276,CVE-2016-7300,CVE-2016-7257,CVE-2016-7290,CVE-2016-7289|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-148|
+318|CVE-2016-7258|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-152|
+319|CVE-2016-7259,CVE-2016-7260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-151|
+320|CVE-2016-7270|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-155|
+321|CVE-2016-7271|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-150|
+322|CVE-2016-7274|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-147|
+323|CVE-2016-7295|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-153|
+324|CVE-2010-0807,CVE-2010-0490,CVE-2010-0489,CVE-2010-0492,CVE-2010-0488,CVE-2010-0267,CVE-2010-0806,CVE-2010-0494,CVE-2010-0491,CVE-2010-0805|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-018|
+325|CVE-2010-0025,CVE-2010-0024|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-024|Patch,Vendor Advisory
+326|CVE-2010-0810,CVE-2010-0481,CVE-2010-0237,CVE-2010-0234,CVE-2010-0482,CVE-2010-0235,CVE-2010-0236,CVE-2010-0238|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-021|
+327|CVE-2010-0256,CVE-2010-0254|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-028|
+328|CVE-2010-0268|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-027|
+329|CVE-2010-0478|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-025|
+330|CVE-2010-0479|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-023|
+331|CVE-2010-0480|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-026|
+332|CVE-2010-0487,CVE-2010-0486|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-019|
+333|CVE-2010-0812|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-029|
+334|CVE-2010-1257,CVE-2010-1264,CVE-2010-0817|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-039|
+335|CVE-2009-3678|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-043|
+336|CVE-2010-0815|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-031|
+337|CVE-2010-0816|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-030|
+338|CVE-2010-0485,CVE-2010-1255,CVE-2010-0484|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-032|
+339|CVE-2010-0811,CVE-2010-0252|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-034|
+340|CVE-2010-0811,CVE-2011-1243,CVE-2010-3973|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-027|
+341|CVE-2010-0819|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-037|
+342|CVE-2010-1253,CVE-2010-1246,CVE-2010-0824,CVE-2010-1251,CVE-2010-0821,CVE-2010-1252,CVE-2010-0822,CVE-2010-1245,CVE-2010-0823,CVE-2010-1250,CVE-2010-1254,CVE-2010-1249,CVE-2010-1247,CVE-2010-1248|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-038|
+343|CVE-2010-1256|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-040|
+344|CVE-2010-1257,CVE-2010-1259,CVE-2010-1262,CVE-2010-1261,CVE-2010-0255,CVE-2010-1260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-035|
+345|CVE-2010-1263|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-036|
+346|CVE-2010-1263|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-083|
+347|CVE-2010-1880,CVE-2010-1879|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-033|
+348|CVE-2010-1885|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-042|
+349|CVE-2010-0266|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-045|
+350|CVE-2010-0814,CVE-2010-1881|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-044|
+351|CVE-2010-2568|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-046|
+352|CVE-2010-0019,CVE-2010-1898|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-060|
+353|CVE-2010-2557,CVE-2010-2560,CVE-2010-2558,CVE-2010-2559,CVE-2010-2556,CVE-2010-1258|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-053|
+354|CVE-2010-1882|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-052|
+355|CVE-2010-1896,CVE-2010-1895,CVE-2010-1894,CVE-2010-1887,CVE-2010-1897|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-048|
+356|CVE-2010-1888,CVE-2010-1889,CVE-2010-1890|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-047|
+357|CVE-2010-1893,CVE-2010-1892|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-058|
+358|CVE-2010-1902,CVE-2010-1903,CVE-2010-1900,CVE-2010-1901|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-056|
+359|CVE-2010-2551,CVE-2010-2550,CVE-2010-2552|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-054|
+360|CVE-2010-2553|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-055|
+361|CVE-2010-2555,CVE-2010-2554|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-059|
+362|CVE-2010-2561|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-051|
+363|CVE-2010-2562|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-057|
+364|CVE-2010-2564|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-050|
+365|CVE-2010-3138|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-014|
+366|CVE-2010-3144|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-097|
+367|CVE-2010-3145|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-001|
+368|CVE-2010-3146|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-016|
+369|CVE-2010-3147|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-096|
+370|CVE-2010-3148|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-055|
+371|CVE-2010-3190|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-025|Patch,Vendor Advisory
+372|CVE-2010-0818|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-062|
+373|CVE-2010-0820|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-068|
+374|CVE-2010-1891|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-069|
+375|CVE-2010-2730,CVE-2010-2731,CVE-2010-1899|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-065|
+376|CVE-2010-2563|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-067|
+377|CVE-2010-2567|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-066|
+378|CVE-2010-2728|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-064|
+379|CVE-2010-2729|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-061|
+380|CVE-2010-2738|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-063|
+381|CVE-2010-3328,CVE-2010-3325,CVE-2010-3329,CVE-2010-3331,CVE-2010-3243,CVE-2010-3327,CVE-2010-3324,CVE-2010-3326,CVE-2010-3330,CVE-2010-0808|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-071|
+382|CVE-2010-3324,CVE-2010-3243|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-072|
+383|CVE-2010-3332|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-070|Patch,Vendor Advisory
+384|CVE-2010-1883|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-076|
+385|CVE-2010-2740,CVE-2010-2741|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-078|
+386|CVE-2010-2744,CVE-2010-2743|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-073|
+387|CVE-2010-2745|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-082|
+388|CVE-2010-2746|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-081|
+389|CVE-2010-3221,CVE-2010-3215,CVE-2010-3216,CVE-2010-3217,CVE-2010-3218,CVE-2010-2748,CVE-2010-2750,CVE-2010-3220,CVE-2010-3214,CVE-2010-2747,CVE-2010-3219|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-079|
+390|CVE-2010-3222|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-084|
+391|CVE-2010-3223|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-086|
+392|CVE-2010-3225|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-075|
+393|CVE-2010-3227|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-074|
+394|CVE-2010-3228|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-077|
+395|CVE-2010-3229|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-085|
+396|CVE-2010-3240,CVE-2010-3234,CVE-2010-3242,CVE-2010-3239,CVE-2010-3232,CVE-2010-3233,CVE-2010-3236,CVE-2010-3241,CVE-2010-3238,CVE-2010-3230,CVE-2010-3231,CVE-2010-3237,CVE-2010-3235|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-080|
+397|CVE-2010-2573,CVE-2010-2572|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-088|
+398|CVE-2010-2733,CVE-2010-3936,CVE-2010-2734,CVE-2010-2732|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-089|
+399|CVE-2010-3333,CVE-2010-3335,CVE-2010-3337,CVE-2010-3334,CVE-2010-3336|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-087|
+400|CVE-2010-3345,CVE-2010-3343,CVE-2010-3340,CVE-2010-3962,CVE-2010-3342,CVE-2010-3346,CVE-2010-3348|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-090|
+401|CVE-2010-2571,CVE-2010-3954,CVE-2010-2570,CVE-2010-2569,CVE-2010-3955|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-103|
+402|CVE-2010-2742|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-101|
+403|CVE-2010-3338|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-092|
+404|CVE-2010-3937|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-106|Patch,Vendor Advisory
+405|CVE-2010-3941,CVE-2010-3943,CVE-2010-3940,CVE-2010-3939,CVE-2010-3942,CVE-2010-3944|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-098|
+406|CVE-2010-3949,CVE-2010-3950,CVE-2010-3952,CVE-2010-3945,CVE-2010-3951,CVE-2010-3947,CVE-2010-3946|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-105|
+407|CVE-2010-3959,CVE-2010-3957,CVE-2010-3956|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-091|
+408|CVE-2010-3960|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-102|
+409|CVE-2010-3961|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-100|
+410|CVE-2010-3963|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-099|
+411|CVE-2010-3964|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-104|
+412|CVE-2010-3965|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-094|
+413|CVE-2010-3966|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-095|
+414|CVE-2010-3967|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-093|
+415|CVE-2010-3970|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-006|
+416|CVE-2011-0036,CVE-2011-0038,CVE-2010-3971,CVE-2011-0035|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-003|
+417|CVE-2010-3972|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-004|
+418|CVE-2011-0045,CVE-2010-4398|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-011|
+419|CVE-2008-4834,CVE-2008-4835,CVE-2008-4114|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-001|
+420|CVE-2009-0076,CVE-2009-0075|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-002|Patch,Vendor Advisory
+421|CVE-2009-0097,CVE-2009-0096,CVE-2009-0095|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-005|
+422|CVE-2009-0098,CVE-2009-0099|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-003|
+423|CVE-2012-0155,CVE-2012-0012,CVE-2012-0011,CVE-2012-0010|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-010|
+424|CVE-2012-0014,CVE-2012-0015|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-016|
+425|CVE-2012-0145,CVE-2012-0017,CVE-2012-0144|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-011|
+426|CVE-2012-0137,CVE-2012-0138,CVE-2012-0136,CVE-2012-0019,CVE-2012-0020|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-015|
+427|CVE-2012-0149,CVE-2012-0148|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-009|
+428|CVE-2012-0150|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-013|
+429|CVE-2012-0154,CVE-2011-5046|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-008|
+430|CVE-2012-0152,CVE-2012-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-020|
+431|CVE-2012-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-017|
+432|CVE-2012-0008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-021|
+433|CVE-2012-0016|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022|
+434|CVE-2012-0156|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-019|
+435|CVE-2012-0157|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-018|
+436|CVE-2012-0217,CVE-2012-1515|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-042|
+437|CVE-2012-0146,CVE-2012-0147|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-026|
+438|CVE-2012-0151|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-024|
+439|CVE-2012-0158|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-027|
+440|CVE-2012-0163|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-025|
+441|CVE-2012-0171,CVE-2012-0169,CVE-2012-0172,CVE-2012-0170,CVE-2012-0168|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-023|
+442|CVE-2012-0177|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-028|
+443|CVE-2012-0018|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-031|
+444|CVE-2012-0143,CVE-2012-1847,CVE-2012-0142,CVE-2012-0184,CVE-2012-0185,CVE-2012-0141|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-030|
+445|CVE-2012-0165,CVE-2012-0164,CVE-2012-0176,CVE-2012-0180,CVE-2012-0181,CVE-2012-0167,CVE-2011-3402,CVE-2012-0162,CVE-2012-0159,CVE-2012-1848|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-034|
+446|CVE-2012-0159,CVE-2012-1849,CVE-2011-3402,CVE-2012-1858|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-039|
+447|CVE-2012-0161,CVE-2012-0160|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-035|
+448|CVE-2012-0174,CVE-2012-0179|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-032|
+449|CVE-2012-0178|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-033|
+450|CVE-2012-0183|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-029|
+451|CVE-2012-0173|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-036|
+452|CVE-2012-1873,CVE-2012-1874,CVE-2012-1878,CVE-2012-1872,CVE-2012-1877,CVE-2012-1882,CVE-2012-1880,CVE-2012-1876,CVE-2012-1858,CVE-2012-1881,CVE-2012-1875,CVE-2012-1523,CVE-2012-1879|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-037|
+453|CVE-2012-1855|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-038|
+454|CVE-2012-1857|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-040|
+455|CVE-2012-1859,CVE-2012-1861,CVE-2012-1858,CVE-2012-1862,CVE-2012-1863,CVE-2012-1860|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-050|
+456|CVE-2012-1865,CVE-2012-1867,CVE-2012-1864,CVE-2012-1868,CVE-2012-1866|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-041|
+457|CVE-2012-1889|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-043|
+458|CVE-2012-0175|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-048|
+459|CVE-2012-1524,CVE-2012-1522|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-044|
+460|CVE-2012-1769,CVE-2012-1772,CVE-2012-3109,CVE-2012-1771,CVE-2012-3106,CVE-2012-1767,CVE-2012-3110,CVE-2012-1770,CVE-2012-1768,CVE-2012-1766,CVE-2012-3107,CVE-2012-1773,CVE-2012-3108|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-058|
+461|CVE-2012-1769,CVE-2012-1772,CVE-2012-3109,CVE-2012-1771,CVE-2012-3106,CVE-2012-1767,CVE-2012-3110,CVE-2012-1770,CVE-2012-1768,CVE-2012-1766,CVE-2012-3107,CVE-2012-1773,CVE-2012-3108|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-067|
+462|CVE-2012-1854|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-046|
+463|CVE-2012-1870|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-049|
+464|CVE-2012-1893,CVE-2012-1890|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-047|
+465|CVE-2012-1891|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-045|
+466|CVE-2012-1894|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-051|
+467|CVE-2012-1852,CVE-2012-1850,CVE-2012-1853,CVE-2012-1851|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-054|
+468|CVE-2012-1856|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-060|
+469|CVE-2012-1888|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-059|
+470|CVE-2012-1526,CVE-2012-2521,CVE-2012-2522,CVE-2012-2523|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-052|
+471|CVE-2012-2523|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-056|
+472|CVE-2012-2524|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-057|
+473|CVE-2012-2526|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-053|
+474|CVE-2012-2527|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-055|
+475|CVE-2012-1892|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-061|
+476|CVE-2012-2536|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-062|
+477|CVE-2012-1529,CVE-2012-2557,CVE-2012-2546,CVE-2012-2548|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-063|
+478|CVE-2012-2530,CVE-2012-2553,CVE-2012-2897|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-075|
+479|CVE-2012-0182,CVE-2012-2528|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-064|
+480|CVE-2012-2520|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-066|
+481|CVE-2012-2529|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-068|
+482|CVE-2012-2550|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-065|
+483|CVE-2012-2551|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-069|
+484|CVE-2012-2552|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-070|
+485|CVE-2012-3217,CVE-2012-3214,CVE-2012-4791|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-080|
+486|CVE-2012-3217,CVE-2012-3214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-013|
+487|CVE-2012-1538,CVE-2012-1539,CVE-2012-4775|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-071|
+488|CVE-2012-1885,CVE-2012-1886,CVE-2012-1887,CVE-2012-2543|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-076|
+489|CVE-2012-2519,CVE-2012-1896,CVE-2012-4777,CVE-2012-1895,CVE-2012-4776|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-074|
+490|CVE-2012-2531,CVE-2012-2532|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-073|
+491|CVE-2012-1527,CVE-2012-1528|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-072|
+492|CVE-2012-1537|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-082|
+493|CVE-2012-2539|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-079|
+494|CVE-2012-2549|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-083|
+495|CVE-2012-4786,CVE-2012-2556|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-078|
+496|CVE-2012-4774|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-081|
+497|CVE-2012-4782,CVE-2012-4781,CVE-2012-4787|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-077|
+498|CVE-2012-4792|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-008|
+499|CVE-2015-6081,CVE-2015-6064,CVE-2015-6084,CVE-2015-6082,CVE-2015-2427,CVE-2015-6079,CVE-2015-6071,CVE-2015-6069,CVE-2015-6077,CVE-2015-6074,CVE-2015-6068,CVE-2015-6089,CVE-2015-6080,CVE-2015-6073,CVE-2015-6070,CVE-2015-6088,CVE-2015-6065,CVE-2015-6072,CVE-2015-6075,CVE-2015-6078,CVE-2015-6066,CVE-2015-6076,CVE-2015-6085,CVE-2015-6086,CVE-2015-6087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-112|
+500|CVE-2015-2478|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-119|Patch,Vendor Advisory
+501|CVE-2015-6093,CVE-2015-6092,CVE-2015-6091,CVE-2015-6123,CVE-2015-6094,CVE-2015-6038,CVE-2015-2503|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-116|
+502|CVE-2015-6061|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-123|
+503|CVE-2015-6073,CVE-2015-6064,CVE-2015-6078,CVE-2015-6088|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-113|
+504|CVE-2015-6095|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-122|Patch,Vendor Advisory
+505|CVE-2015-6099,CVE-2015-6096,CVE-2015-6115|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-118|
+506|CVE-2015-6097|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-114|
+507|CVE-2015-6098|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-117|
+508|CVE-2015-6109,CVE-2015-6101,CVE-2015-6102,CVE-2015-6103,CVE-2015-6104,CVE-2015-6100,CVE-2015-6113|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-115|Patch,Vendor Advisory
+509|CVE-2015-6111|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-120|Patch,Vendor Advisory
+510|CVE-2015-6112|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-121|Patch,Vendor Advisory
+511|CVE-2015-6046,CVE-2015-6059,CVE-2015-6045,CVE-2015-6051,CVE-2015-2482,CVE-2015-6049,CVE-2015-6050,CVE-2015-6053,CVE-2015-6048,CVE-2015-6055,CVE-2015-6184,CVE-2015-6042,CVE-2015-6056,CVE-2015-6052,CVE-2015-6044,CVE-2015-6047|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-106|
+512|CVE-2015-6177,CVE-2015-6118,CVE-2015-6040,CVE-2015-6172,CVE-2015-6124,CVE-2015-6122|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-131|
+513|CVE-2015-6160,CVE-2015-6154,CVE-2015-6162,CVE-2015-6134,CVE-2015-6136,CVE-2015-6159,CVE-2015-6083,CVE-2015-6138,CVE-2015-6135,CVE-2015-6147,CVE-2015-6145,CVE-2015-6146,CVE-2015-6158,CVE-2015-6153,CVE-2015-6142,CVE-2015-6151,CVE-2015-6149,CVE-2015-6144,CVE-2015-6148,CVE-2015-6156,CVE-2015-6164,CVE-2015-6152,CVE-2015-6157,CVE-2015-6140,CVE-2015-6150,CVE-2015-6155,CVE-2015-6141,CVE-2015-6139,CVE-2015-6161,CVE-2015-6143|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-124|Patch,Vendor Advisory
+514|CVE-2015-6106,CVE-2015-6107,CVE-2015-6108|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-128|Patch,Vendor Advisory
+515|CVE-2015-6165,CVE-2015-6114,CVE-2015-6166|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-129|
+516|CVE-2015-6125|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-127|
+517|CVE-2015-6126|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-133|Patch,Vendor Advisory
+518|CVE-2015-6131,CVE-2015-6127|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-134|Patch,Vendor Advisory
+519|CVE-2015-6133,CVE-2015-6128,CVE-2015-6132|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-132|Patch,Vendor Advisory
+520|CVE-2015-6130|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-130|
+521|CVE-2015-6136,CVE-2015-6135|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-126|
+522|CVE-2015-6148,CVE-2015-6169,CVE-2015-6155,CVE-2015-6176,CVE-2015-6154,CVE-2015-6168,CVE-2015-6158,CVE-2015-6153,CVE-2015-6139,CVE-2015-6161,CVE-2015-6159,CVE-2015-6142,CVE-2015-6151,CVE-2015-6170,CVE-2015-6140,CVE-2015-6144|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-125|
+523|CVE-2015-6175,CVE-2015-6174,CVE-2015-6173,CVE-2015-6171|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-135|Patch,Vendor Advisory
+524|CVE-2014-0260,CVE-2014-0259,CVE-2014-0258|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-001|
+525|CVE-2014-0261|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-004|
+526|CVE-2014-0262|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-003|
+527|CVE-2014-0254|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-006|
+528|CVE-2014-0253,CVE-2014-0257,CVE-2014-0295|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-009|
+529|CVE-2014-0263|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-007|Patch,Vendor Advisory
+530|CVE-2014-0266|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-005|Patch,Vendor Advisory
+531|CVE-2014-0269,CVE-2014-0281,CVE-2014-0293,CVE-2014-0278,CVE-2014-0289,CVE-2014-0283,CVE-2014-0279,CVE-2014-0272,CVE-2014-0270,CVE-2014-0276,CVE-2014-0268,CVE-2014-0284,CVE-2014-0280,CVE-2014-0274,CVE-2014-0277,CVE-2014-0290,CVE-2014-0271,CVE-2014-0285,CVE-2014-0267,CVE-2014-0288,CVE-2014-0275,CVE-2014-0273,CVE-2014-0287,CVE-2014-0286|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-010|
+532|CVE-2014-0271|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-011|
+533|CVE-2014-0294|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-008|
+534|CVE-2014-0317|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-016|
+535|CVE-2014-0319|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-014|
+536|CVE-2014-0300,CVE-2014-0323|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-015|Patch,Vendor Advisory
+537|CVE-2014-0301|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-013|Patch,Vendor Advisory
+538|CVE-2014-1761,CVE-2014-1757,CVE-2014-1758|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-017|
+539|CVE-2014-1759|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-020|
+540|CVE-2014-1782,CVE-2014-1762,CVE-2014-1764,CVE-2014-1774,CVE-2014-1788,CVE-2014-1799,CVE-2014-2770,CVE-2014-1797,CVE-2014-2761,CVE-2014-1770,CVE-2014-1766,CVE-2014-2754,CVE-2014-1780,CVE-2014-1769,CVE-2014-2755,CVE-2014-1804,CVE-2014-2767,CVE-2014-1803,CVE-2014-1775,CVE-2014-2753,CVE-2014-2763,CVE-2014-2766,CVE-2014-1789,CVE-2014-2771,CVE-2014-2773,CVE-2014-1800,CVE-2014-2758,CVE-2014-2765,CVE-2014-1796,CVE-2014-1772,CVE-2014-1791,CVE-2014-2776,CVE-2014-1792,CVE-2014-2772,CVE-2014-0282,CVE-2014-1805,CVE-2014-1783,CVE-2014-2775,CVE-2014-2756,CVE-2014-2760,CVE-2014-2768,CVE-2014-1794,CVE-2014-1784,CVE-2014-2769,CVE-2014-1771,CVE-2014-1779,CVE-2014-1781,CVE-2014-1786,CVE-2014-2782,CVE-2014-1777,CVE-2014-1802,CVE-2014-2777,CVE-2014-2759,CVE-2014-1795,CVE-2014-2757,CVE-2014-1773,CVE-2014-1778,CVE-2014-1785,CVE-2014-1790,CVE-2014-2764|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-035|Patch,Vendor Advisory
+541|CVE-2014-0315|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-019|Patch,Vendor Advisory
+542|CVE-2014-1776|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-021|
+543|CVE-2014-0251,CVE-2014-1754,CVE-2014-1813|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-022|
+544|CVE-2014-1808,CVE-2014-1756|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-023|
+545|CVE-2014-0256,CVE-2014-0255|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-028|
+546|CVE-2014-0310,CVE-2014-1815|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-029|
+547|CVE-2014-1806|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-026|
+548|CVE-2014-1807|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-027|Patch,Vendor Advisory
+549|CVE-2014-1809|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-024|
+550|CVE-2014-1812|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-025|Patch,Vendor Advisory
+551|CVE-2014-0296|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-030|Patch,Vendor Advisory
+552|CVE-2014-1811|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-031|Patch,Vendor Advisory
+553|CVE-2014-1816|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-033|
+554|CVE-2014-1818,CVE-2014-1817|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-036|Patch,Vendor Advisory
+555|CVE-2014-1823|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-032|
+556|CVE-2014-2778|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-034|
+557|CVE-2014-1767|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-040|
+558|CVE-2014-4971|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-062|
+559|CVE-2014-2814|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-042|
+560|CVE-2014-1824|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-038|
+561|CVE-2014-2780|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-041|Patch,Vendor Advisory
+562|CVE-2013-1261,CVE-2013-1275,CVE-2013-1263,CVE-2013-1248,CVE-2013-1265,CVE-2013-1269,CVE-2013-1268,CVE-2013-1274,CVE-2013-1251,CVE-2013-1267,CVE-2013-1256,CVE-2013-1277,CVE-2013-1266,CVE-2013-1252,CVE-2013-1254,CVE-2013-1259,CVE-2013-1260,CVE-2013-1257,CVE-2013-1271,CVE-2013-1273,CVE-2013-1250,CVE-2013-1253,CVE-2013-1255,CVE-2013-1249,CVE-2013-1276,CVE-2013-1262,CVE-2013-1264,CVE-2013-1270,CVE-2013-1272,CVE-2013-1258|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-016|
+563|CVE-2013-1280,CVE-2013-1279,CVE-2013-1278|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-017|
+564|CVE-2013-1281|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-014|
+565|CVE-2013-1313|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-020|
+566|CVE-2013-1311,CVE-2013-3140,CVE-2013-1307,CVE-2013-1309,CVE-2013-1297,CVE-2013-2551,CVE-2013-1310,CVE-2013-1312,CVE-2013-1308,CVE-2013-1313,CVE-2013-0811,CVE-2013-1306|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-037|
+567|CVE-2013-0074|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-022|
+568|CVE-2013-0079|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-023|
+569|CVE-2013-0080,CVE-2013-0083,CVE-2013-0084,CVE-2013-0085|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-024|
+570|CVE-2013-0086|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-025|
+571|CVE-2013-0087,CVE-2013-0088,CVE-2013-0094,CVE-2013-1288,CVE-2013-0092,CVE-2013-0090,CVE-2013-0089,CVE-2013-0093,CVE-2013-0091|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-021|
+572|CVE-2013-0095|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-026|
+573|CVE-2013-1287,CVE-2013-1285,CVE-2013-1286|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-027|
+574|CVE-2013-3197,CVE-2013-3196,CVE-2013-3198,CVE-2013-2556|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-063|
+575|CVE-2013-0078|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-034|
+576|CVE-2013-1282|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-032|
+577|CVE-2013-1291,CVE-2013-1283,CVE-2013-1293,CVE-2013-1292|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-036|
+578|CVE-2013-1294,CVE-2013-1284|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-031|
+579|CVE-2013-1289|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-035|
+580|CVE-2013-1290|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-030|
+581|CVE-2013-1295|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-033|
+582|CVE-2013-1296|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-029|
+583|CVE-2013-1304,CVE-2013-1338,CVE-2013-1303|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-028|
+584|CVE-2013-3781,CVE-2013-3776,CVE-2013-2393|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-061|
+585|CVE-2013-0096|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-045|
+586|CVE-2013-1301|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-044|
+587|CVE-2013-1302|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-041|
+588|CVE-2013-1305|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-039|
+589|CVE-2013-1328,CVE-2013-1320,CVE-2013-1319,CVE-2013-1316,CVE-2013-1317,CVE-2013-1322,CVE-2013-1327,CVE-2013-1329,CVE-2013-1321,CVE-2013-1323,CVE-2013-1318|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-042|
+590|CVE-2013-1332,CVE-2013-1333,CVE-2013-1334|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-046|
+591|CVE-2013-1335|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-043|
+592|CVE-2013-1336,CVE-2013-1337|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-040|
+593|CVE-2013-1347|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-038|
+594|CVE-2013-1300,CVE-2013-3172,CVE-2013-1345,CVE-2013-3173,CVE-2013-3660,CVE-2013-3167,CVE-2013-1340,CVE-2013-3129|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053|
+595|CVE-2013-1331|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-051|
+596|CVE-2013-1339|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-050|
+597|CVE-2013-3116,CVE-2013-3122,CVE-2013-3118,CVE-2013-3139,CVE-2013-3141,CVE-2013-3112,CVE-2013-3121,CVE-2013-3123,CVE-2013-3126,CVE-2013-3120,CVE-2013-3142,CVE-2013-3119,CVE-2013-3113,CVE-2013-3124,CVE-2013-3110,CVE-2013-3125,CVE-2013-3111,CVE-2013-3117,CVE-2013-3114|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-047|
+598|CVE-2013-3136|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-048|
+599|CVE-2013-3138|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-049|
+600|CVE-2013-3144,CVE-2013-3152,CVE-2013-3145,CVE-2013-3166,CVE-2013-3150,CVE-2013-3146,CVE-2013-3163,CVE-2013-3161,CVE-2013-3162,CVE-2013-3846,CVE-2013-3147,CVE-2013-3153,CVE-2013-4015,CVE-2013-3149,CVE-2013-3164,CVE-2013-3115,CVE-2013-3148,CVE-2013-3151,CVE-2013-3143|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-055|
+601|CVE-2013-3127|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-057|
+602|CVE-2013-3133,CVE-2013-3134,CVE-2013-3178,CVE-2013-3131,CVE-2013-3171,CVE-2013-3132,CVE-2013-3129|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-052|
+603|CVE-2013-3129|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-054|
+604|CVE-2013-3154|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-058|
+605|CVE-2013-3174|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-056|
+606|CVE-2013-3175|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-062|
+607|CVE-2013-3181|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-060|
+608|CVE-2013-3182|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-064|
+609|CVE-2013-3183|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-065|
+610|CVE-2013-3190,CVE-2013-3189,CVE-2013-3194,CVE-2013-3192,CVE-2013-3193,CVE-2013-3186,CVE-2013-3187,CVE-2013-3191,CVE-2013-3184,CVE-2013-3199,CVE-2013-3188|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-059|
+611|CVE-2013-3185|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-066|
+612|CVE-2013-3848,CVE-2013-1330,CVE-2013-3849,CVE-2013-1315,CVE-2013-3858,CVE-2013-3180,CVE-2013-3179,CVE-2013-0081,CVE-2013-3847,CVE-2013-3857|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-067|
+613|CVE-2013-0810|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-071|
+614|CVE-2013-1315,CVE-2013-3158,CVE-2013-3159|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-073|
+615|CVE-2013-5763,CVE-2013-5791,CVE-2013-5072,CVE-2013-1330|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-105|
+616|CVE-2013-1341,CVE-2013-3866,CVE-2013-1343,CVE-2013-3865,CVE-2013-1344,CVE-2013-1342,CVE-2013-3864|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-076|
+617|CVE-2013-3137|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-078|
+618|CVE-2013-3155,CVE-2013-3156,CVE-2013-3157|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-074|
+619|CVE-2013-3848,CVE-2013-3851,CVE-2013-3853,CVE-2013-3852,CVE-2013-3857,CVE-2013-3849,CVE-2013-3858,CVE-2013-3856,CVE-2013-3855,CVE-2013-3160,CVE-2013-3847,CVE-2013-3850,CVE-2013-3854|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-072|
+620|CVE-2013-3204,CVE-2013-3205,CVE-2013-3203,CVE-2013-3207,CVE-2013-3208,CVE-2013-3209,CVE-2013-3201,CVE-2013-3845,CVE-2013-3202,CVE-2013-3206|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-069|
+621|CVE-2013-3859|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-075|
+622|CVE-2013-3862|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-077|
+623|CVE-2013-3863|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-070|
+624|CVE-2013-3868|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-079|
+625|CVE-2013-3875,CVE-2013-3872,CVE-2013-3882,CVE-2013-3897,CVE-2013-3871,CVE-2013-3874,CVE-2013-3873,CVE-2013-3893,CVE-2013-3886,CVE-2013-3885|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-080|
+626|CVE-2013-3870|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-068|
+627|CVE-2013-3128,CVE-2013-3200,CVE-2013-3880,CVE-2013-3888,CVE-2013-3879,CVE-2013-3894,CVE-2013-3881|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-081|Patch,Vendor Advisory
+628|CVE-2013-3860,CVE-2013-3861,CVE-2013-3128|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-082|Patch,Vendor Advisory
+629|CVE-2013-3195|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-083|
+630|CVE-2013-3889,CVE-2013-3895|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-084|
+631|CVE-2013-3889,CVE-2013-3890|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-085|
+632|CVE-2013-3891,CVE-2013-3892|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-086|
+633|CVE-2013-3896|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-087|
+634|CVE-2013-3917,CVE-2013-3911,CVE-2013-3916,CVE-2013-3910,CVE-2013-3908,CVE-2013-3912,CVE-2013-3871,CVE-2013-3909,CVE-2013-3915,CVE-2013-3914|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-088|
+635|CVE-2013-1324,CVE-2013-1325,CVE-2013-0082|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-091|
+636|CVE-2013-3887|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-093|
+637|CVE-2013-3898|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-092|
+638|CVE-2013-3905|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-094|
+639|CVE-2013-3906|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-096|
+640|CVE-2013-3918|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-090|Patch,Vendor Advisory
+641|CVE-2013-3940|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-089|Patch,Vendor Advisory
+642|CVE-2013-5065|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-002|
+643|CVE-2013-3869|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-095|Patch,Vendor Advisory
+644|CVE-2013-3878|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-102|
+645|CVE-2013-3907,CVE-2013-3903,CVE-2013-3899,CVE-2013-5058,CVE-2013-3902|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-101|Patch,Vendor Advisory
+646|CVE-2013-3900|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-098|Patch,Vendor Advisory
+647|CVE-2013-5042|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-103|
+648|CVE-2013-5046,CVE-2013-5052,CVE-2013-5048,CVE-2013-5051,CVE-2013-5045,CVE-2013-5047,CVE-2013-5049|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-097|
+649|CVE-2013-5054|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-104|
+650|CVE-2013-5056|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-099|Patch,Vendor Advisory
+651|CVE-2013-5057|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-106|
+652|CVE-2013-5059|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-100|
+653|CVE-2012-0001|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-001|
+654|CVE-2012-0003,CVE-2012-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-004|
+655|CVE-2012-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-003|
+656|CVE-2012-0007|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-007|
+657|CVE-2012-0009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-002|
+658|CVE-2012-0013|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-005|
+659|CVE-2010-5082|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-012|
+660|CVE-2008-3465,CVE-2008-2249|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-071|
+661|CVE-2008-3009,CVE-2008-3010|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-076|
+662|CVE-2008-4026,CVE-2008-4027,CVE-2008-4030,CVE-2008-4031,CVE-2008-4028,CVE-2008-4837,CVE-2008-4025,CVE-2008-4024|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-072|
+663|CVE-2008-4032|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-077|
+664|CVE-2008-4256,CVE-2008-4254,CVE-2008-3704,CVE-2008-4252,CVE-2008-4255,CVE-2008-4253|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-070|
+665|CVE-2008-4259,CVE-2008-4261,CVE-2008-4258,CVE-2008-4260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-073|
+666|CVE-2008-4266,CVE-2008-4265,CVE-2008-4264|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-074|
+667|CVE-2008-4269,CVE-2008-4268|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-075|
+668|CVE-2008-4844|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-078|
+669|CVE-2007-0024|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-004|
+670|CVE-2007-0028,CVE-2007-0027,CVE-2007-0031,CVE-2007-0029,CVE-2007-0030|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-002|
+671|CVE-2008-4033,CVE-2007-0099,CVE-2008-4029|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-069|
+672|CVE-2006-1311|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-013|
+673|CVE-2006-3448|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-005|
+674|CVE-2006-4697,CVE-2007-0219,CVE-2007-0217|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-016|
+675|CVE-2006-5270|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-010|
+676|CVE-2007-0025|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-012|
+677|CVE-2007-0026|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-011|
+678|CVE-2007-0210|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-007|
+679|CVE-2007-0211|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-006|
+680|CVE-2007-0214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-008|
+681|CVE-2008-0956,CVE-2007-0675|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-032|
+682|CVE-2007-1202,CVE-2007-0035,CVE-2007-0870|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-024|
+683|CVE-2007-3893,CVE-2007-3892,CVE-2007-3826,CVE-2007-1091|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-057|
+684|CVE-2007-3027,CVE-2007-1750,CVE-2007-1499,CVE-2007-2222,CVE-2007-1751,CVE-2007-0218|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-033|
+685|CVE-2007-2225,CVE-2007-2227,CVE-2007-1658,CVE-2006-2111|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-034|
+686|CVE-2007-0939,CVE-2007-0938|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-018|
+687|CVE-2007-1204|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-019|
+688|CVE-2007-1205|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-020|
+689|CVE-2007-1206|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-022|
+690|CVE-2007-1748|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-029|
+691|CVE-2007-0213,CVE-2007-0039,CVE-2007-0221,CVE-2007-0220|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-026|Patch,Vendor Advisory
+692|CVE-2007-0215,CVE-2007-1203,CVE-2007-1214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-023|
+693|CVE-2007-0940|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-028|
+694|CVE-2007-1747|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-025|
+695|CVE-2007-2581|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-059|
+696|CVE-2007-0936,CVE-2007-0934|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-030|
+697|CVE-2007-2218|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-031|
+698|CVE-2007-2219|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-035|
+699|CVE-2007-2229|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-032|
+700|CVE-2007-3028,CVE-2007-0040|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-039|
+701|CVE-2007-0043,CVE-2007-0041,CVE-2007-0042|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-040|
+702|CVE-2007-1754|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-037|
+703|CVE-2007-3030,CVE-2007-3029,CVE-2007-1756|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-036|
+704|CVE-2007-3038|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-038|
+705|CVE-2007-3041,CVE-2007-0943,CVE-2007-2928,CVE-2007-2929,CVE-2007-2216,CVE-2007-0319,CVE-2007-2240|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-045|
+706|CVE-2007-0948|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-049|
+707|CVE-2007-1749|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-050|
+708|CVE-2007-2223|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-042|Patch,Vendor Advisory
+709|CVE-2007-2224|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-043|
+710|CVE-2007-2931|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-054|
+711|CVE-2007-3033,CVE-2007-3032,CVE-2007-3891|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-048|
+712|CVE-2007-3034|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-046|
+713|CVE-2007-3037,CVE-2007-3035|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-047|
+714|CVE-2007-3890|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-044|
+715|CVE-2007-3036|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-053|
+716|CVE-2007-3040|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-051|
+717|CVE-2015-0015|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-007|
+718|CVE-2015-0016|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-004|
+719|CVE-2015-0001|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-006|
+720|CVE-2015-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-001|
+721|CVE-2015-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-003|
+722|CVE-2015-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-005|
+723|CVE-2015-0011|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-008|
+724|CVE-2015-0014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-002|
+725|CVE-2014-6362|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-013|
+726|CVE-2015-0031,CVE-2015-0028,CVE-2015-0021,CVE-2015-0055,CVE-2015-0037,CVE-2015-0049,CVE-2015-0046,CVE-2015-0041,CVE-2015-0048,CVE-2015-0017,CVE-2015-0039,CVE-2015-0054,CVE-2015-0053,CVE-2015-0052,CVE-2015-0040,CVE-2015-0042,CVE-2015-0026,CVE-2015-0071,CVE-2015-0025,CVE-2015-0018,CVE-2015-0069,CVE-2015-0029,CVE-2015-0045,CVE-2015-0030,CVE-2015-0027,CVE-2015-0050,CVE-2015-0070,CVE-2015-0043,CVE-2015-0066,CVE-2015-0022,CVE-2015-0035,CVE-2015-0051,CVE-2015-0044,CVE-2015-0038,CVE-2015-0036,CVE-2015-0023,CVE-2015-0020,CVE-2015-0067,CVE-2015-0019,CVE-2015-0068|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-009|
+727|CVE-2015-0060,CVE-2015-0003,CVE-2015-0057,CVE-2015-0010,CVE-2015-0058,CVE-2015-0059|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-010|Patch,Vendor Advisory
+728|CVE-2015-1625,CVE-2015-1627,CVE-2015-0032,CVE-2015-0056,CVE-2015-1622,CVE-2015-1626,CVE-2015-0100,CVE-2015-1634,CVE-2015-1623,CVE-2015-1624,CVE-2015-0072,CVE-2015-0099|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-018|
+729|CVE-2015-0061|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-016|Patch,Vendor Advisory
+730|CVE-2015-0062|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-015|Patch,Vendor Advisory
+731|CVE-2015-0065,CVE-2015-0064,CVE-2015-0063|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-012|
+732|CVE-2015-0008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-011|Patch,Vendor Advisory
+733|CVE-2015-0009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-014|Patch,Vendor Advisory
+734|CVE-2015-0012|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-017|Patch,Vendor Advisory
+735|CVE-2015-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-027|
+736|CVE-2015-0075,CVE-2015-0073|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-025|Patch,Vendor Advisory
+737|CVE-2015-0090,CVE-2015-0091,CVE-2015-0093,CVE-2015-0092,CVE-2015-0074,CVE-2015-0088,CVE-2015-0087,CVE-2015-0089|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-021|Patch,Vendor Advisory
+738|CVE-2015-0076|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-029|Patch,Vendor Advisory
+739|CVE-2015-0094,CVE-2015-0078,CVE-2015-0077,CVE-2015-0095|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-023|Patch,Vendor Advisory
+740|CVE-2015-0032|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-019|
+741|CVE-2015-1637|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-031|Patch,Vendor Advisory
+742|CVE-2015-0085,CVE-2015-1633,CVE-2015-0097,CVE-2015-1636,CVE-2015-0086|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-022|
+743|CVE-2015-1628,CVE-2015-1631,CVE-2015-1632,CVE-2015-1629,CVE-2015-1630|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-026|
+744|CVE-2015-0079|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-030|Patch,Vendor Advisory
+745|CVE-2015-0080|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-024|Patch,Vendor Advisory
+746|CVE-2015-0081,CVE-2015-0096|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-020|Patch,Vendor Advisory
+747|CVE-2015-0084|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-028|Patch,Vendor Advisory
+748|CVE-2015-1680,CVE-2015-1678,CVE-2015-1676,CVE-2015-1677,CVE-2015-1701,CVE-2015-1679|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-051|Patch,Vendor Advisory
+749|CVE-2015-1665,CVE-2015-1662,CVE-2015-1661,CVE-2015-1652,CVE-2015-1660,CVE-2015-1668,CVE-2015-1666,CVE-2015-1667,CVE-2015-1657,CVE-2015-1659|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-032|
+750|CVE-2015-1643,CVE-2015-1644|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-038|Patch,Vendor Advisory
+751|CVE-2015-1645|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-035|
+752|CVE-2015-1646|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-039|
+753|CVE-2015-1647|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-042|Patch,Vendor Advisory
+754|CVE-2015-1648|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-041|
+755|CVE-2015-1639,CVE-2015-1649,CVE-2015-1651,CVE-2015-1650,CVE-2015-1641|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-033|
+756|CVE-2015-1653,CVE-2015-1640|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-036|
+757|CVE-2015-1638|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-040|
+758|CVE-2015-1635|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-034|Patch,Vendor Advisory
+759|CVE-2015-0098|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-037|
+760|CVE-2015-1702|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-050|Patch,Vendor Advisory
+761|CVE-2015-1704,CVE-2015-1703,CVE-2015-1691,CVE-2015-1718,CVE-2015-1708,CVE-2015-1694,CVE-2015-1710,CVE-2015-1711,CVE-2015-1717,CVE-2015-1713,CVE-2015-1689,CVE-2015-1658,CVE-2015-1705,CVE-2015-1712,CVE-2015-1714,CVE-2015-1685,CVE-2015-1688,CVE-2015-1684,CVE-2015-1692,CVE-2015-1709,CVE-2015-1706,CVE-2015-1686|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-043|
+762|CVE-2015-1681|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-054|Patch,Vendor Advisory
+763|CVE-2015-1683,CVE-2015-1682|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-046|
+764|CVE-2015-1699,CVE-2015-1696,CVE-2015-1697,CVE-2015-1698,CVE-2015-1675,CVE-2015-1695|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-045|Patch,Vendor Advisory
+765|CVE-2015-1700|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-047|
+766|CVE-2015-1686,CVE-2015-1684|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-053|
+767|CVE-2015-1670,CVE-2015-1671|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-044|
+768|CVE-2015-1673,CVE-2015-1672|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-048|
+769|CVE-2015-1674|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-052|Patch,Vendor Advisory
+770|CVE-2015-1715|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-049|
+771|CVE-2015-1716|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-055|Patch,Vendor Advisory
+772|CVE-2015-1771,CVE-2015-2359,CVE-2015-1764|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-064|
+773|CVE-2015-1730,CVE-2015-1742,CVE-2015-1750,CVE-2015-1745,CVE-2015-1755,CVE-2015-1753,CVE-2015-1739,CVE-2015-1747,CVE-2015-1737,CVE-2015-1748,CVE-2015-1732,CVE-2015-1687,CVE-2015-1765,CVE-2015-1735,CVE-2015-1744,CVE-2015-1752,CVE-2015-1740,CVE-2015-1741,CVE-2015-1751,CVE-2015-1736,CVE-2015-1766,CVE-2015-1743,CVE-2015-1731,CVE-2015-1754|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-056|
+774|CVE-2015-1724,CVE-2015-1768,CVE-2015-1719,CVE-2015-1721,CVE-2015-1720,CVE-2015-1723,CVE-2015-2360,CVE-2015-1725,CVE-2015-1727,CVE-2015-1722,CVE-2015-1726|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-061|Patch,Vendor Advisory
+775|CVE-2015-1759,CVE-2015-1770,CVE-2015-1760|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-059|
+776|CVE-2015-1728|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-057|
+777|CVE-2015-1756|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-060|Patch,Vendor Advisory
+778|CVE-2015-1757|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-062|
+779|CVE-2015-1758|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-063|
+780|CVE-2015-2415,CVE-2015-2377,CVE-2015-2376,CVE-2015-2378,CVE-2015-2424,CVE-2015-2375,CVE-2015-2379,CVE-2015-2380|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-070|
+781|CVE-2015-2419,CVE-2015-1767,CVE-2015-2389,CVE-2015-2421,CVE-2015-2398,CVE-2015-2408,CVE-2015-2390,CVE-2015-2413,CVE-2015-2402,CVE-2015-2410,CVE-2015-2388,CVE-2015-1733,CVE-2015-2385,CVE-2015-2404,CVE-2015-2397,CVE-2015-2401,CVE-2015-2384,CVE-2015-2414,CVE-2015-2403,CVE-2015-2391,CVE-2015-2383,CVE-2015-2411,CVE-2015-1738,CVE-2015-2412,CVE-2015-2372,CVE-2015-1729,CVE-2015-2406,CVE-2015-2422,CVE-2015-2425|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-065|
+782|CVE-2015-2426|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-078|Patch,Vendor Advisory
+783|CVE-2015-1761,CVE-2015-1762,CVE-2015-1763|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-058|
+784|CVE-2015-2365,CVE-2015-2381,CVE-2015-2382,CVE-2015-2366,CVE-2015-2363,CVE-2015-2367|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-073|
+785|CVE-2015-2387|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-077|
+786|CVE-2015-2416,CVE-2015-2417|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-075|
+787|CVE-2015-2368,CVE-2015-2369|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-069|
+788|CVE-2015-2370|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-076|
+789|CVE-2015-2371|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-074|
+790|CVE-2015-2372|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-066|
+791|CVE-2015-2373|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-067|
+792|CVE-2015-2374|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-071|
+793|CVE-2015-2362,CVE-2015-2361|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-068|
+794|CVE-2015-2364|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-072|
+795|CVE-2015-2449,CVE-2015-2441,CVE-2015-2448,CVE-2015-2442,CVE-2015-2451,CVE-2015-2445,CVE-2015-2446,CVE-2015-2443,CVE-2015-2447,CVE-2015-2452,CVE-2015-2423,CVE-2015-2444,CVE-2015-2450|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-079|Patch,Vendor Advisory
+796|CVE-2015-2441,CVE-2015-2446,CVE-2015-2449,CVE-2015-2442|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-091|
+797|CVE-2015-2428,CVE-2015-2430,CVE-2015-2429|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-090|Patch,Vendor Advisory
+798|CVE-2015-2460,CVE-2015-2433,CVE-2015-2458,CVE-2015-2463,CVE-2015-2455,CVE-2015-2465,CVE-2015-2456,CVE-2015-2435,CVE-2015-2454,CVE-2015-2459,CVE-2015-2461,CVE-2015-2453,CVE-2015-2464,CVE-2015-2432,CVE-2015-2431,CVE-2015-2462|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-080|Patch,Vendor Advisory
+799|CVE-2015-2471,CVE-2015-2440,CVE-2015-2434|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-084|
+800|CVE-2015-2476|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-089|Patch,Vendor Advisory
+801|CVE-2015-2470,CVE-2015-1642,CVE-2015-2477,CVE-2015-2468,CVE-2015-2467,CVE-2015-2423,CVE-2015-2469,CVE-2015-2466|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-081|Patch,Vendor Advisory
+802|CVE-2015-2481,CVE-2015-2480,CVE-2015-2479|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-092|
+803|CVE-2015-1769|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-085|Patch,Vendor Advisory
+804|CVE-2015-2472,CVE-2015-2473|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-082|Patch,Vendor Advisory
+805|CVE-2015-2474|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-083|
+806|CVE-2015-2475|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-087|
+807|CVE-2015-2420|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-086|Patch,Vendor Advisory
+808|CVE-2015-2423|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-088|Patch,Vendor Advisory
+809|CVE-2015-2502|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-093|
+810|CVE-2015-2493,CVE-2015-2500,CVE-2015-2498,CVE-2015-2494,CVE-2015-2542,CVE-2015-2501,CVE-2015-2486,CVE-2015-2541,CVE-2015-2489,CVE-2015-2490,CVE-2015-2491,CVE-2015-2483,CVE-2015-2492,CVE-2015-2484,CVE-2015-2487,CVE-2015-2485,CVE-2015-2499|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-094|
+811|CVE-2015-2486,CVE-2015-2494,CVE-2015-2485,CVE-2015-2542|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-095|
+812|CVE-2015-2526,CVE-2015-2504|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-101|
+813|CVE-2015-2544,CVE-2015-2543,CVE-2015-2505|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-103|
+814|CVE-2015-2546,CVE-2015-2512,CVE-2015-2506,CVE-2015-2529,CVE-2015-2518,CVE-2015-2511,CVE-2015-2510,CVE-2015-2517,CVE-2015-2507,CVE-2015-2508,CVE-2015-2527|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-097|Patch,Vendor Advisory
+815|CVE-2015-2509|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-100|Patch,Vendor Advisory
+816|CVE-2015-2545,CVE-2015-2521,CVE-2015-2520,CVE-2015-2522,CVE-2015-2523|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-099|
+817|CVE-2015-2524,CVE-2015-2528,CVE-2015-2525|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-102|Patch,Vendor Advisory
+818|CVE-2015-2516,CVE-2015-2519,CVE-2015-2530,CVE-2015-2514,CVE-2015-2513|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-098|Patch,Vendor Advisory
+819|CVE-2015-2536,CVE-2015-2531,CVE-2015-2532|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-104|
+820|CVE-2015-2534|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-105|Patch,Vendor Advisory
+821|CVE-2015-2535|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-096|
+822|CVE-2015-6052,CVE-2015-2482,CVE-2015-6055,CVE-2015-6059|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-108|
+823|CVE-2015-2515,CVE-2015-2548|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-109|Patch,Vendor Advisory
+824|CVE-2015-2549,CVE-2015-2552,CVE-2015-2550,CVE-2015-2554,CVE-2015-2553|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-111|Patch,Vendor Advisory
+825|CVE-2015-2558,CVE-2015-2556,CVE-2015-2557,CVE-2015-6037,CVE-2015-2555,CVE-2015-6039|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-110|
+826|CVE-2015-6058,CVE-2015-6057|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-107|
+827|CVE-2007-0065|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-008|
+828|CVE-2008-0108,CVE-2008-0105,CVE-2007-0216|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-011|
+829|CVE-2008-0074|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-005|
+830|CVE-2008-0075|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-006|
+831|CVE-2008-0076,CVE-2008-0077,CVE-2008-0078,CVE-2007-4790|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-010|
+832|CVE-2008-0080|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-007|
+833|CVE-2008-0084|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-004|
+834|CVE-2008-0088|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-003|
+835|CVE-2008-0102,CVE-2008-0104|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-012|
+836|CVE-2008-0103|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-013|
+837|CVE-2008-0109|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-009|
+838|CVE-2008-0110|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-015|
+839|CVE-2008-0113,CVE-2008-0118|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-016|
+840|CVE-2008-1435,CVE-2008-0951|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-038|
+841|CVE-2007-6026,CVE-2008-1092|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-028|
+842|CVE-2008-1544,CVE-2008-1442|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-031|
+843|CVE-2007-5347,CVE-2007-5344,CVE-2007-3903,CVE-2007-6255,CVE-2007-3902|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069|
+844|CVE-2008-0083|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-022|
+845|CVE-2008-0087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-020|
+846|CVE-2008-1083,CVE-2008-1087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-021|
+847|CVE-2008-1084|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-025|
+848|CVE-2008-1085|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-024|
+849|CVE-2008-1086|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-023|
+850|CVE-2008-1088|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-018|
+851|CVE-2008-1089,CVE-2008-1090|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-019|
+852|CVE-2008-0119|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-027|
+853|CVE-2008-1434,CVE-2008-1091|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-026|
+854|CVE-2008-1438,CVE-2008-1437|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-029|
+855|CVE-2008-0011,CVE-2008-1444|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-033|
+856|CVE-2008-1441,CVE-2008-1440|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-036|
+857|CVE-2008-1445|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-035|
+858|CVE-2008-1451|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-034|
+859|CVE-2008-2540|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-015|
+860|CVE-2008-3472,CVE-2008-3475,CVE-2008-3476,CVE-2008-3474,CVE-2008-3473,CVE-2008-2947|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-058|Patch,Vendor Advisory
+861|CVE-2008-1453|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-030|
+862|CVE-2008-0085,CVE-2008-0106,CVE-2008-0086,CVE-2008-0107|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-040|Patch,Vendor Advisory
+863|CVE-2008-1447,CVE-2008-1454|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-037|Patch,Vendor Advisory
+864|CVE-2008-2248,CVE-2008-2247|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-039|Patch,Vendor Advisory
+865|CVE-2008-0082|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-050|
+866|CVE-2008-0120,CVE-2008-1455,CVE-2008-0121|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-051|
+867|CVE-2008-1448|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-048|
+868|CVE-2008-2245|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-046|
+869|CVE-2008-2246|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-047|
+870|CVE-2008-2258,CVE-2008-2259,CVE-2008-2254,CVE-2008-2255,CVE-2008-2257,CVE-2008-2256|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-045|
+871|CVE-2008-3004,CVE-2008-3005,CVE-2008-3003,CVE-2008-3006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-043|
+872|CVE-2008-3020,CVE-2008-3019,CVE-2008-3021,CVE-2008-3018,CVE-2008-3460|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-044|
+873|CVE-2008-1457,CVE-2008-1456|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-049|
+874|CVE-2007-5348,CVE-2008-3015,CVE-2008-3014,CVE-2008-3012,CVE-2008-3013|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-052|
+875|CVE-2008-2253|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-054|
+876|CVE-2008-3007|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-055|
+877|CVE-2008-3008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-053|
+878|CVE-2008-1446|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-062|Patch,Vendor Advisory
+879|CVE-2008-2252,CVE-2008-2250,CVE-2008-2251|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-061|Patch,Vendor Advisory
+880|CVE-2008-3464|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-066|
+881|CVE-2008-3466|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-059|
+882|CVE-2008-4019,CVE-2008-3477,CVE-2008-3471|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-057|
+883|CVE-2008-3479|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-065|
+884|CVE-2008-4020|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-056|
+885|CVE-2008-4023|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-060|
+886|CVE-2008-4036|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-064|
+887|CVE-2008-4038|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-063|
+888|CVE-2008-4250|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-067|
+889|CVE-2008-4037|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-068|
+890|CVE-2008-5416|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-004|
+891|CVE-2005-0563|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-029|Patch,Vendor Advisory
+892|CVE-2005-1205|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-033|
+893|CVE-2005-1206|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-027|
+894|CVE-2005-1207|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-028|
+895|CVE-2005-1208|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-026|
+896|CVE-2005-1211|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-025|
+897|CVE-2005-1212|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-031|
+898|CVE-2005-1213|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-030|
+899|CVE-2005-1214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-032|
+900|CVE-2005-1216,CVE-2005-1215|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-034|
+901|CVE-2005-1790,CVE-2005-2831,CVE-2005-2829,CVE-2005-2830|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-054|
+902|CVE-2005-0564|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-035|
+903|CVE-2005-1219|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-036|
+904|CVE-2005-2087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-037|
+905|CVE-2005-2307|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-045|
+906|CVE-2005-0058|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-040|
+907|CVE-2005-1218|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-041|
+908|CVE-2005-1982,CVE-2005-1981|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-042|
+909|CVE-2005-1983|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-039|
+910|CVE-2005-1984|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-043|
+911|CVE-2005-1988,CVE-2005-1990,CVE-2005-1989|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-038|
+912|CVE-2005-2127|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-052|
+913|CVE-2005-1978,CVE-2005-1980,CVE-2005-2119,CVE-2005-1979|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-051|
+914|CVE-2005-1985|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-046|
+915|CVE-2005-1987|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-048|Patch,Vendor Advisory
+916|CVE-2005-2122,CVE-2005-2117,CVE-2005-2118|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-049|
+917|CVE-2005-2120|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-047|
+918|CVE-2005-2126|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-044|
+919|CVE-2005-2128|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-050|
+920|CVE-2006-0024,CVE-2005-2628|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-020|
+921|CVE-2005-2827|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-055|
+922|CVE-2006-2383,CVE-2006-1303,CVE-2006-2384,CVE-2006-2218,CVE-2006-2385,CVE-2006-2382,CVE-2006-1626,CVE-2006-1992,CVE-2005-4089|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-021|
+923|CVE-2006-0029,CVE-2006-0028,CVE-2006-0030,CVE-2005-4131,CVE-2006-0009,CVE-2006-0031|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-012|
+924|CVE-2005-4360|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-041|
+925|CVE-2005-4560|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-001|
+926|CVE-2003-0904|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-002|Patch,Vendor Advisory
+927|CVE-2003-0715,CVE-2003-0528,CVE-2003-0605,CVE-2003-0995|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-039|
+928|CVE-2003-1026,CVE-2003-1025,CVE-2003-1027|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-004|
+929|CVE-2003-0814,CVE-2003-0816,CVE-2003-0817,CVE-2003-0815,CVE-2003-0823|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-048|
+930|CVE-2003-0819|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-001|
+931|CVE-2003-0903|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-003|
+932|CVE-2004-1244,CVE-2004-0597|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-009|
+933|CVE-2003-0818|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-007|
+934|CVE-2003-0825|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-006|
+935|CVE-2004-0115|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-005|
+936|CVE-2003-0905|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-008|
+937|CVE-2004-0121|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-009|
+938|CVE-2004-0122|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-010|
+939|CVE-2004-0380|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-013|
+940|CVE-2003-0910,CVE-2004-0120,CVE-2004-0117,CVE-2003-0719,CVE-2003-0533,CVE-2003-0806,CVE-2003-0663,CVE-2003-0909,CVE-2004-0123,CVE-2004-0118,CVE-2003-0906,CVE-2004-0119,CVE-2003-0907,CVE-2003-0908|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-011|Patch,Vendor Advisory
+941|CVE-2004-0116,CVE-2004-0124,CVE-2003-0807,CVE-2003-0813|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-012|
+942|CVE-2003-1041,CVE-2004-0201|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-023|
+943|CVE-2004-0197|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-014|
+944|CVE-2004-0199|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-015|
+945|CVE-2004-0566,CVE-2004-0549,CVE-2003-1048|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-025|
+946|CVE-2004-0420|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-024|
+947|CVE-2004-0202|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-016|
+948|CVE-2004-0204|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-017|
+949|CVE-2004-0205|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-021|
+950|CVE-2004-0210|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-020|
+951|CVE-2004-0212|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-022|
+952|CVE-2004-0213|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-019|
+953|CVE-2004-0215|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-018|
+954|CVE-2004-0200|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-028|
+955|CVE-2004-0573|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-027|
+956|CVE-2003-0718|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-030|
+957|CVE-2004-0203|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-026|Patch,Vendor Advisory
+958|CVE-2004-0206|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-031|
+959|CVE-2004-0208,CVE-2004-0207,CVE-2004-0211,CVE-2004-0209|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-032|
+960|CVE-2004-0572,CVE-2004-0214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-037|
+961|CVE-2004-0569|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-029|
+962|CVE-2004-0574|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-036|Patch,Vendor Advisory
+963|CVE-2004-0575|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-034|
+964|CVE-2004-0840|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-035|Patch,Vendor Advisory
+965|CVE-2004-0846|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-033|
+966|CVE-2004-0847|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-004|
+967|CVE-2004-1043|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-001|
+968|CVE-2004-1050|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-040|
+969|CVE-2004-1319|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-013|
+970|CVE-2016-0012,CVE-2016-0010,CVE-2016-0011,CVE-2015-6117,CVE-2016-0035|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-004|
+971|CVE-2016-0002,CVE-2016-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-001|
+972|CVE-2016-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-003|
+973|CVE-2016-0024,CVE-2016-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-002|
+974|CVE-2016-0007,CVE-2016-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-008|Patch,Vendor Advisory
+975|CVE-2016-0008,CVE-2016-0009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-005|Patch,Vendor Advisory
+976|CVE-2016-0016,CVE-2016-0018,CVE-2016-0015,CVE-2016-0020,CVE-2016-0019,CVE-2016-0014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-007|Patch,Vendor Advisory
+977|CVE-2016-0031,CVE-2016-0029,CVE-2016-0030,CVE-2016-0032|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-010|Patch,Vendor Advisory
+978|CVE-2016-0034|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-006|
+979|CVE-2016-0054,CVE-2016-0022,CVE-2016-0055,CVE-2016-0056,CVE-2016-0053,CVE-2016-0039,CVE-2016-0052|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-015|
+980|CVE-2016-0047,CVE-2016-0033|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-019|
+981|CVE-2016-0036|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-017|Patch,Vendor Advisory
+982|CVE-2016-0037|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-020|
+983|CVE-2016-0038|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-013|Patch,Vendor Advisory
+984|CVE-2016-0042,CVE-2016-0049,CVE-2016-0044,CVE-2016-0040,CVE-2016-0041|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-014|Patch,Vendor Advisory
+985|CVE-2016-0060,CVE-2016-0077,CVE-2016-0064,CVE-2016-0061,CVE-2016-0063,CVE-2016-0071,CVE-2016-0068,CVE-2016-0072,CVE-2016-0069,CVE-2016-0062,CVE-2016-0059,CVE-2016-0041,CVE-2016-0067|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-009|
+986|CVE-2016-0046,CVE-2016-0058|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-012|Patch,Vendor Advisory
+987|CVE-2016-0048|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-018|
+988|CVE-2016-0050|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-021|
+989|CVE-2016-0051|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-016|
+990|CVE-2016-0060,CVE-2016-0077,CVE-2016-0084,CVE-2016-0061,CVE-2016-0062,CVE-2016-0080|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-011|
+991|CVE-2016-0057,CVE-2016-0021,CVE-2016-0134|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-029|
+992|CVE-2016-0087|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-031|
+993|CVE-2016-0091,CVE-2016-0092|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-030|
+994|CVE-2016-0095,CVE-2016-0094,CVE-2016-0093,CVE-2016-0096|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-034|
+995|CVE-2016-0098,CVE-2016-0101|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-027|
+996|CVE-2016-0099|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-032|
+997|CVE-2016-0100|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-025|
+998|CVE-2016-0102,CVE-2016-0105,CVE-2016-0104,CVE-2016-0107,CVE-2016-0108,CVE-2016-0112,CVE-2016-0111,CVE-2016-0113,CVE-2016-0109,CVE-2016-0103,CVE-2016-0114,CVE-2016-0110,CVE-2016-0106|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-023|
+999|CVE-2016-0102,CVE-2016-0125,CVE-2016-0105,CVE-2016-0111,CVE-2016-0116,CVE-2016-0124,CVE-2016-0123,CVE-2016-0130,CVE-2016-0129,CVE-2016-0110,CVE-2016-0109|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-024|
+1000|CVE-2016-0117,CVE-2016-0118|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-028|
+1001|CVE-2016-0120,CVE-2016-0121|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-026|
+1002|CVE-2016-0132|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-035|
+1003|CVE-2016-0133|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-033|
+1004|CVE-2016-1011,CVE-2016-1013,CVE-2016-1012,CVE-2016-1016,CVE-2016-1006,CVE-2016-1017,CVE-2016-1018,CVE-2016-1015,CVE-2016-1019,CVE-2016-1014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-050|
+1005|CVE-2016-0090,CVE-2016-0088,CVE-2016-0089|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-045|
+1006|CVE-2016-0139,CVE-2016-0122,CVE-2016-0127,CVE-2016-0136|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-042|
+1007|CVE-2016-0128|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-047|Patch,Vendor Advisory
+1008|CVE-2016-0135|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-046|
+1009|CVE-2016-0165,CVE-2016-0143,CVE-2016-0145,CVE-2016-0167|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-039|
+1010|CVE-2016-0147|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-040|
+1011|CVE-2016-0148|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-041|
+1012|CVE-2016-0150|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-049|
+1013|CVE-2016-0151|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-048|
+1014|CVE-2016-0153|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-044|
+1015|CVE-2016-0162,CVE-2016-0160,CVE-2016-0166,CVE-2016-0164,CVE-2016-0154,CVE-2016-0159|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-037|
+1016|CVE-2016-0161,CVE-2016-0158,CVE-2016-0155,CVE-2016-0157,CVE-2016-0154,CVE-2016-0156|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2016/ms16-038|
+1017|CVE-2007-2217|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-055|
+1018|CVE-2007-2228|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-058|
+1019|CVE-2007-3896|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-061|
+1020|CVE-2007-3897|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-056|Patch,Vendor Advisory
+1021|CVE-2007-3899|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-060|
+1022|CVE-2007-5587|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-067|
+1023|CVE-2007-3898|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-062|
+1024|CVE-2007-0064|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-068|
+1025|CVE-2007-3039|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-065|
+1026|CVE-2007-3895,CVE-2007-3901|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-064|
+1027|CVE-2007-5350|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-066|
+1028|CVE-2007-5351|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-063|
+1029|CVE-2006-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-003|Patch,Vendor Advisory
+1030|CVE-2006-0010|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-002|
+1031|CVE-2006-0020|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-004|
+1032|CVE-2006-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-010|
+1033|CVE-2006-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-006|
+1034|CVE-2006-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-005|
+1035|CVE-2006-0008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-009|
+1036|CVE-2006-0013|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-008|
+1037|CVE-2006-0021|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-007|
+1038|CVE-2006-0023|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-011|
+1039|CVE-2006-1190,CVE-2006-1388,CVE-2006-1189,CVE-2006-1245,CVE-2006-1186,CVE-2006-1188,CVE-2006-1185,CVE-2006-1359,CVE-2006-1192,CVE-2006-1191|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-013|
+1040|CVE-2006-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-014|
+1041|CVE-2006-0012,CVE-2004-2289|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-015|
+1042|CVE-2006-0014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-016|
+1043|CVE-2006-0015|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-017|
+1044|CVE-2006-0027|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-019|Patch,Vendor Advisory
+1045|CVE-2006-0034,CVE-2006-1184|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-018|
+1046|CVE-2006-2492|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-027|
+1047|CVE-2006-0022|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-028|
+1048|CVE-2006-0025|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-024|
+1049|CVE-2006-1193|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-029|Patch,Vendor Advisory
+1050|CVE-2006-1313|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-023|
+1051|CVE-2006-2370,CVE-2006-2371|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-025|
+1052|CVE-2006-2374,CVE-2006-2373|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-030|Patch,Vendor Advisory
+1053|CVE-2006-2376|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-026|
+1054|CVE-2006-2378|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-022|
+1055|CVE-2006-2379|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-032|
+1056|CVE-2006-2380|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-031|
+1057|CVE-2006-2766|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-043|
+1058|CVE-2006-3281|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-045|
+1059|CVE-2019-9510|https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/e729948a-3f4e-4568-9aef-d355e30b5389|Patch,Vendor Advisory
+1060|CVE-2019-9510|https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)|Patch,Vendor Advisory
+1061|CVE-2011-0027,CVE-2011-0026|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-002|
+1062|CVE-2011-0096|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-026|
+1063|CVE-2011-0094,CVE-2011-0346,CVE-2011-1244,CVE-2011-1345,CVE-2011-1245|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-018|
+1064|CVE-2011-0030|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-010|
+1065|CVE-2011-0031|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-009|
+1066|CVE-2011-0033|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-007|
+1067|CVE-2011-0039|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-014|
+1068|CVE-2011-0040|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-005|
+1069|CVE-2011-0043,CVE-2011-0091|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-013|
+1070|CVE-2011-0087,CVE-2011-0089,CVE-2011-0088,CVE-2011-0090,CVE-2011-0086|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-012|
+1071|CVE-2011-0092,CVE-2011-0093|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-008|
+1072|CVE-2011-0660,CVE-2011-0654|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-019|
+1073|CVE-2011-0976,CVE-2011-0656,CVE-2011-0655|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-022|
+1074|CVE-2011-0977,CVE-2011-0107|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-023|
+1075|CVE-2011-0978,CVE-2011-0097,CVE-2011-0101,CVE-2011-0979,CVE-2011-0980,CVE-2011-0105,CVE-2011-0103,CVE-2011-0104,CVE-2011-0098|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-021|
+1076|CVE-2011-0029|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-017|
+1077|CVE-2011-0032,CVE-2011-0042|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-015|
+1078|CVE-2011-1964,CVE-2011-1347,CVE-2011-1257,CVE-2011-2383,CVE-2011-1961,CVE-2011-1960,CVE-2011-1962,CVE-2011-1963|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-057|
+1079|CVE-2010-3958|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-028|
+1080|CVE-2010-3974|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-024|
+1081|CVE-2011-0028|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-033|
+1082|CVE-2011-0034|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-032|
+1083|CVE-2011-0041|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-029|
+1084|CVE-2011-0657|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-030|
+1085|CVE-2011-0661|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-020|
+1086|CVE-2011-0673,CVE-2011-1236,CVE-2011-0667,CVE-2011-0662,CVE-2011-1228,CVE-2011-1231,CVE-2011-1229,CVE-2011-1232,CVE-2011-1238,CVE-2011-0677,CVE-2011-1235,CVE-2011-0670,CVE-2011-1226,CVE-2011-1234,CVE-2011-1233,CVE-2011-1239,CVE-2011-1230,CVE-2011-1241,CVE-2011-0665,CVE-2011-1237,CVE-2011-1225,CVE-2011-0666,CVE-2011-0675,CVE-2011-1227,CVE-2011-0674,CVE-2011-1242,CVE-2011-0672,CVE-2011-1240,CVE-2011-0671,CVE-2011-0676|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-034|Patch,Vendor Advisory
+1087|CVE-2011-0663|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-031|
+1088|CVE-2011-1248|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-035|
+1089|CVE-2011-1270,CVE-2011-1269|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-036|
+1090|CVE-2011-1271|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-044|
+1091|CVE-2011-0658|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-038|
+1092|CVE-2011-0664|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-039|
+1093|CVE-2011-1252,CVE-2011-1262,CVE-2011-1258,CVE-2011-1250,CVE-2011-1254,CVE-2011-1260,CVE-2011-1261,CVE-2011-1255,CVE-2011-1251,CVE-2011-1256,CVE-2011-1246|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-050|
+1094|CVE-2011-1249|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-046|
+1095|CVE-2011-1252,CVE-2011-1890,CVE-2011-0653,CVE-2011-1893,CVE-2011-1891,CVE-2011-1892|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-074|
+1096|CVE-2011-1264|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-051|
+1097|CVE-2011-1266|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-052|
+1098|CVE-2011-1267|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-048|
+1099|CVE-2011-1268|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-043|
+1100|CVE-2011-1275,CVE-2011-1273,CVE-2011-1272,CVE-2011-1277,CVE-2011-1276,CVE-2011-1274,CVE-2011-1278,CVE-2011-1279|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-045|
+1101|CVE-2011-1280|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-049|
+1102|CVE-2011-1868,CVE-2011-1869|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-042|
+1103|CVE-2011-1872|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-047|
+1104|CVE-2011-1873|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-041|
+1105|CVE-2011-1889|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-040|
+1106|CVE-2011-1894|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-037|
+1107|CVE-2011-1265|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-053|Patch,Vendor Advisory
+1108|CVE-2011-1281,CVE-2011-1283,CVE-2011-1282,CVE-2011-1284,CVE-2011-1870|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-056|
+1109|CVE-2011-1874,CVE-2011-1887,CVE-2011-1884,CVE-2011-1886,CVE-2011-1888,CVE-2011-1885,CVE-2011-1880,CVE-2011-1882,CVE-2011-1881,CVE-2011-1878,CVE-2011-1883,CVE-2011-1879,CVE-2011-1876,CVE-2011-1875,CVE-2011-1877|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-054|
+1110|CVE-2011-1263|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-061|
+1111|CVE-2011-1965,CVE-2011-1871|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-064|
+1112|CVE-2011-1966,CVE-2011-1970|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-058|
+1113|CVE-2011-1967|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-063|
+1114|CVE-2011-1968|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-065|
+1115|CVE-2011-1971|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-068|
+1116|CVE-2011-1979,CVE-2011-1972|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-060|
+1117|CVE-2011-1974|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-062|
+1118|CVE-2011-1975|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-059|
+1119|CVE-2011-1976|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-067|
+1120|CVE-2011-1977|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-066|
+1121|CVE-2011-1978|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-069|
+1122|CVE-2011-1980,CVE-2011-1982|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-073|
+1123|CVE-2011-1984|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-070|
+1124|CVE-2011-1989,CVE-2011-1990,CVE-2011-1986,CVE-2011-1988,CVE-2011-1987|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-072|
+1125|CVE-2011-1991|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-071|
+1126|CVE-2011-3389|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-006|
+1127|CVE-2011-1247|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-075|
+1128|CVE-2011-1253|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-078|
+1129|CVE-2011-1897,CVE-2011-2012,CVE-2011-1969,CVE-2011-1895,CVE-2011-1896|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-079|
+1130|CVE-2011-1985,CVE-2011-2002,CVE-2011-2011,CVE-2011-2003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-077|
+1131|CVE-2011-1993,CVE-2011-1996,CVE-2011-1995,CVE-2011-2001,CVE-2011-2000,CVE-2011-1997,CVE-2011-1999,CVE-2011-1998|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-081|
+1132|CVE-2011-2005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-080|
+1133|CVE-2011-2007,CVE-2011-2008|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-082|
+1134|CVE-2011-2009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-076|
+1135|CVE-2011-2004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-084|
+1136|CVE-2011-2013|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-083|
+1137|CVE-2011-2014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-086|
+1138|CVE-2011-2016|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-085|
+1139|CVE-2011-3402|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-087|
+1140|CVE-2011-3410,CVE-2011-3411,CVE-2011-3412,CVE-2011-1508|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-091|
+1141|CVE-2011-1983|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-089|
+1142|CVE-2011-3404,CVE-2011-1992,CVE-2011-2019|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-099|
+1143|CVE-2011-2010|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-088|
+1144|CVE-2011-2018|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-098|
+1145|CVE-2011-3396,CVE-2011-3413|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-094|
+1146|CVE-2011-3397|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-090|
+1147|CVE-2011-3400|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-093|
+1148|CVE-2011-3401|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-092|
+1149|CVE-2011-3403|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-096|
+1150|CVE-2011-3406|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-095|
+1151|CVE-2011-3408|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-097|
+1152|CVE-2011-3416,CVE-2011-3415,CVE-2011-3414,CVE-2011-3417|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-100|
+1153|CVE-2010-0018|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-001|
+1154|CVE-2010-0027|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-007|
+1155|CVE-2010-0233,CVE-2010-0232|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-015|
+1156|CVE-2010-0016,CVE-2010-0017|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-006|
+1157|CVE-2010-0021,CVE-2010-0231,CVE-2010-0022,CVE-2010-0020|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-012|
+1158|CVE-2010-0023|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-011|
+1159|CVE-2010-0026|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-010|
+1160|CVE-2010-0028|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-005|
+1161|CVE-2010-0033,CVE-2010-0030,CVE-2010-0031,CVE-2010-0034,CVE-2010-0032,CVE-2010-0029|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-004|
+1162|CVE-2010-0035|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-014|
+1163|CVE-2010-0241,CVE-2010-0240,CVE-2010-0242,CVE-2010-0239|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-009|
+1164|CVE-2010-0243|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-003|
+1165|CVE-2010-0250|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-013|
+1166|CVE-2010-0257,CVE-2010-0258,CVE-2010-0262,CVE-2010-0261,CVE-2010-0263,CVE-2010-0264,CVE-2010-0260|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-017|
+1167|CVE-2010-0265|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-016|
+1168|CVE-2010-0483|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-022|
+1169|CVE-2017-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-001|
+1170|CVE-2017-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-002|
+1171|CVE-2017-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-004|
+1172|CVE-2003-0002|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-002|
+1173|CVE-2003-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-001|
+1174|CVE-2003-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-005|
+1175|CVE-2003-0007|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-003|
+1176|CVE-2003-1326,CVE-2003-1328|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-004|
+1177|CVE-2003-0009|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-006|
+1178|CVE-2003-0010|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-008|
+1179|CVE-2003-0011|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-009|
+1180|CVE-2003-0109|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-007|
+1181|CVE-2002-1143|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-059|
+1182|CVE-2002-1561|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-010|
+1183|CVE-2003-0110|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-012|
+1184|CVE-2003-0111|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-011|
+1185|CVE-2003-0112|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-013|
+1186|CVE-2003-0233,CVE-2003-0114,CVE-2003-0113,CVE-2003-0115,CVE-2003-0116|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-015|
+1187|CVE-2003-0117,CVE-2003-0118|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-016|
+1188|CVE-2003-0228|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-017|
+1189|CVE-2002-0193,CVE-2002-0188,CVE-2002-0190,CVE-2002-0191,CVE-2002-0189,CVE-2002-1564|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-023|
+1190|CVE-2003-0224,CVE-2003-0223,CVE-2003-0225,CVE-2003-0226|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-018|
+1191|CVE-2003-0227|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-019|Vendor Advisory
+1192|CVE-2003-0306|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-027|
+1193|CVE-2003-0309,CVE-2003-0344|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-020|
+1194|CVE-2003-0348|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-021|
+1195|CVE-2003-0349|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-022|
+1196|CVE-2003-0230,CVE-2003-0232,CVE-2003-0231|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-031|
+1197|CVE-2003-0345|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-024|
+1198|CVE-2003-0346|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-030|
+1199|CVE-2003-0350|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-025|
+1200|CVE-2003-0352|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-026|
+1201|CVE-2003-0353|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-033|
+1202|CVE-2003-0469|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-023|
+1203|CVE-2003-0525|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-029|
+1204|CVE-2003-0526|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-028|
+1205|CVE-2003-0701,CVE-2003-0532,CVE-2003-1105,CVE-2003-0530,CVE-2003-0531|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-032|
+1206|CVE-2003-0347|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-037|
+1207|CVE-2003-0661|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-034|
+1208|CVE-2003-0664|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-035|
+1209|CVE-2003-0665|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-038|
+1210|CVE-2003-0666|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-036|
+1211|CVE-2003-0659|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-045|
+1212|CVE-2003-0660|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-041|
+1213|CVE-2003-0662|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-042|
+1214|CVE-2003-0711|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-044|
+1215|CVE-2003-0712|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-047|Patch,Vendor Advisory
+1216|CVE-2003-0714|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-046|Patch,Vendor Advisory
+1217|CVE-2003-0717|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-043|
+1218|CVE-2003-0809,CVE-2003-0838|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-040|
+1219|CVE-2003-0812|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-049|
+1220|CVE-2003-0821,CVE-2003-0820|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-050|
+1221|CVE-2003-0822,CVE-2003-0824|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-051|
+1222|CVE-2002-0077,CVE-2002-0078|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-015|
+1223|CVE-2002-0012,CVE-2002-0013,CVE-2002-0053|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-006|
+1224|CVE-2002-0018|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-001|
+1225|CVE-2002-0020|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-004|
+1226|CVE-2002-0021|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-002|
+1227|CVE-2002-0025,CVE-2002-0026,CVE-2002-0022,CVE-2002-0027,CVE-2002-0024,CVE-2002-0023|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-005|
+1228|CVE-2002-0049|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-003|Patch,Vendor Advisory
+1229|CVE-2002-0050|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-010|
+1230|CVE-2002-0052|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-009|
+1231|CVE-2002-0054|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-011|Patch,Vendor Advisory
+1232|CVE-2002-0055|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-012|Patch,Vendor Advisory
+1233|CVE-2002-0056|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-007|
+1234|CVE-2002-0057|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-008|
+1235|CVE-2002-0058,CVE-2002-0076|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-013|
+1236|CVE-2002-0070|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-014|
+1237|CVE-2002-0051|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-016|
+1238|CVE-2002-0072,CVE-2002-0079,CVE-2002-0074,CVE-2002-0075,CVE-2002-0073,CVE-2002-0148,CVE-2002-0149,CVE-2002-0150,CVE-2002-0147,CVE-2002-0071|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-018|
+1239|CVE-2002-0151|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-017|
+1240|CVE-2002-0152,CVE-2002-0153|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-019|
+1241|CVE-2002-0154|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-020|
+1242|CVE-2002-0155|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-022|
+1243|CVE-2002-1056|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-021|
+1244|CVE-2002-0367|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-024|
+1245|CVE-2002-0368|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-025|Patch,Vendor Advisory
+1246|CVE-2002-0187,CVE-2002-0186|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-030|
+1247|CVE-2002-0364|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-028|
+1248|CVE-2002-0366|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-029|
+1249|CVE-2002-0369|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-026|
+1250|CVE-2002-0371|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-027|
+1251|CVE-2002-0615,CVE-2002-0372,CVE-2002-0373|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-032|
+1252|CVE-2002-0623,CVE-2002-0622,CVE-2002-0621,CVE-2002-0620|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-033|
+1253|CVE-2002-0624,CVE-2002-0641,CVE-2002-0642|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-034|
+1254|CVE-2002-0643|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-035|
+1255|CVE-2002-1141,CVE-2002-1140,CVE-2002-0391|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-057|
+1256|CVE-2002-0617,CVE-2002-0616,CVE-2002-0619,CVE-2002-0618|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-031|
+1257|CVE-2002-0644,CVE-2002-0645|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-038|
+1258|CVE-2002-0650,CVE-2002-0649|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-039|
+1259|CVE-2002-0695|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-040|
+1260|CVE-2002-0697|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-036|
+1261|CVE-2002-0698|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-037|Patch,Vendor Advisory
+1262|CVE-2002-0719,CVE-2002-0700,CVE-2002-0718|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-041|
+1263|CVE-2002-0647,CVE-2002-0723,CVE-2002-0691,CVE-2002-0648,CVE-2002-0722|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-047|
+1264|CVE-2002-0720|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-042|
+1265|CVE-2002-0721|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-043|
+1266|CVE-2002-0724|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-045|
+1267|CVE-2002-0726|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-046|
+1268|CVE-2002-0727,CVE-2002-0861,CVE-2002-0860|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-044|
+1269|CVE-2002-0974|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-060|
+1270|CVE-2002-0980|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-014|
+1271|CVE-2002-1137,CVE-2002-1138,CVE-2002-1123|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-056|
+1272|CVE-2002-1139,CVE-2002-0370|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-054|
+1273|CVE-2002-0692|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-053|
+1274|CVE-2002-0693,CVE-2002-0694|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-055|
+1275|CVE-2002-0696|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-049|
+1276|CVE-2002-0699|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-048|
+1277|CVE-2002-0862,CVE-2002-1183|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-050|
+1278|CVE-2002-0863,CVE-2002-0864|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-051|
+1279|CVE-2002-0865,CVE-2002-0866,CVE-2002-0867|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-052|
+1280|CVE-2002-1145|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-061|
+1281|CVE-2002-1179|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-058|
+1282|CVE-2002-1214|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-063|
+1283|CVE-2002-1186,CVE-2002-1217,CVE-2002-1254,CVE-2002-1188,CVE-2002-1185,CVE-2002-1187|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-066|
+1284|CVE-2002-1180,CVE-2002-1182,CVE-2002-0869,CVE-2002-1181|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-062|
+1285|CVE-2002-1142|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-065|
+1286|CVE-2002-1184|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-064|
+1287|CVE-2002-1230|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-071|
+1288|CVE-2002-1292,CVE-2002-1257,CVE-2002-1258,CVE-2002-1260,CVE-2002-1325,CVE-2002-1295|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-069|
+1289|CVE-2002-1255|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-067|
+1290|CVE-2002-1256|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-070|
+1291|CVE-2002-1262|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-068|
+1292|CVE-2002-1327|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2002/ms02-072|
+1293|CVE-2000-1039|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-091|
+1294|CVE-2000-1086,CVE-2000-1088,CVE-2000-1087,CVE-2000-1081,CVE-2000-1082,CVE-2000-1083,CVE-2000-1084,CVE-2000-1085|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-092|
+1295|CVE-2000-1089|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-094|
+1296|CVE-2000-1104|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-060|
+1297|CVE-2000-1112,CVE-2000-1113|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-090|
+1298|CVE-2000-1139|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-088|Patch,Vendor Advisory
+1299|CVE-2000-1149|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-087|
+1300|CVE-2001-0003|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-001|
+1301|CVE-2001-0004|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-004|
+1302|CVE-2001-0005|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-002|
+1303|CVE-2001-0006|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-003|
+1304|CVE-2001-0014|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-006|
+1305|CVE-2001-0047,CVE-2001-0046,CVE-2001-0045|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-095|
+1306|CVE-2001-0048|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-099|
+1307|CVE-2001-0083|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-097|
+1308|CVE-2001-0089,CVE-2001-0091,CVE-2001-0090,CVE-2001-0092|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-093|
+1309|CVE-2001-0096|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2000/ms00-100|
+1310|CVE-2001-0015|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-007|
+1311|CVE-2001-0016|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-008|
+1312|CVE-2001-0017|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-009|
+1313|CVE-2001-0137|https://docs.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-010|
+1314|CVE-2020-5227|https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/november/xml-denial-of-service-attacks-and-defenses|Exploit,Vendor Advisory,Patch,Third Party Advisory

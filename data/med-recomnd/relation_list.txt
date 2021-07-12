@@ -1,0 +1,15 @@
+Patient::Disease 0
+Patient::Drug 1
+ICD9::Parent::to::Children 2
+ICD9::Parent::to::Children::reverse 3
+DRUGBANK::carrier::Compound:Gene 4
+DRUGBANK::carrier::Compound:Gene::reverse 5
+DRUGBANK::ddi-interactor-in::Compound:Compound 6
+DRUGBANK::enzyme::Compound:Gene 7
+DRUGBANK::enzyme::Compound:Gene::reverse 8
+DRUGBANK::target::Compound:Gene 9
+DRUGBANK::target::Compound:Gene::reverse 10
+DRUGBANK::x-atc::Compound:Atc 11
+DRUGBANK::x-atc::Compound:Atc::reverse 12
+Drug:to:Disease 13
+Disease:to:Drug 14

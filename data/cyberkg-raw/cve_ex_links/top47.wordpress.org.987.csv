@@ -1,0 +1,1372 @@
+|cve-ids|ex_url|types
+0|CVE-2006-4028|http://wordpress.org/development/2006/07/wordpress-204/|Patch
+1|CVE-2006-4208|http://trac.wordpress.org/changeset/4095|
+2|CVE-2006-5705|http://trac.wordpress.org/changeset/4226|
+3|CVE-2006-5705|http://wordpress.org/development/2006/10/205-ronan/|Patch
+4|CVE-2006-6016|http://trac.wordpress.org/ticket/3142|
+5|CVE-2006-6017|http://trac.wordpress.org/ticket/2591|
+6|CVE-2006-6808|http://trac.wordpress.org/changeset/4665|
+7|CVE-2005-1102|http://wordpress.org/support/topic.php?id=30721|Patch,Vendor Advisory
+8|CVE-2018-7433,CVE-2020-36176,CVE-2018-12636|https://wordpress.org/plugins/better-wp-security/#developers|Product,Release Notes,Third Party Advisory
+9|CVE-2018-7204|https://plugins.trac.wordpress.org/changeset/1823035/file-manager|Patch,Third Party Advisory
+10|CVE-2018-7204|https://wordpress.org/plugins/file-manager/#developers|Third Party Advisory
+11|CVE-2018-0546|https://plugins.trac.wordpress.org/changeset/1742744/|Third Party Advisory
+12|CVE-2018-0546,CVE-2018-20978,CVE-2015-9330,CVE-2018-0547,CVE-2015-9331,CVE-2015-9329,CVE-2017-18567|https://wordpress.org/plugins/wp-all-import/#developers|Release Notes,Third Party Advisory
+13|CVE-2018-0547|https://plugins.trac.wordpress.org/changeset/1827741/|Third Party Advisory
+14|CVE-2014-10387,CVE-2016-10930,CVE-2019-7299,CVE-2014-10390,CVE-2019-15331,CVE-2018-1000131,CVE-2014-10389,CVE-2014-10388,CVE-2014-10391|https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/#developers|Release Notes,Third Party Advisory
+15|CVE-2018-8711,CVE-2018-8710|https://wordpress.org/plugins/woocommerce-products-filter/#developers|Release Notes
+16|CVE-2018-8729|https://plugins.trac.wordpress.org/changeset/1836276|Patch,Third Party Advisory
+17|CVE-2016-10890,CVE-2018-8729,CVE-2016-10891|https://wordpress.org/plugins/aryo-activity-log/#developers|Release Notes,Third Party Advisory
+18|CVE-2014-2274|https://wordpress.org/plugins/subscribe-to-comments-reloaded/#developers|Third Party Advisory
+19|CVE-2014-2550|https://wordpress.org/plugins/disable-comments/#developers|Product,Third Party Advisory
+20|CVE-2015-9297,CVE-2018-0576,CVE-2018-9020,CVE-2012-6716,CVE-2019-16523,CVE-2013-7478,CVE-2018-13137,CVE-2013-7479,CVE-2015-9299,CVE-2015-9300,CVE-2013-7477,CVE-2013-7480,CVE-2015-9298|https://wordpress.org/plugins/events-manager/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+21|CVE-2014-6604|https://plugins.trac.wordpress.org/changeset/993564/subscribe2|Release Notes,Third Party Advisory
+22|CVE-2015-9339,CVE-2015-9338,CVE-2015-9340,CVE-2015-9341,CVE-2018-9844,CVE-2020-10564,CVE-2018-9172|https://wordpress.org/plugins/wp-file-upload/#developers|Vendor Advisory,Release Notes,Third Party Advisory
+23|CVE-2019-11185,CVE-2018-18460,CVE-2018-11105,CVE-2018-9864,CVE-2017-18507,CVE-2019-12498,CVE-2017-18508,CVE-2019-14950,CVE-2016-10879,CVE-2014-10386|https://wordpress.org/plugins/wp-live-chat-support/#developers|Patch,Release Notes,Product,Vendor Advisory,Third Party Advisory
+24|CVE-2015-4557|https://plugins.trac.wordpress.org/changeset/1178744/nextend-twitter-connect|Third Party Advisory
+25|CVE-2014-6412|https://core.trac.wordpress.org/ticket/28633|Vendor Advisory,Issue Tracking
+26|CVE-2018-10100,CVE-2018-10101,CVE-2018-10102|https://codex.wordpress.org/Version_4.9.5|Vendor Advisory
+27|CVE-2018-10100|https://core.trac.wordpress.org/changeset/42892|Vendor Advisory
+28|CVE-2018-10100,CVE-2018-10101,CVE-2018-10102|https://wordpress.org/news/2018/04/wordpress-4-9-5-security-and-maintenance-release/|Vendor Advisory,Third Party Advisory
+29|CVE-2018-10101|https://core.trac.wordpress.org/changeset/42894|Patch,Vendor Advisory
+30|CVE-2018-10102|https://core.trac.wordpress.org/changeset/42893|Patch,Third Party Advisory
+31|CVE-2018-7747|https://wordpress.org/plugins/caldera-forms/#developers|Product,Release Notes
+32|CVE-2020-36155,CVE-2018-0585,CVE-2018-20965,CVE-2019-14945,CVE-2018-10234,CVE-2020-36156,CVE-2020-36157,CVE-2018-0587,CVE-2015-9304,CVE-2018-0586,CVE-2018-0590,CVE-2020-36170,CVE-2019-14947,CVE-2018-10233,CVE-2020-6859,CVE-2018-17866,CVE-2018-0588,CVE-2018-0589,CVE-2019-14946,CVE-2016-10872|https://wordpress.org/plugins/ultimate-member/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+33|CVE-2018-10309|https://wordpress.org/plugins/responsive-cookie-consent/#developers|Third Party Advisory
+34|CVE-2018-10310|https://wordpress.org/plugins/uk-cookie-consent/#developers|Product,Release Notes
+35|CVE-2014-5014|https://wordpress.org/plugins/wordpress-flash-uploader/changelog/|Release Notes
+36|CVE-2014-5014|https://wordpress.org/support/topic/vulnerability-discovered-2/|Issue Tracking
+37|CVE-2018-10504,CVE-2019-11590,CVE-2019-10866|https://wordpress.org/plugins/form-maker/#developers|Release Notes,Third Party Advisory
+38|CVE-2015-9538,CVE-2015-9537,CVE-2016-10889,CVE-2015-9228,CVE-2019-14314,CVE-2018-1000172,CVE-2018-7586|https://wordpress.org/plugins/nextgen-gallery/#developers|Vendor Advisory,Release Notes,Third Party Advisory
+39|CVE-2018-10371|https://wordpress.org/plugins/wf-cookie-consent/#developers|Release Notes,Third Party Advisory
+40|CVE-2016-10878,CVE-2015-9309,CVE-2015-9305,CVE-2015-9308,CVE-2018-0577,CVE-2015-9307|https://wordpress.org/plugins/wp-google-map-plugin/#developers|Release Notes,Exploit,Vendor Advisory,Third Party Advisory
+41|CVE-2018-0578|https://wordpress.org/plugins/pixelyoursite/#developers|Third Party Advisory
+42|CVE-2018-0579|https://wordpress.org/plugins/wonderm00ns-simple-facebook-open-graph-tags/#developers|Third Party Advisory
+43|CVE-2018-11366|https://plugins.trac.wordpress.org/changeset/1878502/loginizer|Patch
+44|CVE-2018-11366|https://wordpress.org/plugins/loginizer/#developers|Release Notes
+45|CVE-2019-19589|https://wordpress.org/plugins/pdf-embedder/#developers|Release Notes
+46|CVE-2013-5978|http://wordpress.org/plugins/cart66-lite/changelog|Release Notes,Third Party Advisory
+47|CVE-2019-19198|https://wordpress.org/plugins/scoutnet-kalender/#developers|Vendor Advisory,Release Notes
+48|CVE-2019-17599,CVE-2019-9575|https://wordpress.org/plugins/quiz-master-next/#developers|Product,Release Notes,Third Party Advisory
+49|CVE-2019-6011,CVE-2019-6012|https://wordpress.org/plugins/wpdatatables/|Third Party Advisory
+50|CVE-2019-6027|https://wordpress.org/plugins/wp-spell-check/|Product,Vendor Advisory,Release Notes
+51|CVE-2019-6029,CVE-2019-6030|https://wordpress.org/plugins/wp-custom-body-class/|Vendor Advisory,Release Notes
+52|CVE-2019-20042,CVE-2019-20043,CVE-2019-16781,CVE-2019-20041,CVE-2019-16780|https://wordpress.org/news/2019/12/wordpress-5-3-1-security-and-maintenance-release/|Release Notes,Vendor Advisory,Third Party Advisory
+53|CVE-2019-20042|https://core.trac.wordpress.org/changeset/46894/trunk|Patch
+54|CVE-2019-20043|https://core.trac.wordpress.org/changeset/46893/trunk|Patch
+55|CVE-2014-4525|http://wordpress.org/plugins/ebay-feeds-for-wordpress/changelog|Release Notes
+56|CVE-2014-4567|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=839986%40video-comments-webcam-recorder&old=686438%40video-comments-webcam-recorder|Patch
+57|CVE-2014-4536|http://wordpress.org/plugins/infusionsoft/changelog|Release Notes
+58|CVE-2018-3810,CVE-2018-3811|https://wordpress.org/plugins/smart-google-code-inserter/#developers|Release Notes,Third Party Advisory
+59|CVE-2017-18010|https://wordpress.org/plugins/smart-marketing-for-wp/#developers|Release Notes,Third Party Advisory
+60|CVE-2017-18011|https://wordpress.org/support/topic/affiliate-ads-for-clickbank-products-1-3-xss/|Exploit,Third Party Advisory
+61|CVE-2017-18012|https://plugins.svn.wordpress.org/z-url-preview/trunk/readme.txt|Vendor Advisory,Release Notes
+62|CVE-2017-18012|https://wordpress.org/plugins/z-url-preview/#developers|Release Notes
+63|CVE-2017-18012|https://wordpress.org/support/topic/z-url-preview-1-6-1-cross-site-scripting/|Exploit,Vendor Advisory,Issue Tracking
+64|CVE-2017-18015|https://wordpress.org/plugins/share-this-image/#developers|Release Notes
+65|CVE-2017-18015|https://wordpress.org/support/topic/share-this-image-1-03-cross-site-scripting/|Exploit,Issue Tracking
+66|CVE-2018-5212|https://wordpress.org/support/topic/stored-xss-bug-at-the-latest-version-of-simple-download-monitor/|Broken Link
+67|CVE-2018-5214|https://wordpress.org/support/topic/stored-xss-bug-at-the-latest-version-of-add-link-to-facebook/|Broken Link
+68|CVE-2014-8336,CVE-2014-8335|https://wordpress.org/plugins/wp-dbmanager/#developers|Third Party Advisory
+69|CVE-2018-5285,CVE-2018-5284|https://wordpress.org/support/topic/stored-xss-csrf-bug-at-the-latest-version-of-imageinject/|Broken Link
+70|CVE-2018-5292|https://wordpress.org/support/topic/xss-lfi-bugs-at-the-latest-version-of-gd-rating-system/|Broken Link
+71|CVE-2018-5310|https://wordpress.org/plugins/media-from-ftp/#developers|Product,Release Notes
+72|CVE-2018-5310|https://wordpress.org/support/topic/any-directory-traversal-bugs-at-the-latest-version-of-media-from-ftp/|Broken Link
+73|CVE-2018-5311|https://wordpress.org/support/topic/stored-xss-bugs-at-the-latest-version-of-easy-custom-auto-excerpt/|Broken Link
+74|CVE-2018-5312|https://wordpress.org/support/topic/stored-xss-bugs-at-the-latest-version-of-tabs-responsive/|Broken Link
+75|CVE-2018-5316|https://wordpress.org/plugins/sagepay-server-gateway-for-woocommerce/#developers|Third Party Advisory
+76|CVE-2018-5316|https://wordpress.org/support/topic/sagepay-server-gateway-for-woocommerce-1-0-7-cross-site-scripting/#post-9792337|Third Party Advisory
+77|CVE-2017-2216,CVE-2019-15889,CVE-2017-18032,CVE-2017-2217|https://wordpress.org/plugins/download-manager/#developers|Patch,Release Notes,Product,Vendor Advisory,Third Party Advisory
+78|CVE-2018-5776|https://codex.wordpress.org/Version_4.9.2|Product,Vendor Advisory
+79|CVE-2018-5776|https://wordpress.org/news/2018/01/wordpress-4-9-2-security-and-maintenance-release/|Vendor Advisory,Release Notes
+80|CVE-2018-6015,CVE-2019-13569,CVE-2019-14364,CVE-2018-0602|https://wordpress.org/plugins/email-subscribers/#developers|Vendor Advisory,Release Notes,Third Party Advisory
+81|CVE-2018-6357|https://wordpress.org/plugins/acurax-social-media-widget/#developers|Third Party Advisory
+82|CVE-2018-6194,CVE-2018-6195|https://plugins.trac.wordpress.org/changeset/1807349/wp-splashing-images|Patch,Vendor Advisory
+83|CVE-2018-6465|https://wordpress.org/plugins/propertyhive/#developers|Vendor Advisory,Release Notes
+84|CVE-2018-6465|https://wordpress.org/support/topic/wordpress-propertyhive-1-4-14-cross-site-scripting/|Third Party Advisory
+85|CVE-2018-0511|https://plugins.trac.wordpress.org/changeset/1802137/#file1|Patch,Third Party Advisory
+86|CVE-2018-6891|https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/#developers|Release Notes,Third Party Advisory
+87|CVE-2020-36173,CVE-2017-18574,CVE-2020-8594,CVE-2019-15025,CVE-2018-19287,CVE-2020-12462,CVE-2020-36175,CVE-2018-20981,CVE-2018-19796,CVE-2018-20980,CVE-2018-7280,CVE-2018-16308,CVE-2020-36174|https://wordpress.org/plugins/ninja-forms/#developers|Release Notes,Issue Tracking,Product,Vendor Advisory,Third Party Advisory
+88|CVE-2014-4520|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=904684%40dmca-watermarker&old=549072%40dmca-watermarker|Exploit,Patch
+89|CVE-2014-4521|http://wordpress.org/plugins/dsidxpress/changelog|
+90|CVE-2014-4524|http://wordpress.org/plugins/easy-post-types/changelog|Patch
+91|CVE-2014-4524|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=842687%40easy-post-types&old=806912%40easy-post-types&sfp_email=&sfph_mail=|
+92|CVE-2014-4527|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=843064%40envialosimple-email-marketing-y-newsletters-gratis&old=839677%40envialosimple-email-marketing-y-newsletters-gratis&sfp_email=&sfph_mail=|
+93|CVE-2014-4547|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=848542%40rezgo-online-booking&old=748531%40rezgo-online-booking&sfp_email=&sfph_mail=#file500|
+94|CVE-2014-4549|http://wordpress.org/plugins/sagepay-direct-for-woocommerce-payment-gateway/changelog|Patch
+95|CVE-2014-4554|http://wordpress.org/plugins/ss-downloads/changelog|Patch
+96|CVE-2014-4600|http://plugins.svn.wordpress.org/wp-ultimate-email-marketer/trunk/Readme.txt|
+97|CVE-2014-4532|http://wordpress.org/plugins/garagesale/changelog|Patch
+98|CVE-2014-4568|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=839990%40video-posts-webcam-recorder&old=686450%40video-posts-webcam-recorder&sfp_email=&sfph_mail=|
+99|CVE-2014-4569|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=833654%40videowhisper-live-streaming-integration&old=833649%40videowhisper-live-streaming-integration&sfp_email=&sfph_mail=|Exploit,Patch
+100|CVE-2014-4570|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=839980%40videowhisper-video-presentation&old=600781%40videowhisper-video-presentation&sfp_email=&sfph_mail=#file4|
+101|CVE-2014-4574|http://wordpress.org/plugins/webengage/changelog|Patch
+102|CVE-2014-4574|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=844373%40webengage&old=788585%40webengage&sfp_email=&sfph_mail=|
+103|CVE-2014-4594|http://wordpress.org/plugins/wp-responsive-preview/changelog|Patch
+104|CVE-2014-4597|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=848497%40wp-social-invitations&old=829444%40wp-social-invitations&sfp_email=&sfph_mail=#file239|Patch
+105|CVE-2014-4598|https://plugins.trac.wordpress.org/changeset/846043|
+106|CVE-2014-5344|http://wordpress.org/plugins/mobiloud-mobile-app-plugin/changelog|Patch
+107|CVE-2014-5347,CVE-2014-5345|https://wordpress.org/plugins/disqus-comment-system/other_notes|Patch
+108|CVE-2014-3907|http://wordpress.org/plugins/wysija-newsletters/changelog/|Patch
+109|CVE-2014-5196|http://wordpress.org/plugins/improved-user-search-in-backend/changelog|Patch,Vendor Advisory
+110|CVE-2014-5180|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=900030%40hdw-player-video-player-video-gallery&old=798976%40hdw-player-video-player-video-gallery&sfp_email=&sfph_mail=|Exploit,Patch
+111|CVE-2014-5182|http://wordpress.org/plugins/yawpp/changelog/|Patch
+112|CVE-2014-5182|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=834445%40yawpp&old=824042%40yawpp&sfp_email=&sfph_mail=#file36|Exploit,Patch
+113|CVE-2014-5183|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=861170%40simple-retail-menus&old=728969%40simple-retail-menus&sfp_email=&sfph_mail=#file1|Exploit,Patch
+114|CVE-2014-5199|http://wordpress.org/plugins/wp-file-upload/changelog|Patch,Vendor Advisory
+115|CVE-2014-8622,CVE-2014-5202|http://downloads.wordpress.org/plugin/compfight.1.5.zip|Patch
+116|CVE-2014-8622,CVE-2014-5202|http://wordpress.org/plugins/compfight/changelog/|Patch,Vendor Advisory
+117|CVE-2014-5203|https://core.trac.wordpress.org/changeset/29389|
+118|CVE-2014-5204,CVE-2014-5266,CVE-2014-5205,CVE-2014-2053,CVE-2014-5265,CVE-2014-5240,CVE-2014-5203|https://wordpress.org/news/2014/08/wordpress-3-9-2/|Patch,Vendor Advisory
+119|CVE-2014-5204|https://core.trac.wordpress.org/changeset/29384|
+120|CVE-2014-5205|https://core.trac.wordpress.org/changeset/29408|
+121|CVE-2014-5265,CVE-2014-5266|https://core.trac.wordpress.org/changeset/29404|
+122|CVE-2012-6653|http://wordpress.org/plugins/all-video-gallery/changelog/|Patch
+123|CVE-2014-5337|http://wordpress.org/plugins/wordpress-mobile-pack/changelog/|Patch
+124|CVE-2014-5240|https://core.trac.wordpress.org/changeset/29398|
+125|CVE-2014-5460|https://wordpress.org/plugins/slideshow-gallery/changelog|Patch
+126|CVE-2014-7152|https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/changelog/|
+127|CVE-2014-6445|https://wordpress.org/plugins/contact-form-7-integrations/changelog/|
+128|CVE-2014-6446|https://wordpress.org/plugins/infusionsoft/changelog/|Patch
+129|CVE-2014-5465|http://wordpress.org/plugins/download-shortcode/changelog/|Patch
+130|CVE-2014-5465|http://wordpress.org/support/topic/plugin-download-shortcode-security-issue|Patch,Vendor Advisory
+131|CVE-2014-5465|http://wordpress.org/support/topic/vulnerability-5|Patch
+132|CVE-2014-4514|https://plugins.trac.wordpress.org/changeset/847094|Patch
+133|CVE-2014-6242|https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/changelog|Vendor Advisory
+134|CVE-2014-6243|https://wordpress.org/plugins/ewww-image-optimizer/changelog|Patch
+135|CVE-2011-4624|http://plugins.trac.wordpress.org/changeset/469785|
+136|CVE-2011-4624|http://wordpress.org/extend/plugins/flash-album-gallery/changelog/|Patch
+137|CVE-2014-6312|https://wordpress.org/plugins/login-sidebar-widget/changelog|
+138|CVE-2014-5389|https://wordpress.org/plugins/content-audit/changelog|
+139|CVE-2014-4577|http://plugins.svn.wordpress.org/wp-amasin-the-amazon-affiliate-shop/trunk/readme.txt|Vendor Advisory
+140|CVE-2014-8334|https://wordpress.org/plugins/wp-dbmanager/changelog/|Patch
+141|CVE-2014-2559,CVE-2014-2995|http://wordpress.org/plugins/twitget/changelog|Vendor Advisory
+142|CVE-2014-7138|https://wordpress.org/plugins/google-calendar-events/changelog|Vendor Advisory
+143|CVE-2014-7139|https://wordpress.org/plugins/contact-form-7-to-database-extension/changelog|
+144|CVE-2014-6313|https://wordpress.org/plugins/woocommerce/changelog|
+145|CVE-2014-6315|https://plugins.trac.wordpress.org/changeset?new=986500|Exploit
+146|CVE-2014-7181|https://wordpress.org/plugins/maxbuttons/changelog|Vendor Advisory
+147|CVE-2014-7182|https://wordpress.org/plugins/wp-google-maps/changelog|Patch
+148|CVE-2014-6230|https://wordpress.org/plugins/wp-ban/changelog/|Vendor Advisory
+149|CVE-2014-4664|https://wordpress.org/plugins/wordfence/changelog/|Patch,Vendor Advisory
+150|CVE-2014-8584|https://wordpress.org/plugins/player/changelog|Vendor Advisory
+151|CVE-2014-7958,CVE-2014-8749,CVE-2014-7959|https://wordpress.org/plugins/bulletproof-security/changelog/|Patch,Vendor Advisory
+152|CVE-2014-9097|http://wordpress.org/plugins/contus-video-gallery/changelog|Patch,Vendor Advisory
+153|CVE-2014-9034|http://core.trac.wordpress.org/changeset/30467|Vendor Advisory
+154|CVE-2014-9036,CVE-2014-9037,CVE-2014-9039,CVE-2014-9035,CVE-2014-9033,CVE-2014-9034,CVE-2014-9031,CVE-2014-9032,CVE-2014-9038|https://wordpress.org/news/2014/11/wordpress-4-0-1/|Patch,Vendor Advisory
+155|CVE-2014-9038|https://core.trac.wordpress.org/changeset/30444|Vendor Advisory
+156|CVE-2014-9039|http://core.trac.wordpress.org/changeset/30431|Vendor Advisory
+157|CVE-2014-9033|http://core.trac.wordpress.org/changeset/30418|Vendor Advisory
+158|CVE-2014-8799|https://plugins.trac.wordpress.org/changeset/1024640/dukapress|Vendor Advisory
+159|CVE-2014-8799|https://wordpress.org/plugins/dukapress/changelog/|Vendor Advisory
+160|CVE-2014-8801|https://wordpress.org/plugins/paid-memberships-pro/changelog/|Release Notes,Third Party Advisory
+161|CVE-2014-8724,CVE-2014-9414|https://wordpress.org/plugins/w3-total-cache/changelog/|Vendor Advisory
+162|CVE-2014-9177|https://wordpress.org/plugins/html5-mp3-player-with-playlist/changelog/|Patch,Vendor Advisory
+163|CVE-2014-8800,CVE-2015-4413|https://wordpress.org/plugins/nextend-facebook-connect/changelog/|Vendor Advisory,Release Notes,Third Party Advisory
+164|CVE-2014-9413|https://wordpress.org/plugins/simple-ip-ban/changelog/|Patch,Vendor Advisory
+165|CVE-2014-9305,CVE-2014-9442,CVE-2014-9461|https://wordpress.org/plugins/cart66-lite/changelog/|Patch,Vendor Advisory
+166|CVE-2014-9173|https://plugins.trac.wordpress.org/changeset/1023572/google-document-embedder|Exploit
+167|CVE-2014-9174|https://wordpress.org/plugins/google-analytics-for-wordpress/changelog/|Vendor Advisory
+168|CVE-2011-4618|http://plugins.trac.wordpress.org/changeset?reponame=&new=466102@advanced-text-widget&old=465828@advanced-text-widget|Exploit,Patch
+169|CVE-2011-4618|http://wordpress.org/extend/plugins/advanced-text-widget/changelog/|
+170|CVE-2011-4618|http://wordpress.org/support/topic/wordpress-advanced-text-widget-plugin-cross-site-scripting-vulnerabilities|
+171|CVE-2011-5254|http://wordpress.org/extend/plugins/connections/changelog/|
+172|CVE-2012-6506|http://plugins.trac.wordpress.org/changeset?reponame=&old=537613%40zingiri-web-shop&new=537613%40zingiri-web-shop|Exploit,Patch
+173|CVE-2012-6506,CVE-2012-4033|http://wordpress.org/extend/plugins/zingiri-web-shop/changelog/|
+174|CVE-2012-6527|http://plugins.trac.wordpress.org/changeset/490070/my-calendar|Exploit,Patch
+175|CVE-2012-6527|http://wordpress.org/extend/plugins/my-calendar/changelog/|
+176|CVE-2011-5264|http://plugins.trac.wordpress.org/changeset?reponame=&new=470737%40lazyest-backup&old=468541%40lazyest-backup|Exploit,Patch
+177|CVE-2011-5264|http://wordpress.org/extend/plugins/lazyest-backup/changelog/|Patch
+178|CVE-2009-2334|http://wordpress.org/development/2009/07/wordpress-2-8-1/|Vendor Advisory
+179|CVE-2009-2762|http://core.trac.wordpress.org/changeset/11798|Vendor Advisory
+180|CVE-2009-2762|http://wordpress.org/development/2009/08/2-8-4-security-release/|Patch,Vendor Advisory
+181|CVE-2009-2851|http://wordpress.org/development/2009/07/wordpress-2-8-2/|Patch,Vendor Advisory
+182|CVE-2009-2853|http://core.trac.wordpress.org/changeset/11768|Exploit,Vendor Advisory
+183|CVE-2009-2853|http://core.trac.wordpress.org/changeset/11769|Exploit,Vendor Advisory
+184|CVE-2009-2853,CVE-2009-2854|http://wordpress.org/development/2009/08/wordpress-2-8-3-security-release/|Patch,Vendor Advisory
+185|CVE-2009-2854|http://core.trac.wordpress.org/changeset/11765|Vendor Advisory
+186|CVE-2009-2854|http://core.trac.wordpress.org/changeset/11766|Vendor Advisory
+187|CVE-2009-3622|http://wordpress.org/development/2009/10/wordpress-2-8-5-hardening-release/|Vendor Advisory
+188|CVE-2009-3890|http://core.trac.wordpress.org/ticket/11122|Vendor Advisory,Issue Tracking
+189|CVE-2009-3890,CVE-2009-3891|http://wordpress.org/development/2009/11/wordpress-2-8-6-security-release/|Patch,Vendor Advisory
+190|CVE-2009-3891|http://core.trac.wordpress.org/attachment/ticket/11119/press-this-xss-bug-11-10-2009.patch|Patch,Vendor Advisory
+191|CVE-2009-3891|http://core.trac.wordpress.org/attachment/ticket/11119/press-this.002.diff|Patch,Vendor Advisory
+192|CVE-2009-3891|http://core.trac.wordpress.org/ticket/11119|Vendor Advisory
+193|CVE-2009-4140|http://wordpress.org/extend/plugins/woopra/changelog/|
+194|CVE-2015-4617,CVE-2015-4615|https://wordpress.org/plugins/easy2map-photos|Product,Third Party Advisory
+195|CVE-2019-9567,CVE-2019-9568|https://wordpress.org/plugins/forminator/#developers|Vendor Advisory,Release Notes
+196|CVE-2019-9574,CVE-2019-9573|https://wordpress.org/plugins/hrm/#developers|Product,Third Party Advisory
+197|CVE-2019-9576,CVE-2019-17550|https://wordpress.org/plugins/blog2social/#developers|Product,Third Party Advisory
+198|CVE-2019-9646,CVE-2018-20963,CVE-2018-20964|https://wordpress.org/plugins/contact-form-to-email/#developers|Third Party Advisory
+199|CVE-2019-15114,CVE-2019-5920|https://wordpress.org/plugins/formcraft-form-builder/#developers|Issue Tracking,Release Notes,Third Party Advisory
+200|CVE-2019-5924|https://wordpress.org/plugins/smart-forms/#developers|Product,Third Party Advisory
+201|CVE-2019-9787|https://wordpress.org/news/2019/03/wordpress-5-1-1-security-and-maintenance-release/|Vendor Advisory,Release Notes
+202|CVE-2019-9787|https://wordpress.org/support/wordpress-version/version-5-1-1/|Vendor Advisory,Release Notes
+203|CVE-2019-14979,CVE-2019-7441|https://wordpress.org/support/topic/vulnerabilty-in-plugin/#post-11899173|
+204|CVE-2019-9978|https://wordpress.org/plugins/social-warfare/#developers|Product,Third Party Advisory
+205|CVE-2019-1010257|https://wordpress.org/support/topic/pdf-download-path-improperly-sanitised/|Third Party Advisory
+206|CVE-2019-10692|https://plugins.trac.wordpress.org/changeset?old_path=%2Fwp-google-maps&old=2061433&new_path=%2Fwp-google-maps&new=2061434&sfp_email=&sfph_mail=#file755|Patch,Third Party Advisory
+207|CVE-2019-10692,CVE-2019-14792|https://wordpress.org/plugins/wp-google-maps/#developers|Third Party Advisory
+208|CVE-2018-16966,CVE-2020-25213,CVE-2018-16967|https://wordpress.org/plugins/wp-file-manager/#developers|Product,Third Party Advisory
+209|CVE-2019-11223|https://wordpress.org/plugins/supportcandy/#developers|Product,Third Party Advisory
+210|CVE-2019-11557|https://wordpress.org/plugins/contact-form-builder/#developers|Release Notes
+211|CVE-2019-11565|https://plugins.trac.wordpress.org/changeset?old_path=%2Fprint-my-blog%2Ftrunk&old=2075667&new_path=%2Fprint-my-blog%2Ftrunk&new=2075667|Patch,Third Party Advisory
+212|CVE-2019-11565|https://wordpress.org/plugins/print-my-blog/#developers|Release Notes,Third Party Advisory
+213|CVE-2019-11591|https://wordpress.org/plugins/contact-form-maker/#developers|Third Party Advisory
+214|CVE-2019-11871|https://wordpress.org/plugins/custom-field-suite/#developers|Product,Release Notes,Third Party Advisory
+215|CVE-2018-20838|https://plugins.trac.wordpress.org/browser/accelerated-mobile-pages/trunk/changelog.txt|Release Notes,Third Party Advisory
+216|CVE-2018-20838|https://wordpress.org/plugins/accelerated-mobile-pages/#developers|Release Notes,Third Party Advisory
+217|CVE-2019-11886|https://wordpress.org/plugins/yellow-pencil-visual-theme-customizer/#developers|Release Notes,Third Party Advisory
+218|CVE-2012-6652|https://wordpress.org/support/topic/pageflipbook-pageflipbook_language-parameter-local-file-inclusion/|Third Party Advisory
+219|CVE-2019-9618|https://wordpress.org/plugins/gracemedia-media-player/#developers|Release Notes,Third Party Advisory
+220|CVE-2017-2168,CVE-2019-12239|https://wordpress.org/plugins/wp-booking-system/#developers|Product,Vendor Advisory,Release Notes,Third Party Advisory
+221|CVE-2019-12345|https://wordpress.org/plugins/hostel/#developers|Release Notes,Third Party Advisory
+222|CVE-2018-18576,CVE-2019-11872|https://wordpress.org/plugins/wordpress-popup/#developers|Release Notes,Third Party Advisory
+223|CVE-2016-1209,CVE-2015-2220,CVE-2014-9688|https://wordpress.org/plugins/ninja-forms/changelog/|
+224|CVE-2015-5715,CVE-2015-5714,CVE-2015-7989|https://codex.wordpress.org/Version_4.3.1|Patch,Vendor Advisory
+225|CVE-2015-5715,CVE-2015-5714,CVE-2015-7989|https://wordpress.org/news/2015/09/wordpress-4-3-1/|Patch,Vendor Advisory
+226|CVE-2015-8834|https://codex.wordpress.org/Version_4.2.2|Patch
+227|CVE-2015-3429,CVE-2015-8834|https://wordpress.org/news/2015/05/wordpress-4-2-2/|Patch,Vendor Advisory
+228|CVE-2016-1564|https://codex.wordpress.org/Version_4.4.1|Patch,Vendor Advisory
+229|CVE-2016-1564|https://core.trac.wordpress.org/changeset/36185|
+230|CVE-2016-1564|https://wordpress.org/news/2016/01/wordpress-4-4-1-security-and-maintenance-release/|Patch,Vendor Advisory
+231|CVE-2016-2221,CVE-2016-2222|https://codex.wordpress.org/Version_4.4.2|Patch
+232|CVE-2016-2221|https://core.trac.wordpress.org/changeset/36444|Patch
+233|CVE-2016-2221,CVE-2016-2222|https://wordpress.org/news/2016/02/wordpress-4-4-2-security-and-maintenance-release/|Patch,Vendor Advisory
+234|CVE-2016-2222|https://core.trac.wordpress.org/changeset/36435|
+235|CVE-2016-4566,CVE-2016-4567|https://codex.wordpress.org/Version_4.5.2|Patch,Vendor Advisory
+236|CVE-2016-4566|https://core.trac.wordpress.org/changeset/37382/|Patch
+237|CVE-2016-4566,CVE-2016-4567|https://wordpress.org/news/2016/05/wordpress-4-5-2/|Patch,Vendor Advisory
+238|CVE-2016-4567|https://core.trac.wordpress.org/changeset/37371|Patch
+239|CVE-2016-4812|https://srd.wordpress.org/plugins/markdown-on-save-improved/changelog/|Vendor Advisory
+240|CVE-2016-5836,CVE-2016-5832,CVE-2016-5833,CVE-2016-5834,CVE-2016-5838,CVE-2016-5839,CVE-2016-5835,CVE-2016-5837|https://codex.wordpress.org/Version_4.5.3|Patch,Release Notes
+241|CVE-2016-5836,CVE-2016-5832,CVE-2016-5833,CVE-2016-5834,CVE-2016-5838,CVE-2016-5839,CVE-2016-5835,CVE-2016-5837|https://wordpress.org/news/2016/06/wordpress-4-5-3/|Patch,Vendor Advisory
+242|CVE-2016-4833|https://wordpress.org/plugins/nofollow-links/changelog/|Vendor Advisory,Release Notes
+243|CVE-2016-6634,CVE-2016-4029,CVE-2016-6635|http://codex.wordpress.org/Version_4.5|Patch,Release Notes
+244|CVE-2016-6634,CVE-2016-4029|https://core.trac.wordpress.org/query?status=closed&milestone=4.5|Release Notes
+245|CVE-2016-1000217|https://wordpress.org/plugins/zotpress/changelog/|Release Notes
+246|CVE-2016-1000217|https://wordpress.org/support/topic/sql-injection-in-api_user_id/|Exploit,Vendor Advisory
+247|CVE-2016-1000126|https://wordpress.org/plugins/admin-font-editor|Not Applicable
+248|CVE-2016-1000127|https://wordpress.org/plugins/ajax-random-post|Not Applicable
+249|CVE-2016-1000128|https://wordpress.org/plugins/anti-plagiarism|Not Applicable
+250|CVE-2016-1000129|https://wordpress.org/plugins/defa-online-image-protector|Not Applicable
+251|CVE-2016-1000131,CVE-2016-1000130|https://wordpress.org/plugins/e-search|Not Applicable
+252|CVE-2016-1000132|https://wordpress.org/plugins/enhanced-tooltipglossary|Patch,Product
+253|CVE-2016-1000133|https://wordpress.org/plugins/forget-about-shortcode-buttons|Product
+254|CVE-2016-1000135,CVE-2016-1000134|https://wordpress.org/plugins/hdw-tube|Not Applicable
+255|CVE-2016-1000136|https://wordpress.org/plugins/heat-trackr|Not Applicable
+256|CVE-2016-1000137|https://wordpress.org/plugins/hero-maps-pro|Not Applicable
+257|CVE-2016-1000138|https://wordpress.org/plugins/indexisto|Not Applicable
+258|CVE-2016-1000139|https://wordpress.org/plugins/infusionsoft|Patch,Product
+259|CVE-2016-1000140|https://wordpress.org/plugins/new-year-firework|Not Applicable
+260|CVE-2016-1000141|https://wordpress.org/plugins/page-layout-builder|Product
+261|CVE-2016-1000142|https://wordpress.org/plugins/parsi-font|Product
+262|CVE-2016-1000144,CVE-2016-1000143|https://wordpress.org/plugins/photoxhibit|Product
+263|CVE-2016-1000145|https://wordpress.org/plugins/pondol-carousel|Not Applicable
+264|CVE-2016-1000146|https://wordpress.org/plugins/pondol-formmail|Not Applicable
+265|CVE-2016-1000147|https://wordpress.org/plugins/recipes-writer|Not Applicable
+266|CVE-2016-1000148|https://wordpress.org/plugins/s3-video|Not Applicable
+267|CVE-2016-1000149|https://wordpress.org/plugins/simpel-reserveren|Not Applicable
+268|CVE-2016-1000150|https://wordpress.org/plugins/simplified-content|Product
+269|CVE-2016-1000151|https://wordpress.org/plugins/tera-charts|Not Applicable
+270|CVE-2016-1000152|https://wordpress.org/plugins/tidio-form|Not Applicable
+271|CVE-2016-1000153|https://wordpress.org/plugins/tidio-gallery|Not Applicable
+272|CVE-2016-1000154|https://wordpress.org/plugins/whizz|Product
+273|CVE-2016-1000155|https://wordpress.org/plugins/wpsolr-search-engine|Product
+274|CVE-2016-1000156|https://wordpress.org/plugins/mailcwp/|Exploit,Not Applicable
+275|CVE-2014-2598|https://wordpress.org/plugins/quick-pagepost-redirect-plugin/changelog/|Patch,Vendor Advisory
+276|CVE-2014-100001|https://wordpress.org/plugins/liveoptim/changelog/|Patch,Vendor Advisory
+277|CVE-2014-8802|https://wordpress.org/plugins/pie-register/changelog/|Vendor Advisory
+278|CVE-2014-9308|https://wordpress.org/plugins/wp-easycart/changelog/|Patch
+279|CVE-2011-5304|https://wordpress.org/plugins/sodahead-polls/changelog/|Vendor Advisory
+280|CVE-2011-5308|https://plugins.trac.wordpress.org/changeset/350873/cdnvote/trunk/cdnvote-post.php|
+281|CVE-2014-9443|https://wordpress.org/plugins/relevanssi/changelog/|Patch,Vendor Advisory
+282|CVE-2014-9442,CVE-2014-9461|https://plugins.trac.wordpress.org/changeset/1052064/cart66-lite|
+283|CVE-2014-9454|https://wordpress.org/plugins/simple-sticky-footer/changelog/|Patch,Vendor Advisory
+284|CVE-2014-9460|https://wordpress.org/plugins/wp-vipergb/changelog/|
+285|CVE-2014-9473|https://wordpress.org/plugins/cforms2/changelog/|
+286|CVE-2014-100007|https://wordpress.org/plugins/hk-exif-tags/changelog/|Vendor Advisory
+287|CVE-2010-1186|http://wordpress.org/extend/plugins/nextgen-gallery/changelog/|Patch
+288|CVE-2010-4257,CVE-2010-5295,CVE-2010-5294,CVE-2010-5293,CVE-2010-5296|http://codex.wordpress.org/Version_3.0.2|Patch,Vendor Advisory
+289|CVE-2010-4257|http://core.trac.wordpress.org/changeset/16625|Vendor Advisory
+290|CVE-2010-4257|http://wordpress.org/news/2010/11/wordpress-3-0-2/|Patch,Vendor Advisory
+291|CVE-2012-1010,CVE-2012-1011|http://wordpress.org/extend/plugins/allwebmenus-wordpress-menu-plugin/changelog/|Patch
+292|CVE-2012-1068|http://plugins.trac.wordpress.org/changeset/416723/wp-recentcomments/trunk/core.php?old=316325&old_path=wp-recentcomments%2Ftrunk%2Fcore.php|
+293|CVE-2012-1068|http://wordpress.org/extend/plugins/wp-recentcomments/changelog/|
+294|CVE-2012-1205|http://plugins.trac.wordpress.org/changeset/504380/relocate-upload|Exploit,Patch
+295|CVE-2012-1205|http://wordpress.org/extend/plugins/relocate-upload/changelog/|Patch
+296|CVE-2012-1786,CVE-2012-1785|http://plugins.trac.wordpress.org/changeset?old_path=%2Fvideo-embed-thumbnail-generator&old=507924&new_path=%2Fvideo-embed-thumbnail-generator&new=507924|Patch
+297|CVE-2012-1786,CVE-2012-1785|http://wordpress.org/extend/plugins/video-embed-thumbnail-generator/changelog/|
+298|CVE-2012-2399|http://core.trac.wordpress.org/browser/branches/3.3/wp-includes/js/swfupload/swfupload.swf?rev=20503|
+299|CVE-2013-2205,CVE-2012-3414,CVE-2012-2399|http://make.wordpress.org/core/2013/06/21/secure-swfupload/|Vendor Advisory
+300|CVE-2012-2404,CVE-2012-2400,CVE-2012-2401,CVE-2012-2403,CVE-2012-2402,CVE-2012-2399|http://wordpress.org/news/2012/04/wordpress-3-3-2/|Patch,Vendor Advisory
+301|CVE-2012-2400|http://core.trac.wordpress.org/changeset/20499/branches/3.3/wp-includes/js/swfobject.js|
+302|CVE-2012-2401|http://core.trac.wordpress.org/browser/branches/3.3/wp-includes/js/plupload/changelog.txt?rev=20487|
+303|CVE-2012-2401|http://core.trac.wordpress.org/browser/branches/3.3/wp-includes/js/plupload?rev=20487|
+304|CVE-2012-2402|http://core.trac.wordpress.org/changeset/20526/branches/3.3/wp-admin/plugins.php|
+305|CVE-2012-2403|http://core.trac.wordpress.org/changeset/20493/branches/3.3/wp-includes/capabilities.php|
+306|CVE-2012-2403|http://core.trac.wordpress.org/changeset/20493/branches/3.3/wp-includes/formatting.php|
+307|CVE-2012-2404|http://core.trac.wordpress.org/changeset/20486/branches/3.3/wp-comments-post.php|
+308|CVE-2012-4283,CVE-2012-2759|http://plugins.trac.wordpress.org/changeset/541069|Exploit,Patch
+309|CVE-2013-2707,CVE-2012-4283,CVE-2012-2759|http://wordpress.org/extend/plugins/login-with-ajax/changelog/|Patch
+310|CVE-2012-2916|http://plugins.trac.wordpress.org/changeset?old_path=%2Fsabre&old=534490&new_path=%2Fsabre&new=534490|Exploit,Patch
+311|CVE-2012-2916|http://wordpress.org/extend/plugins/sabre/changelog/|
+312|CVE-2012-2920|http://plugins.trac.wordpress.org/changeset?old_path=%2Fuser-photo&old=541880&new_path=%2Fuser-photo&new=541880|
+313|CVE-2012-2920|http://wordpress.org/extend/plugins/user-photo/changelog/|
+314|CVE-2012-2633|http://plugins.trac.wordpress.org/changeset?old_path=%2Fwassup&old=545369&new_path=%2Fwassup&new=545369|
+315|CVE-2012-2633|http://wordpress.org/extend/plugins/wassup/changelog/|
+316|CVE-2012-3576|http://plugins.trac.wordpress.org/changeset?old_path=%2Fwpstorecart&old=555124&new_path=%2Fwpstorecart&new=555124|
+317|CVE-2012-3576|http://wordpress.org/extend/plugins/wpstorecart/changelog/|
+318|CVE-2012-3577|http://wordpress.org/extend/plugins/wordpress-member-private-conversation/changelog/|
+319|CVE-2011-4956,CVE-2011-4957|http://wordpress.org/news/2011/04/wordpress-3-1-1/|
+320|CVE-2011-4957|http://core.trac.wordpress.org/ticket/16892|
+321|CVE-2012-3383,CVE-2012-3385,CVE-2012-3384|http://codex.wordpress.org/Version_3.4.1|
+322|CVE-2012-3383,CVE-2012-4422,CVE-2012-4421|http://codex.wordpress.org/Version_3.4.2|
+323|CVE-2012-3383|http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file23|
+324|CVE-2012-3383|http://core.trac.wordpress.org/changeset?reponame=&new=21153%40branches%2F3.4&old=21076%40trunk#file16|
+325|CVE-2011-5128,CVE-2011-4926|http://plugins.trac.wordpress.org/changeset?reponame=&new=467338@adminimize&old=466900@adminimize#file5|Exploit,Patch
+326|CVE-2011-5128,CVE-2011-4926|http://wordpress.org/extend/plugins/adminimize/changelog/|Patch
+327|CVE-2011-5104|http://plugins.trac.wordpress.org/changeset?reponame=&new=463447%40wp-e-commerce&old=463446%40wp-e-commerce|Exploit,Patch
+328|CVE-2011-5104,CVE-2012-5310|http://wordpress.org/extend/plugins/wp-e-commerce/changelog/|Vendor Advisory
+329|CVE-2011-5106|http://plugins.trac.wordpress.org/changeset?reponame=&new=466252%40flexible-custom-post-type&old=465583%40flexible-custom-post-type|Exploit,Patch
+330|CVE-2011-5106|http://wordpress.org/extend/plugins/flexible-custom-post-type/changelog/|Vendor Advisory
+331|CVE-2012-2371|http://wordpress.org/support/topic/plugin-wp-facethumb-reflected-xss-vulnerability-cwe-79|
+332|CVE-2012-3434|http://plugins.trac.wordpress.org/changeset/571926/count-per-day|Exploit,Patch
+333|CVE-2012-4264,CVE-2012-4263|http://plugins.trac.wordpress.org/changeset?old_path=%2Fbetter-wp-security&old=542852&new_path=%2Fbetter-wp-security&new=542852|Exploit,Patch
+334|CVE-2012-4268|http://plugins.trac.wordpress.org/changeset?old_path=%2Fbulletproof-security&old=543044&new_path=%2Fbulletproof-security&new=543044|Exploit,Patch
+335|CVE-2012-4268|http://wordpress.org/extend/plugins/bulletproof-security/changelog/|
+336|CVE-2012-4271|http://plugins.trac.wordpress.org/changeset?old_path=%2Fbad-behavior&old=543807&new_path=%2Fbad-behavior&new=543807|Exploit,Patch
+337|CVE-2012-4273,CVE-2012-4272|http://plugins.trac.wordpress.org/changeset?old_path=%2F2-click-socialmedia-buttons&old=532798&new_path=%2F2-click-socialmedia-buttons&new=532798|Exploit,Patch
+338|CVE-2012-4273,CVE-2012-4272|http://wordpress.org/extend/plugins/2-click-socialmedia-buttons/changelog/|
+339|CVE-2012-4327|http://plugins.trac.wordpress.org/changeset?old_path=%2Fwp-image-news-slider&old=529740&new_path=%2Fwp-image-news-slider&new=529740|Exploit,Patch
+340|CVE-2012-4327|http://wordpress.org/extend/plugins/wp-image-news-slider/other_notes/|
+341|CVE-2012-4332|http://wordpress.org/extend/plugins/shareyourcart/changelog/|
+342|CVE-2010-5106|http://codex.wordpress.org/Version_3.0.3|
+343|CVE-2010-5106|http://core.trac.wordpress.org/changeset/16803|Exploit,Patch
+344|CVE-2011-5181|http://wordpress.org/extend/plugins/clickdesk-live-support-chat-plugin/changelog/|
+345|CVE-2011-5182|https://wordpress.org/support/topic/plugin-lanoba-social-plugin-xss-vulnerabilities|Vendor Advisory
+346|CVE-2011-5191|http://plugins.trac.wordpress.org/changeset/473693/pretty-link|Exploit,Patch
+347|CVE-2011-5191,CVE-2011-5192|http://wordpress.org/extend/plugins/pretty-link/changelog/|Vendor Advisory
+348|CVE-2011-5192|http://plugins.trac.wordpress.org/changeset/485819/pretty-link|Exploit,Patch
+349|CVE-2011-5194|http://plugins.trac.wordpress.org/changeset/482954/wordpress-whois-search|Exploit,Patch
+350|CVE-2012-4421|http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file2|Exploit,Patch
+351|CVE-2012-4422|http://core.trac.wordpress.org/changeset?old_path=%2Ftags%2F3.4.1&old=21780&new_path=%2Ftags%2F3.4.2&new=21780#file42|Exploit,Patch
+352|CVE-2012-4874|http://wordpress.org/extend/plugins/another-wordpress-classifieds-plugin/changelog/|
+353|CVE-2011-4342|http://wordpress.org/support/topic/plugin-backwpup-remote-and-local-codeexecution-vulnerability-sos-11-003|
+354|CVE-2011-5207|http://plugins.trac.wordpress.org/changeset/482746/thecartpress|
+355|CVE-2011-5208|http://wordpress.org/extend/plugins/backwpup/changelog/|
+356|CVE-2011-5216|http://plugins.trac.wordpress.org/changeset/435356/scormcloud|Exploit
+357|CVE-2011-5216|http://wordpress.org/extend/plugins/scormcloud/changelog/|
+358|CVE-2011-5226,CVE-2011-5224,CVE-2011-5225|http://plugins.trac.wordpress.org/changeset?reponame=&new=475315@wordpress-sentinel&old=474998@wordpress-sentinel|Exploit,Patch
+359|CVE-2011-5226,CVE-2011-5224,CVE-2011-5225|http://wordpress.org/extend/plugins/wordpress-sentinel/changelog/|Patch
+360|CVE-2012-1125|http://plugins.svn.wordpress.org/kish-guest-posting/trunk/readme.txt|
+361|CVE-2012-1125|http://plugins.trac.wordpress.org/changeset/403694/kish-guest-posting/trunk/uploadify/scripts/uploadify.php|
+362|CVE-2012-5328,CVE-2012-5327|http://plugins.trac.wordpress.org/changeset?reponame=&new=492859@mingle-forum&old=487353@mingle-forum|
+363|CVE-2012-5328,CVE-2012-5327|http://wordpress.org/extend/plugins/mingle-forum/changelog/|
+364|CVE-2012-5350,CVE-2012-5349|http://wordpress.org/extend/plugins/pay-with-tweet/changelog/|
+365|CVE-2012-5387,CVE-2012-5388|http://wordpress.org/extend/plugins/white-label-cms/changelog/|Patch
+366|CVE-2012-6312|http://wordpress.org/extend/plugins/video-lead-form/changelog/|Vendor Advisory
+367|CVE-2012-6313|http://wordpress.org/extend/plugins/simple-gmail-login/changelog/|
+368|CVE-2012-5469|http://wordpress.org/extend/plugins/portable-phpmyadmin/changelog/|
+369|CVE-2015-5730,CVE-2015-2213,CVE-2015-5734,CVE-2015-5733,CVE-2015-5731,CVE-2015-5732|https://codex.wordpress.org/Version_4.2.4|Patch,Vendor Advisory
+370|CVE-2015-2213|https://core.trac.wordpress.org/changeset/33555|Patch
+371|CVE-2015-2213|https://core.trac.wordpress.org/changeset/33556|
+372|CVE-2015-5730,CVE-2015-2213,CVE-2015-5734,CVE-2015-5733,CVE-2015-5731,CVE-2015-5732|https://wordpress.org/news/2015/08/wordpress-4-2-4-security-and-maintenance-release/|Patch,Vendor Advisory
+373|CVE-2015-5730|https://core.trac.wordpress.org/changeset/33535|
+374|CVE-2015-5730|https://core.trac.wordpress.org/changeset/33536|
+375|CVE-2015-5731|https://core.trac.wordpress.org/changeset/33542|
+376|CVE-2015-5731|https://core.trac.wordpress.org/changeset/33543|
+377|CVE-2015-5732|https://core.trac.wordpress.org/changeset/33529|
+378|CVE-2015-5733|https://core.trac.wordpress.org/changeset/33540|
+379|CVE-2015-5733|https://core.trac.wordpress.org/changeset/33541|
+380|CVE-2015-5734|https://core.trac.wordpress.org/changeset/33549|
+381|CVE-2015-7527|https://wordpress.org/support/topic/command-injection-vulnerability-in-v19|Exploit
+382|CVE-2014-1232|http://wordpress.org/plugins/foliopress-wysiwyg/changelog|Patch,Vendor Advisory
+383|CVE-2010-5293|https://core.trac.wordpress.org/changeset/16637|Exploit,Patch
+384|CVE-2010-5293|https://core.trac.wordpress.org/ticket/13887|Exploit,Patch
+385|CVE-2010-5294|https://core.trac.wordpress.org/changeset/16367|Exploit,Patch
+386|CVE-2010-5295|https://core.trac.wordpress.org/changeset/16373|Exploit,Patch
+387|CVE-2010-5296|https://core.trac.wordpress.org/changeset/15562|Exploit,Patch
+388|CVE-2010-5297|http://codex.wordpress.org/Changelog/3.0.1|
+389|CVE-2010-5297|http://core.trac.wordpress.org/query?status=closed&group=resolution&order=priority&milestone=3.0.1&resolution=fixed|
+390|CVE-2010-5297|https://core.trac.wordpress.org/changeset/15342|Exploit,Patch
+391|CVE-2010-5297|https://core.trac.wordpress.org/ticket/14119|Exploit,Patch
+392|CVE-2011-5270|http://codex.wordpress.org/Version_3.0.6|Vendor Advisory
+393|CVE-2011-5270|https://core.trac.wordpress.org/changeset/17710|Exploit,Patch
+394|CVE-2012-6622,CVE-2012-6625,CVE-2012-6623|http://wordpress.org/extend/plugins/forum-server/changelog/|Patch,Vendor Advisory
+395|CVE-2012-6622,CVE-2012-6625|https://plugins.trac.wordpress.org/changeset/532918|
+396|CVE-2012-6623|https://plugins.trac.wordpress.org/changeset/572188|
+397|CVE-2012-6628|https://plugins.trac.wordpress.org/changeset/533904|Exploit,Patch
+398|CVE-2012-6635,CVE-2012-6633,CVE-2012-6634|http://codex.wordpress.org/Version_3.3.3|Vendor Advisory
+399|CVE-2012-6633|https://core.trac.wordpress.org/changeset/21083|Vendor Advisory
+400|CVE-2012-6634|https://core.trac.wordpress.org/changeset/21087|
+401|CVE-2012-6635|https://core.trac.wordpress.org/changeset/21086|
+402|CVE-2013-6991|http://wordpress.org/support/topic/wp-cron-dashboard-115-security-vulnerability-notification-xss|Vendor Advisory
+403|CVE-2013-6993|http://wordpress.org/support/topic/ad-minister-06-security-vulnerability-notification-xss|
+404|CVE-2013-7240|http://wordpress.org/support/topic/security-vulnerability-cve-2013-7240-directory-traversal|Vendor Advisory
+405|CVE-2013-7279|http://plugins.trac.wordpress.org/changeset?old_path=%2Fs3-video&old=823847&new_path=%2Fs3-video&new=823847|
+406|CVE-2013-7279|http://wordpress.org/plugins/s3-video/changelog|Vendor Advisory
+407|CVE-2013-1852|http://wordpress.org/plugins/leaguemanager/changelog|
+408|CVE-2013-7319|http://wordpress.org/plugins/download-manager/changelog|Vendor Advisory
+409|CVE-2013-1409|http://wordpress.org/plugins/commentluv/changelog|
+410|CVE-2013-1636|http://wordpress.org/plugins/pretty-link/changelog|
+411|CVE-2013-3487|http://wordpress.org/plugins/bulletproof-security/changelog|
+412|CVE-2014-2265|http://wordpress.org/plugins/contact-form-7/changelog|
+413|CVE-2014-2316|http://wordpress.org/plugins/search-everything/changelog/|
+414|CVE-2014-2333|http://wordpress.org/plugins/lazyest-gallery/changelog|Vendor Advisory
+415|CVE-2014-2340|http://wordpress.org/plugins/xcloner-backup-and-restore/changelog/|
+416|CVE-2012-1834|http://plugins.trac.wordpress.org/changeset/523576/cms-tree-page-view|Patch
+417|CVE-2012-1834|http://wordpress.org/extend/plugins/cms-tree-page-view/changelog/|Patch
+418|CVE-2013-2693|http://wordpress.org/plugins/wp-print/changelog|
+419|CVE-2013-2699|http://wordpress.org/plugins/underconstruction/changelog|
+420|CVE-2013-3252|http://wordpress.org/plugins/wp-postviews/changelog|
+421|CVE-2013-4240|http://wordpress.org/plugins/hms-testimonials/changelog|
+422|CVE-2014-0165,CVE-2014-0166|http://codex.wordpress.org/Version_3.7.2|Vendor Advisory
+423|CVE-2014-0165,CVE-2014-0166|http://codex.wordpress.org/Version_3.8.2|Vendor Advisory
+424|CVE-2014-0165|http://core.trac.wordpress.org/changeset/27976|
+425|CVE-2014-0166|http://core.trac.wordpress.org/changeset/28054|
+426|CVE-2012-4920|http://wordpress.org/plugins/zingiri-forum/changelog|Patch,Vendor Advisory
+427|CVE-2014-3841|http://wordpress.org/plugins/contact-bank/changelog|
+428|CVE-2013-0724|http://wordpress.org/plugins/wp-ecommerce-shop-styling/changelog/|
+429|CVE-2013-2698|http://wordpress.org/plugins/calendar/changelog/|
+430|CVE-2013-2700|http://wordpress.org/plugins/wp125/changelog|
+431|CVE-2013-2700|https://plugins.trac.wordpress.org/changeset/692721|Exploit,Patch
+432|CVE-2013-3477|http://wordpress.org/plugins/related-posts-by-zemanta/changelog/|
+433|CVE-2014-3123|https://wordpress.org/plugins/nextcellent-gallery-nextgen-legacy/changelog|Patch
+434|CVE-2014-3210|http://wordpress.org/plugins/booking-system/changelog|
+435|CVE-2014-3843|http://wordpress.org/plugins/search-everything/changelog|
+436|CVE-2014-3845,CVE-2014-3844|http://wordpress.org/plugins/tinymce-colorpicker/changelog|
+437|CVE-2014-2558|http://wordpress.org/plugins/file-gallery/changelog/|Patch
+438|CVE-2013-2107|http://wordpress.org/plugins/mail-on-update/changelog|Patch,Vendor Advisory
+439|CVE-2014-4030|http://wordpress.org/plugins/jw-player-plugin-for-wordpress/changelog|Patch
+440|CVE-2013-2710,CVE-2014-3937|http://wordpress.org/plugins/contextual-related-posts/changelog/|Patch
+441|CVE-2014-3961|https://wordpress.org/plugins/participants-database/changelog|Patch
+442|CVE-2012-2572|http://wordpress.org/plugins/threewp-email-reflector/changelog|Patch
+443|CVE-2013-3257|http://wordpress.org/plugins/related-posts/changelog/|Patch
+444|CVE-2013-3258|http://wordpress.org/plugins/digg-digg/changelog/|Patch
+445|CVE-2013-3476|http://wordpress.org/plugins/wordpress-23-related-posts-plugin/changelog/|Patch
+446|CVE-2014-3882|http://wordpress.org/plugins/login-rebuilder/changelog/|Patch
+447|CVE-2014-4725,CVE-2014-4726|https://wordpress.org/plugins/wysija-newsletters/changelog/|Patch
+448|CVE-2014-4717|https://wordpress.org/plugins/simple-share-buttons-adder/changelog|Patch
+449|CVE-2014-4855|http://wordpress.org/plugins/polylang/changelog|Patch
+450|CVE-2014-4856|http://wordpress.org/plugins/polldaddy/changelog|Patch
+451|CVE-2014-4940|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=851874%40tera-charts&old=799253%40tera-charts&sfp_email=&sfph_mail=|Exploit,Patch
+452|CVE-2014-4942|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=829290%40wp-easycart&old=827627%40wp-easycart&sfp_email=&sfph_mail=|Patch
+453|CVE-2012-6651|http://wordpress.org/plugins/vitamin/changelog/|Patch
+454|CVE-2012-6651|https://plugins.trac.wordpress.org/changeset/582232|Exploit,Patch
+455|CVE-2013-1464|http://wordpress.org/extend/plugins/audio-player/changelog/|Patch
+456|CVE-2013-2640,CVE-2013-0731|http://plugins.trac.wordpress.org/changeset?new=682420|Exploit,Patch
+457|CVE-2013-2640,CVE-2013-0731|http://wordpress.org/extend/plugins/wp-mailup/changelog/|
+458|CVE-2013-2501|http://plugins.trac.wordpress.org/changeset/683838/terillion-reviews|
+459|CVE-2013-2501|http://wordpress.org/extend/plugins/terillion-reviews/changelog/|Vendor Advisory
+460|CVE-2013-2696|http://wordpress.org/extend/plugins/all-in-one-webmaster/changelog/|
+461|CVE-2013-2697|http://wordpress.org/extend/plugins/wp-downloadmanager/changelog/|
+462|CVE-2013-2709|http://wordpress.org/extend/plugins/foursquare-checkins/changelog/|
+463|CVE-2013-2703|http://wordpress.org/extend/plugins/facebook-members/changelog/|
+464|CVE-2013-3254|http://wordpress.org/extend/plugins/wp-photo-album-plus/changelog/|
+465|CVE-2013-3529|http://plugins.trac.wordpress.org/changeset?old_path=%2Fwp-funeral-press&old=690038&new_path=%2Fwp-funeral-press&new=690038|
+466|CVE-2013-3529|http://wordpress.org/extend/plugins/wp-funeral-press/changelog/|
+467|CVE-2013-3720|http://plugins.trac.wordpress.org/changeset?old_path=%2Ffeedweb&old=689612&new_path=%2Ffeedweb&new=689612|Exploit,Patch
+468|CVE-2013-3720|http://wordpress.org/extend/plugins/feedweb/changelog/|
+469|CVE-2013-2203,CVE-2013-2199,CVE-2013-2173,CVE-2013-2202,CVE-2013-2205,CVE-2013-2201,CVE-2013-2204,CVE-2013-2200|http://codex.wordpress.org/Version_3.5.2|
+470|CVE-2013-2203,CVE-2013-2199,CVE-2013-2173,CVE-2013-2202,CVE-2013-2205,CVE-2013-2201,CVE-2013-2204,CVE-2013-2200|http://wordpress.org/news/2013/06/wordpress-3-5-2/|Vendor Advisory
+471|CVE-2013-3250|http://wordpress.org/plugins/wp-maintenance-mode/changelog/|
+472|CVE-2013-3261|http://wordpress.org/plugins/flash-album-gallery/changelog/|
+473|CVE-2013-2704|http://wordpress.org/plugins/dropdown-menu-widget/changelog/|Vendor Advisory
+474|CVE-2013-4944|http://wordpress.org/plugins/buddypress-extended-friendship-request/changelog/|
+475|CVE-2013-4954|http://plugins.trac.wordpress.org/changeset?reponame=&old=740249%40pie-register&new=740249%40pie-register|Exploit,Patch
+476|CVE-2013-4954|http://wordpress.org/plugins/pie-register/changelog/|
+477|CVE-2013-4954|http://wordpress.org/support/topic/security-issue-web-application-cross-site-scripting|
+478|CVE-2013-0235,CVE-2013-0237,CVE-2013-0236|http://codex.wordpress.org/Version_3.5.1|
+479|CVE-2013-0235|http://core.trac.wordpress.org/changeset/23330|Exploit,Patch
+480|CVE-2013-0235,CVE-2013-0237,CVE-2013-0236|http://wordpress.org/news/2013/01/wordpress-3-5-1/|Vendor Advisory
+481|CVE-2013-0236|http://core.trac.wordpress.org/changeset/23317|Patch
+482|CVE-2013-0236|http://core.trac.wordpress.org/changeset/23322|Exploit,Patch
+483|CVE-2013-3253|http://plugins.trac.wordpress.org/changeset/750054/xhanch-my-twitter|Exploit,Patch
+484|CVE-2013-3256|http://wordpress.org/plugins/sexybookmarks/changelog/|
+485|CVE-2013-5098,CVE-2013-3262|http://plugins.trac.wordpress.org/changeset/723187/download-monitor|Exploit,Vendor Advisory,Patch
+486|CVE-2013-3479|http://wordpress.org/plugins/share-this/changelog/|
+487|CVE-2013-4339,CVE-2013-4338,CVE-2013-4340,CVE-2013-5738,CVE-2013-5739|http://codex.wordpress.org/Version_3.6.1|Vendor Advisory
+488|CVE-2013-4338|http://core.trac.wordpress.org/changeset/25325|Exploit,Patch
+489|CVE-2013-4339,CVE-2013-4338,CVE-2013-4340,CVE-2013-5738,CVE-2013-5739|http://wordpress.org/news/2013/09/wordpress-3-6-1/|Patch,Vendor Advisory
+490|CVE-2013-4339|http://core.trac.wordpress.org/changeset/25323|Exploit,Patch
+491|CVE-2013-4339|http://core.trac.wordpress.org/changeset/25324|Exploit,Patch
+492|CVE-2013-4340|http://core.trac.wordpress.org/changeset/25321|Exploit,Patch
+493|CVE-2013-4626|http://wordpress.org/plugins/backwpup/changelog|Patch
+494|CVE-2013-5711|http://wordpress.org/plugins/design-approval-system/other_notes/|Patch
+495|CVE-2013-5738,CVE-2013-5739|http://core.trac.wordpress.org/changeset/25322|Patch,Vendor Advisory,Exploit
+496|CVE-2013-5963|http://plugins.trac.wordpress.org/changeset?reponame=&old=774214@simple-dropbox-upload-form%2Ftrunk&new=774214@simple-dropbox-upload-form%2Ftrunk|
+497|CVE-2013-5963|http://wordpress.org/plugins/simple-dropbox-upload-form/changelog|Exploit,Patch
+498|CVE-2013-6243|http://plugins.trac.wordpress.org/changeset?reponame=&old=785535%40landing-pages&new=785535%40landing-pages|Exploit,Patch
+499|CVE-2013-6243|http://wordpress.org/plugins/landing-pages/changelog|
+500|CVE-2013-6280|http://wordpress.org/plugins/social-sharing-toolkit/changelog|Patch
+501|CVE-2013-5977|http://wordpress.org/plugins/cart66-lite/changelog/|
+502|CVE-2013-6342|http://wordpress.org/plugins/tweet-blender/changelog|Patch
+503|CVE-2013-6797|http://wordpress.org/plugins/blue-wrench-videos-widget/changelog|Patch
+504|CVE-2012-0287|https://wordpress.org/news/2012/01/wordpress-3-3-1/|Patch,Vendor Advisory
+505|CVE-2012-0934|http://plugins.trac.wordpress.org/changeset/492167/theme-tuner#file2|
+506|CVE-2012-0934|http://wordpress.org/extend/plugins/theme-tuner/changelog/|Patch
+507|CVE-2012-0895,CVE-2012-0896|http://plugins.trac.wordpress.org/changeset/488883/count-per-day|
+508|CVE-2012-0895,CVE-2012-0896|http://wordpress.org/extend/plugins/count-per-day/changelog/|
+509|CVE-2008-5695|http://mu.wordpress.org/forums/topic.php?id=7534&page&replies=1|Vendor Advisory,Release Notes
+510|CVE-2007-0107,CVE-2007-0106|http://wordpress.org/development/2007/01/wordpress-206/|Patch,Vendor Advisory
+511|CVE-2007-1049|http://trac.wordpress.org/changeset/4876|Patch
+512|CVE-2007-1049|http://trac.wordpress.org/changeset/4877|
+513|CVE-2007-1049|http://trac.wordpress.org/ticket/3781|Vendor Advisory
+514|CVE-2007-1230|http://trac.wordpress.org/changeset/4951|Patch
+515|CVE-2007-1230|http://trac.wordpress.org/changeset/4952|Patch
+516|CVE-2007-1277|http://wordpress.org/development/2007/03/upgrade-212/|Vendor Advisory
+517|CVE-2007-4153,CVE-2007-3238,CVE-2007-1732|http://codex.wordpress.org/Roles_and_Capabilities|Product
+518|CVE-2007-1893,CVE-2007-1897|http://trac.wordpress.org/ticket/4091|
+519|CVE-2007-1894|http://trac.wordpress.org/changeset/5003|
+520|CVE-2007-1894|http://trac.wordpress.org/ticket/4093|
+521|CVE-2007-3543|http://trac.mu.wordpress.org/changeset/1005|
+522|CVE-2007-4139|http://trac.wordpress.org/attachment/ticket/4689/4689.diff|
+523|CVE-2007-4139|http://trac.wordpress.org/ticket/4689|Exploit
+524|CVE-2014-100026|https://wordpress.org/plugins/aprils-super-functions-pack/changelog/|Patch
+525|CVE-2014-100018|https://wordpress.org/plugins/unconfirmed/changelog/|
+526|CVE-2014-100022,CVE-2014-100023|https://wordpress.org/plugins/mtouch-quiz/changelog/|Patch
+527|CVE-2015-1366,CVE-2015-1365,CVE-2015-1375,CVE-2015-1376|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=1067992%40pixabay-images%2Ftrunk%2Fpixabay-images.php&old=926633%40pixabay-images%2Ftrunk%2Fpixabay-images.php|
+528|CVE-2015-1365|https://wordpress.org/plugins/pixabay-images/changelog/|Patch
+529|CVE-2015-1204|https://wordpress.org/plugins/wp-slimstat/changelog/|
+530|CVE-2014-7957|https://wordpress.org/plugins/pods/changelog/|Patch
+531|CVE-2012-5853|https://wordpress.org/plugins/cardoza-ajax-search/changelog/|Third Party Advisory
+532|CVE-2014-9524|https://wordpress.org/plugins/cardoza-facebook-like-box/changelog/|Patch,Vendor Advisory
+533|CVE-2015-1494|https://plugins.trac.wordpress.org/changeset/1082625/|
+534|CVE-2015-1494|https://wordpress.org/plugins/fancybox-for-wordpress/changelog/|Patch
+535|CVE-2015-1494|https://wordpress.org/support/topic/possible-malware-2|
+536|CVE-2015-1436|https://wordpress.org/plugins/easing-slider/changelog/|Patch,Release Notes
+537|CVE-2015-1383|https://wordpress.org/plugins/geo-mashup/changelog/|Vendor Advisory
+538|CVE-2015-1384|https://wordpress.org/plugins/banner-effect-header/changelog/|Patch
+539|CVE-2015-1385|https://wordpress.org/plugins/powerpress/changelog/|Vendor Advisory
+540|CVE-2015-1393|https://plugins.trac.wordpress.org/changeset/1074134/photo-gallery|Exploit
+541|CVE-2016-10112,CVE-2015-2069|https://wordpress.org/plugins/woocommerce/changelog/|Vendor Advisory,Release Notes
+542|CVE-2015-1582|https://wordpress.org/plugins/spider-facebook/changelog/|Patch
+543|CVE-2015-2065|https://wordpress.org/plugins/contus-video-gallery/changelog/|
+544|CVE-2015-2084|https://wordpress.org/plugins/easy-social-icons/changelog/|
+545|CVE-2015-2090|https://wordpress.org/plugins/wp-survey-and-poll/changelog/|
+546|CVE-2015-1879|https://wordpress.org/plugins/google-document-embedder/changelog/|Patch
+547|CVE-2014-9283|https://wordpress.org/plugins/captcha/changelog/|
+548|CVE-2015-0890|https://wordpress.org/plugins/google-captcha/changelog/|
+549|CVE-2015-0895,CVE-2015-0894|https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/changelog/|Patch
+550|CVE-2012-6692,CVE-2015-2293,CVE-2015-2292|https://wordpress.org/plugins/wordpress-seo/changelog/|Patch
+551|CVE-2015-1874|https://wordpress.org/plugins/contact-form-7-to-database-extension/changelog/|Patch
+552|CVE-2014-9311|https://wordpress.org/plugins/shareaholic/changelog/|Patch
+553|CVE-2015-2824|https://plugins.trac.wordpress.org/changeset/1136202/simple-ads-manager|
+554|CVE-2015-2824,CVE-2015-2825|https://wordpress.org/plugins/simple-ads-manager/changelog/|Patch,Vendor Advisory
+555|CVE-2015-2755|https://wordpress.org/plugins/ab-google-map-travel/changelog/|Patch
+556|CVE-2015-4127|https://wordpress.org/plugins/church-admin/changelog/|Patch
+557|CVE-2015-4133|https://wordpress.org/plugins/reflex-gallery/changelog/|Patch
+558|CVE-2015-3986,CVE-2015-3301,CVE-2015-3300|https://wordpress.org/plugins/thecartpress/changelog/|Patch
+559|CVE-2015-3647|https://wordpress.org/plugins/wp-photo-album-plus/changelog/|Patch,Vendor Advisory
+560|CVE-2015-3904|https://plugins.trac.wordpress.org/changeset/1117499|Third Party Advisory
+561|CVE-2015-3904|https://wordpress.org/plugins/roomcloud/changelog/|Patch,Vendor Advisory
+562|CVE-2015-4018|https://wordpress.org/plugins/feedwordpress/changelog/|Patch,Vendor Advisory
+563|CVE-2015-4063,CVE-2015-4062|https://wordpress.org/plugins/newstatpress/changelog/|Patch,Vendor Advisory
+564|CVE-2015-4064,CVE-2015-4065|https://wordpress.org/plugins/landing-pages/changelog/|Patch,Vendor Advisory
+565|CVE-2015-4066|https://wordpress.org/plugins/gigpress/changelog/|Patch,Vendor Advisory
+566|CVE-2015-5065|https://plugins.trac.wordpress.org/changeset/1179092/paypal-currency-converter-basic-for-woocommerce|Third Party Advisory
+567|CVE-2015-5065|https://wordpress.org/plugins/paypal-currency-converter-basic-for-woocommerce/changelog/|Patch,Third Party Advisory
+568|CVE-2015-4413|https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&new=1178751%40nextend-facebook-connect&old=1060317%40nextend-facebook-connect&sfp_email=&sfph_mail=|Patch,Third Party Advisory
+569|CVE-2014-9735,CVE-2014-9734|https://plugins.trac.wordpress.org/browser/patch-for-revolution-slider/trunk/revsliderpatch.php|
+570|CVE-2015-4153,CVE-2015-4465|https://wordpress.org/plugins/zm-ajax-login-register/changelog/|Patch,Vendor Advisory
+571|CVE-2012-6692|https://wordpress.org/support/topic/security-issue-with-post-title-field-xss-vulnerability|Exploit
+572|CVE-2015-4010|https://plugins.trac.wordpress.org/changeset/1125443/|Release Notes
+573|CVE-2015-4010|https://wordpress.org/plugins/encrypted-contact-form/changelog/|Patch,Third Party Advisory
+574|CVE-2015-4109|https://wordpress.org/plugins/users-ultra/changelog/|Vendor Advisory
+575|CVE-2015-5528|https://wordpress.org/plugins/floating-social-bar/changelog/|Vendor Advisory
+576|CVE-2015-4616,CVE-2015-4614|https://plugins.trac.wordpress.org/changeset/1191455/easy2map|
+577|CVE-2015-4614|https://wordpress.org/plugins/easy2map/changelog/|Patch
+578|CVE-2015-2973|https://plugins.trac.wordpress.org/changeset/1199120|
+579|CVE-2015-5461|https://plugins.trac.wordpress.org/changeset/1165310/|
+580|CVE-2015-5461|https://wordpress.org/plugins/stageshow/changelog/|Patch
+581|CVE-2014-1750|https://plugins.trac.wordpress.org/browser/nokia-mapsplaces/trunk/nokia-mapsplaces.php?rev=841883|
+582|CVE-2014-1750|https://plugins.trac.wordpress.org/browser/nokia-mapsplaces/trunk/nokia-mapsplaces.php?rev=842384|
+583|CVE-2015-5623,CVE-2015-5622|http://codex.wordpress.org/Version_4.2.3|Patch,Vendor Advisory
+584|CVE-2015-5622|https://core.trac.wordpress.org/changeset/33359|
+585|CVE-2015-5623,CVE-2015-5622|https://wordpress.org/news/2015/07/wordpress-4-2-3/|Patch,Vendor Advisory
+586|CVE-2015-5623|https://core.trac.wordpress.org/changeset/33357|
+587|CVE-2015-3438,CVE-2015-3439|http://codex.wordpress.org/Version_4.1.2|Patch,Exploit
+588|CVE-2015-3438,CVE-2015-3439|https://wordpress.org/news/2015/04/wordpress-4-1-2/|Patch,Vendor Advisory,Exploit
+589|CVE-2015-3439|https://core.trac.wordpress.org/changeset/32168|
+590|CVE-2015-3440|http://codex.wordpress.org/Version_4.2.1|
+591|CVE-2015-3440|https://core.trac.wordpress.org/changeset/32299|
+592|CVE-2015-3440|https://wordpress.org/news/2015/04/wordpress-4-2-1/|Patch,Vendor Advisory
+593|CVE-2015-6523|https://plugins.trac.wordpress.org/changeset/1175403/portfolio-by-lisa-westlund|
+594|CVE-2015-5481,CVE-2015-5482|https://wordpress.org/plugins/gd-bbpress-attachments/changelog/|Patch
+595|CVE-2015-6535|https://wordpress.org/plugins/youtube-embed/changelog/|Patch,Vendor Advisory
+596|CVE-2015-2807|https://wordpress.org/plugins/navis-documentcloud/changelog/|Patch
+597|CVE-2015-5472|https://wordpress.org/plugins/ibs-mappro/changelog/|Vendor Advisory
+598|CVE-2015-6829|https://plugins.trac.wordpress.org/changeset/1239492/wp-limit-login-attempts|
+599|CVE-2015-6829|https://wordpress.org/support/topic/sql-injection-vulnerability-9|Exploit
+600|CVE-2015-7235|https://plugins.trac.wordpress.org/changeset/1104099/cp-reservation-calendar|
+601|CVE-2015-7235|https://wordpress.org/plugins/cp-reservation-calendar/changelog/|Patch
+602|CVE-2015-6238|https://wordpress.org/plugins/google-analyticator/changelog/|Patch
+603|CVE-2015-7319,CVE-2015-7320|https://wordpress.org/plugins/appointment-booking-calendar/changelog/|Patch
+604|CVE-2015-7683|https://wordpress.org/plugins/font/changelog/|Patch
+605|CVE-2019-14799,CVE-2018-0642,CVE-2019-14801,CVE-2019-13573,CVE-2019-14800|https://wordpress.org/plugins/fv-wordpress-flowplayer/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+606|CVE-2018-16363|https://plugins.trac.wordpress.org/changeset/1936043|Patch,Third Party Advisory
+607|CVE-2018-16363|https://wordpress.org/support/topic/security-concern-6/#post-10655739|Third Party Advisory
+608|CVE-2018-17074|https://plugins.trac.wordpress.org/browser/wordpress-feed-statistics/trunk/feed-statistics.php?rev=960868|Exploit,Third Party Advisory
+609|CVE-2018-17074|https://wordpress.org/plugins/wordpress-feed-statistics/#developers|Product,Third Party Advisory
+610|CVE-2015-9269|https://wordpress.org/plugins/wordpress-mobile-pack/#developers|Release Notes,Third Party Advisory
+611|CVE-2015-9270|https://wordpress.org/plugins/the-holiday-calendar/#developers|Third Party Advisory
+612|CVE-2018-17884|https://wordpress.org/plugins/gwolle-gb/#developers|Third Party Advisory
+613|CVE-2018-17946|https://wordpress.org/plugins/slideshow-gallery/#developers|Release Notes,Third Party Advisory
+614|CVE-2018-17947|https://wordpress.org/plugins/snazzy-maps/#developers|Release Notes,Third Party Advisory
+615|CVE-2015-9273|http://plugins.svn.wordpress.org//wp-slimstat/tags/4.1.6.1/readme.txt|Release Notes,Third Party Advisory
+616|CVE-2015-9273|https://plugins.trac.wordpress.org/changeset/1204104|Release Notes,Third Party Advisory
+617|CVE-2018-18461|https://wordpress.org/plugins/bft-autoresponder/#developers|Release Notes,Third Party Advisory
+618|CVE-2018-19207|https://wordpress.org/plugins/wp-gdpr-compliance/#developers|Product,Vendor Advisory
+619|CVE-2018-19287|https://plugins.trac.wordpress.org/changeset/1974335/ninja-forms/trunk/includes/Admin/Menus/Submissions.php|Patch,Third Party Advisory
+620|CVE-2018-19370,CVE-2017-16842|https://wordpress.org/plugins/wordpress-seo/#developers|Product,Release Notes,Third Party Advisory
+621|CVE-2018-19796|https://plugins.trac.wordpress.org/changeset/1982808/ninja-forms/trunk/lib/StepProcessing/step-processing.php|Exploit,Third Party Advisory
+622|CVE-2018-1002008,CVE-2018-1002000,CVE-2018-1002001,CVE-2018-1002006,CVE-2018-1002007,CVE-2018-1002002,CVE-2018-1002005,CVE-2018-1002003,CVE-2018-1002004,CVE-2018-1002009|https://wordpress.org/plugins/bft-autoresponder/|Product,Third Party Advisory
+623|CVE-2018-20101,CVE-2019-15326,CVE-2019-14683,CVE-2019-15327,CVE-2019-15328,CVE-2019-15329|https://wordpress.org/plugins/import-users-from-csv-with-meta/#developers|Product,Release Notes,Third Party Advisory
+624|CVE-2018-20147,CVE-2018-20152,CVE-2018-20151,CVE-2018-20150,CVE-2018-20148,CVE-2018-20153,CVE-2018-20149|https://codex.wordpress.org/Version_4.9.9|Release Notes,Product,Vendor Advisory
+625|CVE-2018-20147,CVE-2018-20152,CVE-2018-20151,CVE-2018-20150,CVE-2018-20148,CVE-2018-20153,CVE-2018-20149|https://wordpress.org/news/2018/12/wordpress-5-0-1-security-release/|Vendor Advisory,Release Notes
+626|CVE-2018-20147,CVE-2018-20152,CVE-2018-20151,CVE-2018-20150,CVE-2018-20148,CVE-2018-20153,CVE-2018-20149|https://wordpress.org/support/wordpress-version/version-5-0-1/|Release Notes,Product,Vendor Advisory
+627|CVE-2015-9355,CVE-2018-20231|https://wordpress.org/plugins/two-factor-authentication/#developers|Release Notes,Third Party Advisory
+628|CVE-2008-0664|http://wordpress.org/development/2008/02/wordpress-233/|Patch
+629|CVE-2008-2068,CVE-2008-1930|http://wordpress.org/development/2008/04/wordpress-251/|Patch
+630|CVE-2008-2146|http://trac.wordpress.org/changeset/6029|Exploit
+631|CVE-2008-2146|http://trac.wordpress.org/changeset?old_path=tags%2F2.2.2&old=6063&new_path=tags%2F2.2.3&new=6063#file10|Exploit
+632|CVE-2008-2146|http://trac.wordpress.org/ticket/4748|Patch
+633|CVE-2008-3233|http://trac.wordpress.org/ticket/7220|Exploit
+634|CVE-2008-3747|http://trac.wordpress.org/ticket/7359|Patch
+635|CVE-2008-4106,CVE-2008-4107|http://wordpress.org/development/2008/09/wordpress-262/|Patch
+636|CVE-2008-4769|http://trac.wordpress.org/changeset/7586|
+637|CVE-2008-5278|http://wordpress.org/development/2008/11/wordpress-265/|Patch,Vendor Advisory
+638|CVE-2012-10001|https://wordpress.org/plugins/limit-login-attempts/#developers|Release Notes,Third Party Advisory
+639|CVE-2017-18596,CVE-2020-8426,CVE-2020-15020,CVE-2020-36171,CVE-2020-20406,CVE-2020-7109|https://wordpress.org/plugins/elementor/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+640|CVE-2020-36172,CVE-2018-20986|https://wordpress.org/plugins/advanced-custom-fields/#developers|Product,Release Notes,Third Party Advisory
+641|CVE-2021-3133|https://plugins.trac.wordpress.org/changeset/2454670/|Patch,Third Party Advisory
+642|CVE-2021-3133|https://wordpress.org/plugins/sb-elementor-contact-form-db/#developers|Product,Release Notes,Third Party Advisory
+643|CVE-2020-28707|https://wordpress.org/plugins/stockdio-historical-chart/#developers|Release Notes,Third Party Advisory
+644|CVE-2021-20652|https://wordpress.org/plugins/name-directory/|Product
+645|CVE-2021-26754|https://wordpress.org/plugins/wpdatatables/#developers|Release Notes,Third Party Advisory
+646|CVE-2016-10867,CVE-2020-29171,CVE-2016-10866,CVE-2015-9293,CVE-2016-10868,CVE-2016-10888,CVE-2015-9310,CVE-2016-10887,CVE-2015-9294|https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/#developers|Release Notes,Third Party Advisory
+647|CVE-2020-29047|https://wordpress.org/plugins/wp-hotel-booking/#developers|Product,Third Party Advisory
+648|CVE-2020-29045|https://wordpress.org/plugins/food-and-drink-menu/#developers|Release Notes,Third Party Advisory
+649|CVE-2021-20678|https://wordpress.org/plugins/paid-memberships-pro/|Product,Third Party Advisory
+650|CVE-2018-11525,CVE-2021-27349,CVE-2020-11727|https://wordpress.org/plugins/woo-order-export-lite/#developers|Release Notes,Product,Third Party Advisory
+651|CVE-2005-1810|http://wordpress.org/development/2005/05/security-update/|Vendor Advisory
+652|CVE-2019-15871,CVE-2019-15872|https://wordpress.org/plugins/loginpress/#developers|Release Notes,Third Party Advisory
+653|CVE-2019-15873|https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/#developers|Release Notes,Third Party Advisory
+654|CVE-2019-15889|https://plugins.trac.wordpress.org/changeset/2070388/download-manager|Patch,Third Party Advisory
+655|CVE-2019-16117|https://plugins.trac.wordpress.org/changeset/2150912/photo-gallery/trunk/admin/models/Galleries.php?old=2135029&old_path=photo-gallery%2Ftrunk%2Fadmin%2Fmodels%2FGalleries.php|Patch,Third Party Advisory
+656|CVE-2015-9380,CVE-2019-16117,CVE-2019-14313,CVE-2019-16119,CVE-2019-14798,CVE-2019-16118,CVE-2017-12977,CVE-2019-14797,CVE-2020-9335|https://wordpress.org/plugins/photo-gallery/#developers|Release Notes,Product,Third Party Advisory
+657|CVE-2019-16118|https://plugins.trac.wordpress.org/changeset/2150912/photo-gallery/trunk/admin/controllers/Options.php?old=2142624&old_path=photo-gallery%2Ftrunk%2Fadmin%2Fcontrollers%2FOptions.php|Patch,Third Party Advisory
+658|CVE-2019-16118|https://plugins.trac.wordpress.org/changeset/2150912/photo-gallery/trunk/js/bwg.js?old=2135029&old_path=photo-gallery%2Ftrunk%2Fjs%2Fbwg.js|Patch,Third Party Advisory
+659|CVE-2019-16119|https://plugins.trac.wordpress.org/changeset/2150912/photo-gallery/trunk/admin/controllers/Albumsgalleries.php?old=1845136&old_path=photo-gallery%2Ftrunk%2Fadmin%2Fcontrollers%2FAlbumsgalleries.php|Patch,Third Party Advisory
+660|CVE-2019-16120|https://wordpress.org/plugins/event-tickets/#developers|Product,Third Party Advisory
+661|CVE-2018-21011|https://wordpress.org/plugins/charitable/#developers|Vendor Advisory,Release Notes
+662|CVE-2018-21012|https://wordpress.org/plugins/cf7-invisible-recaptcha/#developers|Vendor Advisory,Release Notes
+663|CVE-2019-15895|https://wordpress.org/plugins/search-exclude/#developers|Release Notes
+664|CVE-2017-18597|https://wordpress.org/plugins/jtrt-responsive-tables/#developers|Release Notes
+665|CVE-2017-18603|https://wordpress.org/plugins/postman-smtp/#developers|Third Party Advisory
+666|CVE-2017-18604|https://wordpress.org/plugins/sitebuilder-dynamic-components/#developers|Third Party Advisory
+667|CVE-2017-18605|https://wordpress.org/plugins/gravitate-qa-tracker/#developers|Third Party Advisory
+668|CVE-2017-18608|https://wordpress.org/plugins/spotim-comments/#developers|Release Notes,Third Party Advisory
+669|CVE-2017-18609,CVE-2017-18611,CVE-2017-18610|https://wordpress.org/plugins/magic-fields/#developers|Release Notes,Third Party Advisory
+670|CVE-2019-15896,CVE-2020-6008|https://wordpress.org/plugins/lifterlms/#developers|Product,Release Notes,Third Party Advisory
+671|CVE-2019-16217|https://core.trac.wordpress.org/changeset/45936|Patch,Vendor Advisory
+672|CVE-2019-16217,CVE-2019-16218,CVE-2019-16219,CVE-2019-16220,CVE-2019-16221,CVE-2019-16223,CVE-2019-16222|https://wordpress.org/news/2019/09/wordpress-5-2-3-security-and-maintenance-release/|Vendor Advisory,Release Notes
+673|CVE-2019-16220|https://core.trac.wordpress.org/changeset/45971|Patch,Vendor Advisory
+674|CVE-2019-16222|https://core.trac.wordpress.org/changeset/45997|Patch,Vendor Advisory
+675|CVE-2016-10938|https://wordpress.org/plugins/copy-me/#developers|Product
+676|CVE-2016-10939|https://wordpress.org/plugins/xtremelocator/#developers|Product
+677|CVE-2016-10940|https://wordpress.org/plugins/zm-gallery/#developers|Product
+678|CVE-2016-10942,CVE-2016-10941|https://wordpress.org/plugins/podlove-podcasting-plugin-for-wordpress/#developers|Release Notes
+679|CVE-2016-10943|https://wordpress.org/plugins/zx-csv-upload/#developers|Product
+680|CVE-2016-10944|https://wordpress.org/plugins/multisite-post-duplicator/#developers|Release Notes
+681|CVE-2017-18612|https://wordpress.org/plugins/wp-whois-domain/#developers|Vendor Advisory,Release Notes
+682|CVE-2017-18613|https://wordpress.org/plugins/trust-form/#developers|Vendor Advisory,Release Notes
+683|CVE-2017-18614,CVE-2017-18615|https://wordpress.org/plugins/kama-clic-counter/#developers|Vendor Advisory,Release Notes
+684|CVE-2016-10946|https://wordpress.org/plugins/wp-d3/#developers|Third Party Advisory
+685|CVE-2016-10950|https://wordpress.org/plugins/sirv/#developers|Third Party Advisory
+686|CVE-2016-10951|https://wordpress.org/plugins/fs-shopping-cart/#developers|Third Party Advisory
+687|CVE-2016-10952|https://wordpress.org/plugins/quotes-collection/#developers|Third Party Advisory
+688|CVE-2016-10955|https://wordpress.org/plugins/cysteme-finder/#developers|Third Party Advisory
+689|CVE-2019-12517,CVE-2019-12516|https://wordpress.org/plugins/slickquiz/#developers|Product
+690|CVE-2019-14773,CVE-2019-16289|https://wordpress.org/plugins/insert-php/#developers|Release Notes,Third Party Advisory
+691|CVE-2019-16332|https://plugins.trac.wordpress.org/changeset/2152730|Third Party Advisory
+692|CVE-2019-16332|https://wordpress.org/plugins/api-bearer-auth/#developers|Release Notes
+693|CVE-2016-10956|https://wordpress.org/plugins/mail-masta/#developers|Product
+694|CVE-2016-10959,CVE-2016-10958|https://wordpress.org/plugins/estatik/#developers|Release Notes
+695|CVE-2016-10960|https://wordpress.org/plugins/wsecure/#developers|Release Notes
+696|CVE-2016-10962,CVE-2016-10963,CVE-2019-15830|https://wordpress.org/plugins/icegram/#developers|Release Notes,Third Party Advisory
+697|CVE-2016-10964|https://wordpress.org/plugins/dwnldr/#developers|Release Notes,Third Party Advisory
+698|CVE-2016-10965,CVE-2016-10967,CVE-2016-10966|https://wordpress.org/plugins/real3d-flipbook-lite/#developers|Release Notes,Third Party Advisory
+699|CVE-2016-10968|https://wordpress.org/plugins/peepso-core/#developers|Product,Third Party Advisory
+700|CVE-2016-10969,CVE-2016-10970|https://wordpress.org/plugins/supportflow/#developers|Release Notes,Third Party Advisory
+701|CVE-2016-10975,CVE-2016-10974|https://wordpress.org/plugins/fluid-responsive-slideshow/#developers|Product
+702|CVE-2016-10976|https://wordpress.org/plugins/safe-editor/#developers|Product
+703|CVE-2016-10927,CVE-2016-10977,CVE-2016-10926,CVE-2017-18547|https://wordpress.org/plugins/nelio-ab-testing/#developers|Issue Tracking,Release Notes,Third Party Advisory
+704|CVE-2016-10979,CVE-2016-10978|https://wordpress.org/plugins/fossura-tag-miner/#developers|Release Notes
+705|CVE-2016-10982,CVE-2016-10981,CVE-2016-10980|https://wordpress.org/plugins/kento-post-view-counter/#developers|Product
+706|CVE-2016-10983|https://wordpress.org/plugins/ghost/#developers|Release Notes
+707|CVE-2016-10985,CVE-2016-10984|https://wordpress.org/plugins/echosign/#developers|Release Notes
+708|CVE-2016-10986|https://wordpress.org/plugins/tweet-wheel/#developers|Release Notes
+709|CVE-2016-10987|https://wordpress.org/plugins/persian-woocommerce-sms/#developers|Release Notes
+710|CVE-2016-10988,CVE-2016-10989|https://wordpress.org/plugins/leenkme/#developers|Release Notes
+711|CVE-2016-10990|https://wordpress.org/plugins/wp-cerber/#developers|Release Notes
+712|CVE-2016-10991|https://wordpress.org/plugins/imdb-widget/#developers|Release Notes
+713|CVE-2016-10992|https://wordpress.org/plugins/music-store/#developers|Product,Third Party Advisory
+714|CVE-2019-16525|https://plugins.trac.wordpress.org/changeset/2155029/|Patch,Third Party Advisory
+715|CVE-2019-16525|https://wordpress.org/plugins/checklist/#developers|Product,Release Notes
+716|CVE-2015-9384|https://wordpress.org/plugins/relevant/#developers|Release Notes,Third Party Advisory
+717|CVE-2015-9385|https://wordpress.org/plugins/quotes-and-tips/#developers|Release Notes,Third Party Advisory
+718|CVE-2015-9388,CVE-2015-9387,CVE-2015-9389,CVE-2015-9386|https://wordpress.org/plugins/mtouch-quiz/#developers|Release Notes,Product,Third Party Advisory
+719|CVE-2015-9390|https://wordpress.org/plugins/admin-management-xtended/#developers|Release Notes,Third Party Advisory
+720|CVE-2015-9391|https://wordpress.org/plugins/yawpp/#developers|Third Party Advisory
+721|CVE-2016-10996|https://wordpress.org/plugins/optinmonster/#developers|Product,Release Notes
+722|CVE-2016-11000,CVE-2018-20968|https://wordpress.org/plugins/wp-ultimate-exporter/#developers|Product,Issue Tracking,Third Party Advisory
+723|CVE-2016-11001|https://wordpress.org/plugins/user-submitted-posts/#developers|Product,Third Party Advisory
+724|CVE-2016-11005|https://wordpress.org/plugins/instalinker/#developers|Product,Third Party Advisory
+725|CVE-2016-11011,CVE-2016-11006,CVE-2016-11009,CVE-2016-11007,CVE-2016-11010,CVE-2016-11008|https://wordpress.org/plugins/wp-invoice/#developers|Release Notes,Third Party Advisory
+726|CVE-2016-11012|https://wordpress.org/plugins/sola-support-tickets/#developers|Product,Release Notes,Third Party Advisory
+727|CVE-2016-11013|https://wordpress.org/plugins/wp-listings/#developers|Product,Release Notes,Third Party Advisory
+728|CVE-2015-9395,CVE-2015-9394,CVE-2015-9402,CVE-2015-9393,CVE-2015-9392|https://wordpress.org/plugins/users-ultra/#developers|Product,Release Notes,Third Party Advisory
+729|CVE-2015-9396|https://wordpress.org/plugins/auto-thickbox-plus/#developers|Product,Third Party Advisory
+730|CVE-2015-9398,CVE-2015-9397|https://wordpress.org/plugins/gocodes/#developers|Product,Third Party Advisory
+731|CVE-2015-9399|https://wordpress.org/plugins/wp-stats-dashboard/#developers|Product,Third Party Advisory
+732|CVE-2015-9400|https://wordpress.org/plugins/wordpress-meta-robots/#developers|Product,Third Party Advisory
+733|CVE-2015-9401|https://wordpress.org/plugins/websimon-tables/#developers|Product,Third Party Advisory
+734|CVE-2015-9404,CVE-2015-9403|https://wordpress.org/plugins/neuvoo-jobroll/#developers|Product,Third Party Advisory
+735|CVE-2015-9405|https://wordpress.org/plugins/wp-piwik/#developers|Product,Third Party Advisory
+736|CVE-2015-9407,CVE-2015-9408|https://wordpress.org/plugins/xpinner-lite/#developers|Product,Third Party Advisory
+737|CVE-2015-9409|https://wordpress.org/plugins/alo-easymail/#developers|Product,Third Party Advisory
+738|CVE-2015-9410|https://wordpress.org/plugins/powerpress/#developers|Product,Third Party Advisory
+739|CVE-2015-9411|https://wordpress.org/plugins/postmatic/#developers|Product,Third Party Advisory
+740|CVE-2015-9412|https://wordpress.org/plugins/royal-slider/#developers|Not Applicable,Third Party Advisory
+741|CVE-2015-9413|https://wordpress.org/plugins/eshop/#developers|Product,Third Party Advisory
+742|CVE-2015-9414|https://wordpress.org/plugins/wp-symposium/#developers|Product,Third Party Advisory
+743|CVE-2015-9415|https://wordpress.org/plugins/bj-lazy-load/#developers|Product,Third Party Advisory
+744|CVE-2015-9416|https://wordpress.org/plugins/sitepress-multilingual-cms/#developers|Product,Third Party Advisory
+745|CVE-2015-9417|https://wordpress.org/plugins/testimonial-slider/#developers|Product,Third Party Advisory
+746|CVE-2015-9418|https://wordpress.org/plugins/watupro/#developers|Not Applicable,Third Party Advisory
+747|CVE-2015-9419|https://wordpress.org/plugins/captain-slider/#developers|Product,Third Party Advisory
+748|CVE-2015-9420|https://wordpress.org/plugins/soundcloud-is-gold/#developers|Product,Release Notes
+749|CVE-2015-9421|https://wordpress.org/plugins/olevmedia-shortcodes/#developers|Product,Third Party Advisory
+750|CVE-2015-9423,CVE-2015-9422|https://wordpress.org/plugins/plugnedit/#developers|Product,Release Notes,Third Party Advisory
+751|CVE-2015-9424|https://wordpress.org/plugins/multicons/#developers|Product,Third Party Advisory
+752|CVE-2015-9425|https://wordpress.org/plugins/social-locker/#developers|Product,Third Party Advisory
+753|CVE-2015-9426|https://wordpress.org/plugins/manual-image-crop/#developers|Product,Third Party Advisory
+754|CVE-2015-9427|https://wordpress.org/plugins/googmonify/#developers|Product,Third Party Advisory
+755|CVE-2015-9428|https://wordpress.org/plugins/wplegalpages/#developers|Product,Third Party Advisory
+756|CVE-2015-9429|https://wordpress.org/plugins/yith-maintenance-mode/#developers|Product,Third Party Advisory
+757|CVE-2015-9430|https://wordpress.org/plugins/crazy-bone/#developers|Product,Release Notes
+758|CVE-2015-9449|https://wordpress.org/plugins/microblog-poster/#developers|Product,Release Notes
+759|CVE-2015-9431|https://wordpress.org/plugins/qtranslate-x/#developers|Product,Third Party Advisory
+760|CVE-2015-9432|https://wordpress.org/plugins/alpine-photo-tile-for-instagram/#developers|Product,Third Party Advisory
+761|CVE-2015-9433|https://wordpress.org/plugins/wp-social-bookmarking-light/#developers|Product,Release Notes
+762|CVE-2015-9434|https://wordpress.org/plugins/kiwi-logo-carousel/#developers|Product,Third Party Advisory
+763|CVE-2015-9435|https://wordpress.org/plugins/oauth2-provider/#developers|Product,Vendor Advisory
+764|CVE-2015-9436,CVE-2015-9437|https://wordpress.org/plugins/dynamic-widgets/#developers|Product,Third Party Advisory
+765|CVE-2015-9438|https://wordpress.org/plugins/display-widgets/#developers|Product,Third Party Advisory
+766|CVE-2015-9439|https://wordpress.org/plugins/addthis/#developers|Product,Release Notes
+767|CVE-2015-9440|https://wordpress.org/plugins/monetize/#developers|Third Party Advisory
+768|CVE-2015-9441|https://wordpress.org/plugins/bookmarkify/#developers|Release Notes,Third Party Advisory
+769|CVE-2015-9442|https://wordpress.org/plugins/avenirsoft-directdownload/#developers|Release Notes,Third Party Advisory
+770|CVE-2015-9443|https://wordpress.org/plugins/accurate-form-data-real-time-form-validation/#developers|Third Party Advisory
+771|CVE-2015-9444|https://wordpress.org/plugins/altos-connect/#developers|Product,Release Notes
+772|CVE-2015-9445,CVE-2015-9446,CVE-2015-9447|https://wordpress.org/plugins/unite-gallery-lite/#developers|Product,Release Notes
+773|CVE-2015-9448|https://wordpress.org/plugins/sendpress/#developers|Product,Release Notes
+774|CVE-2019-16524|https://wordpress.org/plugins/easy-fancybox/#developers|Product,Third Party Advisory
+775|CVE-2019-16931,CVE-2019-16932|https://wordpress.org/plugins/visualizer/#developers|Product,Release Notes,Third Party Advisory
+776|CVE-2015-9451,CVE-2015-9450|https://wordpress.org/plugins/plugmatter-optin-feature-box-lite/#developers|Product,Release Notes
+777|CVE-2015-9452|https://wordpress.org/plugins/nex-forms-express-wp-form-builder/#developers|Product,Release Notes
+778|CVE-2015-9468,CVE-2015-9453,CVE-2015-9467|https://wordpress.org/plugins/broken-link-manager/#developers|Release Notes,Product,Third Party Advisory
+779|CVE-2015-9454|https://wordpress.org/plugins/smooth-slider/#developers|Product,Release Notes
+780|CVE-2015-9455|https://wordpress.org/plugins/buddypress-activity-plus/#developers|Product,Release Notes
+781|CVE-2015-9456,CVE-2020-28649|https://wordpress.org/plugins/orbisius-child-theme-creator/#developers|Product,Release Notes,Third Party Advisory
+782|CVE-2019-17239|https://wordpress.org/plugins/download-plugins-dashboard/#developers|Product,Release Notes
+783|CVE-2019-17232,CVE-2019-17233,CVE-2019-15643,CVE-2020-7107|https://wordpress.org/plugins/ultimate-faqs/#developers|Product,Release Notes,Third Party Advisory
+784|CVE-2019-17385,CVE-2019-17384,CVE-2019-17386|https://wordpress.org/plugins/animate-it/#developers|Product,Vendor Advisory,Release Notes
+785|CVE-2019-17070|https://wordpress.org/plugins/liquid-speech-balloon/#developers|Vendor Advisory,Release Notes
+786|CVE-2019-17071|https://wordpress.org/plugins/client-dash/#developers|Vendor Advisory,Release Notes
+787|CVE-2019-17072|https://wordpress.org/plugins/new-contact-form-widget/#description|Vendor Advisory,Release Notes
+788|CVE-2015-9457|https://wordpress.org/plugins/pretty-link/#developers|Release Notes
+789|CVE-2015-9459,CVE-2015-9458|https://wordpress.org/plugins/searchterms-tagging-2/#developers|Third Party Advisory
+790|CVE-2015-9460|https://wordpress.org/plugins/booking-system/#developers|Product,Release Notes
+791|CVE-2015-9462,CVE-2015-9461|https://wordpress.org/plugins/awesome-filterable-portfolio/#developers|Release Notes,Third Party Advisory
+792|CVE-2015-9464|https://wordpress.org/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/#developers|Product
+793|CVE-2015-9463|https://wordpress.org/plugins/s3bubble-amazon-s3-audio-streaming/#developers|Product,Third Party Advisory
+794|CVE-2015-9465|https://wordpress.org/plugins/yet-another-stars-rating/#developers|Product,Third Party Advisory
+795|CVE-2020-8799,CVE-2015-9466|https://wordpress.org/plugins/wti-like-post/#developers|Product,Third Party Advisory
+796|CVE-2015-9469|https://wordpress.org/plugins/content-grabber/#developers|Product,Third Party Advisory
+797|CVE-2015-9470|https://wordpress.org/plugins/history-collection/#developers|Product,Third Party Advisory
+798|CVE-2015-9471|https://wordpress.org/plugins/dzs-zoomsounds/#developers|Not Applicable
+799|CVE-2015-9472|https://plugins.trac.wordpress.org/changeset/1080044/incoming-links|Patch,Third Party Advisory
+800|CVE-2015-9472|https://wordpress.org/plugins/incoming-links/#developers|Product,Third Party Advisory
+801|CVE-2019-17386|https://plugins.trac.wordpress.org/changeset?old_path=%2Fanimate-it%2Ftags%2F2.3.6%2Fedsanimate.php&old=2129363&new_path=%2Fanimate-it%2Ftags%2F2.3.5%2Fedsanimate.php|Patch,Third Party Advisory
+802|CVE-2019-16520|https://wordpress.org/plugins/all-in-one-seo-pack/#developers|Product,Third Party Advisory
+803|CVE-2019-16521,CVE-2019-17207,CVE-2015-5057|https://wordpress.org/plugins/broken-link-checker/#developers|Product,Release Notes,Third Party Advisory
+804|CVE-2019-16522|https://wordpress.org/plugins/eu-cookie-law/#developers|Product,Third Party Advisory
+805|CVE-2019-17669|https://core.trac.wordpress.org/changeset/46475|Vendor Advisory
+806|CVE-2019-17673,CVE-2019-17672,CVE-2019-17670,CVE-2019-17674,CVE-2019-17671,CVE-2019-17675,CVE-2019-17669|https://wordpress.org/news/2019/10/wordpress-5-2-4-security-release/|Vendor Advisory,Release Notes
+807|CVE-2019-17670|https://core.trac.wordpress.org/changeset/46472|Patch,Vendor Advisory
+808|CVE-2019-17671|https://core.trac.wordpress.org/changeset/46474|Patch,Vendor Advisory
+809|CVE-2019-17673|https://core.trac.wordpress.org/changeset/46478|Patch,Vendor Advisory
+810|CVE-2019-17675|https://core.trac.wordpress.org/changeset/46477|Patch,Vendor Advisory
+811|CVE-2015-9493|https://wordpress.org/plugins/my-wish-list/#developers|Product,Third Party Advisory
+812|CVE-2015-9495|https://wordpress.org/plugins/syndication-links/#developers|Product,Third Party Advisory
+813|CVE-2019-15824,CVE-2015-9498,CVE-2019-15826,CVE-2019-15823,CVE-2019-15825|https://wordpress.org/plugins/wps-hide-login/#developers|Product,Third Party Advisory
+814|CVE-2019-18668|https://wordpress.org/plugins/currency-switcher-woocommerce/#developers|Vendor Advisory,Release Notes
+815|CVE-2018-20853|https://wordpress.org/plugins/wysija-newsletters/#developers|Vendor Advisory,Release Notes
+816|CVE-2019-18855,CVE-2019-18854|https://plugins.trac.wordpress.org/changeset/2185438|Third Party Advisory
+817|CVE-2019-18855,CVE-2019-18854|https://wordpress.org/plugins/safe-svg/#developers|Release Notes,Third Party Advisory
+818|CVE-2019-17234,CVE-2019-17236,CVE-2019-17237,CVE-2019-17235|https://wordpress.org/plugins/igniteup/#developers|Vendor Advisory,Release Notes
+819|CVE-2019-17515|https://plugins.trac.wordpress.org/changeset/2172333|Patch,Third Party Advisory
+820|CVE-2019-17515|https://wordpress.org/plugins/cleantalk-spam-protect/#developers|Product,Third Party Advisory
+821|CVE-2019-17550|https://plugins.trac.wordpress.org/changeset/2186043|Patch,Third Party Advisory
+822|CVE-2019-17550|https://plugins.trac.wordpress.org/log/blog2social/|Third Party Advisory
+823|CVE-2019-14467|https://wordpress.org/plugins/social-photo-gallery/#developers|Release Notes,Third Party Advisory
+824|CVE-2019-19306|https://wordpress.org/plugins/zoho-crm-forms/#developers|Release Notes,Third Party Advisory
+825|CVE-2018-11579|https://wordpress.org/plugins/banner-management-for-woocommerce/#developers|Release Notes
+826|CVE-2018-11580|https://wordpress.org/plugins/mass-pagesposts-creator/#developers|Release Notes
+827|CVE-2018-11632|https://wordpress.org/plugins/add-social-share-buttons/#developers|Release Notes
+828|CVE-2018-11633|https://wordpress.org/plugins/woo-checkout-for-digital-goods/#developers|Release Notes
+829|CVE-2018-11709,CVE-2018-16613|https://wordpress.org/plugins/wpforo/#developers|Vendor Advisory,Release Notes
+830|CVE-2018-10969,CVE-2019-15659|https://wordpress.org/plugins/pie-register/#developers|Vendor Advisory,Release Notes
+831|CVE-2018-12534|https://wordpress.org/plugins/quick-chat/#developers|Third Party Advisory
+832|CVE-2018-11526|https://wordpress.org/plugins/comments-import-export-woocommerce/#developers|Third Party Advisory
+833|CVE-2018-0603|https://wordpress.org/plugins/site-reviews/#developers|Third Party Advisory
+834|CVE-2018-14028|https://core.trac.wordpress.org/ticket/44710|Third Party Advisory
+835|CVE-2017-18515,CVE-2019-13275,CVE-2019-12566|https://wordpress.org/plugins/wp-statistics/#developers|Product,Third Party Advisory
+836|CVE-2013-7472,CVE-2012-6714|https://wordpress.org/plugins/count-per-day/#developers|Vendor Advisory,Release Notes
+837|CVE-2019-12826|https://plugins.trac.wordpress.org/changeset/2112753/widget-logic|Third Party Advisory
+838|CVE-2019-5962,CVE-2019-5963|https://wordpress.org/plugins/zoho-salesiq/|Product,Third Party Advisory
+839|CVE-2019-5971,CVE-2019-5970|https://wordpress.org/plugins/attendance-manager/#developers|Product,Third Party Advisory
+840|CVE-2019-5973,CVE-2019-5972|https://wordpress.org/plugins/online-lesson-booking-system/#developers|Product,Third Party Advisory
+841|CVE-2019-5974|https://wordpress.org/plugins/contest-gallery/|Product,Third Party Advisory
+842|CVE-2019-5979|https://wordpress.org/plugins/personalize-woocommerce-cart-page/|Product,Third Party Advisory
+843|CVE-2019-5980|https://wordpress.org/plugins/related-youtube-videos/|Product,Third Party Advisory
+844|CVE-2019-5983|https://wordpress.org/plugins/html5-maps/|Product
+845|CVE-2019-5984|https://wordpress.org/plugins/custom-css-pro/|Product
+846|CVE-2019-13344|https://wordpress.org/plugins/wp-like-button/#developers|Release Notes,Third Party Advisory
+847|CVE-2019-13414,CVE-2019-13413|https://plugins.trac.wordpress.org/changeset/2119248|Patch,Third Party Advisory
+848|CVE-2019-13414,CVE-2019-13413|https://wordpress.org/plugins/rencontre/#developers|Product,Third Party Advisory
+849|CVE-2019-13505|https://wordpress.org/plugins/appointment-hour-booking/#developers|Release Notes,Third Party Advisory
+850|CVE-2019-1010034|https://plugins.trac.wordpress.org/browser/weblibrarian/trunk/includes/database_code.php|Exploit,Third Party Advisory
+851|CVE-2019-13573|https://plugins.trac.wordpress.org/changeset/2121566/fv-wordpress-flowplayer/trunk/models/db.php|Patch,Third Party Advisory
+852|CVE-2016-10763,CVE-2016-10762|https://wordpress.org/plugins/camptix/#developers|Release Notes,Third Party Advisory
+853|CVE-2019-13575|https://wordpress.org/plugins/everest-forms/#developers|Release Notes,Third Party Advisory
+854|CVE-2019-12934|https://wordpress.org/plugins/wp-code-highlightjs/#developers|Product
+855|CVE-2019-14206,CVE-2019-14205|https://wordpress.org/plugins/adaptive-images/#developers|Release Notes,Third Party Advisory
+856|CVE-2016-10884,CVE-2017-18499,CVE-2019-14328|https://wordpress.org/plugins/simple-membership/#developers|Release Notes,Issue Tracking,Vendor Advisory,Third Party Advisory
+857|CVE-2019-6726|https://plugins.trac.wordpress.org/browser/wp-fastest-cache/trunk/wpFastestCache.php|Third Party Advisory
+858|CVE-2019-6726,CVE-2021-20714|https://wordpress.org/plugins/wp-fastest-cache/|Product
+859|CVE-2019-6726,CVE-2015-9316,CVE-2019-13635,CVE-2015-4089|https://wordpress.org/plugins/wp-fastest-cache/#developers|Release Notes,Third Party Advisory
+860|CVE-2019-13571|https://plugins.trac.wordpress.org/changeset/2123623|Release Notes,Third Party Advisory
+861|CVE-2019-13571|https://wordpress.org/plugins/advanced-cf7-db/#developers|Third Party Advisory
+862|CVE-2019-13635|https://plugins.trac.wordpress.org/changeset/2124614|Patch,Third Party Advisory
+863|CVE-2019-13635|https://plugins.trac.wordpress.org/changeset/2124619|Patch,Third Party Advisory
+864|CVE-2019-14327|https://wordpress.org/plugins/custom-simple-rss/#developers|Product,Release Notes
+865|CVE-2019-14313|https://plugins.trac.wordpress.org/changeset/2128378|Patch,Issue Tracking,Third Party Advisory
+866|CVE-2019-13572|https://plugins.trac.wordpress.org/changeset/2126559/blog2social/trunk/includes/Ajax/Get.php|Patch,Third Party Advisory
+867|CVE-2020-9006,CVE-2019-14695|https://wordpress.org/plugins/popup-builder/#developers|Release Notes,Third Party Advisory
+868|CVE-2019-14679|https://wordpress.org/plugins/arprice-responsive-pricing-table/#developers|Third Party Advisory
+869|CVE-2019-14681|https://wordpress.org/plugins/deny-all-firewall/#developers|Third Party Advisory
+870|CVE-2019-14682|https://wordpress.org/plugins/acf-better-search/#developers|Third Party Advisory
+871|CVE-2019-14683|https://plugins.trac.wordpress.org/browser/import-users-from-csv-with-meta?rev=2112013|Third Party Advisory
+872|CVE-2016-10865|https://wordpress.org/plugins/lightbox-plus/#developers|Third Party Advisory
+873|CVE-2019-14784,CVE-2015-9234,CVE-2019-14785,CVE-2015-9233|https://wordpress.org/plugins/cp-contact-form-with-paypal/#developers|Release Notes,Third Party Advisory
+874|CVE-2019-14788,CVE-2019-14787,CVE-2018-20987|https://wordpress.org/plugins/newsletters-lite/#developers|Release Notes,Third Party Advisory
+875|CVE-2020-9371,CVE-2020-9372,CVE-2019-14791,CVE-2016-10916|https://wordpress.org/plugins/appointment-booking-calendar/#developers|Release Notes,Third Party Advisory
+876|CVE-2019-14796|https://wordpress.org/plugins/mq-woocommerce-products-price-bulk-edit/#developers|Third Party Advisory
+877|CVE-2018-20967,CVE-2015-9306|https://wordpress.org/plugins/wp-ultimate-csv-importer/#developers|Vendor Advisory,Issue Tracking,Release Notes,Third Party Advisory
+878|CVE-2016-10874,CVE-2016-10873,CVE-2016-10876,CVE-2020-7241,CVE-2019-14949,CVE-2016-10875|https://wordpress.org/plugins/wp-database-backup/#developers|Vendor Advisory,Release Notes,Third Party Advisory
+879|CVE-2016-10877,CVE-2016-10885,CVE-2016-10886|https://wordpress.org/plugins/wp-editor/#developers|Vendor Advisory,Issue Tracking,Release Notes,Third Party Advisory
+880|CVE-2017-18506|https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/#developers|Vendor Advisory,Release Notes
+881|CVE-2019-14948|https://wordpress.org/plugins/woocommerce-product-addon/#developers|Vendor Advisory,Release Notes
+882|CVE-2015-9303|https://wordpress.org/plugins/simple-share-buttons-adder/#developers|Vendor Advisory,Release Notes
+883|CVE-2017-18500|https://wordpress.org/plugins/social-buttons-pack/#developers|Vendor Advisory,Release Notes
+884|CVE-2017-18501|https://wordpress.org/plugins/social-login-bws/#developers|Vendor Advisory,Release Notes
+885|CVE-2017-18502|https://wordpress.org/plugins/subscriber/#developers|Vendor Advisory,Release Notes
+886|CVE-2017-18503,CVE-2017-18504|https://wordpress.org/plugins/twitter-cards-meta/#developers|Vendor Advisory,Release Notes
+887|CVE-2017-18505|https://wordpress.org/plugins/twitter-plugin/#developers|Vendor Advisory,Release Notes
+888|CVE-2018-20966|https://wordpress.org/plugins/woocommerce-jetpack/#developers|Vendor Advisory,Release Notes
+889|CVE-2012-6713|https://wordpress.org/plugins/job-manager/#developers|Release Notes,Third Party Advisory
+890|CVE-2013-7475,CVE-2017-18491,CVE-2016-10869,CVE-2015-9295,CVE-2013-7481|https://wordpress.org/plugins/contact-form-plugin/#developers|Release Notes,Third Party Advisory
+891|CVE-2015-9296|https://wordpress.org/plugins/download-monitor/#developers|Release Notes,Third Party Advisory
+892|CVE-2015-9301,CVE-2017-18497|https://wordpress.org/plugins/liveforms/#developers|Release Notes,Third Party Advisory
+893|CVE-2013-7476,CVE-2015-9302|https://wordpress.org/plugins/simple-fields/#developers|Issue Tracking,Release Notes,Third Party Advisory
+894|CVE-2016-10870|https://wordpress.org/plugins/google-language-translator/#developers|Release Notes,Third Party Advisory
+895|CVE-2016-10871,CVE-2017-18577|https://wordpress.org/plugins/mailchimp-for-wp/#developers|Release Notes,Third Party Advisory
+896|CVE-2017-18489|https://wordpress.org/plugins/contact-form-7-sms-addon/#developers|Release Notes,Third Party Advisory
+897|CVE-2017-18490|https://wordpress.org/plugins/contact-form-multi/#developers|Release Notes,Third Party Advisory
+898|CVE-2017-18492|https://wordpress.org/plugins/contact-form-to-db/#developers|Release Notes,Third Party Advisory
+899|CVE-2017-18493|https://wordpress.org/plugins/custom-admin-page/#developers|Release Notes,Third Party Advisory
+900|CVE-2017-18494|https://wordpress.org/plugins/custom-search-plugin/#developers|Release Notes,Third Party Advisory
+901|CVE-2017-18495|https://wordpress.org/plugins/gravity-forms-sms-notifications/#developers|Third Party Advisory
+902|CVE-2020-8658,CVE-2017-18496|https://wordpress.org/plugins/htaccess/#developers|Release Notes,Third Party Advisory
+903|CVE-2017-18498|https://wordpress.org/plugins/simple-job-board/#developers|Third Party Advisory
+904|CVE-2017-18487|https://wordpress.org/plugins/adsense-plugin/#developers|Release Notes,Third Party Advisory
+905|CVE-2017-18488,CVE-2017-10837|https://wordpress.org/plugins/backup/#developers|Third Party Advisory
+906|CVE-2015-9312,CVE-2015-9315,CVE-2015-9314,CVE-2015-9313,CVE-2017-18575,CVE-2015-9311|https://wordpress.org/plugins/newstatpress/#developers|Release Notes,Third Party Advisory
+907|CVE-2017-18514,CVE-2017-18573|https://wordpress.org/plugins/simple-login-log/#developers|Release Notes,Third Party Advisory
+908|CVE-2016-10881,CVE-2016-10880,CVE-2016-10882|https://wordpress.org/plugins/google-document-embedder/#developers|Release Notes,Third Party Advisory
+909|CVE-2016-10883|https://wordpress.org/plugins/simple-add-pages-or-posts/#developers|Issue Tracking,Third Party Advisory
+910|CVE-2017-18511,CVE-2017-18510|https://wordpress.org/plugins/custom-sidebars/#developers|Issue Tracking,Third Party Advisory
+911|CVE-2017-18512|https://wordpress.org/plugins/newsletter-by-supsystic/#developers|Issue Tracking,Third Party Advisory
+912|CVE-2017-18513|https://wordpress.org/plugins/responsive-menu/#developers|Issue Tracking,Third Party Advisory
+913|CVE-2019-14790|https://wordpress.org/plugins/limb-gallery/#developers|Release Notes
+914|CVE-2019-14795|https://wordpress.org/plugins/toggle-the-title/#developers|Product
+915|CVE-2019-15838,CVE-2019-14789|https://wordpress.org/plugins/custom-404-pro/#developers|Vendor Advisory,Release Notes
+916|CVE-2015-9325,CVE-2017-18537|https://wordpress.org/plugins/visitors-online/#developers|Release Notes
+917|CVE-2015-9326|https://wordpress.org/plugins/wp-business-intelligence-lite/#developers|Release Notes
+918|CVE-2016-10904|https://wordpress.org/plugins/olimometer/#developers|Release Notes
+919|CVE-2017-18548|https://wordpress.org/plugins/note-press/#developers|Vendor Advisory,Release Notes
+920|CVE-2014-10376|https://wordpress.org/plugins/i-recommend-this/#developers|Issue Tracking,Third Party Advisory
+921|CVE-2015-9322|https://wordpress.org/plugins/erident-custom-login-and-dashboard/#developers|Issue Tracking,Third Party Advisory
+922|CVE-2015-9323|https://wordpress.org/plugins/404-to-301/#developers|Issue Tracking,Third Party Advisory
+923|CVE-2019-15116,CVE-2015-9324|https://wordpress.org/plugins/easy-digital-downloads/#developers|Issue Tracking,Third Party Advisory
+924|CVE-2017-18541|https://wordpress.org/plugins/xo-security/#developers|Release Notes,Third Party Advisory
+925|CVE-2017-18542|https://wordpress.org/plugins/zendesk-help-center/#developers|Issue Tracking,Third Party Advisory
+926|CVE-2017-18544,CVE-2017-18543,CVE-2017-18545|https://wordpress.org/plugins/invite-anyone/#developers|Issue Tracking,Third Party Advisory
+927|CVE-2017-18546|https://wordpress.org/plugins/jayj-quicktag/#developers|Issue Tracking,Third Party Advisory
+928|CVE-2018-20971|https://wordpress.org/plugins/church-admin/#developers|Issue Tracking,Third Party Advisory
+929|CVE-2018-20972,CVE-2018-20973|https://wordpress.org/plugins/companion-auto-update/#developers|Issue Tracking,Third Party Advisory
+930|CVE-2018-20974|https://wordpress.org/plugins/js-jobs/#developers|Issue Tracking,Third Party Advisory
+931|CVE-2019-15113|https://wordpress.org/plugins/companion-sitemap-generator/#developers|Issue Tracking,Third Party Advisory
+932|CVE-2016-10925,CVE-2019-15115|https://wordpress.org/plugins/peters-login-redirect/#developers|Release Notes,Issue Tracking,Third Party Advisory
+933|CVE-2019-15082|https://wordpress.org/plugins/360-product-rotation/#developers|Release Notes
+934|CVE-2011-5328|https://wordpress.org/plugins/user-access-manager/#developers|Release Notes
+935|CVE-2014-10381|https://wordpress.org/plugins/user-domain-whitelist/#developers|Release Notes
+936|CVE-2015-9318,CVE-2015-9317|https://wordpress.org/plugins/awesome-support/#developers|Release Notes
+937|CVE-2015-9332|https://wordpress.org/plugins/uninstall/#developers|Release Notes
+938|CVE-2016-10893|https://wordpress.org/plugins/crayon-syntax-highlighter/#developers|Release Notes
+939|CVE-2016-10913|https://wordpress.org/plugins/wp-latest-posts/#developers|Release Notes
+940|CVE-2016-10914|https://wordpress.org/plugins/add-from-server/#developers|Release Notes
+941|CVE-2016-10915|https://wordpress.org/plugins/popup-by-supsystic/#developers|Release Notes
+942|CVE-2017-18517|https://wordpress.org/plugins/bws-pinterest/#developers|Release Notes
+943|CVE-2017-18521,CVE-2017-18520|https://wordpress.org/plugins/democracy-poll/#developers|Release Notes
+944|CVE-2017-18569,CVE-2017-18568|https://wordpress.org/plugins/my-wp-translate/#developers|Release Notes
+945|CVE-2015-9333,CVE-2017-18559,CVE-2014-10392,CVE-2014-10393,CVE-2017-18570,CVE-2014-10377,CVE-2019-15238|https://wordpress.org/plugins/cforms2/#developers|Release Notes
+946|CVE-2015-9319|https://wordpress.org/plugins/gregs-high-performance-seo/#developers|Release Notes
+947|CVE-2016-10895,CVE-2019-15320,CVE-2019-15321,CVE-2019-15319,CVE-2015-9320|https://wordpress.org/plugins/option-tree/#developers|Release Notes
+948|CVE-2016-10892,CVE-2018-14502|https://wordpress.org/plugins/chained-quiz/#developers|Release Notes,Third Party Advisory
+949|CVE-2017-18518|https://wordpress.org/plugins/bws-smtp/#developers|Release Notes
+950|CVE-2017-18519|https://wordpress.org/plugins/customer-area/#developers|Release Notes
+951|CVE-2017-18523,CVE-2017-18522|https://wordpress.org/plugins/eelv-newsletter/#developers|Release Notes
+952|CVE-2017-18524|https://wordpress.org/plugins/football-pool/#developers|Release Notes
+953|CVE-2017-18526|https://wordpress.org/plugins/moreads-se/#developers|Release Notes
+954|CVE-2017-18527|https://wordpress.org/plugins/pagination/#developers|Release Notes
+955|CVE-2017-18528,CVE-2018-20970|https://wordpress.org/plugins/pdf-print/#developers|Release Notes
+956|CVE-2017-18529|https://wordpress.org/plugins/promobar/#developers|Release Notes
+957|CVE-2017-18530|https://wordpress.org/plugins/rating-bws/#developers|Release Notes
+958|CVE-2017-18531|https://wordpress.org/plugins/raygun4wp/#developers|Release Notes
+959|CVE-2017-18532|https://wordpress.org/plugins/realty/#developers|Release Notes
+960|CVE-2017-18533|https://wordpress.org/plugins/rimons-twitter-widget/#developers|Release Notes
+961|CVE-2017-18566|https://wordpress.org/plugins/user-role/#developers|Release Notes
+962|CVE-2015-9321,CVE-2019-15322|https://wordpress.org/plugins/shortcode-factory/#developers|Release Notes
+963|CVE-2016-10896|https://wordpress.org/plugins/seo-redirection/#developers|Release Notes
+964|CVE-2016-10897|https://wordpress.org/plugins/sermon-browser/#developers|Release Notes
+965|CVE-2016-10899,CVE-2016-10898|https://wordpress.org/plugins/total-security/#developers|Release Notes
+966|CVE-2017-18534|https://wordpress.org/plugins/share-on-diaspora/#developers|Release Notes
+967|CVE-2017-18536|https://wordpress.org/plugins/stop-user-enumeration/#developers|Release Notes
+968|CVE-2017-18538,CVE-2017-18540,CVE-2017-18539|https://wordpress.org/plugins/weblibrarian/#developers|Release Notes
+969|CVE-2019-15109|https://wordpress.org/plugins/the-events-calendar/#developers|Release Notes
+970|CVE-2016-10900|https://wordpress.org/plugins/uji-countdown/#developers|Release Notes
+971|CVE-2016-10901,CVE-2016-10902|https://wordpress.org/plugins/wp-customer-reviews/#developers|Release Notes
+972|CVE-2016-10903|https://wordpress.org/plugins/godaddy-email-marketing-sign-up-forms/#developers|Release Notes
+973|CVE-2016-10909,CVE-2016-10908|https://wordpress.org/plugins/booking-calendar-contact-form/#developers|Release Notes
+974|CVE-2017-18553|https://wordpress.org/plugins/ad-buttons/#developers|Release Notes
+975|CVE-2017-18554|https://wordpress.org/plugins/analytics-tracker/#developers|Release Notes
+976|CVE-2017-18555|https://wordpress.org/plugins/booking-sms/#developers|Release Notes
+977|CVE-2017-18556|https://wordpress.org/plugins/bws-google-analytics/#developers|Release Notes
+978|CVE-2017-18557|https://wordpress.org/plugins/bws-google-maps/#developers|Release Notes
+979|CVE-2017-18558|https://wordpress.org/plugins/bws-testimonials/#developers|Release Notes
+980|CVE-2017-18560|https://wordpress.org/plugins/content-audit/#developers|Release Notes
+981|CVE-2017-18565|https://wordpress.org/plugins/updater/#developers|Release Notes
+982|CVE-2019-15111,CVE-2019-15110|https://wordpress.org/plugins/wp-front-end-profile/#developers|Release Notes
+983|CVE-2019-15112|https://wordpress.org/plugins/wp-slimstat/#developers|Release Notes
+984|CVE-2016-10910,CVE-2012-6715|https://wordpress.org/plugins/formbuilder/#developers|Release Notes
+985|CVE-2016-10911,CVE-2015-9337,CVE-2015-9328,CVE-2014-10380|https://wordpress.org/plugins/profile-builder/#developers|Release Notes,Third Party Advisory
+986|CVE-2015-9327|https://wordpress.org/plugins/flickr-justified-gallery/#developers|Release Notes
+987|CVE-2016-10912|https://wordpress.org/plugins/universal-analytics/#developers|Release Notes
+988|CVE-2017-18563|https://wordpress.org/plugins/rsvp/#developers|Release Notes
+989|CVE-2017-18564|https://wordpress.org/plugins/sender/#developers|Release Notes
+990|CVE-2014-10378,CVE-2014-10379|https://wordpress.org/plugins/duplicate-post/#developers|Release Notes
+991|CVE-2017-18516|https://wordpress.org/plugins/bws-linkedin/#developers|Release Notes
+992|CVE-2017-18525|https://wordpress.org/plugins/megamenu/#developers|Release Notes
+993|CVE-2017-18535|https://wordpress.org/plugins/smokesignal/#developers|Release Notes
+994|CVE-2017-18561|https://wordpress.org/plugins/embed-comment-images/#developers|Release Notes
+995|CVE-2017-18562|https://wordpress.org/plugins/error-log-viewer/#developers|Release Notes
+996|CVE-2018-20977|https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/#developers|Release Notes
+997|CVE-2009-5158|https://wordpress.org/plugins/google-analyticator/#developers|Release Notes,Third Party Advisory
+998|CVE-2015-9335|https://wordpress.org/plugins/limit-attempts/#developers|Release Notes
+999|CVE-2017-8875,CVE-2015-9336|https://wordpress.org/plugins/clean-login/#developers|Vendor Advisory,Release Notes,Third Party Advisory
+1000|CVE-2017-18571,CVE-2016-10917|https://wordpress.org/plugins/search-everything/#developers|Release Notes
+1001|CVE-2016-10918|https://wordpress.org/plugins/gallery-by-supsystic/#developers|Release Notes,Third Party Advisory
+1002|CVE-2016-10919|https://wordpress.org/plugins/wassup/#developers|Release Notes,Third Party Advisory
+1003|CVE-2017-18572,CVE-2016-10920|https://wordpress.org/plugins/gnucommerce/#developers|Release Notes,Third Party Advisory
+1004|CVE-2016-10921|https://wordpress.org/plugins/gallery-photo-gallery/#developers|Release Notes,Third Party Advisory
+1005|CVE-2020-35489,CVE-2018-20979|https://wordpress.org/plugins/contact-form-7/#developers|Release Notes,Third Party Advisory
+1006|CVE-2020-11928,CVE-2020-11731,CVE-2020-11732,CVE-2018-20982|https://wordpress.org/plugins/media-library-assistant/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+1007|CVE-2019-15317|https://wordpress.org/plugins/give/#developers|Release Notes
+1008|CVE-2019-15318|https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/#developers|Release Notes
+1009|CVE-2008-7321|https://wordpress.org/plugins/tubepress/#developers|Release Notes
+1010|CVE-2013-7482|https://wordpress.org/plugins/reflex-gallery/#developers|Release Notes
+1011|CVE-2014-10383,CVE-2014-10384,CVE-2014-10385|https://wordpress.org/plugins/memphis-documents-library/#developers|Release Notes,Third Party Advisory
+1012|CVE-2016-10923,CVE-2016-10922|https://wordpress.org/plugins/woocommerce-store-toolkit/#developers|Release Notes,Third Party Advisory
+1013|CVE-2016-10924|https://wordpress.org/plugins/ebook-download/#developers|Release Notes
+1014|CVE-2017-18576|https://wordpress.org/plugins/event-notifier/#developers|Release Notes
+1015|CVE-2017-2245,CVE-2017-18580|https://wordpress.org/plugins/shortcodes-ultimate/#developers|Vendor Advisory,Release Notes
+1016|CVE-2017-18581,CVE-2017-18582|https://wordpress.org/plugins/time-sheets/#developers|Release Notes
+1017|CVE-2017-18583,CVE-2017-18584|https://wordpress.org/plugins/post-pay-counter/#developers|Release Notes
+1018|CVE-2018-20983|https://wordpress.org/plugins/wp-retina-2x/#developers|Release Notes
+1019|CVE-2018-20984|https://wordpress.org/plugins/patreon-connect/#developers|Release Notes
+1020|CVE-2018-20985|https://wordpress.org/plugins/wp-payeezy-pay/#developers|Release Notes
+1021|CVE-2019-15323,CVE-2019-15324|https://wordpress.org/plugins/ad-inserter/#developers|Release Notes
+1022|CVE-2014-10394|https://wordpress.org/plugins/rich-counter/#developers|Release Notes
+1023|CVE-2017-18586|https://wordpress.org/plugins/insert-pages/#developers|Release Notes
+1024|CVE-2018-20988|https://wordpress.org/plugins/wpgform/#developers|Release Notes
+1025|CVE-2019-15330,CVE-2019-15837|https://wordpress.org/plugins/webp-express/#developers|Vendor Advisory,Release Notes
+1026|CVE-2013-7483|https://wordpress.org/plugins/slidedeck2/#developers|Release Notes
+1027|CVE-2014-10382|https://wordpress.org/plugins/feature-comments/#developers|Release Notes
+1028|CVE-2015-9334|https://wordpress.org/plugins/email-newsletter/#developers|Product
+1029|CVE-2015-9334|https://wordpress.org/plugins/email-newsletter/advanced/|Product
+1030|CVE-2015-9334|https://wordpress.org/support/topic/susceptible-to-sql-injection-attack/|Third Party Advisory
+1031|CVE-2016-10928|https://wordpress.org/plugins/onelogin-saml-sso/#developers|Release Notes
+1032|CVE-2016-10929|https://wordpress.org/plugins/advanced-ajax-page-loader/#developers|Release Notes
+1033|CVE-2017-18578|https://wordpress.org/plugins/crafty-social-buttons/#developers|Release Notes
+1034|CVE-2017-18579|https://wordpress.org/plugins/corner-ad/#developers|Release Notes
+1035|CVE-2017-18585|https://wordpress.org/plugins/posts-in-page/#developers|Release Notes
+1036|CVE-2019-15329,CVE-2019-15328|https://plugins.trac.wordpress.org/browser/import-users-from-csv-with-meta?rev=2050450|Third Party Advisory
+1037|CVE-2015-9346,CVE-2014-10395|https://wordpress.org/plugins/cp-polls/#developers|Release Notes
+1038|CVE-2015-9342,CVE-2015-9343|https://wordpress.org/plugins/wp-rollback/#developers|Release Notes
+1039|CVE-2015-9345,CVE-2015-9344|https://wordpress.org/plugins/link-log/#developers|Release Notes
+1040|CVE-2015-9347|https://wordpress.org/plugins/wp-plotly/#developers|Release Notes
+1041|CVE-2015-9349|https://wordpress.org/plugins/ckeditor-for-wordpress/#developers|Release Notes
+1042|CVE-2016-10934|https://wordpress.org/plugins/check-email/#developers|Release Notes
+1043|CVE-2016-10935|https://wordpress.org/plugins/woocommerce-exporter/#developers|Release Notes
+1044|CVE-2017-18590|https://wordpress.org/plugins/timesheet/#developers|Release Notes
+1045|CVE-2018-21001|https://wordpress.org/plugins/anycomment/#developers|Release Notes
+1046|CVE-2018-21002|https://wordpress.org/plugins/js-support-ticket/#developers|Release Notes,Third Party Advisory
+1047|CVE-2018-21003|https://wordpress.org/plugins/buddyforms/#developers|Release Notes
+1048|CVE-2018-21004|https://plugins.trac.wordpress.org/log/rsvpmaker/tags/5.6.4|Third Party Advisory
+1049|CVE-2019-15646,CVE-2018-21004|https://wordpress.org/plugins/rsvpmaker/#developers|Release Notes
+1050|CVE-2018-21006,CVE-2018-21005|https://wordpress.org/plugins/bbp-move-topics/#developers|Release Notes
+1051|CVE-2019-15645,CVE-2019-15644|https://wordpress.org/plugins/zoho-salesiq/#developers|Release Notes
+1052|CVE-2019-15646|https://plugins.trac.wordpress.org/log/rsvpmaker/tags/6.2|Third Party Advisory
+1053|CVE-2019-15647|https://wordpress.org/plugins/groundhogg/#developers|Release Notes
+1054|CVE-2019-15648,CVE-2019-15649|https://wordpress.org/plugins/insert-or-embed-articulate-content-into-wordpress/#developers|Release Notes
+1055|CVE-2015-9348|https://wordpress.org/plugins/sell-downloads/#developers|Release Notes
+1056|CVE-2015-9350,CVE-2015-9351|https://wordpress.org/plugins/feed-them-social/#developers|Release Notes
+1057|CVE-2016-10936,CVE-2015-9352|https://wordpress.org/plugins/wp-polls/#developers|Release Notes
+1058|CVE-2017-18591|https://wordpress.org/plugins/gd-rating-system/#developers|Release Notes
+1059|CVE-2017-18592|https://wordpress.org/plugins/woocommerce-catalog-enquiry/#developers|Release Notes
+1060|CVE-2019-15650|https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/#developers|Release Notes
+1061|CVE-2019-15660,CVE-2017-2222|https://wordpress.org/plugins/wp-members/#developers|Release Notes,Third Party Advisory
+1062|CVE-2019-14314|https://de.wordpress.org/plugins/nextgen-gallery/#developers|
+1063|CVE-2011-5329,CVE-2012-6717|https://wordpress.org/plugins/redirection/#developers|Release Notes,Third Party Advisory
+1064|CVE-2012-6718,CVE-2012-6719|https://wordpress.org/plugins/sharebar/#developers|Release Notes,Third Party Advisory
+1065|CVE-2015-9354,CVE-2015-9353|https://wordpress.org/plugins/gigpress/#developers|Release Notes,Third Party Advisory
+1066|CVE-2015-9356|https://make.wordpress.org/plugins/2015/04/20/fixing-add_query_arg-and-remove_query_arg-usage/|Third Party Advisory
+1067|CVE-2015-9356|https://wordpress.org/plugins/wp-vipergb/#developers|Release Notes,Third Party Advisory
+1068|CVE-2015-9357|https://wordpress.org/plugins/akismet/#developers|Release Notes,Third Party Advisory
+1069|CVE-2015-9358|https://wordpress.org/plugins/feedwordpress/#developers|Release Notes,Third Party Advisory
+1070|CVE-2017-18593|https://wordpress.org/plugins/updraftplus/#developers|Third Party Advisory
+1071|CVE-2019-15713|https://wordpress.org/plugins/my-calendar/#developers|Third Party Advisory
+1072|CVE-2018-21007|https://wordpress.org/plugins/woo-confirmation-email/#developers|Release Notes
+1073|CVE-2019-15769|https://wordpress.org/plugins/handl-utm-grabber/#developers|Release Notes
+1074|CVE-2019-15770|https://wordpress.org/plugins/woo-address-book/#developers|Release Notes
+1075|CVE-2019-15772|https://wordpress.org/plugins/nd-donations/#developers|Product,Third Party Advisory
+1076|CVE-2019-15773|https://wordpress.org/plugins/nd-travel/#developers|Product,Third Party Advisory
+1077|CVE-2019-15774|https://wordpress.org/plugins/nd-booking/#developers|Product,Third Party Advisory
+1078|CVE-2019-15775|https://wordpress.org/plugins/nd-learning/#developers|Product,Third Party Advisory
+1079|CVE-2019-15776,CVE-2019-15818|https://wordpress.org/plugins/simple-301-redirects-addon-bulk-uploader/#developers|Product,Third Party Advisory
+1080|CVE-2019-15777|https://wordpress.org/plugins/shapepress-dsgvo/#developers|Product,Third Party Advisory
+1081|CVE-2019-15780|https://wordpress.org/plugins/formidable/#developers|Product,Third Party Advisory
+1082|CVE-2019-15771|https://wordpress.org/plugins/nd-shortcodes/#developers|Vendor Advisory,Release Notes
+1083|CVE-2019-15778|https://wordpress.org/plugins/woo-variation-gallery/#developers|Vendor Advisory,Release Notes
+1084|CVE-2019-15779|https://wordpress.org/plugins/insta-gallery/#developers|Product,Release Notes
+1085|CVE-2019-15781|https://wordpress.org/plugins/facebook-by-weblizar/#developers|Product,Release Notes
+1086|CVE-2015-9380|https://wordpress.org/support/topic/this-plugin-is-reported-as-vulnerable/|Issue Tracking,Third Party Advisory
+1087|CVE-2019-15816|https://wordpress.org/plugins/wp-private-content-plus/#developers|Product,Third Party Advisory
+1088|CVE-2019-15817,CVE-2020-5530|https://wordpress.org/plugins/easy-property-listings/#developers|Product,Release Notes,Third Party Advisory
+1089|CVE-2019-15819|https://wordpress.org/plugins/nd-restaurant-reservations/#developers|Product,Third Party Advisory
+1090|CVE-2019-15820|https://wordpress.org/plugins/login-or-logout-menu-item/#developers|Product,Third Party Advisory
+1091|CVE-2019-15821|https://wordpress.org/plugins/bold-page-builder/#developers|Product,Third Party Advisory
+1092|CVE-2019-15822|https://wordpress.org/plugins/wps-child-theme-generator/#developers|Product,Third Party Advisory
+1093|CVE-2019-15827|https://wordpress.org/plugins/onesignal-free-web-push-notifications/#developers|Product,Third Party Advisory
+1094|CVE-2019-15828|https://wordpress.org/plugins/one-click-ssl/#developers|Third Party Advisory
+1095|CVE-2019-15829|https://wordpress.org/plugins/photoblocks-grid-gallery/#developers|Third Party Advisory
+1096|CVE-2019-15832,CVE-2019-15831|https://wordpress.org/plugins/visitors-traffic-real-time-statistics/#developers|Release Notes,Third Party Advisory
+1097|CVE-2019-15833|https://wordpress.org/plugins/simple-mail-address-encoder/#developers|Release Notes,Third Party Advisory
+1098|CVE-2019-15834|https://wordpress.org/plugins/webp-converter-for-media/#developers|Release Notes
+1099|CVE-2019-15835|https://wordpress.org/plugins/wp-better-permalinks/#developers|Vendor Advisory,Release Notes
+1100|CVE-2019-15836|https://wordpress.org/plugins/wp-ultimate-recipe/#developers|Vendor Advisory,Release Notes
+1101|CVE-2019-15839|https://wordpress.org/plugins/sina-extension-for-elementor/#developers|Vendor Advisory,Release Notes
+1102|CVE-2019-15841,CVE-2019-15840|https://wordpress.org/plugins/facebook-for-woocommerce/#developers|Vendor Advisory,Release Notes
+1103|CVE-2019-15842|https://wordpress.org/plugins/easy-pdf-restaurant-menu-upload/#developers|Vendor Advisory,Release Notes
+1104|CVE-2019-15864,CVE-2019-15865|https://wordpress.org/plugins/breadcrumbs-by-menu/#developers|Vendor Advisory,Release Notes
+1105|CVE-2019-15866|https://wordpress.org/plugins/crelly-slider/#developers|Vendor Advisory,Release Notes
+1106|CVE-2019-15867|https://wordpress.org/plugins/slick-popup/#developers|Vendor Advisory,Release Notes
+1107|CVE-2019-15868|https://wordpress.org/plugins/affiliates-manager/#developers|Vendor Advisory,Release Notes
+1108|CVE-2014-8087|https://wordpress.org/plugins/post-highlights/#developers|Release Notes,Third Party Advisory
+1109|CVE-2015-7806|https://plugins.trac.wordpress.org/changeset/1264145|Third Party Advisory
+1110|CVE-2015-5227|https://wordpress.org/plugins/landing-pages/#developers|Release Notes,Third Party Advisory
+1111|CVE-2012-6707|https://core.trac.wordpress.org/ticket/21022|Patch,Vendor Advisory,Issue Tracking
+1112|CVE-2017-15810|https://wordpress.org/plugins/popcashnet-code-integration-tool/#developers|Release Notes,Third Party Advisory
+1113|CVE-2017-15811|https://plugins.trac.wordpress.org/changeset/1745805/pootle-button/tags/|Patch,Third Party Advisory
+1114|CVE-2017-15812|https://wordpress.org/plugins/easy-appointments/#developers|Issue Tracking
+1115|CVE-2015-5532|https://wordpress.org/plugins/paid-memberships-pro/#developers|Release Notes,Third Party Advisory
+1116|CVE-2015-5533|https://plugins.trac.wordpress.org/changeset/1190683/count-per-day|Issue Tracking
+1117|CVE-2017-15863|https://wordpress.org/plugins/wp-noexternallinks/#developers|Release Notes,Third Party Advisory
+1118|CVE-2017-15919|https://wordpress.org/plugins/ultimate-form-builder-lite/#developers|Release Notes,Third Party Advisory
+1119|CVE-2017-16510|https://codex.wordpress.org/Version_4.8.3|Vendor Advisory,Issue Tracking
+1120|CVE-2017-16510|https://wordpress.org/news/2017/10/wordpress-4-8-3-security-release/|Vendor Advisory,Issue Tracking
+1121|CVE-2017-16758|https://plugins.trac.wordpress.org/changeset/1758562/ultimate-instagram-feed|Exploit,Third Party Advisory
+1122|CVE-2017-16842|https://plugins.trac.wordpress.org/changeset/1766831/wordpress-seo/trunk/admin/google_search_console/class-gsc-table.php|Third Party Advisory
+1123|CVE-2017-10889|https://wordpress.org/plugins/tablepress/#developers|Release Notes,Third Party Advisory
+1124|CVE-2017-17043|https://wordpress.org/support/topic/wordpress-emag-marketplace-connector-1-0-cross-site-scripting-vulnerability/|Exploit,Third Party Advisory
+1125|CVE-2017-17091,CVE-2017-17092,CVE-2017-17093,CVE-2017-17094|https://codex.wordpress.org/Version_4.9.1|Patch,Release Notes,Vendor Advisory
+1126|CVE-2017-17091,CVE-2017-17092,CVE-2017-17093,CVE-2017-17094|https://wordpress.org/news/2017/11/wordpress-4-9-1-security-and-maintenance-release/|Vendor Advisory,Release Notes
+1127|CVE-2017-17096|https://wordpress.org/plugins/content-cards/#developers|Vendor Advisory,Release Notes
+1128|CVE-2017-17451|https://wordpress.org/plugins/wp-mailster/#developers|Vendor Advisory
+1129|CVE-2017-17780|https://plugins.trac.wordpress.org/changeset/1781424/clockwork-two-factor-authentication/trunk/templates/clockwork-test-message.php?old=706348&old_path=clockwork-two-factor-authentication%2Ftrunk%2Ftemplates%2Fclockwork-test-message.php|Patch,Issue Tracking,Third Party Advisory
+1130|CVE-2011-4955|http://wordpress.org/support/topic/plugin-bsuite-xss-security-vulnerability-in-407|Third Party Advisory
+1131|CVE-2015-7666|https://plugins.trac.wordpress.org/changeset/1254452/payment-form-for-paypal-pro|Third Party Advisory
+1132|CVE-2015-7666,CVE-2020-14092|https://wordpress.org/plugins/payment-form-for-paypal-pro/#developers|Release Notes,Third Party Advisory
+1133|CVE-2015-7667|https://wordpress.org/plugins/resads/#developers|Vendor Advisory,Release Notes
+1134|CVE-2015-7669,CVE-2015-7668|https://wordpress.org/plugins/easy2map/#developers|Release Notes,Third Party Advisory
+1135|CVE-2015-4694|https://wordpress.org/plugins/zip-attachments/changelog/|Patch,Vendor Advisory
+1136|CVE-2015-4694|https://wordpress.org/support/topic/zip-attachments-wordpress-plugin-v114-arbitrary-file-download-vulnerability?replies=1|
+1137|CVE-2015-5471|https://wordpress.org/support/topic/security-vulnerability-6|Patch,Vendor Advisory
+1138|CVE-2016-1160|https://wordpress.org/plugins/wp-favorite-posts/changelog/|Patch,Vendor Advisory
+1139|CVE-2020-14063|https://wordpress.org/plugins/tc-custom-javascript/#developers|Release Notes,Third Party Advisory
+1140|CVE-2020-5611|https://wordpress.org/plugins/social-rocket/|Third Party Advisory
+1141|CVE-2020-17362|https://themes.trac.wordpress.org/browser/nova-lite/1.3.9/readme.txt?rev=134076|Release Notes,Third Party Advisory
+1142|CVE-2020-24313|https://wordpress.org/plugins/ultimate-appointment-scheduling/|Product,Third Party Advisory
+1143|CVE-2020-24314|https://wordpress.org/plugins/rss-feed-widget/advanced/|Product,Third Party Advisory
+1144|CVE-2020-24315|https://wordpress.org/plugins/cardoza-wordpress-poll/|Release Notes,Third Party Advisory
+1145|CVE-2020-24316|https://wordpress.org/plugins/admin-menu/|Release Notes,Third Party Advisory
+1146|CVE-2020-25033|https://wordpress.org/plugins/subscribe-sidebar/#developers|Third Party Advisory
+1147|CVE-2020-24699|https://wordpress.org/plugins/chamber-dashboard-business-directory/#developers|Release Notes,Third Party Advisory
+1148|CVE-2020-25213|https://plugins.trac.wordpress.org/changeset/2373068|Patch,Third Party Advisory
+1149|CVE-2020-25286|https://core.trac.wordpress.org/changeset/47984|Patch,Vendor Advisory
+1150|CVE-2020-25286,CVE-2020-4048,CVE-2020-4046,CVE-2020-4047,CVE-2020-4049,CVE-2020-4050|https://wordpress.org/news/2020/06/wordpress-5-4-2-security-and-maintenance-release/|Vendor Advisory
+1151|CVE-2020-26511|https://plugins.trac.wordpress.org/changeset/2388992/|Patch,Third Party Advisory
+1152|CVE-2020-26511|https://wordpress.org/plugins/wpo365-login/#developers|Product,Third Party Advisory
+1153|CVE-2020-26876|https://plugins.trac.wordpress.org/changeset/2388997|Third Party Advisory
+1154|CVE-2020-26876|https://plugins.trac.wordpress.org/changeset/2389243|Third Party Advisory
+1155|CVE-2020-5642|https://plugins.trac.wordpress.org/changeset?new=2384440%40onwebchat&old=2364589%40onwebchat|Third Party Advisory
+1156|CVE-2020-5642|https://wordpress.org/plugins/onwebchat/|Release Notes,Third Party Advisory
+1157|CVE-2020-5650,CVE-2020-5651|https://wordpress.org/plugins/simple-download-monitor/|Product,Third Party Advisory
+1158|CVE-2020-27344|https://wordpress.org/plugins/cm-download-manager/#developers|Release Notes,Third Party Advisory
+1159|CVE-2020-27615|https://plugins.trac.wordpress.org/changeset/2401010/loginizer|Patch,Third Party Advisory
+1160|CVE-2020-28039,CVE-2020-28035,CVE-2020-28038,CVE-2020-28032,CVE-2020-28037,CVE-2020-28040,CVE-2020-28033,CVE-2020-28034,CVE-2020-28036|https://wordpress.org/news/2020/10/wordpress-5-5-2-security-and-maintenance-release/|Vendor Advisory,Release Notes
+1161|CVE-2017-9062,CVE-2017-9061,CVE-2017-9064,CVE-2017-9065,CVE-2017-9063,CVE-2017-9066|https://codex.wordpress.org/Version_4.7.5|Patch,Release Notes,Vendor Advisory
+1162|CVE-2017-9062,CVE-2017-9061,CVE-2017-9064,CVE-2017-9065,CVE-2017-9063,CVE-2017-9066|https://wordpress.org/news/2017/05/wordpress-4-7-5/|Patch,Vendor Advisory
+1163|CVE-2017-2169|https://wordpress.org/plugins/maxbuttons/#developers|Vendor Advisory,Release Notes
+1164|CVE-2015-5468|https://wordpress.org/plugins/wp-ecommerce-shop-styling/#developers|Release Notes,Third Party Advisory
+1165|CVE-2014-9310|https://wordpress.org/plugins/wordpress-backup-to-dropbox/|Product,Vendor Advisory
+1166|CVE-2015-3634|https://wordpress.org/plugins/slideshow-jquery-image-gallery/#developers|Release Notes,Third Party Advisory
+1167|CVE-2017-2187|https://plugins.trac.wordpress.org/changeset/1658232/|Release Notes,Third Party Advisory
+1168|CVE-2017-2195|https://wordpress.org/plugins/multi-feed-reader/#developers|Third Party Advisory
+1169|CVE-2017-9603,CVE-2017-14751|https://wordpress.org/plugins/wp-jobs/#developers|Product,Release Notes,Third Party Advisory
+1170|CVE-2020-11930|https://plugins.trac.wordpress.org/changeset/2245581/gtranslate|Patch,Third Party Advisory
+1171|CVE-2020-11930|https://plugins.trac.wordpress.org/changeset/2245591/gtranslate|Patch,Third Party Advisory
+1172|CVE-2020-11930|https://wordpress.org/plugins/gtranslate/#developers|Product,Third Party Advisory
+1173|CVE-2020-12675,CVE-2020-12077|https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers|Product,Release Notes,Third Party Advisory
+1174|CVE-2020-12070|https://plugins.trac.wordpress.org/browser/advanced-woo-search/tags/1.99/includes/class-aws-search.php#L222|Product
+1175|CVE-2020-12070|https://plugins.trac.wordpress.org/browser/advanced-woo-search/tags/2.00/includes/class-aws-search.php?rev=2290090#L219|Product
+1176|CVE-2020-12070|https://wordpress.org/plugins/advanced-woo-search/#developers|Product
+1177|CVE-2020-6010|https://plugins.trac.wordpress.org/browser/learnpress/trunk/readme.txt?rev=2288975|Release Notes
+1178|CVE-2020-6010,CVE-2020-7916|https://wordpress.org/plugins/learnpress/#developers|Release Notes,Third Party Advisory
+1179|CVE-2020-11026,CVE-2020-11025,CVE-2020-11030,CVE-2020-11029,CVE-2020-11028,CVE-2020-11027|https://wordpress.org/support/wordpress-version/version-5-4-1/#security-updates|Vendor Advisory,Release Notes
+1180|CVE-2020-12104|https://wordpress.org/plugins/wp-advanced-search/#developers|Product,Third Party Advisory
+1181|CVE-2020-11727|https://plugins.trac.wordpress.org/browser/woo-order-export-lite/trunk/view/settings-form.php|Third Party Advisory
+1182|CVE-2020-12696|https://wordpress.org/plugins/iframe/#developers|Product,Release Notes
+1183|CVE-2020-12742|https://wordpress.org/plugins/iubenda-cookie-law-solution/#developers|Vendor Advisory,Release Notes
+1184|CVE-2020-12832|https://plugins.trac.wordpress.org/changeset/2302759|Patch,Vendor Advisory
+1185|CVE-2020-12832|https://wordpress.org/plugins/simple-file-list/#developers|Vendor Advisory,Release Notes
+1186|CVE-2020-13487,CVE-2020-13693|https://wordpress.org/plugins/bbpress/#developers|Release Notes,Third Party Advisory
+1187|CVE-2020-13641|https://wordpress.org/plugins/real-time-find-and-replace/#developers|Release Notes,Third Party Advisory
+1188|CVE-2020-13642,CVE-2020-13643|https://wordpress.org/plugins/siteorigin-panels/#developers|Release Notes,Third Party Advisory
+1189|CVE-2020-13644|https://wordpress.org/plugins/accordions/#developers|Release Notes,Third Party Advisory
+1190|CVE-2019-11843|https://wordpress.org/plugins/mailpoet/#developers|Release Notes,Third Party Advisory
+1191|CVE-2020-12800|https://wordpress.org/plugins/drag-and-drop-multiple-file-upload-contact-form-7/#developers|Release Notes,Third Party Advisory
+1192|CVE-2020-13640|https://plugins.trac.wordpress.org/browser/wpdiscuz/tags/5.3.6|Third Party Advisory
+1193|CVE-2020-13640|https://plugins.trac.wordpress.org/changeset/2323200|Third Party Advisory
+1194|CVE-2020-13640|https://wordpress.org/plugins/wpdiscuz/#developers|Release Notes,Third Party Advisory
+1195|CVE-2020-13426|https://wordpress.org/plugins/multi-scheduler/#developers|Product,Third Party Advisory
+1196|CVE-2020-13700|https://wordpress.org/plugins/acf-to-rest-api/#developers|Release Notes,Third Party Advisory
+1197|CVE-2020-15038|https://wordpress.org/plugins/coming-soon/#developers|Release Notes,Third Party Advisory
+1198|CVE-2017-2216,CVE-2017-2217|https://plugins.trac.wordpress.org/changeset/1650075/|Patch,Issue Tracking,Vendor Advisory
+1199|CVE-2017-2222|https://plugins.trac.wordpress.org/changeset/1667369/#file12|Third Party Advisory
+1200|CVE-2017-2224|https://plugins.trac.wordpress.org/changeset/1671891/#file313|Release Notes,Third Party Advisory
+1201|CVE-2017-2224,CVE-2018-16164|https://wordpress.org/plugins/event-calendar-wd/#developers|Release Notes,Third Party Advisory
+1202|CVE-2017-2243|https://wordpress.org/plugins/responsive-lightbox/#developers|Vendor Advisory,Release Notes
+1203|CVE-2017-2245|https://plugins.trac.wordpress.org/changeset/1684377/#file217|Third Party Advisory
+1204|CVE-2017-2284|https://plugins.trac.wordpress.org/changeset/1697216/#file3|Patch,Third Party Advisory
+1205|CVE-2017-2284|https://wordpress.org/plugins/popup-maker/#developers|Product,Third Party Advisory
+1206|CVE-2017-2285|https://plugins.trac.wordpress.org/changeset/1695440/#file6|Patch,Third Party Advisory
+1207|CVE-2017-2285|https://wordpress.org/plugins/custom-css-js/#developers|Product,Third Party Advisory
+1208|CVE-2017-12650,CVE-2017-12651|https://sv.wordpress.org/plugins/loginizer/#developers|Third Party Advisory
+1209|CVE-2017-12946,CVE-2017-12947|https://wordpress.org/plugins/easy-modal/#developers|Third Party Advisory
+1210|CVE-2017-14126|https://wordpress.org/plugins/participants-database/#developers|Third Party Advisory
+1211|CVE-2015-3313|https://wordpress.org/plugins/community-events/#developers|Third Party Advisory
+1212|CVE-2015-3314|https://wordpress.org/plugins/tune-library/#developers|Third Party Advisory
+1213|CVE-2015-4697|https://plugins.trac.wordpress.org/changeset/1183563|Third Party Advisory
+1214|CVE-2015-4697|https://wordpress.org/support/topic/discovered-security-vulnerabilities-1/|Issue Tracking,Third Party Advisory
+1215|CVE-2015-8350|https://wordpress.org/plugins/cta/#developers|Release Notes,Third Party Advisory
+1216|CVE-2015-8351|https://wordpress.org/plugins/gwolle-gb/changelog/|Third Party Advisory
+1217|CVE-2015-8353|https://wordpress.org/plugins/role-scoper/#developers|Release Notes,Third Party Advisory
+1218|CVE-2017-1002000|https://wordpress.org/plugins-wp/mobile-friendly-app-builder-by-easytouch/|Not Applicable
+1219|CVE-2017-1002001|https://wordpress.org/plugins-wp/mobile-app-builder-by-wappress/|Not Applicable
+1220|CVE-2017-1002002|https://wordpress.org/plugins-wp/webapp-builder/|Not Applicable
+1221|CVE-2017-1002003|https://wordpress.org/plugins-wp/wp2android-turn-wp-site-into-android-app/|Not Applicable
+1222|CVE-2017-1002005,CVE-2017-1002007,CVE-2017-1002004,CVE-2017-1002006|https://wordpress.org/plugins/dtracker/|Third Party Advisory
+1223|CVE-2017-1002008|https://wordpress.org/plugins/membership-simplified-for-oap-members-only|Not Applicable
+1224|CVE-2017-1002012,CVE-2017-1002011,CVE-2017-1002014,CVE-2017-1002013,CVE-2017-1002015|https://wordpress.org/plugins/image-gallery-with-slideshow/|Third Party Advisory
+1225|CVE-2017-1002016|https://wordpress.org/plugins/flickr-picture-backup/|Not Applicable
+1226|CVE-2017-1002017|https://wordpress.org/plugins/gift-certificate-creator/|Product,Third Party Advisory
+1227|CVE-2017-1002019,CVE-2017-1002018|https://wordpress.org/plugins/eventr/|Third Party Advisory
+1228|CVE-2017-1002022,CVE-2017-1002021,CVE-2017-1002020|https://wordpress.org/plugins/surveys/|Third Party Advisory
+1229|CVE-2017-1002023|https://wordpress.org/plugins/easy-team-manager/|Third Party Advisory
+1230|CVE-2017-1002025|https://wordpress.org/plugins/add-edit-delete-listing-for-member-module/|Third Party Advisory
+1231|CVE-2017-1002026|https://wordpress.org/plugins/event-espresso-free/|Product,Third Party Advisory
+1232|CVE-2017-1002027|https://wordpress.org/plugins/rk-responsive-contact-form/|Product,Third Party Advisory
+1233|CVE-2017-1002028|https://wordpress.org/plugins/wordpress-gallery-transformation/|Third Party Advisory
+1234|CVE-2017-14530|https://wordpress.org/plugins/crony/#developers|Third Party Advisory
+1235|CVE-2015-3299|https://plugins.trac.wordpress.org/changeset/1129648/floating-social-bar/trunk|Patch,Third Party Advisory
+1236|CVE-2017-14718|https://core.trac.wordpress.org/changeset/41393|Patch,Vendor Advisory
+1237|CVE-2017-14718,CVE-2017-14719,CVE-2017-14725,CVE-2017-14722,CVE-2017-14723,CVE-2017-14721,CVE-2017-14724,CVE-2017-14726,CVE-2017-14720|https://wordpress.org/news/2017/09/wordpress-4-8-2-security-and-maintenance-release/|Patch,Release Notes,Issue Tracking,Vendor Advisory
+1238|CVE-2017-14719|https://core.trac.wordpress.org/changeset/41457|Patch,Vendor Advisory
+1239|CVE-2017-14720,CVE-2017-14721|https://core.trac.wordpress.org/changeset/41412|Patch,Vendor Advisory
+1240|CVE-2017-14722|https://core.trac.wordpress.org/changeset/41397|Patch,Vendor Advisory
+1241|CVE-2017-14723|https://core.trac.wordpress.org/changeset/41470|Patch,Vendor Advisory
+1242|CVE-2017-14723|https://core.trac.wordpress.org/changeset/41496|Patch,Vendor Advisory
+1243|CVE-2017-14724|https://core.trac.wordpress.org/changeset/41448|Patch,Vendor Advisory
+1244|CVE-2017-14725|https://core.trac.wordpress.org/changeset/41398|Patch,Vendor Advisory
+1245|CVE-2017-14726|https://core.trac.wordpress.org/changeset/41395|Patch,Vendor Advisory
+1246|CVE-2015-7670|https://wordpress.org/plugins/simple-support-ticket-system/#developers|Release Notes,Third Party Advisory
+1247|CVE-2017-14766|https://wordpress.org/plugins/simple-student-result/#developers|Release Notes,Third Party Advisory
+1248|CVE-2017-14622|https://wordpress.org/plugins/2kb-amazon-affiliates-store/#developers|Vendor Advisory,Issue Tracking
+1249|CVE-2017-2551|https://wordpress.org/plugins/backwpup/#developers|Product,Release Notes,Third Party Advisory
+1250|CVE-2017-14990|https://core.trac.wordpress.org/ticket/38474|Exploit,Issue Tracking,Third Party Advisory
+1251|CVE-2017-15079|https://wordpress.org/plugins/wp-smushit/#developers|Product,Release Notes,Issue Tracking,Third Party Advisory
+1252|CVE-2017-15079|https://wordpress.org/support/topic/file-transversal-bug/|Issue Tracking,Third Party Advisory
+1253|CVE-2007-4893|http://trac.wordpress.org/ticket/4720|
+1254|CVE-2007-4894,CVE-2007-4893|http://wordpress.org/development/2007/09/wordpress-223/|Patch
+1255|CVE-2007-4894|http://trac.wordpress.org/ticket/4770|
+1256|CVE-2007-5710|http://wordpress.org/development/2007/10/wordpress-231/|Patch
+1257|CVE-2007-6013|http://trac.wordpress.org/ticket/5367|
+1258|CVE-2006-1263|http://wordpress.org/development/2006/03/security-202/|Patch
+1259|CVE-2006-1796|http://trac.wordpress.org/ticket/1686|Patch
+1260|CVE-2021-24153|https://plugins.trac.wordpress.org/changeset/1466243/wordpress-seo|Third Party Advisory
+1261|CVE-2021-24177|https://plugins.trac.wordpress.org/changeset/2476829/|Patch,Third Party Advisory
+1262|CVE-2021-24209|https://plugins.trac.wordpress.org/changeset/2496238/wp-super-cache|Patch,Third Party Advisory
+1263|CVE-2021-24210|https://plugins.trac.wordpress.org/changeset/2497610/|Patch,Third Party Advisory
+1264|CVE-2020-23762|https://wordpress.org/plugins/larsens-calender/|Product
+1265|CVE-2021-24221|https://plugins.trac.wordpress.org/changeset/2479603/|Patch,Third Party Advisory
+1266|CVE-2021-24225|https://plugins.trac.wordpress.org/changeset/2503971/|Patch,Third Party Advisory
+1267|CVE-2021-29450,CVE-2021-29447|https://wordpress.org/news/category/security/|Vendor Advisory,Release Notes
+1268|CVE-2021-24239|https://plugins.trac.wordpress.org/changeset/2507536/|Patch,Third Party Advisory
+1269|CVE-2016-20010|https://plugins.trac.wordpress.org/browser/ewww-image-optimizer/trunk/changelog.txt|Release Notes,Third Party Advisory
+1270|CVE-2019-20204,CVE-2019-20203|https://wordpress.org/plugins/postie/#developers|Vendor Advisory,Release Notes
+1271|CVE-2020-6168,CVE-2020-6166,CVE-2020-6167|https://wordpress.org/plugins/minimal-coming-soon-maintenance-mode/#developers|Vendor Advisory,Release Notes
+1272|CVE-2011-4595|https://wordpress.org/support/topic/plugin-pretty-link-lite-152-xss-vulnerability/|Third Party Advisory
+1273|CVE-2015-5484|https://wordpress.org/plugins/wp-plotly/changelog/|Release Notes
+1274|CVE-2020-7107|https://plugins.trac.wordpress.org/changeset/2222959/ultimate-faqs/tags/1.8.30/Shortcodes/DisplayFAQs.php|Patch,Third Party Advisory
+1275|CVE-2020-7047,CVE-2020-7048|https://wordpress.org/plugins/wordpress-database-reset/#developers|Release Notes,Third Party Advisory
+1276|CVE-2020-7239|https://wordpress.org/plugins/conversation-watson/#developers|Third Party Advisory
+1277|CVE-2016-11018|https://plugins.trac.wordpress.org/browser/gallery-images/tags/1.8.9|Release Notes,Third Party Advisory
+1278|CVE-2016-11018|https://plugins.trac.wordpress.org/browser/gallery-images/tags/1.9.0|Release Notes,Third Party Advisory
+1279|CVE-2020-6849|https://wordpress.org/plugins/marketo-forms-and-tracking/#developers|Vendor Advisory
+1280|CVE-2020-7228|https://wordpress.org/plugins/calculated-fields-form/#developers|Third Party Advisory
+1281|CVE-2010-4536|http://core.trac.wordpress.org/changeset/17172/branches/3.0|Patch,Vendor Advisory
+1282|CVE-2010-4536|http://wordpress.org/news/2010/12/3-0-4-update/|Patch,Vendor Advisory
+1283|CVE-2011-0700,CVE-2011-0701|http://codex.wordpress.org/Version_3.0.5|Patch,Vendor Advisory
+1284|CVE-2011-0700|http://core.trac.wordpress.org/changeset/17397|Patch,Vendor Advisory
+1285|CVE-2011-0700|http://core.trac.wordpress.org/changeset/17401|Patch,Vendor Advisory
+1286|CVE-2011-0700|http://core.trac.wordpress.org/changeset/17406|Patch,Vendor Advisory
+1287|CVE-2011-0700|http://core.trac.wordpress.org/changeset/17412|Patch,Vendor Advisory
+1288|CVE-2011-0700,CVE-2011-0701|http://www.wordpress.org/news/2011/02/wordpress-3-0-5/|Patch,Vendor Advisory
+1289|CVE-2011-0701|http://core.trac.wordpress.org/changeset/17393|Patch,Vendor Advisory
+1290|CVE-2011-3122,CVE-2011-3129,CVE-2011-3128,CVE-2011-3126,CVE-2011-3130,CVE-2011-3127,CVE-2011-3125|http://wordpress.org/news/2011/05/wordpress-3-1-3/|Patch
+1291|CVE-2011-3128|http://core.trac.wordpress.org/changeset/18023/branches/3.1|Patch
+1292|CVE-2011-3981|http://plugins.trac.wordpress.org/changeset/438959/allwebmenus-wordpress-menu-plugin/trunk/actions.php?old=408304&old_path=allwebmenus-wordpress-menu-plugin%2Ftrunk%2Factions.php|Patch
+1293|CVE-2011-4562|http://plugins.trac.wordpress.org/changeset?reponame=&new=447262%40redirection&old=421721%40redirection|
+1294|CVE-2011-4562|http://wordpress.org/extend/plugins/redirection/changelog/|
+1295|CVE-2011-4568|http://plugins.trac.wordpress.org/changeset?reponame=&new=413607%40fv-wordpress-flowplayer&old=409594%40fv-wordpress-flowplayer|
+1296|CVE-2011-4568|http://wordpress.org/extend/plugins/fv-wordpress-flowplayer/changelog/|
+1297|CVE-2011-4646|http://plugins.trac.wordpress.org/changeset/430970/wp-postratings/trunk/wp-postratings.php?old=355076&old_path=wp-postratings%2Ftrunk%2Fwp-postratings.php|Exploit,Patch
+1298|CVE-2011-4646|http://wordpress.org/extend/plugins/wp-postratings/changelog/|
+1299|CVE-2011-4669|http://plugins.trac.wordpress.org/changeset/448261/wordpress-users|Exploit,Patch
+1300|CVE-2011-4669|http://wordpress.org/extend/plugins/wordpress-users/|
+1301|CVE-2011-4671|http://downloads.wordpress.org/plugin/adrotate.3.6.8.zip|Patch
+1302|CVE-2010-0682|http://wordpress.org/development/2010/02/wordpress-2-9-2/|Patch,Vendor Advisory
+1303|CVE-2010-0682|https://core.trac.wordpress.org/ticket/11236|
+1304|CVE-2016-7169,CVE-2016-7168|https://codex.wordpress.org/Version_4.6.1|Patch
+1305|CVE-2016-7169,CVE-2016-7168|https://wordpress.org/news/2016/09/wordpress-4-6-1-security-and-maintenance-release/|Patch,Vendor Advisory
+1306|CVE-2017-5493,CVE-2017-5488,CVE-2017-5487,CVE-2017-5491,CVE-2017-5492,CVE-2017-5490,CVE-2017-5489|https://codex.wordpress.org/Version_4.7.1|Vendor Advisory,Release Notes
+1307|CVE-2017-5493,CVE-2017-5488,CVE-2017-5487,CVE-2017-5491,CVE-2017-5492,CVE-2017-5490,CVE-2017-5489|https://wordpress.org/news/2017/01/wordpress-4-7-1-security-and-maintenance-release/|Vendor Advisory
+1308|CVE-2016-10148|https://core.trac.wordpress.org/changeset/38168|Patch,Issue Tracking
+1309|CVE-2016-10148|https://core.trac.wordpress.org/ticket/37490|Issue Tracking
+1310|CVE-2017-5611,CVE-2017-5612,CVE-2017-5610,CVE-2017-1001000|https://codex.wordpress.org/Version_4.7.2|Patch,Vendor Advisory,Release Notes
+1311|CVE-2017-5611,CVE-2017-5612,CVE-2017-5610,CVE-2017-1001000|https://wordpress.org/news/2017/01/wordpress-4-7-2-security-release/|Patch,Release Notes,Vendor Advisory
+1312|CVE-2017-6814,CVE-2017-6816,CVE-2017-6815,CVE-2017-6819,CVE-2017-6818,CVE-2017-6817|https://codex.wordpress.org/Version_4.7.3|Patch,Vendor Advisory
+1313|CVE-2017-6814,CVE-2017-6816,CVE-2017-6815,CVE-2017-6819,CVE-2017-6818,CVE-2017-6817|https://wordpress.org/news/2017/03/wordpress-4-7-3-security-and-maintenance-release/|Patch,Release Notes,Vendor Advisory
+1314|CVE-2016-0770|https://wordpress.org/plugins/connections/changelog/|Vendor Advisory,Release Notes
+1315|CVE-2017-6954|https://wordpress.org/plugins/buddypress-docs/changelog/|Release Notes,Third Party Advisory
+1316|CVE-2017-6955|https://wordpress.org/plugins/invite-anyone/changelog/|Release Notes,Third Party Advisory
+1317|CVE-2017-1001000|https://make.wordpress.org/core/2017/02/01/disclosure-of-additional-security-fix-in-wordpress-4-7-2/|Patch,Vendor Advisory
+1318|CVE-2020-35234,CVE-2017-7723|https://wordpress.org/plugins/easy-wp-smtp/#developers|Release Notes,Product,Vendor Advisory,Third Party Advisory
+1319|CVE-2017-8099|https://plugins.trac.wordpress.org/browser/whizz/trunk/change_log.txt|Vendor Advisory,Release Notes
+1320|CVE-2017-8100|https://wordpress.org/plugins/wp-copysafe-web/#developers|Vendor Advisory,Release Notes
+1321|CVE-2004-1584|http://wordpress.org/development/2004/10/wp-121/|Patch
+1322|CVE-2020-22277|https://wordpress.org/plugins/import-users-from-csv-with-meta/#:~:text=Install%20Import%20and%20export%20users%20and%20customers%20automatically,is%20uploaded%20and%20extracted%2C%20click%20Activate%20Plugin%20.|Product,Release Notes,Third Party Advisory
+1323|CVE-2020-28339|https://wordpress.org/plugins/usc-e-shop/#developers|Product,Third Party Advisory
+1324|CVE-2020-24063,CVE-2020-28978,CVE-2020-28977,CVE-2020-28976|https://wordpress.org/plugins/canto/#developers|Release Notes,Third Party Advisory
+1325|CVE-2020-14205,CVE-2020-14206,CVE-2020-14207|https://wordpress.org/plugins/divebook/#developers|Vendor Advisory,Release Notes
+1326|CVE-2020-35135|https://plugins.trac.wordpress.org/changeset/2434070|Patch,Vendor Advisory
+1327|CVE-2020-35135|https://wordpress.org/plugins/ultimate-category-excluder/#developers|Vendor Advisory,Release Notes
+1328|CVE-2020-35235|https://wordpress.org/plugins/secure-file-manager/#developers|Product,Third Party Advisory
+1329|CVE-2020-35589,CVE-2020-35590|https://wordpress.org/plugins/limit-login-attempts-reloaded/#developers|Product,Third Party Advisory
+1330|CVE-2020-29172|https://wordpress.org/plugins/litespeed-cache/#developers|Third Party Advisory
+1331|CVE-2020-35773|https://developer.wordpress.org/reference/functions/wp_create_nonce/|Third Party Advisory
+1332|CVE-2020-35773|https://developer.wordpress.org/reference/functions/wp_verify_nonce/|Third Party Advisory
+1333|CVE-2020-35773|https://plugins.trac.wordpress.org/changeset/2445009/|Patch,Third Party Advisory
+1334|CVE-2020-35773|https://wordpress.org/plugins/site-offline/#developers|Product,Third Party Advisory
+1335|CVE-2018-16164|https://plugins.trac.wordpress.org/changeset/1961423/|Third Party Advisory
+1336|CVE-2018-16174,CVE-2018-16175,CVE-2018-16173|https://wordpress.org/plugins/learnpress/|Third Party Advisory
+1337|CVE-2018-16204|https://wordpress.org/plugins/google-sitemap-generator/#developers|Product,Release Notes
+1338|CVE-2018-16206|https://wordpress.org/plugins/spam-byebye/|Product,Third Party Advisory
+1339|CVE-2019-6267|https://wordpress.org/plugins/easy-redirect-manager/#developers|Product
+1340|CVE-2019-6780|https://plugins.trac.wordpress.org/changeset/2016929/wise-chat/trunk/src/rendering/filters/post/WiseChatLinksPostFilter.php|Patch,Third Party Advisory
+1341|CVE-2019-6780|https://wordpress.org/plugins/wise-chat/#developers|Release Notes,Third Party Advisory
+1342|CVE-2019-7412|https://wordpress.org/plugins/ps-phpcaptcha/#developers|Product,Release Notes,Third Party Advisory
+1343|CVE-2019-7413|https://plugins.trac.wordpress.org/changeset/2024194/|Patch,Third Party Advisory
+1344|CVE-2020-8417|https://wordpress.org/plugins/code-snippets/#developers|Vendor Advisory
+1345|CVE-2013-4241|https://wordpress.org/plugins/hms-testimonials/#developers|Release Notes
+1346|CVE-2015-1394|https://plugins.trac.wordpress.org/changeset/1073334/|Third Party Advisory
+1347|CVE-2015-1394|https://plugins.trac.wordpress.org/changeset/1076678/photo-gallery|Third Party Advisory
+1348|CVE-2015-1394|https://wordpress.org/plugins/photo-gallery/changelog/|Third Party Advisory
+1349|CVE-2014-8739|https://wordpress.org/plugins/sexy-contact-form/changelog/|Third Party Advisory
+1350|CVE-2015-2062|https://wordpress.org/support/topic/huge-it-slider-security-vulnerability-notification-sql-injection|Third Party Advisory
+1351|CVE-2020-9006|https://plugins.trac.wordpress.org/browser/popup-builder/tags/2.2.8/files/sg_popup_ajax.php#L69|Exploit,Third Party Advisory
+1352|CVE-2020-6850|https://wordpress.org/plugins/miniorange-saml-20-single-sign-on/#developers|Product,Third Party Advisory
+1353|CVE-2020-9043|https://plugins.trac.wordpress.org/changeset?&old=2244363%40wp-central&new=2244363%40wp-central|Patch,Release Notes,Third Party Advisory
+1354|CVE-2020-9043|https://wordpress.org/plugins/wp-central/#developers|Release Notes
+1355|CVE-2020-9003|https://wordpress.org/plugins/modula-best-grid-gallery/|Vendor Advisory
+1356|CVE-2019-17228,CVE-2019-17229|https://wordpress.org/plugins/motors-car-dealership-classified-listings/#developers|Release Notes,Third Party Advisory
+1357|CVE-2020-9334|https://wordpress.org/plugins/envira-gallery-lite/#developers|Release Notes,Third Party Advisory
+1358|CVE-2020-9393,CVE-2020-9394|https://wordpress.org/plugins/pricing-table-by-supsystic/#developers|Release Notes,Third Party Advisory
+1359|CVE-2020-9456,CVE-2020-9455,CVE-2020-9454,CVE-2020-8435,CVE-2020-9458,CVE-2020-9457,CVE-2020-8436|https://wordpress.org/plugins/custom-registration-form-builder-with-submission-manager/#developers|Release Notes,Third Party Advisory
+1360|CVE-2019-12498|https://plugins.trac.wordpress.org/changeset/2098577/wp-live-chat-support/trunk|Patch
+1361|CVE-2019-12498|https://plugins.trac.wordpress.org/log/wp-live-chat-support/|Product
+1362|CVE-2019-13463|https://plugins.trac.wordpress.org/changeset?old_path=%2Fsimple-link-directory&old=2111131&new_path=%2Fsimple-link-directory&new=2111132&sfp_email=&sfph_mail=|Patch
+1363|CVE-2019-13463|https://wordpress.org/plugins/simple-link-directory/#developers|Product
+1364|CVE-2020-10385|https://wordpress.org/plugins/wpforms-lite/#developers|Release Notes,Third Party Advisory
+1365|CVE-2020-10817|https://plugins.trac.wordpress.org/log/custom-searchable-data-entry-system/|Third Party Advisory
+1366|CVE-2020-7948,CVE-2020-7947|https://wordpress.org/plugins/auth0/#developers|Release Notes,Third Party Advisory
+1367|CVE-2020-11548|https://wordpress.org/plugins/search-meter/#developers|Product,Third Party Advisory
+1368|CVE-2020-9514,CVE-2020-11512|https://wordpress.org/plugins/idx-broker-platinum/#developers|Product
+1369|CVE-2020-11514,CVE-2020-11515|https://wordpress.org/plugins/seo-by-rank-math/#developers|Product
+1370|CVE-2020-11673|https://wordpress.org/plugins/poll-wp/#developers|Third Party Advisory

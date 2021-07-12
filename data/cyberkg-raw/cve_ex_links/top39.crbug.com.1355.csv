@@ -1,0 +1,1356 @@
+|cve-ids|ex_url|types
+0|CVE-2019-13672|https://crbug.com/965067|Vendor Advisory,Permissions Required
+1|CVE-2019-5841|https://crbug.com/969588|Vendor Advisory,Permissions Required
+2|CVE-2019-5843|https://crbug.com/939316|Vendor Advisory,Permissions Required
+3|CVE-2019-13725|https://crbug.com/1025067|Vendor Advisory,Permissions Required
+4|CVE-2019-13726|https://crbug.com/1027152|Vendor Advisory,Permissions Required
+5|CVE-2019-13727|https://crbug.com/944619|Vendor Advisory,Permissions Required
+6|CVE-2019-13728|https://crbug.com/1024758|Vendor Advisory,Permissions Required
+7|CVE-2019-13729|https://crbug.com/1025489|Vendor Advisory,Permissions Required
+8|CVE-2019-13730|https://crbug.com/1028862|Permissions Required
+9|CVE-2019-13732|https://crbug.com/1023817|Vendor Advisory,Permissions Required
+10|CVE-2019-13734|https://crbug.com/1025466|Vendor Advisory,Permissions Required
+11|CVE-2019-13735|https://crbug.com/1025468|Vendor Advisory,Permissions Required
+12|CVE-2019-13736|https://crbug.com/1020899|Vendor Advisory,Permissions Required
+13|CVE-2019-13737|https://crbug.com/1013882|Vendor Advisory,Permissions Required
+14|CVE-2019-13738|https://crbug.com/1017441|Vendor Advisory,Permissions Required
+15|CVE-2019-13739|https://crbug.com/824715|Patch,Vendor Advisory
+16|CVE-2019-13740|https://crbug.com/1005596|Vendor Advisory,Permissions Required
+17|CVE-2019-13741|https://crbug.com/1011950|Vendor Advisory,Permissions Required
+18|CVE-2019-13742|https://crbug.com/1017564|Vendor Advisory,Permissions Required
+19|CVE-2019-13743|https://crbug.com/754304|Vendor Advisory,Permissions Required
+20|CVE-2019-13744|https://crbug.com/853670|Vendor Advisory,Permissions Required
+21|CVE-2019-13745|https://crbug.com/990867|Vendor Advisory,Permissions Required
+22|CVE-2019-13746|https://crbug.com/999932|Vendor Advisory,Permissions Required
+23|CVE-2019-13747|https://crbug.com/1018528|Vendor Advisory,Permissions Required
+24|CVE-2019-13748|https://crbug.com/993706|Patch,Vendor Advisory
+25|CVE-2019-13749|https://crbug.com/1010765|Permissions Required
+26|CVE-2019-13750|https://crbug.com/1025464|Permissions Required
+27|CVE-2019-13751|https://crbug.com/1025465|Permissions Required
+28|CVE-2019-13752|https://crbug.com/1025470|Permissions Required
+29|CVE-2019-13753|https://crbug.com/1025471|Permissions Required
+30|CVE-2019-13754|https://crbug.com/442579|Permissions Required
+31|CVE-2019-13755|https://crbug.com/696208|Permissions Required
+32|CVE-2019-13756|https://crbug.com/708595|Permissions Required
+33|CVE-2019-13757|https://crbug.com/884693|Permissions Required
+34|CVE-2019-13758|https://crbug.com/979441|Permissions Required
+35|CVE-2019-13759|https://crbug.com/901789|Exploit,Vendor Advisory,Issue Tracking
+36|CVE-2019-13761|https://crbug.com/1002687|Permissions Required
+37|CVE-2019-13762|https://crbug.com/1004212|Permissions Required
+38|CVE-2019-13763|https://crbug.com/1011600|Permissions Required
+39|CVE-2019-13764|https://crbug.com/1028863|Permissions Required
+40|CVE-2017-15386|https://crbug.com/752003|Exploit,Issue Tracking,Third Party Advisory
+41|CVE-2017-15387|https://crbug.com/756040|Permissions Required
+42|CVE-2017-15388|https://crbug.com/756563|Exploit,Issue Tracking,Third Party Advisory
+43|CVE-2017-15389|https://crbug.com/739621|Issue Tracking,Third Party Advisory
+44|CVE-2017-15390|https://crbug.com/750239|Issue Tracking,Third Party Advisory
+45|CVE-2017-15391|https://crbug.com/598265|Issue Tracking,Third Party Advisory
+46|CVE-2017-15392|https://crbug.com/714401|Issue Tracking,Third Party Advisory
+47|CVE-2017-15393|https://crbug.com/732751|Issue Tracking,Third Party Advisory
+48|CVE-2017-15394|https://crbug.com/745580|Issue Tracking,Third Party Advisory
+49|CVE-2017-15395|https://crbug.com/759457|Issue Tracking,Third Party Advisory
+50|CVE-2017-15397|https://crbug.com/627300|Vendor Advisory
+51|CVE-2017-15400|https://crbug.com/777215|Patch,Vendor Advisory
+52|CVE-2017-5124|https://crbug.com/762930|Permissions Required
+53|CVE-2017-5125|https://crbug.com/749147|Exploit,Issue Tracking,Third Party Advisory
+54|CVE-2017-5126|https://crbug.com/760455|Issue Tracking,Third Party Advisory
+55|CVE-2017-5127|https://crbug.com/765384|Exploit,Issue Tracking,Third Party Advisory
+56|CVE-2017-5128|https://crbug.com/765469|Issue Tracking,Third Party Advisory
+57|CVE-2017-5129|https://crbug.com/765495|Issue Tracking,Third Party Advisory
+58|CVE-2017-5130|https://crbug.com/722079|Third Party Advisory
+59|CVE-2017-5131|https://crbug.com/744109|Issue Tracking,Third Party Advisory
+60|CVE-2017-5132|https://crbug.com/718858|Exploit,Issue Tracking,Third Party Advisory
+61|CVE-2017-5133|https://crbug.com/762106|Third Party Advisory
+62|CVE-2014-3171|https://crbug.com/390928|
+63|CVE-2014-3172|https://crbug.com/367567|
+64|CVE-2014-3173|https://crbug.com/376951|
+65|CVE-2014-3174|https://crbug.com/389219|
+66|CVE-2014-3175|https://crbug.com/406143|
+67|CVE-2014-3177,CVE-2014-3176|https://crbug.com/386988|
+68|CVE-2014-3168|https://crbug.com/369860|
+69|CVE-2014-3169|https://crbug.com/387389|
+70|CVE-2014-3170|https://crbug.com/390624|
+71|CVE-2014-3178|https://crbug.com/401362|
+72|CVE-2014-3179|https://crbug.com/411014|
+73|CVE-2014-3188|https://crbug.com/416449|
+74|CVE-2014-3189|https://crbug.com/398384|
+75|CVE-2014-3190|https://crbug.com/400476|Exploit
+76|CVE-2014-3191|https://crbug.com/402407|Exploit
+77|CVE-2014-3192|https://crbug.com/403276|Issue Tracking,Third Party Advisory
+78|CVE-2014-3193|https://crbug.com/399655|
+79|CVE-2014-3194|https://crbug.com/401115|Patch
+80|CVE-2014-3195|https://crbug.com/403409|Patch
+81|CVE-2014-3196|https://crbug.com/338538|
+82|CVE-2014-3197|https://crbug.com/396544|
+83|CVE-2014-3198|https://crbug.com/415307|
+84|CVE-2014-3199|https://crbug.com/395411|
+85|CVE-2014-3201|https://crbug.com/406593|
+86|CVE-2011-1793|http://crbug.com/67923|Vendor Advisory
+87|CVE-2011-1794|http://crbug.com/78327|Vendor Advisory
+88|CVE-2011-1795|http://crbug.com/78948|Vendor Advisory
+89|CVE-2011-1796|http://crbug.com/79055|Vendor Advisory
+90|CVE-2011-1798|http://crbug.com/79595|Vendor Advisory
+91|CVE-2019-5754|https://crbug.com/914497|Exploit,Vendor Advisory,Issue Tracking
+92|CVE-2019-5755|https://crbug.com/913296|Exploit,Vendor Advisory,Patch,Issue Tracking
+93|CVE-2019-5756|https://crbug.com/895152|Exploit,Vendor Advisory,Issue Tracking
+94|CVE-2019-5757|https://crbug.com/915469|Exploit,Vendor Advisory,Issue Tracking
+95|CVE-2019-5758|https://crbug.com/913970|Exploit,Vendor Advisory,Issue Tracking
+96|CVE-2019-5759|https://crbug.com/912211|Vendor Advisory,Issue Tracking
+97|CVE-2019-5760|https://crbug.com/912074|Permissions Required,Vendor Advisory,Issue Tracking
+98|CVE-2019-5761|https://crbug.com/904714|Exploit,Vendor Advisory,Issue Tracking
+99|CVE-2019-5762|https://crbug.com/900552|Exploit,Vendor Advisory,Issue Tracking
+100|CVE-2019-5763|https://crbug.com/914731|Vendor Advisory,Issue Tracking
+101|CVE-2019-5764|https://crbug.com/913246|Vendor Advisory,Issue Tracking
+102|CVE-2019-5765|https://crbug.com/922627|Permissions Required,Vendor Advisory,Issue Tracking
+103|CVE-2019-5766|https://crbug.com/907047|Exploit,Vendor Advisory,Issue Tracking
+104|CVE-2019-5767|https://crbug.com/902427|Exploit,Vendor Advisory,Patch,Issue Tracking
+105|CVE-2019-5768|https://crbug.com/805557|Exploit,Vendor Advisory,Issue Tracking
+106|CVE-2019-5769|https://crbug.com/913975|Exploit,Vendor Advisory,Issue Tracking
+107|CVE-2019-5770|https://crbug.com/908749|Exploit,Vendor Advisory,Issue Tracking
+108|CVE-2019-5771|https://crbug.com/904265|Exploit,Vendor Advisory,Issue Tracking
+109|CVE-2019-5772|https://crbug.com/908292|Exploit,Vendor Advisory,Patch,Issue Tracking
+110|CVE-2019-5773|https://crbug.com/917668|Exploit,Vendor Advisory,Issue Tracking
+111|CVE-2019-5774|https://crbug.com/904182|Exploit,Vendor Advisory,Patch,Issue Tracking
+112|CVE-2019-5775|https://crbug.com/896722|Exploit,Vendor Advisory,Patch,Issue Tracking
+113|CVE-2019-5776|https://crbug.com/863663|Exploit,Vendor Advisory,Issue Tracking
+114|CVE-2019-5777|https://crbug.com/849421|Exploit,Vendor Advisory,Issue Tracking
+115|CVE-2019-5778|https://crbug.com/918470|Permissions Required,Vendor Advisory,Issue Tracking
+116|CVE-2019-5779|https://crbug.com/904219|Exploit,Vendor Advisory,Patch,Issue Tracking
+117|CVE-2019-5780|https://crbug.com/891697|Exploit,Vendor Advisory,Issue Tracking
+118|CVE-2019-5781|https://crbug.com/896725|Exploit,Vendor Advisory,Patch,Issue Tracking
+119|CVE-2019-5782|https://crbug.com/906043|Permissions Required,Vendor Advisory,Issue Tracking
+120|CVE-2019-5783|https://crbug.com/895081|Exploit,Vendor Advisory,Issue Tracking
+121|CVE-2019-5787|https://crbug.com/913964|Permissions Required
+122|CVE-2019-5788|https://crbug.com/925864|Exploit,Third Party Advisory
+123|CVE-2019-5789|https://crbug.com/921581|Exploit,Third Party Advisory
+124|CVE-2019-5790|https://crbug.com/914736|Exploit,Third Party Advisory
+125|CVE-2019-5791|https://crbug.com/926651|Exploit,Third Party Advisory
+126|CVE-2019-5792|https://crbug.com/914983|Exploit,Third Party Advisory
+127|CVE-2019-5793|https://crbug.com/937487|Permissions Required
+128|CVE-2019-5794|https://crbug.com/935175|Exploit,Third Party Advisory
+129|CVE-2019-5795|https://crbug.com/919643|Exploit,Third Party Advisory
+130|CVE-2019-5796|https://crbug.com/918861|Exploit,Third Party Advisory
+131|CVE-2019-5798|https://crbug.com/883596|Exploit,Third Party Advisory
+132|CVE-2019-5799|https://crbug.com/905301|Vendor Advisory,Issue Tracking
+133|CVE-2019-5800|https://crbug.com/894228|Exploit,Vendor Advisory,Issue Tracking
+134|CVE-2019-5801|https://crbug.com/921390|Exploit,Vendor Advisory,Issue Tracking
+135|CVE-2019-5802|https://crbug.com/632514|Permissions Required,Vendor Advisory,Issue Tracking
+136|CVE-2019-5803|https://crbug.com/909865|Exploit,Vendor Advisory,Issue Tracking
+137|CVE-2019-5804|https://crbug.com/933004|Permissions Required,Vendor Advisory,Issue Tracking
+138|CVE-2016-1660|https://crbug.com/574802|
+139|CVE-2016-1661|https://crbug.com/601629|
+140|CVE-2016-1662|https://crbug.com/603732|
+141|CVE-2016-1663|https://crbug.com/603987|
+142|CVE-2016-1664|https://crbug.com/597322|
+143|CVE-2016-1665|https://crbug.com/606181|
+144|CVE-2016-1666|https://crbug.com/607652|
+145|CVE-2016-1667|https://crbug.com/605766|Permissions Required
+146|CVE-2016-1668|https://crbug.com/605910|Permissions Required
+147|CVE-2016-1669|https://crbug.com/606115|
+148|CVE-2016-1670|https://crbug.com/578882|Permissions Required
+149|CVE-2016-1671|https://crbug.com/586657|
+150|CVE-2016-1672|https://crbug.com/590118|Permissions Required
+151|CVE-2016-1673|https://crbug.com/597532|Permissions Required
+152|CVE-2016-1674|https://crbug.com/598165|Permissions Required
+153|CVE-2016-1675|https://crbug.com/600182|Permissions Required
+154|CVE-2016-1676|https://crbug.com/604901|Permissions Required
+155|CVE-2016-1677|https://crbug.com/602970|Permissions Required
+156|CVE-2016-1678|https://crbug.com/595259|Permissions Required
+157|CVE-2016-1679|https://crbug.com/606390|Permissions Required
+158|CVE-2016-1680|https://crbug.com/589848|Permissions Required
+159|CVE-2016-1681|https://crbug.com/613160|Permissions Required
+160|CVE-2016-1682|https://crbug.com/579801|Permissions Required
+161|CVE-2016-1683|https://crbug.com/583156|Permissions Required
+162|CVE-2016-1684|https://crbug.com/583171|
+163|CVE-2016-1685|https://crbug.com/601362|Permissions Required
+164|CVE-2016-1686|https://crbug.com/603518|Permissions Required
+165|CVE-2016-1687|https://crbug.com/603748|Permissions Required
+166|CVE-2016-1688|https://crbug.com/604897|Permissions Required
+167|CVE-2016-1689|https://crbug.com/606185|Permissions Required
+168|CVE-2016-1690|https://crbug.com/608100|Permissions Required
+169|CVE-2016-1691|https://crbug.com/597926|Permissions Required
+170|CVE-2016-1692|https://crbug.com/598077|Permissions Required
+171|CVE-2016-1693|https://crbug.com/598752|Permissions Required
+172|CVE-2016-1694|https://crbug.com/603682|Permissions Required
+173|CVE-2016-1695|https://crbug.com/582698|Issue Tracking
+174|CVE-2016-1695|https://crbug.com/582714|Permissions Required
+175|CVE-2016-1695|https://crbug.com/585658|Issue Tracking
+176|CVE-2016-1695|https://crbug.com/587897|Issue Tracking
+177|CVE-2016-1695|https://crbug.com/588178|Permissions Required
+178|CVE-2016-1695|https://crbug.com/588548|Issue Tracking
+179|CVE-2016-1695|https://crbug.com/595262|Issue Tracking
+180|CVE-2016-1695|https://crbug.com/599081|Issue Tracking
+181|CVE-2016-1695|https://crbug.com/599627|Issue Tracking
+182|CVE-2016-1695,CVE-2016-10403|https://crbug.com/602046|Exploit,Vendor Advisory,Issue Tracking
+183|CVE-2016-1695|https://crbug.com/602185|Permissions Required
+184|CVE-2016-1695|https://crbug.com/605474|Permissions Required
+185|CVE-2016-1695|https://crbug.com/607483|Permissions Required
+186|CVE-2016-1695|https://crbug.com/609134|Permissions Required
+187|CVE-2016-1695|https://crbug.com/610646|Permissions Required
+188|CVE-2016-1695|https://crbug.com/611887|Permissions Required
+189|CVE-2016-1695|https://crbug.com/612132|Permissions Required
+190|CVE-2016-1695|https://crbug.com/612364|Permissions Required
+191|CVE-2016-1695|https://crbug.com/612613|Permissions Required
+192|CVE-2016-1695|https://crbug.com/614767|Issue Tracking
+193|CVE-2016-1696|https://crbug.com/601073|Permissions Required
+194|CVE-2016-1697|https://crbug.com/613266|Permissions Required
+195|CVE-2016-1698|https://crbug.com/603725|Permissions Required
+196|CVE-2016-1699|https://crbug.com/607939|Permissions Required
+197|CVE-2016-1700|https://crbug.com/608104|Permissions Required
+198|CVE-2016-1701|https://crbug.com/608101|Permissions Required
+199|CVE-2016-1702|https://crbug.com/609260|Permissions Required
+200|CVE-2016-1703|https://crbug.com/582702|Permissions Required
+201|CVE-2016-1703|https://crbug.com/590621|Permissions Required
+202|CVE-2016-1703|https://crbug.com/592361|Permissions Required
+203|CVE-2016-1703|https://crbug.com/602276|Permissions Required
+204|CVE-2016-1703|https://crbug.com/608156|Permissions Required
+205|CVE-2016-1703|https://crbug.com/610400|Permissions Required
+206|CVE-2016-1703|https://crbug.com/612049|Permissions Required
+207|CVE-2016-1703|https://crbug.com/613917|Permissions Required
+208|CVE-2016-1703|https://crbug.com/616539|Permissions Required
+209|CVE-2016-1704|https://crbug.com/610799|
+210|CVE-2016-1704|https://crbug.com/613698|
+211|CVE-2016-1704|https://crbug.com/613915|
+212|CVE-2016-1704|https://crbug.com/620742|
+213|CVE-2016-1705|http://crbug.com/590619|
+214|CVE-2016-1705|http://crbug.com/599458|
+215|CVE-2016-1705|http://crbug.com/600953|
+216|CVE-2016-1705|http://crbug.com/609286|
+217|CVE-2016-1705|http://crbug.com/611959|
+218|CVE-2016-1705|http://crbug.com/612939|
+219|CVE-2016-1705|http://crbug.com/613869|
+220|CVE-2016-1705|http://crbug.com/613971|
+221|CVE-2016-1705|http://crbug.com/614405|
+222|CVE-2016-1705|http://crbug.com/614701|
+223|CVE-2016-1705|http://crbug.com/614989|
+224|CVE-2016-1705|http://crbug.com/615820|
+225|CVE-2016-1705|http://crbug.com/619378|
+226|CVE-2016-1705|http://crbug.com/619382|
+227|CVE-2016-1705|http://crbug.com/620694|
+228|CVE-2016-1705|http://crbug.com/620737|
+229|CVE-2016-1705|http://crbug.com/620858|
+230|CVE-2016-1705|http://crbug.com/620952|
+231|CVE-2016-1705|http://crbug.com/621843|
+232|CVE-2016-1705|http://crbug.com/622522|
+233|CVE-2016-1705|https://crbug.com/629852|Issue Tracking
+234|CVE-2016-1706|https://crbug.com/610600|
+235|CVE-2016-1707|https://crbug.com/622183|Permissions Required
+236|CVE-2016-1708|https://crbug.com/613949|
+237|CVE-2016-1709|https://crbug.com/614934|Permissions Required
+238|CVE-2016-1710|https://crbug.com/616907|Permissions Required
+239|CVE-2016-1711|https://crbug.com/617495|Permissions Required
+240|CVE-2016-5127|https://crbug.com/618237|Permissions Required
+241|CVE-2016-5128|https://crbug.com/619166|Permissions Required
+242|CVE-2016-5129|https://crbug.com/620553|Permissions Required
+243|CVE-2016-5130|https://crbug.com/623319|Permissions Required
+244|CVE-2016-5131|https://crbug.com/623378|Exploit,Vendor Advisory,Mailing List,Issue Tracking
+245|CVE-2016-5132|https://crbug.com/607543|Permissions Required
+246|CVE-2016-5133|https://crbug.com/613626|Permissions Required
+247|CVE-2016-5134|https://crbug.com/593759|
+248|CVE-2016-5135|https://crbug.com/605451|
+249|CVE-2016-5136|https://crbug.com/625393|
+250|CVE-2016-5137|https://crbug.com/625945|Permissions Required
+251|CVE-2016-5139|https://crbug.com/625541|Permissions Required
+252|CVE-2016-5140|https://crbug.com/619405|Permissions Required
+253|CVE-2016-5141|https://crbug.com/629542|Permissions Required
+254|CVE-2016-5142|https://crbug.com/626948|Permissions Required
+255|CVE-2016-5143|https://crbug.com/619414|Permissions Required
+256|CVE-2016-5144|https://crbug.com/618333|Permissions Required
+257|CVE-2016-5145|https://crbug.com/623406|Permissions Required
+258|CVE-2016-5146|https://crbug.com/620277|Permissions Required
+259|CVE-2016-5146|https://crbug.com/620766|Permissions Required
+260|CVE-2016-5146|https://crbug.com/633310|Permissions Required
+261|CVE-2016-5146|https://crbug.com/633486|Permissions Required
+262|CVE-2016-5147|https://crbug.com/628942|Permissions Required
+263|CVE-2016-5148|https://crbug.com/621362|Permissions Required
+264|CVE-2016-5149|https://crbug.com/573131|Permissions Required
+265|CVE-2016-5150|https://crbug.com/637963|Permissions Required
+266|CVE-2016-5151|https://crbug.com/634716|Permissions Required
+267|CVE-2016-5152|https://crbug.com/629919|Permissions Required
+268|CVE-2016-5153|https://crbug.com/631052|Permissions Required
+269|CVE-2016-5154|https://crbug.com/633002|Permissions Required
+270|CVE-2016-5155|https://crbug.com/630662|Permissions Required
+271|CVE-2016-5156|https://crbug.com/625404|Permissions Required
+272|CVE-2016-5157|https://crbug.com/632622|Permissions Required
+273|CVE-2016-5158|https://crbug.com/628890|Permissions Required
+274|CVE-2016-5159|https://crbug.com/628304|Permissions Required
+275|CVE-2016-5160|https://crbug.com/576867|Issue Tracking
+276|CVE-2016-5161|https://crbug.com/622420|Permissions Required
+277|CVE-2016-5162|https://crbug.com/589237|Permissions Required
+278|CVE-2016-5163|https://crbug.com/495933|Issue Tracking
+279|CVE-2016-5163|https://crbug.com/609680|Permissions Required
+280|CVE-2016-5164|https://crbug.com/637594|Permissions Required
+281|CVE-2016-5165|https://crbug.com/618037|Permissions Required
+282|CVE-2016-5166|https://crbug.com/616429|Permissions Required
+283|CVE-2016-5167|https://crbug.com/617648|Permissions Required
+284|CVE-2016-5167|https://crbug.com/619379|Permissions Required
+285|CVE-2016-5167|https://crbug.com/624213|Permissions Required
+286|CVE-2016-5167|https://crbug.com/624214|Permissions Required
+287|CVE-2016-5167|https://crbug.com/625575|Permissions Required
+288|CVE-2016-5167|https://crbug.com/627355|Permissions Required
+289|CVE-2016-5167|https://crbug.com/627418|Permissions Required
+290|CVE-2016-5167|https://crbug.com/633585|Permissions Required
+291|CVE-2016-5167|https://crbug.com/634394|Permissions Required
+292|CVE-2016-5167|https://crbug.com/634557|Permissions Required
+293|CVE-2016-5167|https://crbug.com/637320|Permissions Required
+294|CVE-2016-5167|https://crbug.com/642598|Issue Tracking
+295|CVE-2016-7395|https://crbug.com/613918|Issue Tracking
+296|CVE-2016-5170|https://crbug.com/641101|Permissions Required
+297|CVE-2016-5171|https://crbug.com/643357|Permissions Required
+298|CVE-2016-5172|https://crbug.com/616386|Permissions Required
+299|CVE-2016-5173|https://crbug.com/468931|Patch,Issue Tracking
+300|CVE-2016-5173|https://crbug.com/471523|Patch,Issue Tracking
+301|CVE-2016-5173|https://crbug.com/497507|Patch,Issue Tracking
+302|CVE-2016-5174|https://crbug.com/579934|Permissions Required
+303|CVE-2016-5175|https://crbug.com/619217|Permissions Required
+304|CVE-2016-5175|https://crbug.com/638166|Permissions Required
+305|CVE-2016-5175,CVE-2016-7549|https://crbug.com/646394|Patch,Issue Tracking
+306|CVE-2016-7549|https://crbug.com/556351|Issue Tracking
+307|CVE-2016-5176|https://crbug.com/595838|Permissions Required
+308|CVE-2016-5181|https://crbug.com/645211|Permissions Required
+309|CVE-2016-5182|https://crbug.com/638615|Patch,Issue Tracking
+310|CVE-2016-5183|https://crbug.com/645122|Permissions Required
+311|CVE-2016-5184|https://crbug.com/630654|Issue Tracking
+312|CVE-2016-5185|https://crbug.com/621360|Permissions Required
+313|CVE-2016-5186|https://crbug.com/644963|Permissions Required
+314|CVE-2016-5187|https://crbug.com/639702|Permissions Required
+315|CVE-2016-5188|https://crbug.com/565760|Issue Tracking
+316|CVE-2016-5189|https://crbug.com/646278|Permissions Required
+317|CVE-2016-5190|https://crbug.com/642067|Patch,Issue Tracking
+318|CVE-2016-5191|https://crbug.com/639126|Permissions Required
+319|CVE-2016-5192|https://crbug.com/633885|Permissions Required
+320|CVE-2016-5193|https://crbug.com/639658|Issue Tracking
+321|CVE-2013-6649|http://crbug.com/330420|Exploit
+322|CVE-2013-6650|http://crbug.com/331444|Exploit
+323|CVE-2013-2887|http://crbug.com/116128|
+324|CVE-2013-2887|http://crbug.com/166916|
+325|CVE-2013-2887|http://crbug.com/172119|
+326|CVE-2013-2887|http://crbug.com/177876|
+327|CVE-2013-2887|http://crbug.com/220039|
+328|CVE-2013-2887|http://crbug.com/231688|
+329|CVE-2013-2887|http://crbug.com/232393|
+330|CVE-2013-2887|http://crbug.com/234809|
+331|CVE-2013-2887|http://crbug.com/236147|
+332|CVE-2013-2887|http://crbug.com/238837|
+333|CVE-2013-2887|http://crbug.com/246635|
+334|CVE-2013-2887|http://crbug.com/248960|
+335|CVE-2013-2887|http://crbug.com/249064|
+336|CVE-2013-2887|http://crbug.com/249854|
+337|CVE-2013-2887|http://crbug.com/252848|
+338|CVE-2013-2887,CVE-2013-2905|http://crbug.com/254159|Patch,Issue Tracking
+339|CVE-2013-2887|http://crbug.com/261609|
+340|CVE-2013-2900|http://crbug.com/181617|Patch,Issue Tracking
+341|CVE-2013-2901|http://crbug.com/257363|Patch,Issue Tracking
+342|CVE-2013-2902|http://crbug.com/260105|Patch,Issue Tracking
+343|CVE-2013-2903|http://crbug.com/260156|Patch,Issue Tracking
+344|CVE-2013-2904|http://crbug.com/260428|Patch,Issue Tracking
+345|CVE-2013-2928|http://crbug.com/303657|
+346|CVE-2013-2928|http://crbug.com/303772|
+347|CVE-2015-1289|https://crbug.com/398235|
+348|CVE-2015-1289|https://crbug.com/401995|
+349|CVE-2015-1289|https://crbug.com/404462|
+350|CVE-2015-1289|https://crbug.com/458024|
+351|CVE-2015-1289|https://crbug.com/459898|
+352|CVE-2015-1289|https://crbug.com/460938|
+353|CVE-2015-1289|https://crbug.com/471990|
+354|CVE-2015-1289|https://crbug.com/477713|
+355|CVE-2015-1289|https://crbug.com/478575|
+356|CVE-2015-1289|https://crbug.com/484432|
+357|CVE-2015-1289|https://crbug.com/485855|
+358|CVE-2015-1289|https://crbug.com/486004|
+359|CVE-2015-1289|https://crbug.com/487286|
+360|CVE-2015-1289|https://crbug.com/491216|
+361|CVE-2015-1289|https://crbug.com/492448|
+362|CVE-2015-1289|https://crbug.com/492981|
+363|CVE-2015-1289|https://crbug.com/495682|
+364|CVE-2015-1289|https://crbug.com/504692|
+365|CVE-2015-1289|https://crbug.com/506749|
+366|CVE-2015-1289|https://crbug.com/507821|
+367|CVE-2017-15407|https://crbug.com/778505|Exploit,Issue Tracking,Third Party Advisory
+368|CVE-2017-15408|https://crbug.com/762374|Exploit,Issue Tracking,Third Party Advisory
+369|CVE-2017-15409|https://crbug.com/763972|Exploit,Issue Tracking,Third Party Advisory
+370|CVE-2017-15410|https://crbug.com/765921|Exploit,Issue Tracking,Third Party Advisory
+371|CVE-2017-15411|https://crbug.com/770148|Exploit,Issue Tracking,Third Party Advisory
+372|CVE-2017-15412|https://crbug.com/727039|Patch,Third Party Advisory
+373|CVE-2017-15413|https://crbug.com/766666|Permissions Required,Third Party Advisory
+374|CVE-2017-15415|https://crbug.com/765512|Exploit,Third Party Advisory
+375|CVE-2017-15416|https://crbug.com/779314|Patch,Third Party Advisory
+376|CVE-2017-15417|https://crbug.com/699028|Exploit,Third Party Advisory
+377|CVE-2017-15418|https://crbug.com/765858|Exploit,Third Party Advisory
+378|CVE-2017-15419|https://crbug.com/780312|Permissions Required,Third Party Advisory
+379|CVE-2017-15420|https://crbug.com/777419|Exploit,Issue Tracking,Third Party Advisory
+380|CVE-2017-15422|https://crbug.com/774382|Exploit,Third Party Advisory
+381|CVE-2017-15423|https://crbug.com/778101|Exploit,Issue Tracking,Third Party Advisory
+382|CVE-2017-15424|https://crbug.com/756226|Issue Tracking,Third Party Advisory
+383|CVE-2017-15425|https://crbug.com/756456|Issue Tracking,Third Party Advisory
+384|CVE-2017-15426|https://crbug.com/756735|Issue Tracking,Third Party Advisory
+385|CVE-2017-15427|https://crbug.com/768910|Exploit,Issue Tracking,Third Party Advisory
+386|CVE-2017-15430|https://crbug.com/780484|Issue Tracking,Third Party Advisory
+387|CVE-2017-15396|https://crbug.com/770452|Exploit,Patch,Third Party Advisory
+388|CVE-2017-15398|https://crbug.com/777728|Exploit,Patch,Third Party Advisory
+389|CVE-2017-15399|https://crbug.com/776677|Exploit,Third Party Advisory
+390|CVE-2017-15406|https://crbug.com/770450|Exploit,Patch,Issue Tracking,Third Party Advisory
+391|CVE-2017-15429|https://crbug.com/788453|Permissions Required,Third Party Advisory
+392|CVE-2018-6031|https://crbug.com/780450|Vendor Advisory,Issue Tracking
+393|CVE-2018-6032|https://crbug.com/787103|Vendor Advisory,Issue Tracking
+394|CVE-2018-6033|https://crbug.com/793620|Exploit,Vendor Advisory,Issue Tracking
+395|CVE-2018-6034|https://crbug.com/784183|Exploit,Patch,Issue Tracking,Third Party Advisory
+396|CVE-2018-6035|https://crbug.com/797500|Exploit,Patch,Issue Tracking,Third Party Advisory
+397|CVE-2018-6036|https://crbug.com/789952|Issue Tracking,Third Party Advisory
+398|CVE-2018-6037|https://crbug.com/753645|Exploit,Issue Tracking,Third Party Advisory
+399|CVE-2018-6038|https://crbug.com/774174|Exploit,Issue Tracking,Third Party Advisory
+400|CVE-2018-6039|https://crbug.com/775527|Exploit,Patch,Issue Tracking,Third Party Advisory
+401|CVE-2018-6040|https://crbug.com/778658|Exploit,Patch,Issue Tracking,Third Party Advisory
+402|CVE-2018-6041|https://crbug.com/760342|Exploit,Patch,Issue Tracking,Third Party Advisory
+403|CVE-2018-6042|https://crbug.com/773930|Patch,Issue Tracking,Third Party Advisory
+404|CVE-2018-6043|https://crbug.com/785809|Exploit,Issue Tracking,Third Party Advisory
+405|CVE-2018-6045|https://crbug.com/797497|Exploit,Patch,Issue Tracking,Third Party Advisory
+406|CVE-2018-6046|https://crbug.com/798163|Exploit,Patch,Issue Tracking,Third Party Advisory
+407|CVE-2018-6047|https://crbug.com/799847|Exploit,Third Party Advisory
+408|CVE-2018-6048|https://crbug.com/763194|Third Party Advisory
+409|CVE-2018-6049|https://crbug.com/774438|Exploit,Third Party Advisory
+410|CVE-2018-6050|https://crbug.com/774842|Third Party Advisory
+411|CVE-2018-6051|https://crbug.com/441275|Third Party Advisory
+412|CVE-2018-6052|https://crbug.com/615608|Exploit,Vendor Advisory,Issue Tracking
+413|CVE-2018-6053|https://crbug.com/758169|Exploit,Vendor Advisory,Issue Tracking
+414|CVE-2018-6054|https://crbug.com/797511|Exploit,Vendor Advisory,Issue Tracking
+415|CVE-2018-6055|https://crbug.com/791003|Exploit,Vendor Advisory,Issue Tracking
+416|CVE-2018-6119|https://crbug.com/784761|Vendor Advisory,Issue Tracking
+417|CVE-2018-17462|https://crbug.com/888926|Vendor Advisory,Permissions Required
+418|CVE-2018-17463|https://crbug.com/888923|Vendor Advisory,Permissions Required
+419|CVE-2018-17464|https://crbug.com/887273|Exploit,Vendor Advisory
+420|CVE-2018-17465|https://crbug.com/870226|Exploit,Vendor Advisory
+421|CVE-2018-17466|https://crbug.com/880906|Vendor Advisory,Permissions Required
+422|CVE-2018-17467|https://crbug.com/844881|Exploit,Vendor Advisory
+423|CVE-2018-17468|https://crbug.com/876822|Vendor Advisory,Permissions Required
+424|CVE-2018-17469|https://crbug.com/880675|Vendor Advisory,Permissions Required
+425|CVE-2018-17471|https://crbug.com/873080|Exploit,Vendor Advisory
+426|CVE-2018-17472|https://crbug.com/822518|Exploit,Vendor Advisory
+427|CVE-2018-17473|https://crbug.com/882078|Vendor Advisory,Permissions Required
+428|CVE-2018-17474|https://crbug.com/843151|Vendor Advisory,Permissions Required
+429|CVE-2018-17475|https://crbug.com/852634|Vendor Advisory,Permissions Required
+430|CVE-2018-17476|https://crbug.com/812769|Exploit,Vendor Advisory
+431|CVE-2018-17477|https://crbug.com/863703|Vendor Advisory,Permissions Required
+432|CVE-2018-6057|https://crbug.com/789959|Exploit,Vendor Advisory
+433|CVE-2018-6060|https://crbug.com/780919|Exploit,Vendor Advisory
+434|CVE-2018-6061|https://crbug.com/794091|Exploit,Vendor Advisory
+435|CVE-2018-6062|https://crbug.com/780104|Exploit,Vendor Advisory
+436|CVE-2018-6063|https://crbug.com/792900|Exploit,Vendor Advisory
+437|CVE-2018-6064|https://crbug.com/798644|Exploit,Vendor Advisory
+438|CVE-2018-6065|https://crbug.com/808192|Exploit,Vendor Advisory
+439|CVE-2018-6066|https://crbug.com/799477|Exploit,Vendor Advisory
+440|CVE-2018-6067|https://crbug.com/779428|Exploit,Vendor Advisory
+441|CVE-2018-6068|https://crbug.com/798933|Exploit,Vendor Advisory
+442|CVE-2018-6069|https://crbug.com/799918|Exploit,Vendor Advisory
+443|CVE-2018-6070|https://crbug.com/668645|Exploit,Vendor Advisory
+444|CVE-2018-6071|https://crbug.com/777318|Exploit,Vendor Advisory
+445|CVE-2018-6072|https://crbug.com/791048|Exploit,Vendor Advisory
+446|CVE-2018-6073|https://crbug.com/804118|Exploit,Vendor Advisory
+447|CVE-2018-6074|https://crbug.com/809759|Exploit,Vendor Advisory
+448|CVE-2018-6075|https://crbug.com/608669|Exploit,Vendor Advisory
+449|CVE-2018-6076|https://crbug.com/758523|Exploit,Vendor Advisory
+450|CVE-2018-6077|https://crbug.com/778506|Exploit,Vendor Advisory
+451|CVE-2018-6078|https://crbug.com/793628|Exploit,Vendor Advisory
+452|CVE-2018-6079|https://crbug.com/788448|Exploit,Vendor Advisory
+453|CVE-2018-6080|https://crbug.com/792028|Exploit,Vendor Advisory
+454|CVE-2018-6081|https://crbug.com/797525|Exploit,Vendor Advisory
+455|CVE-2018-6082|https://crbug.com/767354|Exploit,Vendor Advisory
+456|CVE-2018-6083|https://crbug.com/771709|Exploit,Vendor Advisory
+457|CVE-2018-6085|https://crbug.com/826626|Exploit,Vendor Advisory,Patch,Issue Tracking
+458|CVE-2018-6086|https://crbug.com/827492|Exploit,Vendor Advisory,Patch,Issue Tracking
+459|CVE-2018-6087|https://crbug.com/813876|Exploit,Vendor Advisory,Issue Tracking
+460|CVE-2018-6088|https://crbug.com/822091|Exploit,Vendor Advisory,Patch,Issue Tracking
+461|CVE-2018-6089|https://crbug.com/808838|Exploit,Vendor Advisory,Issue Tracking
+462|CVE-2018-6090|https://crbug.com/820913|Exploit,Vendor Advisory,Issue Tracking
+463|CVE-2018-6092|https://crbug.com/819869|Exploit,Vendor Advisory,Issue Tracking
+464|CVE-2018-6094|https://crbug.com/633030|Exploit,Vendor Advisory,Issue Tracking
+465|CVE-2018-6095|https://crbug.com/637098|Exploit,Vendor Advisory,Issue Tracking
+466|CVE-2018-6098|https://crbug.com/798892|Exploit,Vendor Advisory,Issue Tracking
+467|CVE-2018-6099|https://crbug.com/808825|Exploit,Vendor Advisory,Issue Tracking
+468|CVE-2018-6101|https://crbug.com/813540|Exploit,Vendor Advisory,Issue Tracking
+469|CVE-2018-6102|https://crbug.com/813814|Exploit,Vendor Advisory,Issue Tracking
+470|CVE-2018-6103|https://crbug.com/816033|Exploit,Vendor Advisory,Issue Tracking
+471|CVE-2018-6104|https://crbug.com/820068|Exploit,Vendor Advisory,Issue Tracking
+472|CVE-2018-6105|https://crbug.com/803571|Vendor Advisory,Issue Tracking
+473|CVE-2018-6107|https://crbug.com/808316|Exploit,Vendor Advisory,Issue Tracking
+474|CVE-2018-6108|https://crbug.com/816769|Exploit,Vendor Advisory,Issue Tracking
+475|CVE-2018-6115|https://crbug.com/819809|Exploit,Vendor Advisory,Issue Tracking
+476|CVE-2018-6116|https://crbug.com/822266|Exploit,Vendor Advisory,Issue Tracking
+477|CVE-2018-6152|https://crbug.com/805445|Exploit,Third Party Advisory
+478|CVE-2018-17480|https://crbug.com/905940|Vendor Advisory,Permissions Required
+479|CVE-2018-17481|https://crbug.com/901654|Vendor Advisory,Permissions Required
+480|CVE-2018-18335|https://crbug.com/895362|Vendor Advisory,Permissions Required
+481|CVE-2018-18336|https://crbug.com/898531|Vendor Advisory,Permissions Required
+482|CVE-2018-18337|https://crbug.com/886753|Vendor Advisory,Permissions Required
+483|CVE-2018-18338|https://crbug.com/890576|Vendor Advisory,Permissions Required
+484|CVE-2018-18339|https://crbug.com/891187|Vendor Advisory,Permissions Required
+485|CVE-2018-18340|https://crbug.com/896736|Vendor Advisory,Permissions Required
+486|CVE-2018-18341|https://crbug.com/901030|Vendor Advisory,Permissions Required
+487|CVE-2018-18342|https://crbug.com/906313|Vendor Advisory,Permissions Required
+488|CVE-2018-18343|https://crbug.com/882423|Vendor Advisory,Permissions Required
+489|CVE-2018-18344|https://crbug.com/866426|Permissions Required,Third Party Advisory
+490|CVE-2018-18345|https://crbug.com/886976|Permissions Required,Third Party Advisory
+491|CVE-2018-18346|https://crbug.com/606104|Vendor Advisory,Permissions Required
+492|CVE-2018-18347|https://crbug.com/850824|Vendor Advisory,Permissions Required
+493|CVE-2018-18348|https://crbug.com/881659|Vendor Advisory,Permissions Required
+494|CVE-2018-18349|https://crbug.com/894399|Permissions Required,Third Party Advisory
+495|CVE-2018-18350|https://crbug.com/799747|Vendor Advisory,Permissions Required
+496|CVE-2018-18351|https://crbug.com/833847|Vendor Advisory,Permissions Required
+497|CVE-2018-18352|https://crbug.com/849942|Vendor Advisory,Permissions Required
+498|CVE-2018-18353|https://crbug.com/884179|Vendor Advisory,Permissions Required
+499|CVE-2018-18354|https://crbug.com/889459|Vendor Advisory,Permissions Required
+500|CVE-2018-18355|https://crbug.com/896717|Vendor Advisory,Permissions Required
+501|CVE-2018-18356|https://crbug.com/883666|Exploit,Vendor Advisory,Issue Tracking
+502|CVE-2018-18357|https://crbug.com/895207|Vendor Advisory,Permissions Required
+503|CVE-2018-18358|https://crbug.com/899126|Vendor Advisory,Permissions Required
+504|CVE-2018-18359|https://crbug.com/907714|Vendor Advisory,Permissions Required
+505|CVE-2018-20346|https://crbug.com/900910|Permissions Required,Third Party Advisory
+506|CVE-2020-16012|https://crbug.com/1088224|Exploit,Vendor Advisory,Patch,Issue Tracking
+507|CVE-2020-16013|https://crbug.com/1147206|Vendor Advisory,Permissions Required
+508|CVE-2020-16014|https://crbug.com/1146675|Vendor Advisory,Permissions Required
+509|CVE-2020-16015|https://crbug.com/1146673|Vendor Advisory,Permissions Required
+510|CVE-2020-16016|https://crbug.com/1146679|Vendor Advisory,Permissions Required
+511|CVE-2020-16017|https://crbug.com/1146709|Vendor Advisory,Permissions Required
+512|CVE-2020-16018|https://crbug.com/1136078|Vendor Advisory,Permissions Required
+513|CVE-2020-16019|https://crbug.com/1139408|Vendor Advisory,Permissions Required
+514|CVE-2020-16020|https://crbug.com/1139411|Vendor Advisory,Permissions Required
+515|CVE-2020-16021|https://crbug.com/1139414|Vendor Advisory,Permissions Required
+516|CVE-2020-16022|https://crbug.com/1145680|Exploit,Vendor Advisory,Issue Tracking
+517|CVE-2020-16023|https://crbug.com/1146761|Vendor Advisory,Permissions Required
+518|CVE-2020-16024|https://crbug.com/1147430|Vendor Advisory,Permissions Required
+519|CVE-2020-16025|https://crbug.com/1147431|Vendor Advisory,Permissions Required
+520|CVE-2020-16026|https://crbug.com/1139153|Vendor Advisory,Permissions Required
+521|CVE-2020-16027|https://crbug.com/1116444|Vendor Advisory,Permissions Required
+522|CVE-2020-16028|https://crbug.com/1138446|Vendor Advisory,Permissions Required
+523|CVE-2020-16029|https://crbug.com/1134338|Vendor Advisory,Permissions Required
+524|CVE-2020-16030|https://crbug.com/1141350|Vendor Advisory,Permissions Required
+525|CVE-2020-16031|https://crbug.com/1133183|Exploit,Vendor Advisory,Issue Tracking
+526|CVE-2020-16032|https://crbug.com/1136714|Vendor Advisory,Permissions Required
+527|CVE-2020-16033|https://crbug.com/1143057|Vendor Advisory,Permissions Required
+528|CVE-2020-16034|https://crbug.com/1137362|Vendor Advisory,Permissions Required
+529|CVE-2020-16035|https://crbug.com/1139409|Vendor Advisory,Permissions Required
+530|CVE-2020-16036|https://crbug.com/830808|Vendor Advisory,Permissions Required
+531|CVE-2020-16037|https://crbug.com/1142331|Vendor Advisory,Permissions Required
+532|CVE-2020-16038|https://crbug.com/1138683|Vendor Advisory,Permissions Required
+533|CVE-2020-16039|https://crbug.com/1149177|Vendor Advisory,Permissions Required
+534|CVE-2020-16040|https://crbug.com/1150649|Patch,Vendor Advisory,Issue Tracking
+535|CVE-2020-16041|https://crbug.com/1151865|Vendor Advisory,Permissions Required
+536|CVE-2020-16042|https://crbug.com/1151890|Vendor Advisory,Permissions Required
+537|CVE-2020-16043|https://crbug.com/1148309|Permissions Required
+538|CVE-2021-21106|https://crbug.com/1148749|Vendor Advisory,Permissions Required
+539|CVE-2021-21107|https://crbug.com/1153595|Vendor Advisory,Permissions Required
+540|CVE-2021-21108|https://crbug.com/1155426|Vendor Advisory,Permissions Required
+541|CVE-2021-21109|https://crbug.com/1152334|Vendor Advisory,Permissions Required
+542|CVE-2021-21110|https://crbug.com/1152451|Vendor Advisory,Permissions Required
+543|CVE-2021-21111|https://crbug.com/1149125|Vendor Advisory,Permissions Required
+544|CVE-2021-21112|https://crbug.com/1151298|Vendor Advisory,Permissions Required
+545|CVE-2021-21113|https://crbug.com/1155178|Vendor Advisory,Permissions Required
+546|CVE-2021-21114|https://crbug.com/1150065|Vendor Advisory,Permissions Required
+547|CVE-2021-21115|https://crbug.com/1157814|Vendor Advisory,Permissions Required
+548|CVE-2021-21116|https://crbug.com/1151069|Vendor Advisory,Permissions Required
+549|CVE-2020-16045|https://crbug.com/1125614|Vendor Advisory,Permissions Required
+550|CVE-2020-16046|https://crbug.com/1098606|Exploit,Vendor Advisory
+551|CVE-2020-6572|https://crbug.com/1066893|Vendor Advisory,Permissions Required
+552|CVE-2020-16044|https://crbug.com/1163228|Permissions Required,Third Party Advisory
+553|CVE-2021-21117|https://crbug.com/1137179|Permissions Required,Third Party Advisory
+554|CVE-2021-21118|https://crbug.com/1161357|Permissions Required,Third Party Advisory
+555|CVE-2021-21119|https://crbug.com/1160534|Permissions Required,Third Party Advisory
+556|CVE-2021-21120|https://crbug.com/1160602|Permissions Required,Third Party Advisory
+557|CVE-2021-21121|https://crbug.com/1161143|Permissions Required,Third Party Advisory
+558|CVE-2021-21122|https://crbug.com/1162131|Permissions Required,Third Party Advisory
+559|CVE-2021-21123|https://crbug.com/1137247|Permissions Required,Third Party Advisory
+560|CVE-2021-21124|https://crbug.com/1131346|Permissions Required,Third Party Advisory
+561|CVE-2021-21125|https://crbug.com/1152327|Permissions Required,Third Party Advisory
+562|CVE-2021-21126|https://crbug.com/1108126|Permissions Required,Third Party Advisory
+563|CVE-2021-21127|https://crbug.com/1115590|Exploit,Vendor Advisory,Issue Tracking
+564|CVE-2021-21128|https://crbug.com/1138877|Exploit,Vendor Advisory,Patch,Issue Tracking
+565|CVE-2021-21129|https://crbug.com/1140403|Permissions Required,Third Party Advisory
+566|CVE-2021-21130|https://crbug.com/1140410|Permissions Required,Third Party Advisory
+567|CVE-2021-21131|https://crbug.com/1140417|Permissions Required,Third Party Advisory
+568|CVE-2021-21132|https://crbug.com/1128206|Permissions Required,Third Party Advisory
+569|CVE-2021-21133|https://crbug.com/1157743|Permissions Required,Third Party Advisory
+570|CVE-2021-21134|https://crbug.com/1157800|Permissions Required,Third Party Advisory
+571|CVE-2021-21135|https://crbug.com/1157818|Permissions Required,Third Party Advisory
+572|CVE-2021-21136|https://crbug.com/1038002|Patch,Vendor Advisory,Issue Tracking
+573|CVE-2021-21137|https://crbug.com/1093791|Exploit,Vendor Advisory,Patch,Issue Tracking
+574|CVE-2021-21138|https://crbug.com/1122487|Permissions Required,Third Party Advisory
+575|CVE-2021-21139|https://crbug.com/937131|Exploit,Vendor Advisory,Patch,Issue Tracking
+576|CVE-2021-21140|https://crbug.com/1136327|Permissions Required,Third Party Advisory
+577|CVE-2021-21141|https://crbug.com/1140435|Permissions Required,Third Party Advisory
+578|CVE-2021-21142|https://crbug.com/1169317|Permissions Required
+579|CVE-2021-21143|https://crbug.com/1163504|Permissions Required
+580|CVE-2021-21144|https://crbug.com/1163845|Permissions Required
+581|CVE-2021-21145|https://crbug.com/1154965|Permissions Required
+582|CVE-2021-21146|https://crbug.com/1161705|Permissions Required
+583|CVE-2021-21147|https://crbug.com/1162942|Permissions Required
+584|CVE-2021-21148|https://crbug.com/1170176|Permissions Required
+585|CVE-2021-21149|https://crbug.com/1138143|Vendor Advisory,Permissions Required
+586|CVE-2021-21150|https://crbug.com/1172192|Vendor Advisory,Permissions Required
+587|CVE-2021-21151|https://crbug.com/1165624|Vendor Advisory,Permissions Required
+588|CVE-2021-21152|https://crbug.com/1166504|Vendor Advisory,Permissions Required
+589|CVE-2021-21153|https://crbug.com/1155974|Vendor Advisory,Permissions Required
+590|CVE-2021-21154|https://crbug.com/1173269|Vendor Advisory,Permissions Required
+591|CVE-2021-21155|https://crbug.com/1175500|Vendor Advisory,Permissions Required
+592|CVE-2021-21156|https://crbug.com/1177341|Vendor Advisory,Permissions Required
+593|CVE-2021-21157|https://crbug.com/1170657|Vendor Advisory,Permissions Required
+594|CVE-2021-21159|https://crbug.com/1171049|Permissions Required
+595|CVE-2021-21160|https://crbug.com/1170531|Permissions Required
+596|CVE-2021-21161|https://crbug.com/1173702|Permissions Required
+597|CVE-2021-21162|https://crbug.com/1172054|Permissions Required
+598|CVE-2021-21163|https://crbug.com/1111239|Permissions Required
+599|CVE-2021-21164|https://crbug.com/1164846|Permissions Required
+600|CVE-2021-21165|https://crbug.com/1174582|Permissions Required
+601|CVE-2021-21166|https://crbug.com/1177465|Permissions Required
+602|CVE-2021-21167|https://crbug.com/1161144|Permissions Required
+603|CVE-2021-21168|https://crbug.com/1152226|Permissions Required
+604|CVE-2021-21169|https://crbug.com/1166138|Permissions Required
+605|CVE-2021-21170|https://crbug.com/1111646|Permissions Required
+606|CVE-2021-21171|https://crbug.com/1152894|Permissions Required
+607|CVE-2021-21172|https://crbug.com/1150810|Permissions Required
+608|CVE-2021-21173|https://crbug.com/1154250|Permissions Required
+609|CVE-2021-21174|https://crbug.com/1158010|Permissions Required
+610|CVE-2021-21175|https://crbug.com/1146651|Permissions Required
+611|CVE-2021-21176|https://crbug.com/1170584|Permissions Required
+612|CVE-2021-21177|https://crbug.com/1173879|Permissions Required
+613|CVE-2021-21178|https://crbug.com/1174186|Permissions Required
+614|CVE-2021-21179|https://crbug.com/1174943|Permissions Required
+615|CVE-2021-21180|https://crbug.com/1175507|Permissions Required
+616|CVE-2021-21181|https://crbug.com/1182767|Permissions Required
+617|CVE-2021-21182|https://crbug.com/1049265|Permissions Required
+618|CVE-2021-21183|https://crbug.com/1105875|Permissions Required
+619|CVE-2021-21184|https://crbug.com/1131929|Permissions Required
+620|CVE-2021-21185|https://crbug.com/1100748|Permissions Required
+621|CVE-2021-21186|https://crbug.com/1153445|Permissions Required
+622|CVE-2021-21187|https://crbug.com/1155516|Permissions Required
+623|CVE-2021-21188|https://crbug.com/1161739|Permissions Required
+624|CVE-2021-21189|https://crbug.com/1165392|Permissions Required
+625|CVE-2021-21190|https://crbug.com/1166091|Permissions Required
+626|CVE-2021-21191|https://crbug.com/1167357|Third Party Advisory
+627|CVE-2021-21192|https://crbug.com/1181387|Third Party Advisory
+628|CVE-2021-21193|https://crbug.com/1186287|Third Party Advisory
+629|CVE-2019-8075|https://crbug.com/945997|
+630|CVE-2019-13659|https://crbug.com/868846|Exploit,Vendor Advisory
+631|CVE-2019-13660|https://crbug.com/882363|Exploit,Vendor Advisory
+632|CVE-2019-13661|https://crbug.com/882812|Exploit,Vendor Advisory
+633|CVE-2019-13662|https://crbug.com/967780|Exploit,Vendor Advisory
+634|CVE-2019-13663|https://crbug.com/863661|Exploit,Vendor Advisory
+635|CVE-2019-13664|https://crbug.com/915538|Vendor Advisory,Permissions Required
+636|CVE-2019-13665|https://crbug.com/959640|Exploit,Vendor Advisory
+637|CVE-2019-13666|https://crbug.com/960305|Exploit,Vendor Advisory
+638|CVE-2019-13667|https://crbug.com/973056|Exploit,Vendor Advisory
+639|CVE-2019-13668|https://crbug.com/986393|Exploit,Vendor Advisory
+640|CVE-2019-13669|https://crbug.com/968451|Exploit,Vendor Advisory
+641|CVE-2019-13670|https://crbug.com/980891|Exploit,Vendor Advisory
+642|CVE-2019-13671|https://crbug.com/696454|Vendor Advisory,Permissions Required
+643|CVE-2019-13673|https://crbug.com/997925|Vendor Advisory,Permissions Required
+644|CVE-2019-13674|https://crbug.com/896533|Exploit,Vendor Advisory
+645|CVE-2019-13675|https://crbug.com/929578|Exploit,Vendor Advisory
+646|CVE-2019-13676|https://crbug.com/875178|Exploit,Vendor Advisory
+647|CVE-2019-13677|https://crbug.com/939108|Exploit,Vendor Advisory
+648|CVE-2019-13678|https://crbug.com/946633|Exploit,Vendor Advisory
+649|CVE-2019-13679|https://crbug.com/968914|Exploit,Vendor Advisory
+650|CVE-2019-13680|https://crbug.com/969684|Vendor Advisory,Permissions Required
+651|CVE-2019-13681|https://crbug.com/970378|Exploit,Vendor Advisory
+652|CVE-2019-13682|https://crbug.com/971917|Vendor Advisory,Permissions Required
+653|CVE-2019-13683|https://crbug.com/987502|Exploit,Vendor Advisory
+654|CVE-2019-13684|https://crbug.com/837936|Exploit,Vendor Advisory
+655|CVE-2019-13685|https://crbug.com/1000934|Permissions Required
+656|CVE-2019-13686|https://crbug.com/1000002|Permissions Required
+657|CVE-2019-13687|https://crbug.com/998548|Permissions Required
+658|CVE-2019-13688|https://crbug.com/995964|Permissions Required
+659|CVE-2019-13691|https://crbug.com/966914|Vendor Advisory,Permissions Required
+660|CVE-2019-13692|https://crbug.com/991888|Vendor Advisory,Permissions Required
+661|CVE-2019-13693|https://crbug.com/1005753|Permissions Required
+662|CVE-2019-13694|https://crbug.com/1005251|Permissions Required
+663|CVE-2019-13695|https://crbug.com/1004730|Permissions Required
+664|CVE-2019-13696|https://crbug.com/1000635|Permissions Required
+665|CVE-2019-13697|https://crbug.com/990849|Vendor Advisory,Permissions Required
+666|CVE-2019-13698|https://crbug.com/944971|Exploit,Vendor Advisory,Issue Tracking
+667|CVE-2019-13699|https://crbug.com/1001503|Permissions Required
+668|CVE-2019-13700|https://crbug.com/998431|Permissions Required
+669|CVE-2019-13701|https://crbug.com/998284|Permissions Required
+670|CVE-2019-13702|https://crbug.com/991125|Exploit,Third Party Advisory
+671|CVE-2019-13703|https://crbug.com/992838|Permissions Required
+672|CVE-2019-13704|https://crbug.com/1001283|Permissions Required
+673|CVE-2019-13705|https://crbug.com/989078|Permissions Required
+674|CVE-2019-13706|https://crbug.com/1001159|Permissions Required
+675|CVE-2019-13707|https://crbug.com/859349|Permissions Required
+676|CVE-2019-13708|https://crbug.com/931894|Permissions Required
+677|CVE-2019-13709|https://crbug.com/1005218|Permissions Required
+678|CVE-2019-13710|https://crbug.com/756825|Permissions Required
+679|CVE-2019-13711|https://crbug.com/986063|Exploit,Third Party Advisory
+680|CVE-2019-13713|https://crbug.com/993288|Exploit,Third Party Advisory
+681|CVE-2019-13714|https://crbug.com/982812|Permissions Required
+682|CVE-2019-13715|https://crbug.com/760855|Permissions Required
+683|CVE-2019-13716|https://crbug.com/1005948|Permissions Required
+684|CVE-2019-13717|https://crbug.com/839239|Permissions Required
+685|CVE-2019-13718|https://crbug.com/866162|Third Party Advisory
+686|CVE-2019-13719|https://crbug.com/927150|Exploit,Third Party Advisory
+687|CVE-2019-13720|https://crbug.com/1019226|Permissions Required
+688|CVE-2019-13721|https://crbug.com/1013868|Permissions Required
+689|CVE-2019-13723|https://crbug.com/1024121|Permissions Required
+690|CVE-2019-13724|https://crbug.com/1024116|Vendor Advisory,Permissions Required
+691|CVE-2019-5842|https://crbug.com/961413|Exploit,Third Party Advisory
+692|CVE-2019-5847|https://crbug.com/972921|Exploit,Vendor Advisory,Issue Tracking
+693|CVE-2019-5848|https://crbug.com/951487|Vendor Advisory,Issue Tracking
+694|CVE-2019-5849|https://crbug.com/954891|Exploit,Vendor Advisory,Issue Tracking
+695|CVE-2019-5850|https://crbug.com/977462|Exploit,Third Party Advisory
+696|CVE-2019-5851|https://crbug.com/977107|Exploit,Third Party Advisory
+697|CVE-2019-5852|https://crbug.com/976713|Exploit,Vendor Advisory,Issue Tracking
+698|CVE-2019-5853|https://crbug.com/976627|Exploit,Vendor Advisory,Issue Tracking
+699|CVE-2019-5854|https://crbug.com/966263|Exploit,Vendor Advisory,Patch,Issue Tracking
+700|CVE-2019-5855|https://crbug.com/964872|Vendor Advisory,Issue Tracking
+701|CVE-2019-5856|https://crbug.com/964245|Vendor Advisory,Issue Tracking
+702|CVE-2019-5857|https://crbug.com/961237|Vendor Advisory,Issue Tracking
+703|CVE-2019-5858|https://crbug.com/960209|Exploit,Vendor Advisory,Issue Tracking
+704|CVE-2019-5859|https://crbug.com/959438|Permissions Required
+705|CVE-2019-5860|https://crbug.com/956947|Exploit,Third Party Advisory
+706|CVE-2019-5861|https://crbug.com/951525|Exploit,Vendor Advisory,Issue Tracking
+707|CVE-2019-5862|https://crbug.com/946260|Exploit,Vendor Advisory,Issue Tracking
+708|CVE-2019-5864|https://crbug.com/936900|Exploit,Vendor Advisory,Issue Tracking
+709|CVE-2019-5865|https://crbug.com/973103|Exploit,Vendor Advisory,Issue Tracking
+710|CVE-2019-5866|https://crbug.com/978382|Exploit,Vendor Advisory,Issue Tracking
+711|CVE-2019-5867|https://crbug.com/984344|Exploit,Vendor Advisory,Patch,Issue Tracking
+712|CVE-2019-5868|https://crbug.com/983867|Exploit,Third Party Advisory
+713|CVE-2019-5869|https://crbug.com/978793|Exploit,Third Party Advisory
+714|CVE-2019-5870|https://crbug.com/999311|Permissions Required,Third Party Advisory
+715|CVE-2019-5871|https://crbug.com/990570|Permissions Required
+716|CVE-2019-5872|https://crbug.com/981492|Third Party Advisory
+717|CVE-2019-5873|https://crbug.com/989497|Exploit,Vendor Advisory,Issue Tracking
+718|CVE-2019-5874|https://crbug.com/989797|Permissions Required
+719|CVE-2019-5875|https://crbug.com/979443|Permissions Required
+720|CVE-2019-5876|https://crbug.com/997190|Permissions Required,Third Party Advisory
+721|CVE-2019-5877|https://crbug.com/999310|Permissions Required
+722|CVE-2019-5878|https://crbug.com/1000217|Permissions Required
+723|CVE-2019-5879|https://crbug.com/986043|Exploit,Vendor Advisory,Issue Tracking
+724|CVE-2019-5880|https://crbug.com/831725|Exploit,Vendor Advisory,Issue Tracking
+725|CVE-2019-5881|https://crbug.com/980816|Exploit,Vendor Advisory,Issue Tracking
+726|CVE-2019-5825|https://crbug.com/941743|Exploit,Patch,Third Party Advisory
+727|CVE-2019-5826|https://crbug.com/941746|Exploit,Patch,Third Party Advisory
+728|CVE-2017-5028|https://crbug.com/653555|Exploit,Vendor Advisory,Issue Tracking
+729|CVE-2018-16064|https://crbug.com/797461|Exploit,Vendor Advisory,Issue Tracking
+730|CVE-2018-16069|https://crbug.com/848238|Exploit,Vendor Advisory,Issue Tracking
+731|CVE-2018-16070|https://crbug.com/848716|Exploit,Vendor Advisory,Issue Tracking
+732|CVE-2018-16073|https://crbug.com/863069|Exploit,Vendor Advisory,Issue Tracking
+733|CVE-2018-16074|https://crbug.com/863623|Exploit,Vendor Advisory,Issue Tracking
+734|CVE-2018-16075|https://crbug.com/788936|Exploit,Vendor Advisory,Issue Tracking
+735|CVE-2018-16077|https://crbug.com/377995|Exploit,Vendor Advisory,Issue Tracking
+736|CVE-2018-16086|https://crbug.com/844428|Exploit,Vendor Advisory
+737|CVE-2018-17460|https://crbug.com/696446|Exploit,Vendor Advisory,Issue Tracking
+738|CVE-2018-17478|https://crbug.com/897512|Exploit,Vendor Advisory,Issue Tracking
+739|CVE-2018-17479|https://crbug.com/905336|Exploit,Vendor Advisory,Permissions Required,Issue Tracking
+740|CVE-2018-20073|https://crbug.com/733943|Exploit,Vendor Advisory,Issue Tracking
+741|CVE-2018-6118|https://crbug.com/831963|Exploit,Vendor Advisory,Patch,Issue Tracking
+742|CVE-2018-6121|https://crbug.com/836858|Exploit,Vendor Advisory,Issue Tracking
+743|CVE-2018-6128|https://crbug.com/841105|Exploit,Vendor Advisory,Issue Tracking
+744|CVE-2018-6129|https://crbug.com/838672|Exploit,Vendor Advisory,Issue Tracking
+745|CVE-2018-6130|https://crbug.com/838402|Exploit,Vendor Advisory,Issue Tracking
+746|CVE-2018-6131|https://crbug.com/826434|Exploit,Vendor Advisory,Issue Tracking
+747|CVE-2018-6132|https://crbug.com/839960|Exploit,Vendor Advisory,Issue Tracking
+748|CVE-2018-6134|https://crbug.com/797465|Exploit,Vendor Advisory,Issue Tracking
+749|CVE-2018-6136|https://crbug.com/831943|Exploit,Vendor Advisory
+750|CVE-2018-6138|https://crbug.com/810220|Exploit,Vendor Advisory
+751|CVE-2018-6142|https://crbug.com/837939|Exploit,Vendor Advisory
+752|CVE-2018-6145|https://crbug.com/805924|Vendor Advisory,Issue Tracking
+753|CVE-2018-6148|https://crbug.com/845961|Vendor Advisory,Issue Tracking
+754|CVE-2018-6149|https://crbug.com/848672|Exploit,Vendor Advisory,Patch,Issue Tracking
+755|CVE-2018-6150|https://crbug.com/812667|Exploit,Vendor Advisory,Issue Tracking
+756|CVE-2018-6154|https://crbug.com/848914|Exploit,Vendor Advisory,Issue Tracking
+757|CVE-2018-6155|https://crbug.com/842265|Exploit,Vendor Advisory,Issue Tracking
+758|CVE-2018-6156|https://crbug.com/841962|Vendor Advisory,Issue Tracking
+759|CVE-2018-6157|https://crbug.com/840536|Exploit,Vendor Advisory,Issue Tracking
+760|CVE-2018-6159|https://crbug.com/837275|Vendor Advisory,Permissions Required
+761|CVE-2018-6161|https://crbug.com/826552|Exploit,Vendor Advisory,Issue Tracking
+762|CVE-2018-6168|https://crbug.com/828265|Patch,Vendor Advisory,Issue Tracking
+763|CVE-2018-6171|https://crbug.com/851799|Vendor Advisory,Permissions Required
+764|CVE-2018-6176|https://crbug.com/666824|Exploit,Vendor Advisory,Issue Tracking
+765|CVE-2018-6177|https://crbug.com/826187|Exploit,Vendor Advisory,Issue Tracking
+766|CVE-2019-5784|https://crbug.com/915975|Exploit,Vendor Advisory,Issue Tracking
+767|CVE-2019-5785|https://crbug.com/899689|Exploit,Vendor Advisory,Issue Tracking
+768|CVE-2019-5786|https://crbug.com/936448|Exploit,Vendor Advisory,Issue Tracking
+769|CVE-2019-5805|https://crbug.com/913320|Exploit,Vendor Advisory,Issue Tracking
+770|CVE-2019-5806|https://crbug.com/943087|Vendor Advisory,Permissions Required
+771|CVE-2019-5807|https://crbug.com/945644|Vendor Advisory,Permissions Required
+772|CVE-2019-5808|https://crbug.com/947029|Vendor Advisory,Permissions Required
+773|CVE-2019-5809|https://crbug.com/941008|Exploit,Vendor Advisory,Issue Tracking
+774|CVE-2019-5810|https://crbug.com/916838|Vendor Advisory,Permissions Required
+775|CVE-2019-5811|https://crbug.com/771815|Vendor Advisory,Permissions Required
+776|CVE-2019-5812|https://crbug.com/925598|Exploit,Vendor Advisory,Issue Tracking
+777|CVE-2019-5813|https://crbug.com/942699|Exploit,Vendor Advisory,Issue Tracking
+778|CVE-2019-5814|https://crbug.com/930057|Exploit,Vendor Advisory,Issue Tracking
+779|CVE-2019-5816|https://crbug.com/940245|Exploit,Vendor Advisory,Patch
+780|CVE-2019-5817|https://crbug.com/943709|Vendor Advisory,Permissions Required
+781|CVE-2019-5818|https://crbug.com/929962|Exploit,Vendor Advisory,Issue Tracking
+782|CVE-2019-5819|https://crbug.com/919356|Exploit,Vendor Advisory,Issue Tracking
+783|CVE-2019-5820|https://crbug.com/919635|Exploit,Vendor Advisory,Issue Tracking
+784|CVE-2019-5821|https://crbug.com/919640|Exploit,Vendor Advisory,Issue Tracking
+785|CVE-2019-5822|https://crbug.com/926105|Exploit,Vendor Advisory,Issue Tracking
+786|CVE-2019-5823|https://crbug.com/930154|Exploit,Vendor Advisory,Issue Tracking
+787|CVE-2019-5824|https://crbug.com/948564|Vendor Advisory,Permissions Required
+788|CVE-2019-5827|https://crbug.com/952406|Vendor Advisory,Permissions Required
+789|CVE-2019-5828|https://crbug.com/956597|Vendor Advisory,Permissions Required
+790|CVE-2019-5829|https://crbug.com/958533|Vendor Advisory,Permissions Required
+791|CVE-2019-5830|https://crbug.com/665766|Vendor Advisory,Permissions Required
+792|CVE-2019-5831|https://crbug.com/950328|Vendor Advisory,Permissions Required
+793|CVE-2019-5832|https://crbug.com/959390|Vendor Advisory,Permissions Required
+794|CVE-2019-5833|https://crbug.com/945067|Vendor Advisory,Permissions Required
+795|CVE-2019-5834|https://crbug.com/962368|Vendor Advisory,Permissions Required
+796|CVE-2019-5835|https://crbug.com/939239|Exploit,Vendor Advisory,Issue Tracking
+797|CVE-2019-5836|https://crbug.com/947342|Vendor Advisory,Permissions Required
+798|CVE-2019-5837|https://crbug.com/918293|Vendor Advisory,Permissions Required
+799|CVE-2019-5838|https://crbug.com/893087|Vendor Advisory,Permissions Required
+800|CVE-2019-5839|https://crbug.com/925614|Vendor Advisory,Permissions Required
+801|CVE-2019-5840|https://crbug.com/951782|Vendor Advisory,Permissions Required
+802|CVE-2017-5052|https://crbug.com/662767|Exploit,Issue Tracking,Third Party Advisory
+803|CVE-2017-5053|https://crbug.com/702058|Issue Tracking,Third Party Advisory
+804|CVE-2017-5054|https://crbug.com/699166|Exploit,Third Party Advisory
+805|CVE-2017-5055|https://crbug.com/698622|Issue Tracking,Third Party Advisory
+806|CVE-2017-5056|https://crbug.com/705445|Permissions Required,Third Party Advisory
+807|CVE-2017-5057|https://crbug.com/695826|Issue Tracking,Third Party Advisory
+808|CVE-2017-5058|https://crbug.com/694382|Issue Tracking,Third Party Advisory
+809|CVE-2017-5059|https://crbug.com/684684|Issue Tracking,Third Party Advisory
+810|CVE-2017-5060|https://crbug.com/683314|Third Party Advisory
+811|CVE-2017-5061|https://crbug.com/672847|Issue Tracking,Third Party Advisory
+812|CVE-2017-5062|https://crbug.com/702896|Permissions Required,Issue Tracking
+813|CVE-2017-5063|https://crbug.com/700836|Issue Tracking,Third Party Advisory
+814|CVE-2017-5064|https://crbug.com/693974|Issue Tracking,Third Party Advisory
+815|CVE-2017-5065|https://crbug.com/704560|Exploit,Issue Tracking,Third Party Advisory
+816|CVE-2017-5066|https://crbug.com/690821|Issue Tracking,Third Party Advisory
+817|CVE-2017-5067|https://crbug.com/648117|Issue Tracking,Third Party Advisory
+818|CVE-2017-5068|https://crbug.com/679306|Issue Tracking,Third Party Advisory
+819|CVE-2017-5069|https://crbug.com/691726|Exploit,Issue Tracking,Third Party Advisory
+820|CVE-2017-5070|https://crbug.com/722756|Issue Tracking,Third Party Advisory
+821|CVE-2017-5071|https://crbug.com/715582|Patch,Issue Tracking,Third Party Advisory
+822|CVE-2017-5072|https://crbug.com/709417|Issue Tracking
+823|CVE-2017-5073|https://crbug.com/716474|Issue Tracking,Third Party Advisory
+824|CVE-2017-5074|https://crbug.com/700040|Permissions Required
+825|CVE-2017-5075|https://crbug.com/678776|Issue Tracking,Third Party Advisory
+826|CVE-2017-5076|https://crbug.com/719199|Patch,Issue Tracking,Third Party Advisory
+827|CVE-2017-5077|https://crbug.com/716311|Issue Tracking,Third Party Advisory
+828|CVE-2017-5078|https://crbug.com/711020|Exploit,Third Party Advisory
+829|CVE-2017-5079|https://crbug.com/713686|Exploit,Third Party Advisory
+830|CVE-2017-5080|https://crbug.com/708819|Issue Tracking,Third Party Advisory
+831|CVE-2017-5081|https://crbug.com/672008|Exploit,Third Party Advisory
+832|CVE-2017-5082|https://crbug.com/721579|Exploit,Third Party Advisory
+833|CVE-2017-5083|https://crbug.com/714849|Issue Tracking,Third Party Advisory
+834|CVE-2017-5084|https://crbug.com/702030|Issue Tracking,Third Party Advisory
+835|CVE-2017-5085|https://crbug.com/692378|Issue Tracking,Third Party Advisory
+836|CVE-2017-5086|https://crbug.com/722639|Patch,Issue Tracking,Third Party Advisory
+837|CVE-2017-5087|https://crbug.com/725032|Patch,Issue Tracking,Third Party Advisory
+838|CVE-2017-5088|https://crbug.com/729991|Exploit,Issue Tracking,Third Party Advisory
+839|CVE-2017-5089|https://crbug.com/714196|Issue Tracking,Third Party Advisory
+840|CVE-2017-5090|https://crbug.com/725660|Issue Tracking,Third Party Advisory
+841|CVE-2017-5091|https://crbug.com/728887|Exploit,Third Party Advisory
+842|CVE-2017-5092|https://crbug.com/733549|Exploit,Third Party Advisory
+843|CVE-2017-5093|https://crbug.com/550017|Exploit,Third Party Advisory
+844|CVE-2017-5094|https://crbug.com/702946|Permissions Required
+845|CVE-2017-5095|https://crbug.com/732661|Exploit,Third Party Advisory
+846|CVE-2017-5096|https://crbug.com/714442|Exploit,Third Party Advisory
+847|CVE-2017-5097|https://crbug.com/740789|Exploit,Third Party Advisory
+848|CVE-2017-5098|https://crbug.com/740803|Exploit,Third Party Advisory
+849|CVE-2017-5099|https://crbug.com/733548|Broken Link,Third Party Advisory
+850|CVE-2017-5100|https://crbug.com/718292|Broken Link,Third Party Advisory
+851|CVE-2017-5101|https://crbug.com/681740|Broken Link,Third Party Advisory
+852|CVE-2017-5102|https://crbug.com/727678|Exploit,Third Party Advisory
+853|CVE-2017-5103|https://crbug.com/726199|Exploit,Third Party Advisory
+854|CVE-2017-5104|https://crbug.com/729105|Exploit,Third Party Advisory
+855|CVE-2017-5105|https://crbug.com/729979|Exploit,Third Party Advisory
+856|CVE-2017-5106|https://crbug.com/714628|Exploit,Third Party Advisory
+857|CVE-2017-5107|https://crbug.com/686253|Exploit,Third Party Advisory
+858|CVE-2017-5108|https://crbug.com/695830|Issue Tracking
+859|CVE-2017-5109|https://crbug.com/710400|Exploit,Third Party Advisory
+860|CVE-2017-5110|https://crbug.com/717476|Exploit,Third Party Advisory
+861|CVE-2017-5111|https://crbug.com/737023|Issue Tracking,Third Party Advisory
+862|CVE-2017-5112|https://crbug.com/740603|Issue Tracking,Third Party Advisory
+863|CVE-2017-5113|https://crbug.com/747043|Issue Tracking,Third Party Advisory
+864|CVE-2017-5114|https://crbug.com/752829|Patch,Issue Tracking,Third Party Advisory
+865|CVE-2017-5115|https://crbug.com/744584|Issue Tracking,Third Party Advisory
+866|CVE-2017-5116|https://crbug.com/759624|Permissions Required
+867|CVE-2017-5117|https://crbug.com/739190|Exploit,Third Party Advisory
+868|CVE-2017-5118|https://crbug.com/747847|Permissions Required
+869|CVE-2017-5119|https://crbug.com/725127|Exploit,Third Party Advisory
+870|CVE-2017-5120|https://crbug.com/718676|Third Party Advisory
+871|CVE-2017-5121|https://crbug.com/765433|Permissions Required
+872|CVE-2017-5122|https://crbug.com/752423|Permissions Required
+873|CVE-2016-1651|https://crbug.com/591785|Permissions Required
+874|CVE-2016-1652|https://crbug.com/590275|Permissions Required
+875|CVE-2016-1653|https://crbug.com/589792|Permissions Required
+876|CVE-2016-1654|https://crbug.com/589512|Permissions Required
+877|CVE-2016-1655|https://crbug.com/582008|Permissions Required
+878|CVE-2016-1656|https://crbug.com/570750|Permissions Required
+879|CVE-2016-1657|https://crbug.com/567445|
+880|CVE-2016-1658|https://crbug.com/573317|
+881|CVE-2016-1659|https://crbug.com/602697|Permissions Required
+882|CVE-2020-6505|https://crbug.com/1081350|Permissions Required,Issue Tracking,Third Party Advisory
+883|CVE-2020-6506|https://crbug.com/1083819|Permissions Required,Issue Tracking,Third Party Advisory
+884|CVE-2020-6507|https://crbug.com/1086890|Exploit,Patch,Issue Tracking,Third Party Advisory
+885|CVE-2020-6509|https://crbug.com/1092308|Permissions Required,Issue Tracking,Third Party Advisory
+886|CVE-2020-6510|https://crbug.com/1103195|Permissions Required,Issue Tracking,Third Party Advisory
+887|CVE-2020-6511|https://crbug.com/1074317|Vendor Advisory,Permissions Required
+888|CVE-2020-6512|https://crbug.com/1084820|Vendor Advisory,Permissions Required
+889|CVE-2020-6513|https://crbug.com/1091404|Vendor Advisory,Issue Tracking
+890|CVE-2020-6514|https://crbug.com/1076703|Exploit,Vendor Advisory,Issue Tracking
+891|CVE-2020-6515|https://crbug.com/1082755|Vendor Advisory,Permissions Required
+892|CVE-2020-6516|https://crbug.com/1092449|Vendor Advisory,Permissions Required
+893|CVE-2020-6517|https://crbug.com/1095560|Vendor Advisory,Permissions Required
+894|CVE-2020-6518|https://crbug.com/986051|Vendor Advisory
+895|CVE-2020-6519|https://crbug.com/1064676|Vendor Advisory,Permissions Required
+896|CVE-2020-6520|https://crbug.com/1092274|Vendor Advisory,Permissions Required
+897|CVE-2020-6521|https://crbug.com/1075734|Vendor Advisory,Permissions Required
+898|CVE-2020-6522|https://crbug.com/1052093|Vendor Advisory,Permissions Required
+899|CVE-2020-6523|https://crbug.com/1080481|Vendor Advisory,Permissions Required
+900|CVE-2020-6524|https://crbug.com/1081722|Vendor Advisory,Permissions Required
+901|CVE-2020-6525|https://crbug.com/1091670|Vendor Advisory,Permissions Required
+902|CVE-2020-6526|https://crbug.com/1074340|Vendor Advisory,Permissions Required
+903|CVE-2020-6527|https://crbug.com/992698|Vendor Advisory,Permissions Required
+904|CVE-2020-6528|https://crbug.com/1063690|Vendor Advisory,Permissions Required
+905|CVE-2020-6529|https://crbug.com/978779|Vendor Advisory,Permissions Required
+906|CVE-2020-6530|https://crbug.com/1016278|Exploit,Vendor Advisory,Patch,Issue Tracking
+907|CVE-2020-6531|https://crbug.com/1042986|Permissions Required,Issue Tracking,Third Party Advisory
+908|CVE-2020-6533|https://crbug.com/1069964|Permissions Required,Issue Tracking,Third Party Advisory
+909|CVE-2020-6534|https://crbug.com/1072412|Permissions Required,Issue Tracking,Third Party Advisory
+910|CVE-2020-6535|https://crbug.com/1073409|Permissions Required,Issue Tracking,Third Party Advisory
+911|CVE-2020-6536|https://crbug.com/1080934|Permissions Required,Issue Tracking,Third Party Advisory
+912|CVE-2020-15959|https://crbug.com/1122684|Vendor Advisory,Permissions Required
+913|CVE-2020-15960|https://crbug.com/1100136|Exploit,Vendor Advisory,Patch,Issue Tracking
+914|CVE-2020-15961|https://crbug.com/1114636|Exploit,Vendor Advisory,Patch,Issue Tracking
+915|CVE-2020-15962|https://crbug.com/1121836|Exploit,Vendor Advisory,Patch
+916|CVE-2020-15963|https://crbug.com/1113558|Exploit,Vendor Advisory,Patch,Issue Tracking
+917|CVE-2020-15964|https://crbug.com/1121414|Exploit,Vendor Advisory,Issue Tracking
+918|CVE-2020-15965|https://crbug.com/1126249|Vendor Advisory,Permissions Required
+919|CVE-2020-15966|https://crbug.com/1113565|Exploit,Vendor Advisory,Patch,Issue Tracking
+920|CVE-2020-6532|https://crbug.com/1104061|Vendor Advisory,Permissions Required
+921|CVE-2020-6537|https://crbug.com/1105318|Vendor Advisory,Permissions Required
+922|CVE-2020-6538|https://crbug.com/1096677|Vendor Advisory,Permissions Required
+923|CVE-2020-6539|https://crbug.com/1105635|Vendor Advisory,Permissions Required
+924|CVE-2020-6540|https://crbug.com/1105720|Vendor Advisory,Permissions Required
+925|CVE-2020-6541|https://crbug.com/1106773|Vendor Advisory,Permissions Required
+926|CVE-2020-6542|https://crbug.com/1107433|Vendor Advisory,Permissions Required
+927|CVE-2020-6543|https://crbug.com/1104046|Vendor Advisory,Permissions Required
+928|CVE-2020-6544|https://crbug.com/1108497|Vendor Advisory,Permissions Required
+929|CVE-2020-6545|https://crbug.com/1095584|Vendor Advisory,Permissions Required
+930|CVE-2020-6546|https://crbug.com/1100280|Vendor Advisory,Permissions Required
+931|CVE-2020-6547|https://crbug.com/1102153|Vendor Advisory,Permissions Required
+932|CVE-2020-6548|https://crbug.com/1103827|Third Party Advisory
+933|CVE-2020-6549|https://crbug.com/1105426|Permissions Required,Third Party Advisory
+934|CVE-2020-6550|https://crbug.com/1106682|Third Party Advisory
+935|CVE-2020-6551|https://crbug.com/1107815|Third Party Advisory
+936|CVE-2020-6552|https://crbug.com/1108518|Third Party Advisory
+937|CVE-2020-6553|https://crbug.com/1111307|Third Party Advisory
+938|CVE-2020-6554|https://crbug.com/1094235|Third Party Advisory
+939|CVE-2020-6555|https://crbug.com/1105202|Third Party Advisory
+940|CVE-2020-6556|https://crbug.com/1115345|Third Party Advisory
+941|CVE-2020-6558|https://crbug.com/1109120|Third Party Advisory
+942|CVE-2020-6559|https://crbug.com/1116706|Third Party Advisory
+943|CVE-2020-6560|https://crbug.com/1108181|Third Party Advisory
+944|CVE-2020-6561|https://crbug.com/932892|Third Party Advisory
+945|CVE-2020-6562|https://crbug.com/1086845|Third Party Advisory
+946|CVE-2020-6563|https://crbug.com/1104628|Third Party Advisory
+947|CVE-2020-6564|https://crbug.com/841622|Third Party Advisory
+948|CVE-2020-6565|https://crbug.com/1029907|Vendor Advisory,Permissions Required
+949|CVE-2020-6566|https://crbug.com/1065264|Vendor Advisory,Permissions Required
+950|CVE-2020-6567|https://crbug.com/937179|Vendor Advisory,Permissions Required
+951|CVE-2020-6568|https://crbug.com/1092451|Vendor Advisory,Permissions Required
+952|CVE-2020-6569|https://crbug.com/995732|Exploit,Vendor Advisory
+953|CVE-2020-6570|https://crbug.com/1084699|Exploit,Vendor Advisory,Patch,Issue Tracking
+954|CVE-2020-6571|https://crbug.com/1085315|Exploit,Vendor Advisory,Patch,Issue Tracking
+955|CVE-2020-6573|https://crbug.com/1116304|Vendor Advisory,Permissions Required
+956|CVE-2020-6574|https://crbug.com/1102196|Vendor Advisory,Permissions Required
+957|CVE-2020-6575|https://crbug.com/1081874|Vendor Advisory,Permissions Required
+958|CVE-2020-6576|https://crbug.com/1111737|Vendor Advisory,Permissions Required
+959|CVE-2020-15967|https://crbug.com/1127322|Vendor Advisory,Permissions Required
+960|CVE-2020-15968|https://crbug.com/1126424|Vendor Advisory,Permissions Required
+961|CVE-2020-15969|https://crbug.com/1124659|Vendor Advisory,Permissions Required
+962|CVE-2020-15970|https://crbug.com/1108299|Vendor Advisory,Permissions Required
+963|CVE-2020-15971|https://crbug.com/1114062|Vendor Advisory,Permissions Required
+964|CVE-2020-15972|https://crbug.com/1115901|Vendor Advisory,Permissions Required
+965|CVE-2020-15973|https://crbug.com/1106890|Vendor Advisory,Permissions Required
+966|CVE-2020-15974|https://crbug.com/1104103|Vendor Advisory,Permissions Required
+967|CVE-2020-15975|https://crbug.com/1110800|Vendor Advisory,Permissions Required
+968|CVE-2020-15976|https://crbug.com/1123522|Vendor Advisory,Permissions Required
+969|CVE-2020-15977|https://crbug.com/1097724|Permissions Required
+970|CVE-2020-15978|https://crbug.com/1116280|Exploit,Vendor Advisory,Issue Tracking
+971|CVE-2020-15979|https://crbug.com/1127319|Exploit,Vendor Advisory,Patch,Issue Tracking
+972|CVE-2020-15980|https://crbug.com/1092453|Vendor Advisory,Permissions Required
+973|CVE-2020-15981|https://crbug.com/1123023|Vendor Advisory,Permissions Required
+974|CVE-2020-15982|https://crbug.com/1039882|Vendor Advisory,Permissions Required
+975|CVE-2020-15983|https://crbug.com/1076786|Vendor Advisory,Permissions Required
+976|CVE-2020-15984|https://crbug.com/1080395|Vendor Advisory,Permissions Required
+977|CVE-2020-15985|https://crbug.com/1099276|Exploit,Vendor Advisory,Patch,Issue Tracking
+978|CVE-2020-15986|https://crbug.com/1100247|Vendor Advisory
+979|CVE-2020-15987|https://crbug.com/1127774|Permissions Required
+980|CVE-2020-15988|https://crbug.com/1092518|Vendor Advisory,Permissions Required
+981|CVE-2020-15989|https://crbug.com/1108351|Patch,Vendor Advisory,Issue Tracking
+982|CVE-2020-15990|https://crbug.com/1133671|Vendor Advisory,Permissions Required
+983|CVE-2020-15991|https://crbug.com/1133688|Vendor Advisory,Permissions Required
+984|CVE-2020-15992|https://crbug.com/1110195|Exploit,Vendor Advisory,Patch
+985|CVE-2017-5029|https://crbug.com/676623|Patch,Issue Tracking
+986|CVE-2017-5030|https://crbug.com/682194|Patch,Issue Tracking
+987|CVE-2017-5031|https://crbug.com/682020|Patch,Issue Tracking
+988|CVE-2017-5032|https://crbug.com/668724|Patch,Issue Tracking
+989|CVE-2017-5033|https://crbug.com/669086|Patch,Issue Tracking
+990|CVE-2017-5034|https://crbug.com/678461|Patch,Issue Tracking
+991|CVE-2017-5035|https://crbug.com/688425|Patch,Issue Tracking
+992|CVE-2017-5036|https://crbug.com/691371|Patch,Issue Tracking
+993|CVE-2017-5037|https://crbug.com/679640|Patch,Issue Tracking
+994|CVE-2017-5038|https://crbug.com/695476|Patch,Issue Tracking
+995|CVE-2017-5039|https://crbug.com/679649|Patch,Issue Tracking
+996|CVE-2017-5040|https://crbug.com/691323|Patch,Issue Tracking
+997|CVE-2017-5041|https://crbug.com/642490|Patch,Issue Tracking
+998|CVE-2017-5042|https://crbug.com/671932|Patch,Issue Tracking
+999|CVE-2017-5043|https://crbug.com/683523|Patch,Issue Tracking
+1000|CVE-2017-5044|https://crbug.com/688987|Patch,Issue Tracking
+1001|CVE-2017-5045|https://crbug.com/667079|Patch,Issue Tracking
+1002|CVE-2017-5046|https://crbug.com/680409|Patch,Issue Tracking
+1003|CVE-2017-5047|https://crbug.com/679653|Patch,Issue Tracking
+1004|CVE-2017-5048|https://crbug.com/679647|Patch,Issue Tracking
+1005|CVE-2017-5049|https://crbug.com/679646|Patch,Issue Tracking
+1006|CVE-2017-5050|https://crbug.com/679645|Patch,Issue Tracking
+1007|CVE-2017-5051|https://crbug.com/679641|Patch,Issue Tracking
+1008|CVE-2020-6457|https://crbug.com/1067851|Vendor Advisory,Permissions Required
+1009|CVE-2020-6458|https://crbug.com/1067270|Vendor Advisory,Permissions Required
+1010|CVE-2020-6459|https://crbug.com/1065298|Vendor Advisory,Permissions Required
+1011|CVE-2020-6460|https://crbug.com/1063566|Vendor Advisory,Permissions Required
+1012|CVE-2020-6461|https://crbug.com/1072983|Vendor Advisory,Permissions Required
+1013|CVE-2020-6462|https://crbug.com/1064891|Vendor Advisory,Permissions Required
+1014|CVE-2020-6463|https://crbug.com/1065186|Vendor Advisory,Permissions Required
+1015|CVE-2020-6464|https://crbug.com/1071059|Vendor Advisory,Permissions Required
+1016|CVE-2020-6465|https://crbug.com/1073015|Vendor Advisory,Permissions Required
+1017|CVE-2020-6466|https://crbug.com/1074706|Vendor Advisory,Permissions Required
+1018|CVE-2020-6467|https://crbug.com/1068084|Vendor Advisory,Permissions Required
+1019|CVE-2020-6468|https://crbug.com/1076708|Vendor Advisory,Permissions Required
+1020|CVE-2020-6469|https://crbug.com/1067382|Vendor Advisory,Permissions Required
+1021|CVE-2020-6470|https://crbug.com/1065761|Patch,Vendor Advisory,Issue Tracking
+1022|CVE-2020-6471|https://crbug.com/1059577|Exploit,Vendor Advisory,Patch,Issue Tracking
+1023|CVE-2020-6472|https://crbug.com/1064519|Exploit,Vendor Advisory,Patch,Issue Tracking
+1024|CVE-2020-6473|https://crbug.com/1049510|Exploit,Vendor Advisory,Patch,Issue Tracking
+1025|CVE-2020-6474|https://crbug.com/1059533|Exploit,Vendor Advisory,Patch,Issue Tracking
+1026|CVE-2020-6475|https://crbug.com/1020026|Exploit,Vendor Advisory,Issue Tracking
+1027|CVE-2020-6476|https://crbug.com/1035315|Exploit,Vendor Advisory,Issue Tracking
+1028|CVE-2020-6477|https://crbug.com/946156|Vendor Advisory,Permissions Required
+1029|CVE-2020-6478|https://crbug.com/1037730|Vendor Advisory,Permissions Required
+1030|CVE-2020-6479|https://crbug.com/1041749|Vendor Advisory,Permissions Required
+1031|CVE-2020-6480|https://crbug.com/1054966|Exploit,Vendor Advisory,Issue Tracking
+1032|CVE-2020-6481|https://crbug.com/1068531|Vendor Advisory,Issue Tracking
+1033|CVE-2020-6482|https://crbug.com/795595|Exploit,Vendor Advisory,Issue Tracking
+1034|CVE-2020-6483|https://crbug.com/966507|Exploit,Vendor Advisory
+1035|CVE-2020-6484|https://crbug.com/1045787|Vendor Advisory,Permissions Required
+1036|CVE-2020-6485|https://crbug.com/1047285|Exploit,Vendor Advisory
+1037|CVE-2020-6486|https://crbug.com/1055524|Vendor Advisory,Permissions Required
+1038|CVE-2020-6487|https://crbug.com/539938|Vendor Advisory,Permissions Required
+1039|CVE-2020-6488|https://crbug.com/1044277|Exploit,Vendor Advisory
+1040|CVE-2020-6489|https://crbug.com/1050756|Exploit,Vendor Advisory
+1041|CVE-2020-6490|https://crbug.com/1035887|Vendor Advisory,Permissions Required
+1042|CVE-2020-6491|https://crbug.com/1050011|Permissions Required
+1043|CVE-2011-1805|https://crbug.com/82633|Exploit,Vendor Advisory,Patch,Issue Tracking
+1044|CVE-2011-2863|https://crbug.com/93759|Permissions Required
+1045|CVE-2020-6419|https://crbug.com/1040325|Exploit,Vendor Advisory,Patch,Issue Tracking
+1046|CVE-2020-6453|https://crbug.com/1065094|Permissions Required
+1047|CVE-2020-6493|https://crbug.com/1082105|Permissions Required
+1048|CVE-2020-6494|https://crbug.com/1083972|Permissions Required
+1049|CVE-2020-6495|https://crbug.com/1072116|Permissions Required
+1050|CVE-2020-6496|https://crbug.com/1085990|Permissions Required
+1051|CVE-2020-6497|https://crbug.com/1069246|Permissions Required
+1052|CVE-2020-6498|https://crbug.com/1081081|Permissions Required
+1053|CVE-2020-6499|https://crbug.com/999001|Permissions Required
+1054|CVE-2020-6500|https://crbug.com/843095|Permissions Required
+1055|CVE-2020-6501|https://crbug.com/990581|Permissions Required
+1056|CVE-2020-6502|https://crbug.com/785159|Permissions Required
+1057|CVE-2020-6503|https://crbug.com/639322|Exploit,Vendor Advisory,Patch,Issue Tracking
+1058|CVE-2020-6504|https://crbug.com/875503|Exploit,Vendor Advisory,Issue Tracking
+1059|CVE-2021-21194|https://crbug.com/1181228|Vendor Advisory,Permissions Required
+1060|CVE-2021-21195|https://crbug.com/1182647|Vendor Advisory,Permissions Required
+1061|CVE-2021-21196|https://crbug.com/1175992|Vendor Advisory,Permissions Required
+1062|CVE-2021-21197|https://crbug.com/1173903|Vendor Advisory,Permissions Required
+1063|CVE-2021-21198|https://crbug.com/1184399|Vendor Advisory,Permissions Required
+1064|CVE-2021-21199|https://crbug.com/1179635|Vendor Advisory,Permissions Required
+1065|CVE-2021-21201|https://crbug.com/1025683|Vendor Advisory,Permissions Required
+1066|CVE-2021-21202|https://crbug.com/1188889|Vendor Advisory,Permissions Required
+1067|CVE-2021-21203|https://crbug.com/1192054|Vendor Advisory,Permissions Required
+1068|CVE-2021-21204|https://crbug.com/1189926|Vendor Advisory,Permissions Required
+1069|CVE-2021-21205|https://crbug.com/1165654|Third Party Advisory
+1070|CVE-2021-21206|https://crbug.com/1196781|Third Party Advisory
+1071|CVE-2021-21207|https://crbug.com/1185732|Third Party Advisory
+1072|CVE-2021-21208|https://crbug.com/1039539|Third Party Advisory
+1073|CVE-2021-21209|https://crbug.com/1143526|Third Party Advisory
+1074|CVE-2021-21210|https://crbug.com/1184562|Third Party Advisory
+1075|CVE-2021-21211|https://crbug.com/1103119|Third Party Advisory
+1076|CVE-2021-21212|https://crbug.com/1145024|Third Party Advisory
+1077|CVE-2021-21213|https://crbug.com/1161806|Third Party Advisory
+1078|CVE-2021-21214|https://crbug.com/1170148|Third Party Advisory
+1079|CVE-2021-21215|https://crbug.com/1172533|Permissions Required,Vendor Advisory,Issue Tracking
+1080|CVE-2021-21216|https://crbug.com/1173297|Vendor Advisory,Permissions Required
+1081|CVE-2021-21217|https://crbug.com/1166462|Vendor Advisory,Permissions Required
+1082|CVE-2021-21218|https://crbug.com/1166478|Third Party Advisory
+1083|CVE-2021-21219|https://crbug.com/1166972|Third Party Advisory
+1084|CVE-2021-21220|https://crbug.com/1196683|Third Party Advisory
+1085|CVE-2021-21221|https://crbug.com/1195333|Third Party Advisory
+1086|CVE-2021-21222|https://crbug.com/1194046|Third Party Advisory
+1087|CVE-2021-21223|https://crbug.com/1195308|Third Party Advisory
+1088|CVE-2021-21224|https://crbug.com/1195777|Third Party Advisory
+1089|CVE-2021-21225|https://crbug.com/1195977|Third Party Advisory
+1090|CVE-2021-21226|https://crbug.com/1197904|Third Party Advisory
+1091|CVE-2021-21227|https://crbug.com/1199345|Vendor Advisory,Permissions Required
+1092|CVE-2021-21228|https://crbug.com/1139156|Vendor Advisory,Broken Link
+1093|CVE-2021-21229|https://crbug.com/1198165|Vendor Advisory,Broken Link
+1094|CVE-2021-21230|https://crbug.com/1198705|Vendor Advisory,Broken Link
+1095|CVE-2021-21231|https://crbug.com/1198696|Vendor Advisory,Broken Link
+1096|CVE-2021-21232|https://crbug.com/1175058|Vendor Advisory,Broken Link
+1097|CVE-2021-21233|https://crbug.com/1182937|Vendor Advisory,Permissions Required
+1098|CVE-2021-30506|https://crbug.com/1180126|
+1099|CVE-2021-30507|https://crbug.com/1178202|
+1100|CVE-2021-30508|https://crbug.com/1195340|
+1101|CVE-2021-30509|https://crbug.com/1196309|
+1102|CVE-2021-30510|https://crbug.com/1197436|
+1103|CVE-2021-30511|https://crbug.com/1197875|
+1104|CVE-2021-30512|https://crbug.com/1200019|
+1105|CVE-2021-30513|https://crbug.com/1200490|
+1106|CVE-2021-30514|https://crbug.com/1200766|
+1107|CVE-2021-30515|https://crbug.com/1201073|
+1108|CVE-2021-30516|https://crbug.com/1201446|
+1109|CVE-2021-30517|https://crbug.com/1203122|
+1110|CVE-2021-30518|https://crbug.com/1203590|
+1111|CVE-2021-30519|https://crbug.com/1194058|
+1112|CVE-2021-30520|https://crbug.com/1193362|
+1113|CVE-2019-13765|https://crbug.com/1007194|Vendor Advisory,Permissions Required
+1114|CVE-2019-13766|https://crbug.com/989969|Vendor Advisory,Permissions Required
+1115|CVE-2019-5844|https://crbug.com/915206|Exploit,Vendor Advisory,Patch
+1116|CVE-2019-5845|https://crbug.com/915197|Exploit,Vendor Advisory,Patch
+1117|CVE-2019-5846|https://crbug.com/915218|Exploit,Vendor Advisory,Patch,Issue Tracking
+1118|CVE-2019-13767|https://crbug.com/1031653|Permissions Required
+1119|CVE-2020-6377|https://crbug.com/1029462|Permissions Required
+1120|CVE-2019-13722|https://crbug.com/1025089|Permissions Required
+1121|CVE-2011-1797|http://crbug.com/79075|
+1122|CVE-2016-5196|https://crbug.com/659492|
+1123|CVE-2016-5197|https://crbug.com/659477|
+1124|CVE-2016-5198|https://crbug.com/659475|
+1125|CVE-2016-5199|https://crbug.com/643948|
+1126|CVE-2016-5200|https://crbug.com/658114|
+1127|CVE-2016-5201|https://crbug.com/660678|
+1128|CVE-2016-5203|https://crbug.com/644219|Permissions Required
+1129|CVE-2016-5204|https://crbug.com/630870|Patch,Issue Tracking
+1130|CVE-2016-5205|https://crbug.com/646610|Permissions Required
+1131|CVE-2016-5206|https://crbug.com/653749|
+1132|CVE-2016-5207|https://crbug.com/655904|Permissions Required
+1133|CVE-2016-5208|https://crbug.com/658535|
+1134|CVE-2016-5209|https://crbug.com/664139|Permissions Required
+1135|CVE-2016-5210|https://crbug.com/654183|
+1136|CVE-2016-5211|https://crbug.com/649229|Permissions Required
+1137|CVE-2016-5212|https://crbug.com/653134|Permissions Required
+1138|CVE-2016-5213|https://crbug.com/652548|Permissions Required
+1139|CVE-2016-5214|https://crbug.com/601538|Patch,Issue Tracking
+1140|CVE-2016-5215|https://crbug.com/619463|Permissions Required
+1141|CVE-2016-5216|https://crbug.com/653090|Patch,Issue Tracking
+1142|CVE-2016-5217|https://crbug.com/654280|
+1143|CVE-2016-5218|https://crbug.com/660498|
+1144|CVE-2016-5219|https://crbug.com/657568|
+1145|CVE-2016-5220|https://crbug.com/654279|
+1146|CVE-2016-5221|https://crbug.com/660854|Permissions Required
+1147|CVE-2016-5222|https://crbug.com/657720|
+1148|CVE-2016-5223|https://crbug.com/652038|Patch,Issue Tracking
+1149|CVE-2016-5224|https://crbug.com/615851|Permissions Required
+1150|CVE-2016-5225|https://crbug.com/630332|
+1151|CVE-2016-5226|https://crbug.com/639750|Patch,Issue Tracking
+1152|CVE-2016-9650|https://crbug.com/653034|
+1153|CVE-2017-5006|https://crbug.com/673170|Permissions Required
+1154|CVE-2017-5007|https://crbug.com/671102|Permissions Required
+1155|CVE-2017-5008|https://crbug.com/668552|Permissions Required
+1156|CVE-2017-5009|https://crbug.com/667504|Permissions Required
+1157|CVE-2017-5010|https://crbug.com/663476|Permissions Required
+1158|CVE-2017-5011|https://crbug.com/662859|Permissions Required
+1159|CVE-2017-5012|https://crbug.com/681843|Permissions Required
+1160|CVE-2017-5013|https://crbug.com/677716|Permissions Required
+1161|CVE-2017-5014|https://crbug.com/675332|Permissions Required
+1162|CVE-2017-5015|https://crbug.com/673971|Permissions Required
+1163|CVE-2017-5016|https://crbug.com/673163|Permissions Required
+1164|CVE-2017-5017|https://crbug.com/676975|
+1165|CVE-2017-5018|https://crbug.com/668665|
+1166|CVE-2017-5019|https://crbug.com/666714|Permissions Required
+1167|CVE-2017-5020|https://crbug.com/668653|Permissions Required
+1168|CVE-2017-5021|https://crbug.com/663726|
+1169|CVE-2017-5022|https://crbug.com/663620|Permissions Required
+1170|CVE-2017-5023|https://crbug.com/651443|Patch,Issue Tracking
+1171|CVE-2017-5024|https://crbug.com/643951|
+1172|CVE-2017-5025|https://crbug.com/643950|Permissions Required
+1173|CVE-2017-5026|https://crbug.com/634108|Permissions Required
+1174|CVE-2017-5027|https://crbug.com/661126|Permissions Required
+1175|CVE-2020-15993|https://crbug.com/1133983|Vendor Advisory,Permissions Required
+1176|CVE-2020-15994|https://crbug.com/1117258|Vendor Advisory,Permissions Required
+1177|CVE-2020-15995|https://crbug.com/1132111|Permissions Required
+1178|CVE-2020-15996|https://crbug.com/1133635|Vendor Advisory,Permissions Required
+1179|CVE-2020-15997|https://crbug.com/1133668|Vendor Advisory,Permissions Required
+1180|CVE-2020-15998|https://crbug.com/1135857|Vendor Advisory,Permissions Required
+1181|CVE-2020-15999|https://crbug.com/1139963|Exploit,Third Party Advisory
+1182|CVE-2020-16000|https://crbug.com/1125337|Permissions Required,Third Party Advisory
+1183|CVE-2020-16001|https://crbug.com/1135018|Exploit,Vendor Advisory,Patch,Issue Tracking
+1184|CVE-2020-16002|https://crbug.com/1137630|Exploit,Vendor Advisory,Patch,Issue Tracking
+1185|CVE-2020-16003|https://crbug.com/1134960|Exploit,Vendor Advisory,Patch,Issue Tracking
+1186|CVE-2020-16004|https://crbug.com/1138911|Third Party Advisory
+1187|CVE-2020-16005|https://crbug.com/1139398|Third Party Advisory
+1188|CVE-2020-16006|https://crbug.com/1133527|Third Party Advisory
+1189|CVE-2020-16007|https://crbug.com/1125018|Third Party Advisory
+1190|CVE-2020-16008|https://crbug.com/1134107|Third Party Advisory
+1191|CVE-2020-16009|https://crbug.com/1143772|Permissions Required
+1192|CVE-2020-16010|https://crbug.com/1144368|Vendor Advisory,Permissions Required
+1193|CVE-2020-16011|https://crbug.com/1144489|Permissions Required,Third Party Advisory
+1194|CVE-2020-6557|https://crbug.com/1083278|Vendor Advisory,Permissions Required
+1195|CVE-2016-9651|https://crbug.com/664411|Exploit,Vendor Advisory,Patch,Issue Tracking
+1196|CVE-2017-15401|https://crbug.com/766260|Exploit,Vendor Advisory,Patch,Issue Tracking
+1197|CVE-2017-15402|https://crbug.com/766262|Exploit,Vendor Advisory,Patch,Issue Tracking
+1198|CVE-2017-15403|https://crbug.com/766271|Exploit,Vendor Advisory,Patch,Issue Tracking
+1199|CVE-2017-15404|https://crbug.com/766275|Exploit,Third Party Advisory
+1200|CVE-2017-15405|https://crbug.com/766276|Third Party Advisory
+1201|CVE-2017-15428|https://crbug.com/782145|Exploit,Vendor Advisory,Patch,Issue Tracking
+1202|CVE-2018-16065|https://crbug.com/867776|Exploit,Vendor Advisory,Patch,Issue Tracking
+1203|CVE-2018-16066|https://crbug.com/847570|Exploit,Vendor Advisory,Patch,Issue Tracking
+1204|CVE-2018-16067|https://crbug.com/860522|Exploit,Vendor Advisory,Patch,Issue Tracking
+1205|CVE-2018-16068|https://crbug.com/877182|Exploit,Vendor Advisory,Patch,Issue Tracking
+1206|CVE-2018-16071|https://crbug.com/855211|Exploit,Vendor Advisory,Patch,Issue Tracking
+1207|CVE-2018-16072|https://crbug.com/864283|Exploit,Vendor Advisory,Patch,Issue Tracking
+1208|CVE-2018-16076|https://crbug.com/867501|Exploit,Vendor Advisory,Patch,Issue Tracking
+1209|CVE-2018-16078|https://crbug.com/858820|Exploit,Vendor Advisory,Patch,Issue Tracking
+1210|CVE-2018-16079|https://crbug.com/723503|Exploit,Vendor Advisory,Patch,Issue Tracking
+1211|CVE-2018-16080|https://crbug.com/858929|Exploit,Vendor Advisory,Patch,Issue Tracking
+1212|CVE-2018-16081|https://crbug.com/666299|Exploit,Vendor Advisory,Patch,Issue Tracking
+1213|CVE-2018-16082|https://crbug.com/851398|Exploit,Vendor Advisory,Patch,Issue Tracking
+1214|CVE-2018-16083|https://crbug.com/856823|Exploit,Vendor Advisory,Patch,Issue Tracking
+1215|CVE-2018-16084|https://crbug.com/865202|Vendor Advisory,Mitigation,Issue Tracking
+1216|CVE-2018-16085|https://crbug.com/856578|Exploit,Vendor Advisory,Patch,Issue Tracking
+1217|CVE-2018-16087|https://crbug.com/848535|Exploit,Vendor Advisory,Patch,Issue Tracking
+1218|CVE-2018-16088|https://crbug.com/848531|Exploit,Vendor Advisory,Patch,Issue Tracking
+1219|CVE-2018-17457|https://crbug.com/848306|Exploit,Vendor Advisory,Patch,Issue Tracking
+1220|CVE-2018-17458|https://crbug.com/875322|Exploit,Vendor Advisory,Patch,Issue Tracking
+1221|CVE-2018-17459|https://crbug.com/880759|Exploit,Vendor Advisory,Patch,Issue Tracking
+1222|CVE-2018-17461|https://crbug.com/874359|Exploit,Vendor Advisory,Issue Tracking
+1223|CVE-2018-17470|https://crbug.com/877874|Exploit,Vendor Advisory,Patch,Issue Tracking
+1224|CVE-2018-20065|https://crbug.com/851821|Permissions Required,Vendor Advisory,Issue Tracking
+1225|CVE-2018-20066|https://crbug.com/856135|Permissions Required,Vendor Advisory,Issue Tracking
+1226|CVE-2018-20067|https://crbug.com/879965|Exploit,Vendor Advisory,Patch,Issue Tracking
+1227|CVE-2018-20068|https://crbug.com/882270|Exploit,Vendor Advisory,Patch,Issue Tracking
+1228|CVE-2018-20069|https://crbug.com/890558|Permissions Required,Vendor Advisory,Issue Tracking
+1229|CVE-2018-20070|https://crbug.com/895885|Permissions Required,Vendor Advisory,Issue Tracking
+1230|CVE-2018-20071|https://crbug.com/853937|Patch,Vendor Advisory,Issue Tracking
+1231|CVE-2018-6056|https://crbug.com/806388|Exploit,Vendor Advisory,Patch,Issue Tracking
+1232|CVE-2018-6084|https://crbug.com/822424|Exploit,Vendor Advisory,Mitigation,Issue Tracking
+1233|CVE-2018-6091|https://crbug.com/771933|Exploit,Vendor Advisory,Patch,Issue Tracking
+1234|CVE-2018-6093|https://crbug.com/780435|Exploit,Vendor Advisory,Patch,Issue Tracking
+1235|CVE-2018-6096|https://crbug.com/776418|Exploit,Vendor Advisory,Patch,Issue Tracking
+1236|CVE-2018-6097|https://crbug.com/806162|Exploit,Vendor Advisory,Patch,Issue Tracking
+1237|CVE-2018-6100|https://crbug.com/811117|Exploit,Vendor Advisory,Patch,Issue Tracking
+1238|CVE-2018-6106|https://crbug.com/805729|Exploit,Vendor Advisory,Patch,Issue Tracking
+1239|CVE-2018-6109|https://crbug.com/710190|Permissions Required,Vendor Advisory,Issue Tracking
+1240|CVE-2018-6110|https://crbug.com/777737|Exploit,Vendor Advisory,Patch,Issue Tracking
+1241|CVE-2018-6111|https://crbug.com/780694|Exploit,Vendor Advisory,Patch,Issue Tracking
+1242|CVE-2018-6112|https://crbug.com/798096|Exploit,Vendor Advisory,Patch,Issue Tracking
+1243|CVE-2018-6113|https://crbug.com/805900|Exploit,Vendor Advisory,Patch,Issue Tracking
+1244|CVE-2018-6114|https://crbug.com/811691|Exploit,Vendor Advisory,Patch,Issue Tracking
+1245|CVE-2018-6117|https://crbug.com/822465|Exploit,Vendor Advisory,Patch,Issue Tracking
+1246|CVE-2018-6120|https://crbug.com/833721|Exploit,Vendor Advisory,Patch,Issue Tracking
+1247|CVE-2018-6123|https://crbug.com/835639|Exploit,Vendor Advisory,Patch,Issue Tracking
+1248|CVE-2018-6124|https://crbug.com/840320|Exploit,Vendor Advisory,Patch,Issue Tracking
+1249|CVE-2018-6126|https://crbug.com/844457|Exploit,Vendor Advisory,Patch,Issue Tracking
+1250|CVE-2018-6127|https://crbug.com/842990|Exploit,Vendor Advisory,Patch,Issue Tracking
+1251|CVE-2018-6133|https://crbug.com/817247|Exploit,Vendor Advisory,Patch,Issue Tracking
+1252|CVE-2018-6135|https://crbug.com/823353|Exploit,Vendor Advisory,Patch,Issue Tracking
+1253|CVE-2018-6137|https://crbug.com/835589|Exploit,Vendor Advisory,Patch,Issue Tracking
+1254|CVE-2018-6139|https://crbug.com/805224|Exploit,Vendor Advisory,Patch,Issue Tracking
+1255|CVE-2018-6140|https://crbug.com/798222|Exploit,Vendor Advisory,Patch,Issue Tracking
+1256|CVE-2018-6141|https://crbug.com/796107|Exploit,Vendor Advisory,Patch,Issue Tracking
+1257|CVE-2018-6143|https://crbug.com/843022|Exploit,Vendor Advisory,Patch,Issue Tracking
+1258|CVE-2018-6144|https://crbug.com/828049|Exploit,Vendor Advisory,Patch,Issue Tracking
+1259|CVE-2018-6147|https://crbug.com/818133|Exploit,Vendor Advisory,Patch,Issue Tracking
+1260|CVE-2018-6151|https://crbug.com/805905|Exploit,Vendor Advisory,Patch,Issue Tracking
+1261|CVE-2018-6153|https://crbug.com/850350|Exploit,Vendor Advisory,Issue Tracking
+1262|CVE-2018-6158|https://crbug.com/841280|Exploit,Vendor Advisory,Issue Tracking
+1263|CVE-2018-6160|https://crbug.com/839822|Exploit,Vendor Advisory,Issue Tracking
+1264|CVE-2018-6162|https://crbug.com/804123|Exploit,Vendor Advisory,Issue Tracking
+1265|CVE-2018-6163|https://crbug.com/849398|Exploit,Vendor Advisory,Issue Tracking
+1266|CVE-2018-6164|https://crbug.com/848786|Exploit,Vendor Advisory,Issue Tracking
+1267|CVE-2018-6165|https://crbug.com/847718|Exploit,Vendor Advisory,Issue Tracking
+1268|CVE-2018-6166|https://crbug.com/835554|Exploit,Vendor Advisory,Issue Tracking
+1269|CVE-2018-6167|https://crbug.com/833143|Exploit,Vendor Advisory,Issue Tracking
+1270|CVE-2018-6169|https://crbug.com/394518|Permissions Required,Vendor Advisory,Issue Tracking
+1271|CVE-2018-6170|https://crbug.com/862059|Exploit,Vendor Advisory,Patch,Issue Tracking
+1272|CVE-2018-6172|https://crbug.com/847242|Exploit,Vendor Advisory,Issue Tracking
+1273|CVE-2018-6173|https://crbug.com/836885|Exploit,Vendor Advisory,Issue Tracking
+1274|CVE-2018-6174|https://crbug.com/835299|Exploit,Vendor Advisory,Issue Tracking
+1275|CVE-2018-6175|https://crbug.com/826019|Exploit,Vendor Advisory,Issue Tracking
+1276|CVE-2018-6178|https://crbug.com/823194|Exploit,Vendor Advisory,Patch,Issue Tracking
+1277|CVE-2018-6179|https://crbug.com/816685|Exploit,Vendor Advisory,Patch,Issue Tracking
+1278|CVE-2020-6378|https://crbug.com/1018677|Permissions Required
+1279|CVE-2020-6379|https://crbug.com/1033407|Permissions Required
+1280|CVE-2020-6380|https://crbug.com/1032170|Permissions Required
+1281|CVE-2020-6381|https://crbug.com/1034394|Permissions Required
+1282|CVE-2020-6382|https://crbug.com/1031909|Permissions Required
+1283|CVE-2020-6385|https://crbug.com/1035399|Permissions Required
+1284|CVE-2020-6387|https://crbug.com/1042535|Permissions Required
+1285|CVE-2020-6388|https://crbug.com/1042879|Permissions Required
+1286|CVE-2020-6389|https://crbug.com/1042933|Permissions Required
+1287|CVE-2020-6390|https://crbug.com/1045874|Permissions Required
+1288|CVE-2020-6391|https://crbug.com/1017871|Permissions Required
+1289|CVE-2020-6392|https://crbug.com/1030411|Permissions Required
+1290|CVE-2020-6393|https://crbug.com/1035058|Permissions Required
+1291|CVE-2020-6394|https://crbug.com/1014371|Permissions Required
+1292|CVE-2020-6395|https://crbug.com/1022855|Permissions Required
+1293|CVE-2020-6396|https://crbug.com/1035271|Permissions Required
+1294|CVE-2020-6397|https://crbug.com/1027408|Permissions Required
+1295|CVE-2020-6398|https://crbug.com/1032090|Permissions Required
+1296|CVE-2020-6399|https://crbug.com/1039869|Permissions Required
+1297|CVE-2020-6400|https://crbug.com/1038036|Permissions Required
+1298|CVE-2020-6401|https://crbug.com/1017707|Permissions Required
+1299|CVE-2020-6402|https://crbug.com/1029375|Permissions Required
+1300|CVE-2020-6403|https://crbug.com/1006012|Permissions Required
+1301|CVE-2020-6404|https://crbug.com/1024256|Permissions Required
+1302|CVE-2020-6405|https://crbug.com/1042145|Permissions Required
+1303|CVE-2020-6406|https://crbug.com/1042254|Patch
+1304|CVE-2020-6408|https://crbug.com/1026546|Permissions Required
+1305|CVE-2020-6409|https://crbug.com/1037889|Permissions Required
+1306|CVE-2020-6410|https://crbug.com/881675|Permissions Required
+1307|CVE-2020-6411|https://crbug.com/929711|Permissions Required
+1308|CVE-2020-6412|https://crbug.com/968505|Permissions Required
+1309|CVE-2020-6413|https://crbug.com/1005713|Permissions Required
+1310|CVE-2020-6414|https://crbug.com/1021855|Permissions Required
+1311|CVE-2020-6415|https://crbug.com/1029576|Permissions Required
+1312|CVE-2020-6416|https://crbug.com/1031895|Permissions Required
+1313|CVE-2020-6417|https://crbug.com/1033824|Permissions Required
+1314|CVE-2020-6383|https://crbug.com/1051017|Vendor Advisory,Permissions Required
+1315|CVE-2020-6384|https://crbug.com/1048473|Vendor Advisory,Permissions Required
+1316|CVE-2020-6386|https://crbug.com/1043603|Vendor Advisory,Permissions Required
+1317|CVE-2020-6407|https://crbug.com/1045931|Vendor Advisory,Permissions Required
+1318|CVE-2020-6418|https://crbug.com/1053604|Exploit,Vendor Advisory,Patch
+1319|CVE-2019-20503|https://crbug.com/1059349|
+1320|CVE-2020-6420|https://crbug.com/1050996|Permissions Required,Third Party Advisory
+1321|CVE-2020-6422|https://crbug.com/1051748|Permissions Required,Third Party Advisory
+1322|CVE-2020-6424|https://crbug.com/1031142|Permissions Required,Third Party Advisory
+1323|CVE-2020-6425|https://crbug.com/1031670|Patch,Third Party Advisory
+1324|CVE-2020-6426|https://crbug.com/1052647|Permissions Required,Third Party Advisory
+1325|CVE-2020-6427|https://crbug.com/1055788|Permissions Required,Third Party Advisory
+1326|CVE-2020-6428|https://crbug.com/1057593|Permissions Required,Third Party Advisory
+1327|CVE-2020-6429|https://crbug.com/1057627|Permissions Required,Third Party Advisory
+1328|CVE-2020-6449|https://crbug.com/1059686|Permissions Required,Third Party Advisory
+1329|CVE-2020-6423|https://crbug.com/1043446|Permissions Required
+1330|CVE-2020-6430|https://crbug.com/1031479|Permissions Required
+1331|CVE-2020-6431|https://crbug.com/852645|Vendor Advisory,Permissions Required
+1332|CVE-2020-6432|https://crbug.com/965611|Vendor Advisory,Permissions Required
+1333|CVE-2020-6433|https://crbug.com/1043965|Vendor Advisory,Permissions Required
+1334|CVE-2020-6434|https://crbug.com/1048555|Vendor Advisory,Permissions Required
+1335|CVE-2020-6435|https://crbug.com/1032158|Vendor Advisory,Permissions Required
+1336|CVE-2020-6436|https://crbug.com/1034519|Vendor Advisory,Permissions Required
+1337|CVE-2020-6437|https://crbug.com/639173|Exploit,Vendor Advisory
+1338|CVE-2020-6438|https://crbug.com/714617|Exploit,Vendor Advisory
+1339|CVE-2020-6439|https://crbug.com/868145|Vendor Advisory,Permissions Required
+1340|CVE-2020-6440|https://crbug.com/894477|Vendor Advisory,Permissions Required
+1341|CVE-2020-6441|https://crbug.com/959571|Vendor Advisory,Permissions Required
+1342|CVE-2020-6442|https://crbug.com/1013906|Exploit,Vendor Advisory
+1343|CVE-2020-6443|https://crbug.com/1040080|Vendor Advisory,Permissions Required
+1344|CVE-2020-6444|https://crbug.com/922882|Exploit,Vendor Advisory
+1345|CVE-2020-6445|https://crbug.com/933171|Vendor Advisory,Permissions Required
+1346|CVE-2020-6446|https://crbug.com/933172|Vendor Advisory,Permissions Required
+1347|CVE-2020-6447|https://crbug.com/991217|Vendor Advisory,Permissions Required
+1348|CVE-2020-6448|https://crbug.com/1037872|Vendor Advisory,Permissions Required
+1349|CVE-2020-6450|https://crbug.com/1062247|Vendor Advisory,Permissions Required
+1350|CVE-2020-6451|https://crbug.com/1061018|Vendor Advisory,Permissions Required
+1351|CVE-2020-6452|https://crbug.com/1059764|Vendor Advisory,Permissions Required
+1352|CVE-2020-6454|https://crbug.com/1019161|Vendor Advisory,Permissions Required
+1353|CVE-2020-6455|https://crbug.com/1059669|Vendor Advisory,Permissions Required
+1354|CVE-2020-6456|https://crbug.com/1040755|Vendor Advisory,Permissions Required

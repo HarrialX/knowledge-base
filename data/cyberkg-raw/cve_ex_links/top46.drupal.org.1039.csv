@@ -1,0 +1,1583 @@
+|cve-ids|ex_url|types
+0|CVE-2006-3473|http://drupal.org/node/72177|Patch
+1|CVE-2006-3570|http://drupal.org/node/72846|Patch
+2|CVE-2006-4002|http://drupal.org/node/76748|Patch,Vendor Advisory
+3|CVE-2006-4107|http://drupal.org/node/77537|Patch,Vendor Advisory
+4|CVE-2006-4108,CVE-2006-4109|http://drupal.org/node/77756|Patch,Vendor Advisory
+5|CVE-2006-4120|http://drupal.org/node/77538|Patch,Vendor Advisory
+6|CVE-2006-4120|http://drupal.org/node/77753|Patch,Vendor Advisory
+7|CVE-2006-4356,CVE-2006-4355|http://drupal.org/node/80087|Patch
+8|CVE-2006-4360|http://drupal.org/node/80084|Patch
+9|CVE-2006-4646|http://drupal.org/node/82527|Patch
+10|CVE-2006-4717|http://drupal.org/node/83064|Patch,Vendor Advisory
+11|CVE-2006-4821|http://drupal.org/node/83954|Patch
+12|CVE-2006-4947|http://drupal.org/node/85050|Patch,Vendor Advisory
+13|CVE-2006-4949|http://drupal.org/node/85048|
+14|CVE-2006-5475|http://drupal.org/node/88826|
+15|CVE-2006-5477,CVE-2006-5476|http://drupal.org/node/88828|Patch,Vendor Advisory
+16|CVE-2006-5608|http://drupal.org/node/91358|Patch
+17|CVE-2006-6386|http://drupal.org/node/101540|Patch,Vendor Advisory
+18|CVE-2006-6528,CVE-2006-6529|http://drupal.org/node/102614|Patch,Vendor Advisory
+19|CVE-2006-6531,CVE-2006-6530|http://drupal.org/node/102605|Patch,Vendor Advisory
+20|CVE-2006-6646|http://drupal.org/node/103943|Patch
+21|CVE-2006-6647|http://drupal.org/node/103958|Patch
+22|CVE-2005-0682|http://drupal.org/drupal-4.5.2|Patch,Vendor Advisory
+23|CVE-2005-0682|http://drupal.org/files/drupal-4.5-xss-fix.patch|Patch
+24|CVE-2017-6931,CVE-2017-6928,CVE-2017-6932,CVE-2017-6930,CVE-2017-6926,CVE-2017-6929,CVE-2017-6927|https://www.drupal.org/sa-core-2018-001|Mitigation,Vendor Advisory
+25|CVE-2018-7600|https://groups.drupal.org/security/faq-2018-002|Vendor Advisory
+26|CVE-2018-7600|https://www.drupal.org/sa-core-2018-002|Vendor Advisory
+27|CVE-2014-5170|https://www.drupal.org/node/2312655|Vendor Advisory
+28|CVE-2014-5170|https://www.drupal.org/node/2312769|Vendor Advisory
+29|CVE-2018-9205|https://www.drupal.org/project/avatar_uploader|Vendor Advisory,Release Notes
+30|CVE-2018-9205|https://www.drupal.org/project/avatar_uploader/issues/2957966|Vendor Advisory
+31|CVE-2014-1399,CVE-2014-1398,CVE-2014-1400|https://www.drupal.org/node/2169595|Patch,Vendor Advisory
+32|CVE-2018-9861|https://www.drupal.org/sa-core-2018-003|Third Party Advisory
+33|CVE-2019-19826|https://www.drupal.org/project/views_dynamic_fields/issues/3056600|Vendor Advisory
+34|CVE-2014-9503,CVE-2014-9504,CVE-2014-9502|https://www.drupal.org/node/2394979|Vendor Advisory,Mitigation
+35|CVE-2014-9503,CVE-2014-9504,CVE-2014-9502|https://www.drupal.org/node/2395045|Patch,Vendor Advisory
+36|CVE-2014-5456|https://www.drupal.org/node/2323983|Patch
+37|CVE-2014-5456|https://www.drupal.org/node/2324681|Patch,Vendor Advisory
+38|CVE-2014-5179|https://www.drupal.org/node/2308503|Vendor Advisory
+39|CVE-2014-5265,CVE-2014-5267,CVE-2014-5266|https://www.drupal.org/SA-CORE-2014-004|Patch,Vendor Advisory
+40|CVE-2014-5250,CVE-2014-5249|https://www.drupal.org/node/2316023|
+41|CVE-2014-5250,CVE-2014-5249|https://www.drupal.org/node/2316025|
+42|CVE-2014-5250,CVE-2014-5249|https://www.drupal.org/node/2316717|Patch,Vendor Advisory
+43|CVE-2014-5169|https://www.drupal.org/node/2311887|Patch
+44|CVE-2014-5169|https://www.drupal.org/node/2312609|Vendor Advisory
+45|CVE-2014-8078|https://drupal.org/node/2231671|Vendor Advisory
+46|CVE-2014-8078|https://www.drupal.org/node/2231191|Patch
+47|CVE-2014-8078|https://www.drupal.org/node/2231197|Patch
+48|CVE-2014-8078|https://www.drupal.org/node/2231199|Patch
+49|CVE-2014-8079|https://drupal.org/node/2194135|Vendor Advisory
+50|CVE-2014-8079|https://www.drupal.org/node/2193987|Patch
+51|CVE-2014-7978|https://www.drupal.org/node/2236251|Patch
+52|CVE-2014-7978|https://www.drupal.org/node/2236797|Vendor Advisory
+53|CVE-2014-7979|https://drupal.org/node/2236811|Vendor Advisory
+54|CVE-2014-7979|https://www.drupal.org/node/2236255|Patch
+55|CVE-2014-7980|http://drupal.org/node/2254925|Patch
+56|CVE-2014-7980|https://www.drupal.org/node/2254835|Patch
+57|CVE-2014-7980|https://www.drupal.org/node/2254837|Patch
+58|CVE-2014-8378|https://www.drupal.org/node/2320027|Patch
+59|CVE-2014-8378|https://www.drupal.org/node/2320613|Vendor Advisory
+60|CVE-2014-8379|https://www.drupal.org/node/2324777|Patch
+61|CVE-2014-8379|https://www.drupal.org/node/2324813|Vendor Advisory
+62|CVE-2014-8075|https://www.drupal.org/node/2184845|Vendor Advisory
+63|CVE-2014-8076|http://drupal.org/node/2248145|Vendor Advisory
+64|CVE-2014-8076|https://www.drupal.org/node/2248095|Patch
+65|CVE-2014-8077|https://www.drupal.org/node/2210619|Patch
+66|CVE-2014-8077|https://www.drupal.org/node/2210621|Patch
+67|CVE-2014-8077|https://www.drupal.org/node/2211381|Vendor Advisory
+68|CVE-2013-4594|https://drupal.org/node/2128345|Patch
+69|CVE-2013-4594|https://drupal.org/node/2129373|Vendor Advisory
+70|CVE-2013-7406,CVE-2013-7407|https://www.drupal.org/node/2044173|Vendor Advisory
+71|CVE-2014-8743|https://drupal.org/node/2200453|Vendor Advisory
+72|CVE-2014-8743|https://www.drupal.org/node/2013653|Patch
+73|CVE-2014-8744|https://www.drupal.org/node/2220545|Patch
+74|CVE-2014-8744|https://www.drupal.org/node/2221481|Vendor Advisory
+75|CVE-2014-8745|http://drupal.org/node/2248077|
+76|CVE-2014-8745|https://www.drupal.org/node/2247919|Patch
+77|CVE-2014-8745|https://www.drupal.org/node/2247921|Patch
+78|CVE-2014-8746|https://www.drupal.org/node/2236259|Patch
+79|CVE-2014-8746|https://www.drupal.org/node/2236821|Vendor Advisory
+80|CVE-2014-8747|https://www.drupal.org/node/2194777|Patch
+81|CVE-2014-8747|https://www.drupal.org/node/2194877|Vendor Advisory
+82|CVE-2014-8748|https://drupal.org/node/2179085|Vendor Advisory
+83|CVE-2014-8748|https://www.drupal.org/node/2172167|Patch
+84|CVE-2014-8317|https://drupal.org/node/2194621|Vendor Advisory
+85|CVE-2014-8317|https://www.drupal.org/node/2194011|Patch
+86|CVE-2014-8317|https://www.drupal.org/node/2194013|Patch
+87|CVE-2014-8318|https://drupal.org/node/2194671|Vendor Advisory
+88|CVE-2014-8318|https://www.drupal.org/node/2194175|Patch
+89|CVE-2014-8318|https://www.drupal.org/node/2194181|Patch
+90|CVE-2014-8318|https://www.drupal.org/node/2194183|Patch
+91|CVE-2014-8319|https://drupal.org/node/2194809|Vendor Advisory
+92|CVE-2014-8319|https://www.drupal.org/node/2194401|Patch
+93|CVE-2014-8320|https://drupal.org/node/2231665|Vendor Advisory
+94|CVE-2014-8320,CVE-2014-7870|https://www.drupal.org/node/2231531|Patch
+95|CVE-2014-8320,CVE-2014-7870|https://www.drupal.org/node/2231533|Patch
+96|CVE-2014-7869|https://www.drupal.org/node/2253103|Patch
+97|CVE-2014-7869|https://www.drupal.org/node/2254853|Patch,Vendor Advisory
+98|CVE-2014-7870|https://www.drupal.org/node/2231665|Vendor Advisory
+99|CVE-2014-3704|https://www.drupal.org/SA-CORE-2014-005|Patch,Vendor Advisory
+100|CVE-2014-8765|https://www.drupal.org/node/2205755|Patch
+101|CVE-2014-8765|https://www.drupal.org/node/2205767|Vendor Advisory
+102|CVE-2014-8376|https://www.drupal.org/node/2324303|Patch
+103|CVE-2014-8376|https://www.drupal.org/node/2324689|Vendor Advisory
+104|CVE-2014-8296|https://www.drupal.org/node/2189751|Vendor Advisory
+105|CVE-2014-8296|https://www.drupal.org/node/2191765|Patch
+106|CVE-2012-2300,CVE-2012-2299,CVE-2012-2301|http://drupal.org/node/1547506|Patch
+107|CVE-2012-2300,CVE-2012-2299,CVE-2012-2301|http://drupal.org/node/1547508|Patch
+108|CVE-2012-2300,CVE-2012-2299,CVE-2012-2301|http://drupal.org/node/1547674|Patch,Vendor Advisory
+109|CVE-2014-8734|https://www.drupal.org/node/2365259|Patch
+110|CVE-2014-8734|https://www.drupal.org/node/2365685|Patch,Vendor Advisory
+111|CVE-2014-8735|https://www.drupal.org/node/2360953|Patch,Third Party Advisory
+112|CVE-2014-8735|https://www.drupal.org/node/2360955|Patch,Third Party Advisory
+113|CVE-2014-8735|https://www.drupal.org/node/2361611|Patch,Third Party Advisory
+114|CVE-2014-8736|https://www.drupal.org/node/2357279|Patch
+115|CVE-2014-8736|https://www.drupal.org/node/2357295|Patch,Vendor Advisory
+116|CVE-2014-9015,CVE-2014-9016|https://www.drupal.org/SA-CORE-2014-006|Vendor Advisory
+117|CVE-2014-9016|https://www.drupal.org/node/2378367|Patch,Vendor Advisory
+118|CVE-2014-9016|https://www.drupal.org/node/2378375|Patch,Vendor Advisory
+119|CVE-2014-9022|https://www.drupal.org/node/2373471|Patch
+120|CVE-2014-9022|https://www.drupal.org/node/2373473|Patch
+121|CVE-2014-9022|https://www.drupal.org/node/2373973|Vendor Advisory
+122|CVE-2014-9023|https://www.drupal.org/node/2337623|Vendor Advisory
+123|CVE-2014-9023|https://www.drupal.org/node/2344363|Vendor Advisory
+124|CVE-2014-9024|https://www.drupal.org/node/2353451|Patch
+125|CVE-2014-9024|https://www.drupal.org/node/2378279|Vendor Advisory
+126|CVE-2014-9025|https://www.drupal.org/node/2336327|Vendor Advisory
+127|CVE-2014-9025|https://www.drupal.org/node/2336357|Vendor Advisory
+128|CVE-2014-9026|https://www.drupal.org/node/2336109|Patch
+129|CVE-2014-9026|https://www.drupal.org/node/2336259|Vendor Advisory
+130|CVE-2014-5268|https://www.drupal.org/node/2316065|Patch,Vendor Advisory
+131|CVE-2014-5268|https://www.drupal.org/node/2316747|Vendor Advisory
+132|CVE-2014-9153,CVE-2014-9151,CVE-2014-9152|https://www.drupal.org/node/2344389|Vendor Advisory
+133|CVE-2014-9153,CVE-2014-9151,CVE-2014-9152|https://www.drupal.org/node/2344423|Vendor Advisory
+134|CVE-2014-9154|https://www.drupal.org/node/2320693|Patch
+135|CVE-2014-9154|https://www.drupal.org/node/2320741|Vendor Advisory
+136|CVE-2014-9155|https://www.drupal.org/node/2330759|Patch
+137|CVE-2014-9155|https://www.drupal.org/node/2330763|Patch
+138|CVE-2014-9155|https://www.drupal.org/node/2332169|Vendor Advisory
+139|CVE-2014-9156|https://www.drupal.org/node/2304517|Vendor Advisory
+140|CVE-2014-9156|https://www.drupal.org/node/2304561|Vendor Advisory
+141|CVE-2014-9346|https://www.drupal.org/node/2385933|Patch
+142|CVE-2014-9346|https://www.drupal.org/node/2386615|Vendor Advisory
+143|CVE-2014-9364,CVE-2014-9361|https://www.drupal.org/node/2299467|Patch,Vendor Advisory
+144|CVE-2014-9364,CVE-2014-9361|https://www.drupal.org/node/2300369|Vendor Advisory
+145|CVE-2014-9363,CVE-2014-9362|https://www.drupal.org/node/2295975|Patch,Vendor Advisory
+146|CVE-2014-9363,CVE-2014-9362|https://www.drupal.org/node/2296511|Vendor Advisory
+147|CVE-2012-5651,CVE-2012-5652,CVE-2012-5653|http://drupal.org/SA-CORE-2012-004|Patch,Vendor Advisory
+148|CVE-2012-5654|http://drupal.org/node/1859208|Patch
+149|CVE-2012-5654|http://drupal.org/node/1859282|Patch,Vendor Advisory
+150|CVE-2012-5655|http://drupal.org/node/1870550|Patch,Vendor Advisory
+151|CVE-2008-6413|http://drupal.org/node/310223|Vendor Advisory
+152|CVE-2008-6532,CVE-2008-6533|http://drupal.org/node/345441|Patch,Vendor Advisory
+153|CVE-2009-0817|http://drupal.org/node/385950|Exploit,Vendor Advisory
+154|CVE-2009-0817|http://drupal.org/node/386604|Patch,Vendor Advisory
+155|CVE-2009-0817|http://drupal.org/node/386606|Patch,Vendor Advisory
+156|CVE-2009-0818|http://drupal.org/node/386940|
+157|CVE-2009-0818|http://drupal.org/node/386942|Patch,Vendor Advisory
+158|CVE-2009-1035,CVE-2009-1034|http://drupal.org/node/406316|Patch,Vendor Advisory
+159|CVE-2009-1036|http://drupal.org/node/405672|
+160|CVE-2009-1036|http://drupal.org/node/406314|Patch,Vendor Advisory
+161|CVE-2009-1047,CVE-2009-1037|http://drupal.org/node/406516|Patch,Vendor Advisory
+162|CVE-2009-1069|http://drupal.org/node/406520|Patch,Vendor Advisory
+163|CVE-2009-1249|http://drupal.org/node/414644|Patch
+164|CVE-2009-1249|http://drupal.org/node/414702|Patch,Vendor Advisory
+165|CVE-2009-1342|http://drupal.org/node/434836|Patch,Vendor Advisory
+166|CVE-2009-1343|http://drupal.org/node/434748|Patch
+167|CVE-2009-1344|http://drupal.org/node/434682|Patch,Vendor Advisory
+168|CVE-2009-1501|http://drupal.org/node/448958|Patch,Vendor Advisory
+169|CVE-2009-1505|http://drupal.org/node/449014|Patch,Vendor Advisory
+170|CVE-2009-1507|http://drupal.org/node/449030|Patch,Vendor Advisory
+171|CVE-2009-1575,CVE-2009-1576|http://drupal.org/node/449078|Patch,Vendor Advisory
+172|CVE-2009-1575,CVE-2009-1576|http://www.vbdrupal.org/forum/showthread.php?p=9953#post9953|Patch,Vendor Advisory
+173|CVE-2009-1576|http://drupal.org/files/sa-core-2009-005/SA-CORE-2009-005-5.16.patch|Patch
+174|CVE-2009-1738|http://drupal.org/node/453098|Patch
+175|CVE-2009-1738|http://drupal.org/node/461706|Patch,Vendor Advisory
+176|CVE-2009-1823|http://drupal.org/node/461674|Patch,Vendor Advisory
+177|CVE-2008-6835,CVE-2008-6836|http://drupal.org/node/280592|Patch,Vendor Advisory
+178|CVE-2008-6835,CVE-2008-6836|http://drupal.org/node/280593|Patch,Vendor Advisory
+179|CVE-2009-1844|http://drupal.org/node/461886|Patch
+180|CVE-2009-1942|http://drupal.org/node/481270|Patch
+181|CVE-2009-1942|http://drupal.org/node/481274|Patch,Vendor Advisory
+182|CVE-2009-1942|http://drupal.org/node/481308|
+183|CVE-2009-2035|http://drupal.org/node/487784|Patch,Vendor Advisory
+184|CVE-2009-2035|http://drupal.org/node/488004|Patch,Vendor Advisory
+185|CVE-2009-2074,CVE-2009-2075|http://drupal.org/node/488092|Patch,Vendor Advisory
+186|CVE-2009-2074,CVE-2009-2075|http://drupal.org/node/488102|Patch,Vendor Advisory
+187|CVE-2009-2074,CVE-2009-2075|http://drupal.org/node/488104|Patch,Vendor Advisory
+188|CVE-2009-2076,CVE-2009-2077|http://drupal.org/node/488068|Patch,Vendor Advisory
+189|CVE-2009-2076,CVE-2009-2077|http://drupal.org/node/488082|Patch,Vendor Advisory
+190|CVE-2009-2078|http://drupal.org/node/487810|Patch,Vendor Advisory
+191|CVE-2009-2078|http://drupal.org/node/487812|Patch,Vendor Advisory
+192|CVE-2009-2078|http://drupal.org/node/487828|Patch,Vendor Advisory
+193|CVE-2009-2079|http://drupal.org/node/487602|Patch
+194|CVE-2009-2083,CVE-2009-2079|http://drupal.org/node/487620|Patch,Vendor Advisory
+195|CVE-2009-2083,CVE-2009-2079|http://drupal.org/node/487818|Patch,Vendor Advisory
+196|CVE-2009-2237|http://drupal.org/node/468450|Patch,Vendor Advisory
+197|CVE-2009-2291|http://drupal.org/node/461662|Patch,Vendor Advisory
+198|CVE-2009-2291|http://drupal.org/node/461682|Patch,Vendor Advisory
+199|CVE-2009-2370,CVE-2009-2371|http://drupal.org/node/507526|Patch
+200|CVE-2009-2370|http://drupal.org/node/507550|Patch
+201|CVE-2009-2370,CVE-2009-2371|http://drupal.org/node/507580|Patch,Vendor Advisory
+202|CVE-2009-2374,CVE-2009-2373,CVE-2009-2372|http://drupal.org/node/507572|Patch,Exploit,Vendor Advisory
+203|CVE-2009-2572|http://drupal.org/node/449026|Vendor Advisory
+204|CVE-2009-2572|http://drupal.org/node/449028|Vendor Advisory
+205|CVE-2009-2572|http://drupal.org/node/449042|Patch,Vendor Advisory
+206|CVE-2009-2610|http://drupal.org/node/501356|Patch,Vendor Advisory
+207|CVE-2009-2610|http://drupal.org/node/501360|Patch,Vendor Advisory
+208|CVE-2009-2610|http://drupal.org/node/502112|Patch,Vendor Advisory
+209|CVE-2008-6908,CVE-2008-6909,CVE-2008-6910|http://drupal.org/node/348295|Patch,Vendor Advisory
+210|CVE-2008-6972|http://drupal.org/node/304093|Patch,Vendor Advisory
+211|CVE-2008-7150|http://drupal.org/node/230460|Patch
+212|CVE-2008-7150|http://drupal.org/node/230470|Patch,Vendor Advisory
+213|CVE-2008-7151|http://drupal.org/node/236607|Patch,Vendor Advisory
+214|CVE-2008-7151|http://drupal.org/node/236609|Patch
+215|CVE-2009-3121,CVE-2009-3122|http://drupal.org/node/560298|Patch,Vendor Advisory
+216|CVE-2009-3156|http://drupal.org/node/534332|Patch,Vendor Advisory
+217|CVE-2009-3156|http://drupal.org/node/534636|Patch,Vendor Advisory
+218|CVE-2009-3157|http://drupal.org/node/534336|Patch,Vendor Advisory
+219|CVE-2009-3157|http://drupal.org/node/534652|Patch,Vendor Advisory
+220|CVE-2009-3207,CVE-2009-3206|http://drupal.org/node/554084|Patch,Vendor Advisory
+221|CVE-2009-3207|http://drupal.org/node/505904|Exploit,Patch
+222|CVE-2009-3207|http://drupal.org/node/554086|Patch,Vendor Advisory
+223|CVE-2009-3207|http://drupal.org/node/554090|Patch,Vendor Advisory
+224|CVE-2009-3210|http://drupal.org/node/554326|Patch,Vendor Advisory
+225|CVE-2009-3210|http://drupal.org/node/554328|Patch,Vendor Advisory
+226|CVE-2009-3210|http://drupal.org/node/554448|Patch,Vendor Advisory
+227|CVE-2009-3353,CVE-2009-3352,CVE-2009-3354,CVE-2009-3350,CVE-2009-3351|http://drupal.org/node/572852|Vendor Advisory
+228|CVE-2009-3363|http://drupal.org/node/572850|Vendor Advisory
+229|CVE-2009-3435|http://drupal.org/node/585952|Patch,Vendor Advisory
+230|CVE-2009-3437|http://drupal.org/node/585790|Vendor Advisory
+231|CVE-2009-3442|http://drupal.org/node/585706|Patch,Vendor Advisory
+232|CVE-2009-3442|http://drupal.org/node/585710|Patch,Vendor Advisory
+233|CVE-2009-3479|http://drupal.org/node/534744|Patch,Vendor Advisory
+234|CVE-2009-3479|http://drupal.org/node/534752|Patch,Vendor Advisory
+235|CVE-2009-3479|http://drupal.org/node/534842|Patch,Vendor Advisory
+236|CVE-2009-3568|http://drupal.org/node/579280|Patch,Vendor Advisory
+237|CVE-2009-3568|http://drupal.org/node/579290|Patch,Vendor Advisory
+238|CVE-2009-3568|http://drupal.org/node/579292|Patch,Vendor Advisory
+239|CVE-2009-3650|http://drupal.org/node/592394|Vendor Advisory
+240|CVE-2009-3651|http://drupal.org/node/592262|Patch,Vendor Advisory
+241|CVE-2009-3651|http://drupal.org/node/592264|Patch,Vendor Advisory
+242|CVE-2009-3651|http://drupal.org/node/592272|Patch,Vendor Advisory
+243|CVE-2009-3652|http://drupal.org/node/592358|Patch,Vendor Advisory
+244|CVE-2009-3652|http://drupal.org/node/592410|Patch,Vendor Advisory
+245|CVE-2009-3652|http://drupal.org/node/592412|Patch,Vendor Advisory
+246|CVE-2009-3652|http://drupal.org/node/592414|Patch,Vendor Advisory
+247|CVE-2009-3653|http://drupal.org/node/591724|Patch,Vendor Advisory
+248|CVE-2009-3653|http://drupal.org/node/591732|Patch,Vendor Advisory
+249|CVE-2009-3654|http://drupal.org/node/592470|Patch
+250|CVE-2009-3654|http://drupal.org/node/592490|Patch,Vendor Advisory
+251|CVE-2009-3657,CVE-2009-3656|http://drupal.org/node/592488|Patch,Vendor Advisory
+252|CVE-2009-3778|http://drupal.org/node/610986|Patch,Vendor Advisory
+253|CVE-2009-3779|http://drupal.org/node/610416|Patch,Vendor Advisory
+254|CVE-2009-3779|http://drupal.org/node/610420|Patch,Vendor Advisory
+255|CVE-2009-3779|http://drupal.org/node/610996|Patch,Vendor Advisory
+256|CVE-2009-3780|http://drupal.org/node/610784|Patch,Vendor Advisory
+257|CVE-2009-3780|http://drupal.org/node/610900|Patch,Vendor Advisory
+258|CVE-2009-3780|http://drupal.org/node/611078|Patch,Vendor Advisory
+259|CVE-2009-3781|http://drupal.org/files/issues/filefield-node-access-fix-516104-3.patch|Patch,Vendor Advisory
+260|CVE-2009-3781|http://drupal.org/node/516104|Patch,Vendor Advisory
+261|CVE-2009-3781|http://drupal.org/node/609874|Patch,Vendor Advisory
+262|CVE-2009-3781|http://drupal.org/node/611128|Patch,Vendor Advisory
+263|CVE-2009-3782|http://drupal.org/node/610818|Patch,Vendor Advisory
+264|CVE-2009-3782|http://drupal.org/node/610828|Patch,Vendor Advisory
+265|CVE-2009-3783,CVE-2009-3784,CVE-2009-3785|http://drupal.org/node/590098|Patch,Vendor Advisory
+266|CVE-2009-3783,CVE-2009-3784,CVE-2009-3785|http://drupal.org/node/611002|Patch,Vendor Advisory
+267|CVE-2009-3786|http://drupal.org/node/605094|Patch,Vendor Advisory
+268|CVE-2009-3786|http://drupal.org/node/610948|Patch,Vendor Advisory
+269|CVE-2009-3786|http://drupal.org/node/621960|
+270|CVE-2009-3786|http://drupal.org/node/623674|
+271|CVE-2009-3914|http://drupal.org/node/623018|Patch,Vendor Advisory
+272|CVE-2009-3914|http://drupal.org/node/623526|Patch,Vendor Advisory
+273|CVE-2009-3915|http://drupal.org/node/620662|Patch,Vendor Advisory
+274|CVE-2009-3915|http://drupal.org/node/620668|Patch,Vendor Advisory
+275|CVE-2009-3915|http://drupal.org/node/623562|Patch,Vendor Advisory
+276|CVE-2009-3916|http://drupal.org/node/622092|Patch,Vendor Advisory
+277|CVE-2009-3916|http://drupal.org/node/622100|Patch,Vendor Advisory
+278|CVE-2009-3916|http://drupal.org/node/623490|Patch,Vendor Advisory
+279|CVE-2009-3917|http://drupal.org/node/623508|Patch,Vendor Advisory
+280|CVE-2009-3918|http://drupal.org/node/623434|Patch,Vendor Advisory
+281|CVE-2009-3918|http://drupal.org/node/623436|Patch,Vendor Advisory
+282|CVE-2009-3918|http://drupal.org/node/623678|Patch,Vendor Advisory
+283|CVE-2009-3919,CVE-2009-3920|http://drupal.org/node/623506|Patch,Vendor Advisory
+284|CVE-2009-3919,CVE-2009-3920|http://drupal.org/node/623546|Patch,Vendor Advisory
+285|CVE-2009-3921|http://drupal.org/node/617496|Patch,Vendor Advisory
+286|CVE-2009-3921|http://drupal.org/node/617500|Patch,Vendor Advisory
+287|CVE-2009-3921|http://drupal.org/node/623554|Patch,Vendor Advisory
+288|CVE-2009-3922|http://drupal.org/node/623162|Patch,Vendor Advisory
+289|CVE-2009-3922|http://drupal.org/node/623180|Patch,Vendor Advisory
+290|CVE-2009-3922|http://drupal.org/node/623186|Patch,Vendor Advisory
+291|CVE-2009-4042|http://drupal.org/node/629894|Patch
+292|CVE-2009-4042|http://drupal.org/node/630168|Patch
+293|CVE-2009-4043|http://drupal.org/node/601110|Patch
+294|CVE-2009-4043|http://drupal.org/node/630198|Patch
+295|CVE-2009-4043|http://drupal.org/node/630208|Patch,Vendor Advisory
+296|CVE-2009-4044|http://drupal.org/node/630244|Vendor Advisory
+297|CVE-2009-4061|http://drupal.org/node/631538|Patch
+298|CVE-2009-4061|http://drupal.org/node/636568|Patch,Vendor Advisory
+299|CVE-2009-4062|http://drupal.org/node/636670|Patch
+300|CVE-2009-4062|http://drupal.org/node/636678|Patch,Vendor Advisory
+301|CVE-2009-4063|http://drupal.org/node/630004|Patch
+302|CVE-2009-4063|http://drupal.org/node/636562|Patch,Vendor Advisory
+303|CVE-2009-4064|http://drupal.org/node/636488|Patch
+304|CVE-2009-4064|http://drupal.org/node/636660|Patch,Vendor Advisory
+305|CVE-2009-4065|http://drupal.org/node/636462|Patch,Vendor Advisory
+306|CVE-2009-4065|http://drupal.org/node/636474|Patch
+307|CVE-2009-4066|http://drupal.org/node/636398|Patch
+308|CVE-2009-4066|http://drupal.org/node/636400|Patch
+309|CVE-2009-4066|http://drupal.org/node/636412|Patch,Vendor Advisory
+310|CVE-2009-4119|http://drupal.org/node/636496|Patch
+311|CVE-2009-4119|http://drupal.org/node/636498|Patch
+312|CVE-2009-4119|http://drupal.org/node/636518|Patch,Vendor Advisory
+313|CVE-2009-4207|http://drupal.org/node/481258|Patch
+314|CVE-2009-4207|http://drupal.org/node/481260|Patch
+315|CVE-2009-4207|http://drupal.org/node/481268|Patch,Vendor Advisory
+316|CVE-2009-4296|http://drupal.org/node/641050|Patch
+317|CVE-2009-4296|http://drupal.org/node/641064|Patch
+318|CVE-2009-4296|http://drupal.org/node/649396|Patch,Vendor Advisory
+319|CVE-2009-4370,CVE-2009-4369|http://drupal.org/files/sa-core-2009-009/SA-CORE-2009-009-6.14.patch|Exploit,Patch
+320|CVE-2009-4370,CVE-2009-4369|http://drupal.org/node/661586|Patch,Vendor Advisory
+321|CVE-2009-4429|http://drupal.org/node/661404|Patch,Vendor Advisory
+322|CVE-2009-4513|http://drupal.org/node/612832|
+323|CVE-2009-4513|http://drupal.org/node/612834|
+324|CVE-2009-4513|http://drupal.org/node/617456|
+325|CVE-2009-4514|http://drupal.org/node/615584|Patch
+326|CVE-2009-4514|http://drupal.org/node/617422|Vendor Advisory
+327|CVE-2009-4515|http://drupal.org/node/617480|Patch
+328|CVE-2009-4515|http://drupal.org/node/617494|Patch,Vendor Advisory
+329|CVE-2009-4516,CVE-2009-4517,CVE-2009-4534|http://drupal.org/node/617444|Patch,Vendor Advisory
+330|CVE-2009-4518|http://drupal.org/node/616546|Patch
+331|CVE-2009-4518|http://drupal.org/node/617400|Patch,Vendor Advisory
+332|CVE-2009-4520|http://drupal.org/node/617380|Patch,Vendor Advisory
+333|CVE-2009-4524|http://drupal.org/node/604760|Patch,Vendor Advisory
+334|CVE-2009-4525,CVE-2009-4526|http://drupal.org/node/604804|Patch
+335|CVE-2009-4525,CVE-2009-4526|http://drupal.org/node/604806|Patch
+336|CVE-2009-4525,CVE-2009-4526|http://drupal.org/node/604808|Patch,Vendor Advisory
+337|CVE-2009-4527|http://drupal.org/node/604488|Patch,Vendor Advisory
+338|CVE-2009-4528|http://drupal.org/node/604354|Patch
+339|CVE-2009-4528|http://drupal.org/node/604514|Patch,Vendor Advisory
+340|CVE-2009-4533,CVE-2009-4532|http://drupal.org/node/604942|Patch,Vendor Advisory
+341|CVE-2009-4533|http://drupal.org/node/604920|Patch
+342|CVE-2009-4533|http://drupal.org/node/604922|Patch
+343|CVE-2008-0264|http://drupal.org/node/209759|Patch
+344|CVE-2008-0271|http://drupal.org/node/208534|Patch
+345|CVE-2008-0272|http://drupal.org/node/208562|
+346|CVE-2008-0274,CVE-2008-0272,CVE-2008-0273|http://www.vbdrupal.org/forum/showthread.php?p=6878|
+347|CVE-2008-0274,CVE-2008-0272,CVE-2008-0273|http://www.vbdrupal.org/forum/showthread.php?t=1349|
+348|CVE-2008-0273|http://drupal.org/node/208564|
+349|CVE-2008-0274|http://drupal.org/node/208565|
+350|CVE-2008-0275|http://drupal.org/node/208527|
+351|CVE-2008-0276|http://drupal.org/node/208524|
+352|CVE-2008-0277|http://drupal.org/node/208537|
+353|CVE-2019-6340|https://www.drupal.org/sa-core-2019-003|Vendor Advisory,Mitigation
+354|CVE-2019-6341|https://www.drupal.org/sa-core-2019-004|Patch,Vendor Advisory
+355|CVE-2019-11358|https://www.drupal.org/sa-core-2019-006|Patch,Third Party Advisory
+356|CVE-2019-11831|https://www.drupal.org/sa-core-2019-007|
+357|CVE-2019-10909|https://www.drupal.org/sa-core-2019-005|Third Party Advisory
+358|CVE-2016-5385|https://www.drupal.org/SA-CORE-2016-003|Third Party Advisory
+359|CVE-2016-6211,CVE-2016-6212|https://www.drupal.org/SA-CORE-2016-002|Vendor Advisory
+360|CVE-2016-6212|https://www.drupal.org/node/2749333|Vendor Advisory
+361|CVE-2016-7572,CVE-2016-7570,CVE-2016-7571|https://www.drupal.org/SA-CORE-2016-004|Vendor Advisory
+362|CVE-2016-9452,CVE-2016-9450,CVE-2016-9449,CVE-2016-9451|https://www.drupal.org/SA-CORE-2016-005|Patch,Vendor Advisory
+363|CVE-2016-10033|https://www.drupal.org/psa-2016-004|Third Party Advisory
+364|CVE-2014-9498|https://www.drupal.org/node/2386011|Patch
+365|CVE-2014-9498|https://www.drupal.org/node/2386013|Patch
+366|CVE-2014-9498|https://www.drupal.org/node/2386387|Vendor Advisory
+367|CVE-2014-9499|https://www.drupal.org/node/2390191|Patch
+368|CVE-2014-9499|https://www.drupal.org/node/2390839|Vendor Advisory
+369|CVE-2014-9500|https://www.drupal.org/node/2390699|Patch
+370|CVE-2014-9500|https://www.drupal.org/node/2390849|Vendor Advisory
+371|CVE-2010-1074|http://drupal.org/node/676214|Patch
+372|CVE-2010-1074|http://drupal.org/node/676216|Patch,Vendor Advisory
+373|CVE-2010-1107|http://drupal.org/node/688632|Patch
+374|CVE-2010-1107|http://drupal.org/node/688636|Patch
+375|CVE-2010-1107|http://drupal.org/node/690734|Patch,Vendor Advisory
+376|CVE-2010-1108|http://drupal.org/node/686428|Patch
+377|CVE-2010-1108|http://drupal.org/node/690718|Patch,Vendor Advisory
+378|CVE-2009-4772,CVE-2009-4771,CVE-2009-4773|http://drupal.org/node/636576|Patch,Vendor Advisory
+379|CVE-2009-4829|http://drupal.org/node/667084|Patch
+380|CVE-2009-4829|http://drupal.org/node/667086|Patch
+381|CVE-2009-4829|http://drupal.org/node/667094|Patch,Vendor Advisory
+382|CVE-2010-1303|http://drupal.org/node/622096|Patch
+383|CVE-2010-1303|http://drupal.org/node/758756|Patch,Vendor Advisory
+384|CVE-2010-1358|http://drupal.org/node/683786|Patch,Vendor Advisory
+385|CVE-2010-1362|http://drupal.org/node/683544|Patch
+386|CVE-2010-1362|http://drupal.org/node/683576|Patch,Vendor Advisory
+387|CVE-2010-1530|http://drupal.org/node/764906|Patch
+388|CVE-2010-1530|http://drupal.org/node/764998|Patch,Vendor Advisory
+389|CVE-2010-1536|http://drupal.org/node/731568|Patch,Vendor Advisory
+390|CVE-2010-1536|http://drupal.org/node/731576|Patch
+391|CVE-2010-1536|http://drupal.org/node/731578|Patch
+392|CVE-2010-1539|http://drupal.org/node/731624|Patch,Vendor Advisory
+393|CVE-2010-1539|http://drupal.org/node/731644|Patch
+394|CVE-2010-1539|http://drupal.org/node/731648|Patch
+395|CVE-2010-1543|http://drupal.org/node/731018|Patch
+396|CVE-2010-1543|http://drupal.org/node/731682|Patch,Vendor Advisory
+397|CVE-2010-1547,CVE-2010-1548,CVE-2010-2010,CVE-2010-1546|http://drupal.org/node/803944|Patch,Vendor Advisory
+398|CVE-2010-1584|http://drupal.org/cvs?commit=365210|
+399|CVE-2010-1584|http://drupal.org/node/794718|
+400|CVE-2010-1584|http://drupal.org/node/795118|Patch
+401|CVE-2010-1984,CVE-2010-1976|http://drupal.org/node/757974|Patch,Vendor Advisory
+402|CVE-2010-1984,CVE-2010-1976|http://drupal.org/node/757980|Patch
+403|CVE-2010-1984,CVE-2010-1976|http://drupal.org/node/758456|Patch,Vendor Advisory
+404|CVE-2010-1998|http://drupal.org/node/790364|Patch
+405|CVE-2010-1998|http://drupal.org/node/790998|Patch,Vendor Advisory
+406|CVE-2010-2000|http://drupal.org/node/796498|Patch
+407|CVE-2010-2000|http://drupal.org/node/796502|Patch
+408|CVE-2010-2000|http://drupal.org/node/797192|Patch,Vendor Advisory
+409|CVE-2010-2001|http://drupal.org/node/797342|Patch
+410|CVE-2010-2001|http://drupal.org/node/797352|Patch,Vendor Advisory
+411|CVE-2010-2002|http://drupal.org/node/796618|Patch
+412|CVE-2010-2002|http://drupal.org/node/796620|Patch
+413|CVE-2010-2002|http://drupal.org/node/797208|Patch,Vendor Advisory
+414|CVE-2010-2030|http://drupal.org/node/803766|Patch
+415|CVE-2010-2048|http://drupal.org/node/802508|Patch
+416|CVE-2010-2048|http://drupal.org/node/803570|Patch,Vendor Advisory
+417|CVE-2010-1958|http://drupal.org/node/829808|Patch
+418|CVE-2010-2123,CVE-2010-2158|http://drupal.org/node/803770|Patch,Vendor Advisory
+419|CVE-2010-2125|http://drupal.org/node/803930|Patch,Vendor Advisory
+420|CVE-2010-2353,CVE-2010-2352|http://drupal.org/node/829566|Patch,Vendor Advisory
+421|CVE-2010-2724|http://drupal.org/node/847488|Patch,Vendor Advisory
+422|CVE-2009-4990|http://drupal.org/node/540980|Vendor Advisory
+423|CVE-2010-3022|http://drupal.org/node/874116|
+424|CVE-2010-3022|http://drupal.org/node/874130|Patch
+425|CVE-2010-3022|http://drupal.org/node/874132|Patch
+426|CVE-2010-3685,CVE-2010-3091,CVE-2010-3092,CVE-2010-3094,CVE-2010-3093,CVE-2010-3686|http://drupal.org/node/880476|Patch,Vendor Advisory
+427|CVE-2010-3685,CVE-2010-3091,CVE-2010-3686|http://drupal.org/node/880480|Patch,Vendor Advisory
+428|CVE-2010-3423|http://drupal.org/node/606290|Patch
+429|CVE-2010-3423|http://drupal.org/node/905686|Patch,Vendor Advisory
+430|CVE-2010-4519,CVE-2010-4520|http://drupal.org/node/829840|Patch,Vendor Advisory
+431|CVE-2010-4521|http://drupal.org/node/999380|Patch,Vendor Advisory
+432|CVE-2008-5996|http://drupal.org/node/312944|Patch,Vendor Advisory
+433|CVE-2008-5998,CVE-2008-5999|http://drupal.org/node/312968|Patch,Vendor Advisory
+434|CVE-2008-6020|http://drupal.org/node/347831|
+435|CVE-2008-6020|http://drupal.org/node/348321|Patch,Vendor Advisory
+436|CVE-2008-6134,CVE-2008-6135,CVE-2008-6136,CVE-2008-6137|http://drupal.org/node/318746|Vendor Advisory
+437|CVE-2008-6160|http://drupal.org/node/318749|Patch,Vendor Advisory
+438|CVE-2008-6169|http://drupal.org/node/324862|Patch,Vendor Advisory
+439|CVE-2008-6171,CVE-2008-6170|http://drupal.org/node/324824|Patch,Vendor Advisory
+440|CVE-2008-6171|http://drupal.org/files/sa-2008-067/SA-2008-067-5.11.patch|
+441|CVE-2008-6229|http://drupal.org/node/330546|Patch
+442|CVE-2008-6275,CVE-2008-6276|http://drupal.org/node/339553|Patch,Vendor Advisory
+443|CVE-2009-0382|http://drupal.org/node/358958|Patch,Vendor Advisory
+444|CVE-2009-0575|http://drupal.org/node/369223|Patch,Vendor Advisory
+445|CVE-2008-6383|http://drupal.org/node/342246|Patch,Vendor Advisory
+446|CVE-2008-6384|http://drupal.org/node/339495|Patch,Vendor Advisory
+447|CVE-2012-1056,CVE-2012-1057|http://drupal.org/node/1423722|Patch
+448|CVE-2012-1056,CVE-2012-1057|http://drupal.org/node/1425150|Patch,Vendor Advisory
+449|CVE-2012-1060|http://drupal.org/node/1431114|Patch
+450|CVE-2012-1060|http://drupal.org/node/1433550|Vendor Advisory
+451|CVE-2011-4113|http://drupal.org/node/1329842|Patch
+452|CVE-2011-4113|http://drupal.org/node/1329898|Patch
+453|CVE-2007-6752|http://drupal.org/node/144538|Vendor Advisory
+454|CVE-2007-6752|http://groups.drupal.org/node/216314|Vendor Advisory
+455|CVE-2012-2153,CVE-2012-1589,CVE-2012-1590,CVE-2012-1591,CVE-2012-1588|http://drupal.org/node/1557938|Vendor Advisory
+456|CVE-2012-2339|http://drupal.org/node/1568156|
+457|CVE-2012-2339|http://drupal.org/node/1569482|Vendor Advisory
+458|CVE-2012-2340|http://drupal.org/node/1569352|Patch
+459|CVE-2012-2340|http://drupal.org/node/1569508|Patch
+460|CVE-2012-2341|http://drupal.org/node/1243604|
+461|CVE-2012-2341|http://drupal.org/node/1569512|
+462|CVE-2012-2907|http://drupal.org/node/1585878|
+463|CVE-2012-2907|http://drupal.org/node/1585890|Vendor Advisory
+464|CVE-2010-2021|http://drupal.org/node/1633054|Patch,Vendor Advisory
+465|CVE-2010-2021|http://drupal.org/node/768244|
+466|CVE-2010-2021|https://drupal.org/node/1378116|Patch
+467|CVE-2010-2021|https://drupal.org/node/1378118|Patch
+468|CVE-2012-2702|http://drupal.org/node/1580752|Patch,Vendor Advisory
+469|CVE-2012-2702|http://drupal.org/node/1585532|Patch,Vendor Advisory
+470|CVE-2012-2703,CVE-2012-2704|http://drupal.org/node/1585544|Patch,Vendor Advisory
+471|CVE-2012-2703,CVE-2012-2704|https://drupal.org/node/1580376|Patch
+472|CVE-2012-2705|http://drupal.org/node/1568216|Patch
+473|CVE-2012-2705|http://drupal.org/node/1585564|Patch,Vendor Advisory
+474|CVE-2012-3802,CVE-2012-2706|http://drupal.org/node/1585648|Patch,Vendor Advisory
+475|CVE-2012-2707,CVE-2012-2708|http://drupal.org/node/1585658|Patch
+476|CVE-2012-2707,CVE-2012-2708|http://drupal.org/node/1585678|Vendor Advisory
+477|CVE-2012-2710|http://drupal.org/node/1585960|Patch,Vendor Advisory
+478|CVE-2012-2710|http://drupal.org/node/628480|Patch
+479|CVE-2012-2711|http://drupal.org/node/1595396|Patch
+480|CVE-2012-2711|http://drupal.org/node/1597262|Patch,Vendor Advisory
+481|CVE-2012-2712|http://drupal.org/node/1596524|Patch
+482|CVE-2012-2712|http://drupal.org/node/1597364|Patch,Vendor Advisory
+483|CVE-2012-2713,CVE-2012-2714|http://drupal.org/node/1597414|Patch,Vendor Advisory,Third Party Advisory
+484|CVE-2012-2713,CVE-2012-2714|https://drupal.org/node/1596464|Patch,Third Party Advisory
+485|CVE-2012-2715|http://drupal.org/node/1608730|Patch
+486|CVE-2012-2715|http://drupal.org/node/1608780|Patch,Vendor Advisory
+487|CVE-2012-2716|http://drupal.org/node/1538768|Patch
+488|CVE-2012-2716|http://drupal.org/node/1608822|Patch,Vendor Advisory
+489|CVE-2012-2717|http://drupal.org/node/1169008|Patch
+490|CVE-2012-2717|http://drupal.org/node/1608828|Patch,Vendor Advisory
+491|CVE-2012-2718|http://drupal.org/node/1608854|Vendor Advisory
+492|CVE-2012-2719|http://drupal.org/node/1598782|Patch
+493|CVE-2012-2719|http://drupal.org/node/1608864|Patch,Vendor Advisory
+494|CVE-2012-2720|http://drupal.org/node/1618476|Patch
+495|CVE-2012-2720|http://drupal.org/node/1619808|Patch,Vendor Advisory
+496|CVE-2012-2721,CVE-2012-3800|http://drupal.org/node/1619736|Patch
+497|CVE-2012-2721,CVE-2012-3800|http://drupal.org/node/1619810|Patch,Vendor Advisory
+498|CVE-2012-2722|http://drupal.org/node/1618428|Patch
+499|CVE-2012-2722|http://drupal.org/node/1618430|Patch
+500|CVE-2012-2722|http://drupal.org/node/1619824|Patch,Vendor Advisory
+501|CVE-2012-3799,CVE-2012-2723|http://drupal.org/node/1617952|Patch
+502|CVE-2012-3799,CVE-2012-2723|http://drupal.org/node/1619830|Patch,Vendor Advisory
+503|CVE-2012-2725|http://drupal.org/node/1619086|Patch
+504|CVE-2012-2725|http://drupal.org/node/1619852|Patch,Vendor Advisory
+505|CVE-2012-2726|http://drupal.org/node/1618090|Patch
+506|CVE-2012-2726|http://drupal.org/node/1618092|Patch
+507|CVE-2012-2726|http://drupal.org/node/1619856|Patch,Vendor Advisory
+508|CVE-2012-3798,CVE-2012-2727|http://drupal.org/node/1632702|Patch
+509|CVE-2012-3798,CVE-2012-2727|http://drupal.org/node/1632704|Patch
+510|CVE-2012-3798,CVE-2012-2727|http://drupal.org/node/1632734|Patch,Vendor Advisory
+511|CVE-2012-2728|http://drupal.org/node/1632432|Patch
+512|CVE-2012-2728|http://drupal.org/node/1632900|Patch,Vendor Advisory
+513|CVE-2012-2729|http://drupal.org/node/1534874|Patch
+514|CVE-2012-2729|http://drupal.org/node/1632908|Patch,Vendor Advisory
+515|CVE-2012-2730|http://drupal.org/node/1258034|Patch
+516|CVE-2012-2730|http://drupal.org/node/1632918|Patch,Vendor Advisory
+517|CVE-2012-2731|http://drupal.org/node/1619586|Patch
+518|CVE-2012-2731|http://drupal.org/node/1633048|Patch,Vendor Advisory
+519|CVE-2012-2296|http://drupal.org/node/1515114|Patch
+520|CVE-2012-2296|http://drupal.org/node/1515120|Patch
+521|CVE-2012-2296|http://drupal.org/node/1515282|Patch,Vendor Advisory
+522|CVE-2012-2302|http://drupal.org/node/1546224|
+523|CVE-2012-2302|http://drupal.org/node/1547686|Vendor Advisory
+524|CVE-2012-2303|http://drupal.org/node/1547730|Patch
+525|CVE-2012-2303|http://drupal.org/node/1547736|Patch
+526|CVE-2012-2305|http://drupal.org/node/1557852|Vendor Advisory
+527|CVE-2012-2307,CVE-2012-2306|http://drupal.org/node/1557868|Vendor Advisory
+528|CVE-2012-2308|http://drupal.org/node/1557872|Vendor Advisory
+529|CVE-2012-2309|http://drupal.org/node/1557874|Vendor Advisory
+530|CVE-2012-2310|http://drupal.org/node/1508098|
+531|CVE-2012-2310|http://drupal.org/node/1508100|
+532|CVE-2012-2310|http://drupal.org/node/1558248|Vendor Advisory
+533|CVE-2012-2096|http://drupal.org/node/1528600|Patch
+534|CVE-2012-2096|http://drupal.org/node/1528614|Patch,Vendor Advisory
+535|CVE-2012-2097|http://drupal.org/node/1525998|Patch
+536|CVE-2012-2097|http://drupal.org/node/1528864|Patch,Vendor Advisory
+537|CVE-2012-2097|http://drupal.org/node/1528906|Patch
+538|CVE-2012-2155,CVE-2012-2154|http://drupal.org/node/1506542|Patch,Vendor Advisory
+539|CVE-2012-1635|http://drupal.org/node/1407456|Patch
+540|CVE-2012-1635|https://drupal.org/node/1409268|Patch,Vendor Advisory
+541|CVE-2012-1561,CVE-2012-6645,CVE-2012-1641|http://drupal.org/node/1432318|Patch
+542|CVE-2012-1561,CVE-2012-6645,CVE-2012-1641|http://drupal.org/node/1432320|Patch,Vendor Advisory
+543|CVE-2012-1561,CVE-2012-6645,CVE-2012-1641|https://drupal.org/node/1432970|Patch,Vendor Advisory
+544|CVE-2012-1642|http://drupal.org/node/1440508|Patch
+545|CVE-2012-1642|https://drupal.org/node/1441252|Patch,Vendor Advisory
+546|CVE-2012-1643|http://drupal.org/node/1441556|Patch
+547|CVE-2012-1643|https://drupal.org/node/1441448|Patch,Vendor Advisory
+548|CVE-2012-1644|http://drupal.org/node/1441086|
+549|CVE-2012-1644|https://drupal.org/node/1441450|Patch,Vendor Advisory
+550|CVE-2012-1645|http://drupal.org/node/1441480|
+551|CVE-2012-1645|http://drupal.org/node/1441482|Patch
+552|CVE-2012-1645|https://drupal.org/node/1441502|Patch,Vendor Advisory
+553|CVE-2012-1647,CVE-2012-1650|https://drupal.org/node/1460892|Patch
+554|CVE-2012-1647|https://drupal.org/node/1460894|Patch
+555|CVE-2012-1647|https://drupal.org/node/1461424|Patch,Vendor Advisory
+556|CVE-2012-1650|https://drupal.org/node/1461446|Patch,Vendor Advisory
+557|CVE-2012-2070|http://drupal.org/node/1505410|Patch
+558|CVE-2012-2070|http://drupal.org/node/1505414|Patch
+559|CVE-2012-2070|http://drupal.org/node/1506390|Patch,Vendor Advisory
+560|CVE-2012-2071|http://drupal.org/node/1506330|Patch
+561|CVE-2012-2071|http://drupal.org/node/1506404|Patch,Vendor Advisory
+562|CVE-2012-2072|http://drupal.org/node/1083664|Patch
+563|CVE-2012-2072|http://drupal.org/node/1506412|Patch,Vendor Advisory
+564|CVE-2012-2073|http://drupal.org/node/1506166|Patch
+565|CVE-2012-2073|http://drupal.org/node/1506420|Patch,Vendor Advisory
+566|CVE-2012-2074|http://drupal.org/node/1505210|Patch
+567|CVE-2012-2074|http://drupal.org/node/1506428|Patch,Vendor Advisory
+568|CVE-2012-2075|http://drupal.org/node/1506438|Patch,Vendor Advisory
+569|CVE-2012-2075|http://drupal.org/node/953788|Patch
+570|CVE-2012-2076,CVE-2012-2077|http://drupal.org/node/1504746|
+571|CVE-2012-2076,CVE-2012-2077|http://drupal.org/node/1506448|Patch,Vendor Advisory
+572|CVE-2012-2080|http://drupal.org/node/1506594|Patch
+573|CVE-2012-2080|http://drupal.org/node/1506728|Patch,Vendor Advisory
+574|CVE-2012-2081|http://drupal.org/node/1507328|
+575|CVE-2012-2081|http://drupal.org/node/1507446|Patch,Vendor Advisory
+576|CVE-2012-2082|http://drupal.org/node/1507412|Patch
+577|CVE-2012-2082|http://drupal.org/node/1507466|Patch,Vendor Advisory
+578|CVE-2012-2083|http://drupal.org/node/1506600|
+579|CVE-2012-2083|http://drupal.org/node/1507510|
+580|CVE-2012-2116|http://drupal.org/node/1538198|
+581|CVE-2012-2117|http://drupal.org/node/1515084|Patch
+582|CVE-2012-2117|http://drupal.org/node/1538704|Patch,Vendor Advisory
+583|CVE-2012-2297|http://drupal.org/node/1547478|
+584|CVE-2012-2297|http://drupal.org/node/1547520|
+585|CVE-2012-2298|http://drupal.org/node/1547352|Patch
+586|CVE-2012-2298|http://drupal.org/node/1547660|Patch,Vendor Advisory
+587|CVE-2012-2304|http://drupal.org/node/1547716|Patch
+588|CVE-2012-2304|http://drupal.org/node/1547738|Vendor Advisory
+589|CVE-2012-1591,CVE-2012-1590,CVE-2012-1588,CVE-2012-2153|http://drupal.org/drupal-7.14|Patch,Vendor Advisory
+590|CVE-2012-2153|http://drupal.org/node/1558478|
+591|CVE-2011-5187|http://drupal.org/node/1357300|Patch
+592|CVE-2011-5187|http://drupal.org/node/1357378|Patch,Vendor Advisory
+593|CVE-2011-5188|http://drupal.org/node/1357278|Patch
+594|CVE-2011-5188|http://drupal.org/node/1357384|Patch,Vendor Advisory
+595|CVE-2011-5189|http://drupal.org/node/1357354|Patch
+596|CVE-2011-5189|http://drupal.org/node/1357356|Patch
+597|CVE-2011-5189|http://drupal.org/node/1357360|Patch,Vendor Advisory
+598|CVE-2012-1588|http://drupal.org/node/1558468|Vendor Advisory
+599|CVE-2012-1590|http://drupal.org/node/1302404|Patch
+600|CVE-2012-1591|http://drupal.org/node/1507988|
+601|CVE-2012-5007,CVE-2012-1625|http://drupal.org/node/1394428|Patch,Vendor Advisory
+602|CVE-2012-1626|http://drupal.org/node/1401026|Patch
+603|CVE-2012-1626|http://drupal.org/node/1401434|Patch,Vendor Advisory
+604|CVE-2012-1627|http://drupal.org/node/1400528|Patch
+605|CVE-2012-1627|http://drupal.org/node/1400530|Patch
+606|CVE-2012-1627|http://drupal.org/node/1401580|Patch,Vendor Advisory
+607|CVE-2012-1631,CVE-2012-1630,CVE-2012-1629,CVE-2012-1628|http://drupal.org/node/1401644|Patch,Vendor Advisory
+608|CVE-2012-1631|http://drupal.org/node/1407206|Vendor Advisory
+609|CVE-2012-1633,CVE-2012-1632|http://drupal.org/node/1401678|Patch,Vendor Advisory
+610|CVE-2012-1638|http://drupal.org/node/1410674|Patch
+611|CVE-2012-1638|http://drupal.org/node/1416612|Patch,Vendor Advisory
+612|CVE-2012-1640|http://drupal.org/node/1417000|Patch,Vendor Advisory
+613|CVE-2012-1646|http://drupal.org/node/1451194|Vendor Advisory
+614|CVE-2012-1648,CVE-2012-1649|http://drupal.org/node/1417186|Patch
+615|CVE-2012-1648,CVE-2012-1649|http://drupal.org/node/1461438|Vendor Advisory
+616|CVE-2012-1651|http://drupal.org/node/1132838|Patch
+617|CVE-2012-1651|http://drupal.org/node/1461470|Patch,Vendor Advisory
+618|CVE-2012-1652|http://drupal.org/node/1461318|Patch
+619|CVE-2012-1652|http://drupal.org/node/1461724|Patch
+620|CVE-2012-1653|http://drupal.org/node/1306946|Patch
+621|CVE-2012-1653|http://drupal.org/node/1461892|Patch
+622|CVE-2012-1654|http://drupal.org/node/1470980|Patch
+623|CVE-2012-1654|http://drupal.org/node/1470982|Patch
+624|CVE-2012-1654|http://drupal.org/node/1471780|Vendor Advisory
+625|CVE-2012-1655,CVE-2012-1656|http://drupal.org/node/1471800|Vendor Advisory
+626|CVE-2012-1657|http://drupal.org/node/1471090|Patch
+627|CVE-2012-1657|http://drupal.org/node/1471808|Patch,Vendor Advisory
+628|CVE-2012-1658|http://drupal.org/node/1471080|Patch
+629|CVE-2012-1658|http://drupal.org/node/1471822|Patch,Vendor Advisory
+630|CVE-2012-1659|http://drupal.org/node/1471906|
+631|CVE-2012-1659|http://drupal.org/node/1471940|Patch,Vendor Advisory
+632|CVE-2012-1660|http://drupal.org/node/1472178|Patch
+633|CVE-2012-1660|http://drupal.org/node/1472180|Patch
+634|CVE-2012-1660|http://drupal.org/node/1472214|Patch,Vendor Advisory
+635|CVE-2012-2057,CVE-2012-2059,CVE-2012-2060,CVE-2012-2062,CVE-2012-2056,CVE-2012-2061,CVE-2012-2058|http://drupal.org/node/1482126|Vendor Advisory
+636|CVE-2012-2063|http://drupal.org/node/1482166|Patch
+637|CVE-2012-2063|http://drupal.org/node/1482342|Vendor Advisory
+638|CVE-2012-2064|http://drupal.org/node/1482420|Patch,Vendor Advisory
+639|CVE-2012-2065|http://drupal.org/node/1482136|Patch
+640|CVE-2012-2065|http://drupal.org/node/1482144|Patch
+641|CVE-2012-2065|http://drupal.org/node/1482428|Patch,Vendor Advisory
+642|CVE-2012-2066,CVE-2012-2067|http://drupal.org/node/1482442|Patch
+643|CVE-2012-2066,CVE-2012-2067|http://drupal.org/node/1482466|Patch
+644|CVE-2012-2066,CVE-2012-2067|http://drupal.org/node/1482480|Patch
+645|CVE-2012-2066,CVE-2012-2067|http://drupal.org/node/1482528|Patch,Vendor Advisory
+646|CVE-2012-2068|http://drupal.org/node/1417688|Patch
+647|CVE-2012-2068|http://drupal.org/node/1482744|Patch,Vendor Advisory
+648|CVE-2012-2069|http://drupal.org/node/1483634|Patch
+649|CVE-2012-2069|http://drupal.org/node/1483636|Patch
+650|CVE-2012-2069|http://drupal.org/node/1492624|Patch,Vendor Advisory
+651|CVE-2010-5275,CVE-2010-5276|http://drupal.org/node/926478|Patch
+652|CVE-2010-5275,CVE-2010-5276|http://drupal.org/node/927016|Patch,Vendor Advisory
+653|CVE-2010-5277|http://drupal.org/node/933596|Patch
+654|CVE-2010-5277|http://drupal.org/node/933960|Patch,Vendor Advisory
+655|CVE-2012-1623|http://drupal.org/node/1394172|Patch,Vendor Advisory
+656|CVE-2012-1624|http://drupal.org/node/1394220|
+657|CVE-2012-1624|http://drupal.org/node/1394412|
+658|CVE-2012-1634|http://drupal.org/node/1401838|Patch,Vendor Advisory
+659|CVE-2012-1636,CVE-2012-5233|http://drupal.org/node/1408556|Patch
+660|CVE-2012-1636,CVE-2012-5233|http://drupal.org/node/1409422|Patch,Vendor Advisory
+661|CVE-2012-1639|http://drupal.org/node/1416824|Patch,Vendor Advisory
+662|CVE-2012-4482,CVE-2012-4483|http://drupal.org/node/1679820|Vendor Advisory
+663|CVE-2012-4483|http://drupal.org/node/1679908|Patch
+664|CVE-2012-4484|http://drupal.org/node/1689790|Patch
+665|CVE-2012-4484|http://drupal.org/node/1691446|Patch,Vendor Advisory
+666|CVE-2012-4485|http://drupal.org/node/1699744|Patch
+667|CVE-2012-4485|http://drupal.org/node/1700578|Vendor Advisory
+668|CVE-2012-4488|http://drupal.org/node/1699962|Patch
+669|CVE-2012-4488|http://drupal.org/node/1699984|Patch
+670|CVE-2012-4488|http://drupal.org/node/1700588|Vendor Advisory
+671|CVE-2012-4489|http://drupal.org/node/1700594|Patch,Vendor Advisory
+672|CVE-2012-4489|https://drupal.org/node/1692976|Patch,Vendor Advisory
+673|CVE-2012-4489|https://drupal.org/node/1698988|Patch
+674|CVE-2012-4490|http://drupal.org/node/1702984|Patch
+675|CVE-2012-4490|http://drupal.org/node/1708058|Vendor Advisory
+676|CVE-2012-4491|http://drupal.org/node/1708198|Vendor Advisory
+677|CVE-2012-4492,CVE-2012-4494|http://drupal.org/node/1719392|Vendor Advisory
+678|CVE-2012-4492|https://drupal.org/node/1719306|Patch
+679|CVE-2012-4492|https://drupal.org/node/1719310|Patch
+680|CVE-2012-4494|http://drupal.org/node/1493244|
+681|CVE-2012-4495|http://drupal.org/node/1719446|Patch
+682|CVE-2012-4495|http://drupal.org/node/1719482|Patch,Vendor Advisory
+683|CVE-2012-4496|http://drupal.org/node/1730766|Patch
+684|CVE-2012-4496|https://drupal.org/node/1732980|
+685|CVE-2012-4499|http://drupal.org/node/1761948|Patch
+686|CVE-2012-4499|http://drupal.org/node/1761968|Patch
+687|CVE-2012-4499|http://drupal.org/node/1762470|Patch,Vendor Advisory
+688|CVE-2012-4500|http://drupal.org/node/1761038|Patch
+689|CVE-2012-4500|http://drupal.org/node/1762480|Patch,Vendor Advisory
+690|CVE-2012-4553|http://drupal.org/node/1815904|Patch
+691|CVE-2012-4553,CVE-2012-4554|http://drupal.org/node/1815912|Patch,Vendor Advisory
+692|CVE-2012-5704,CVE-2012-5705|http://drupal.org/node/1732828|Patch
+693|CVE-2012-5704,CVE-2012-5705|http://drupal.org/node/1732946|Patch,Vendor Advisory
+694|CVE-2012-2084|http://drupal.org/node/1515060|Patch
+695|CVE-2012-2084|http://drupal.org/node/1515076|Patch
+696|CVE-2012-2084|http://drupal.org/node/1515722|Patch,Vendor Advisory
+697|CVE-2012-4468|http://drupal.org/node/1649338|Patch
+698|CVE-2012-4468|http://drupal.org/node/1649346|Patch,Vendor Advisory
+699|CVE-2012-4469|http://drupal.org/node/1650784|Patch
+700|CVE-2012-4469|http://drupal.org/node/1650790|Patch
+701|CVE-2012-4469|http://drupal.org/node/1663306|Patch,Vendor Advisory
+702|CVE-2012-4470|http://drupal.org/node/1679412|Patch,Vendor Advisory
+703|CVE-2012-4470|http://drupal.org/node/1819780|Patch
+704|CVE-2012-4471|http://drupal.org/node/1649442|Patch
+705|CVE-2012-4471|http://drupal.org/node/1679422|Patch,Vendor Advisory
+706|CVE-2012-4478,CVE-2012-4476,CVE-2012-4479,CVE-2012-4477,CVE-2012-4472|http://drupal.org/node/1679442|Patch,Vendor Advisory
+707|CVE-2012-4473|http://drupal.org/node/1662724|
+708|CVE-2012-4473|http://drupal.org/node/1679466|Patch,Vendor Advisory
+709|CVE-2012-4474|http://drupal.org/node/1679410|Patch
+710|CVE-2012-4474|http://drupal.org/node/1679486|Patch,Vendor Advisory
+711|CVE-2012-4475|http://drupal.org/node/1648200|
+712|CVE-2012-4475|http://drupal.org/node/1648204|Patch
+713|CVE-2012-4475|http://drupal.org/node/1679532|Patch,Vendor Advisory
+714|CVE-2012-4487,CVE-2012-4486|http://drupal.org/node/1700550|Patch
+715|CVE-2012-4487,CVE-2012-4486|http://drupal.org/node/1700584|Patch,Vendor Advisory
+716|CVE-2012-4493|http://drupal.org/node/1713378|Patch
+717|CVE-2012-4493|http://drupal.org/node/1719402|Patch,Vendor Advisory
+718|CVE-2012-4497|http://drupal.org/node/1722880|Patch
+719|CVE-2012-4497|http://drupal.org/node/1733056|Patch,Vendor Advisory
+720|CVE-2012-4498|http://drupal.org/node/1762152|Patch
+721|CVE-2012-4498|http://drupal.org/node/1762160|Patch,Vendor Advisory
+722|CVE-2012-5537|http://drupal.org/node/1789274|Patch
+723|CVE-2012-5537|http://drupal.org/node/1789284|Patch,Vendor Advisory
+724|CVE-2012-5538|http://drupal.org/node/1789300|Patch
+725|CVE-2012-5538|http://drupal.org/node/1789302|Patch
+726|CVE-2012-5538|http://drupal.org/node/1789306|Patch,Vendor Advisory
+727|CVE-2012-5539|http://drupal.org/node/1795906|Patch
+728|CVE-2012-5539|http://drupal.org/node/1796036|Patch,Vendor Advisory
+729|CVE-2012-5540|http://drupal.org/node/1802046|Patch
+730|CVE-2012-5540|http://drupal.org/node/1802048|Patch
+731|CVE-2012-5540|http://drupal.org/node/1802218|Patch,Vendor Advisory
+732|CVE-2012-5541|http://drupal.org/node/1801442|Patch
+733|CVE-2012-5541|http://drupal.org/node/1801444|Patch
+734|CVE-2012-5541|http://drupal.org/node/1802230|Patch,Vendor Advisory
+735|CVE-2012-5542|http://drupal.org/node/1802192|
+736|CVE-2012-5542|http://drupal.org/node/1802258|Patch,Vendor Advisory
+737|CVE-2012-5543|http://drupal.org/node/1808832|Patch,Vendor Advisory
+738|CVE-2012-5544|http://drupal.org/node/1807894|Patch
+739|CVE-2012-5544|http://drupal.org/node/1808846|Patch,Vendor Advisory
+740|CVE-2012-5545|http://drupal.org/node/1808760|Patch
+741|CVE-2012-5545|http://drupal.org/node/1808856|Patch,Vendor Advisory
+742|CVE-2012-5547|http://drupal.org/node/1815124|Patch
+743|CVE-2012-5547|http://drupal.org/node/1815770|Patch,Vendor Advisory
+744|CVE-2012-5549,CVE-2012-5548,CVE-2012-5550|http://drupal.org/node/1822066|Patch,Vendor Advisory
+745|CVE-2012-5551|http://drupal.org/node/1821330|Patch
+746|CVE-2012-5551|http://drupal.org/node/1822166|Patch,Vendor Advisory
+747|CVE-2012-5552|http://drupal.org/node/1828130|Patch
+748|CVE-2012-5552|http://drupal.org/node/1828142|Patch
+749|CVE-2012-5552|http://drupal.org/node/1828340|Patch,Vendor Advisory
+750|CVE-2012-6065,CVE-2012-5553|http://drupal.org/node/1834046|Patch
+751|CVE-2012-6065,CVE-2012-5553|http://drupal.org/node/1834048|Patch
+752|CVE-2012-5553|http://drupal.org/node/1834866|Patch,Vendor Advisory
+753|CVE-2012-5554|http://drupal.org/node/1768632|
+754|CVE-2012-5554|http://drupal.org/node/1774252|Patch
+755|CVE-2012-5554|http://drupal.org/node/1834868|Patch,Vendor Advisory
+756|CVE-2012-5556|http://drupal.org/node/1840722|Patch
+757|CVE-2012-5556|http://drupal.org/node/1840728|Patch
+758|CVE-2012-5556|http://drupal.org/node/1840740|Patch,Vendor Advisory
+759|CVE-2012-5557|http://drupal.org/node/1840038|Patch
+760|CVE-2012-5557|http://drupal.org/node/1840054|Patch
+761|CVE-2012-5557|http://drupal.org/node/1840886|Patch,Vendor Advisory
+762|CVE-2012-5559|http://drupal.org/node/1840992|Patch,Vendor Advisory
+763|CVE-2012-5559|http://drupal.org/node/1841030|Patch
+764|CVE-2012-5569|http://drupal.org/node/1808852|Patch,Vendor Advisory
+765|CVE-2012-5570,CVE-2012-5569|https://drupal.org/node/1808616|Patch,Vendor Advisory,Release Notes
+766|CVE-2012-5584|http://drupal.org/node/1841026|Patch
+767|CVE-2012-5584|http://drupal.org/node/1841046|Patch,Vendor Advisory
+768|CVE-2012-5585|http://drupal.org/node/1762886|
+769|CVE-2012-5585|http://drupal.org/node/1852098|Patch
+770|CVE-2012-5585|http://drupal.org/node/1853198|Patch,Vendor Advisory
+771|CVE-2012-5586|http://drupal.org/node/1842022|Patch
+772|CVE-2012-5586|http://drupal.org/node/1842026|Patch
+773|CVE-2012-5586|http://drupal.org/node/1853200|Patch,Vendor Advisory
+774|CVE-2012-5588,CVE-2012-5587|http://drupal.org/node/1852612|Patch
+775|CVE-2012-5588,CVE-2012-5587|http://drupal.org/node/1853214|Patch,Vendor Advisory
+776|CVE-2012-5589|http://drupal.org/node/1289292|Patch
+777|CVE-2012-5589|http://drupal.org/node/1289294|Patch
+778|CVE-2012-5589|http://drupal.org/node/1853244|Patch,Vendor Advisory
+779|CVE-2012-5590|http://drupal.org/node/1853268|Vendor Advisory
+780|CVE-2012-5591|http://drupal.org/node/1853350|Patch
+781|CVE-2012-5591|http://drupal.org/node/1853358|Patch
+782|CVE-2012-5591|http://drupal.org/node/1853376|Patch,Vendor Advisory
+783|CVE-2015-7876|https://www.drupal.org/node/2569003|Patch
+784|CVE-2015-7876|https://www.drupal.org/node/2569005|Patch
+785|CVE-2015-7876|https://www.drupal.org/node/2569577|Patch
+786|CVE-2015-7881|https://www.drupal.org/node/2578165|Patch
+787|CVE-2015-7881|https://www.drupal.org/node/2582071|Patch,Vendor Advisory
+788|CVE-2015-8081|https://www.drupal.org/node/2603420|Patch
+789|CVE-2015-8081|https://www.drupal.org/node/2603560|Patch,Vendor Advisory
+790|CVE-2015-8082|https://www.drupal.org/node/2303503|
+791|CVE-2015-8082|https://www.drupal.org/node/2571567|Patch
+792|CVE-2015-8082|https://www.drupal.org/node/2587641|Patch
+793|CVE-2015-8082|https://www.drupal.org/node/2587643|
+794|CVE-2015-8082|https://www.drupal.org/node/2608356|Patch,Vendor Advisory
+795|CVE-2015-8095|https://www.drupal.org/node/2608382|Patch,Vendor Advisory
+796|CVE-2015-8095|https://www.drupal.org/node/2608414|Patch
+797|CVE-2015-8232|https://www.drupal.org/node/2612812|Patch
+798|CVE-2015-8232|https://www.drupal.org/node/2613444|Patch,Vendor Advisory
+799|CVE-2015-8233|https://www.drupal.org/node/2613046|Patch
+800|CVE-2015-8233|https://www.drupal.org/node/2613048|Patch
+801|CVE-2015-8233|https://www.drupal.org/node/2613424|Patch,Vendor Advisory
+802|CVE-2015-8601|https://www.drupal.org/node/2627428|Patch
+803|CVE-2015-8601|https://www.drupal.org/node/2627478|Patch,Vendor Advisory
+804|CVE-2015-8602|https://www.drupal.org/node/2571905|Patch
+805|CVE-2015-8602|https://www.drupal.org/node/2627638|Patch,Vendor Advisory
+806|CVE-2014-1607|https://groups.drupal.org/node/402023|
+807|CVE-2014-1611|https://drupal.org/node/2173321|Patch,Vendor Advisory
+808|CVE-2014-1611|https://drupal.org/node/2173437|Patch
+809|CVE-2014-1475,CVE-2014-1476|https://drupal.org/SA-CORE-2014-001|Vendor Advisory
+810|CVE-2013-0244,CVE-2013-0245,CVE-2013-0246|https://drupal.org/SA-CORE-2013-001|Patch,Vendor Advisory
+811|CVE-2013-4383|https://drupal.org/node/2087089|Patch
+812|CVE-2013-4383|https://drupal.org/node/2087095|Patch,Vendor Advisory
+813|CVE-2013-4499|https://drupal.org/node/2118867|Patch
+814|CVE-2013-4499|https://drupal.org/node/2118873|Patch,Vendor Advisory
+815|CVE-2013-1946|https://drupal.org/node/1966752|
+816|CVE-2013-1946|https://drupal.org/node/1966758|Patch,Vendor Advisory
+817|CVE-2013-1946|https://drupal.org/node/1966780|Patch,Vendor Advisory
+818|CVE-2013-7063|https://drupal.org/node/2140097|Vendor Advisory
+819|CVE-2013-7302|https://drupal.org/node/2158565|Patch
+820|CVE-2013-7302|https://drupal.org/node/2158567|Patch
+821|CVE-2013-7302|https://drupal.org/node/2158651|Patch,Vendor Advisory
+822|CVE-2014-2983|https://drupal.org/SA-CORE-2014-002|Patch,Vendor Advisory
+823|CVE-2013-7064|https://drupal.org/node/2139875|Patch
+824|CVE-2013-7064|https://drupal.org/node/2140123|Patch,Vendor Advisory
+825|CVE-2013-7068,CVE-2013-7065|https://drupal.org/node/2140209|Patch
+826|CVE-2013-7068,CVE-2013-7065|https://drupal.org/node/2140217|Patch,Vendor Advisory
+827|CVE-2013-7066|https://drupal.org/node/2140229|Patch
+828|CVE-2013-7066|https://drupal.org/node/2140237|Patch,Vendor Advisory
+829|CVE-2013-4177,CVE-2013-4178|https://drupal.org/node/1995482|Patch
+830|CVE-2013-4177,CVE-2013-4178|https://drupal.org/node/1995634|Patch
+831|CVE-2013-4177,CVE-2013-4178|https://drupal.org/node/1995706|Patch,Vendor Advisory
+832|CVE-2013-4380|https://drupal.org/node/2086187|Patch
+833|CVE-2013-4380|https://drupal.org/node/2086189|Patch
+834|CVE-2013-4380|https://drupal.org/node/2086191|Patch
+835|CVE-2013-4380|https://drupal.org/node/2087051|Patch,Vendor Advisory
+836|CVE-2013-4598|https://drupal.org/node/2132747|Patch,Third Party Advisory
+837|CVE-2013-4598|https://drupal.org/node/2135267|Patch,Third Party Advisory
+838|CVE-2013-4498|https://drupal.org/node/2118717|Patch,Vendor Advisory
+839|CVE-2013-4498|https://drupal.org/node/2118745|Patch
+840|CVE-2013-4500,CVE-2013-4501|https://drupal.org/node/2123727|Patch
+841|CVE-2013-4500,CVE-2013-4501|https://drupal.org/node/2123995|Patch,Vendor Advisory
+842|CVE-2013-4502|https://drupal.org/node/2124217|Patch
+843|CVE-2013-4502|https://drupal.org/node/2124219|Patch
+844|CVE-2013-4502|https://drupal.org/node/2124241|Patch,Vendor Advisory
+845|CVE-2013-4503|https://drupal.org/node/2124279|Vendor Advisory
+846|CVE-2013-4504|https://drupal.org/node/2123287|Patch
+847|CVE-2013-4504|https://drupal.org/node/2124289|Patch,Vendor Advisory
+848|CVE-2013-4406|https://drupal.org/node/2103113|Patch
+849|CVE-2013-4406|https://drupal.org/node/2103121|Patch
+850|CVE-2013-4406|https://drupal.org/node/2103127|Patch
+851|CVE-2013-4406|https://drupal.org/node/2103187|Patch,Vendor Advisory
+852|CVE-2014-4505|https://www.drupal.org/node/2286121|Patch
+853|CVE-2014-4505|https://www.drupal.org/node/2288353|Patch,Vendor Advisory
+854|CVE-2014-4506|https://www.drupal.org/node/2288415|Patch
+855|CVE-2014-4506|https://www.drupal.org/node/2288417|Patch
+856|CVE-2014-4506|https://www.drupal.org/node/2288429|Patch,Vendor Advisory
+857|CVE-2014-4303|https://drupal.org/node/2269483|Patch,Third Party Advisory
+858|CVE-2014-4303|https://drupal.org/node/2284415|Patch,Third Party Advisory
+859|CVE-2013-1973|https://drupal.org/node/1971848|Patch
+860|CVE-2013-1973|https://drupal.org/node/1971856|Patch
+861|CVE-2013-1973|https://drupal.org/node/1972976|Patch,Vendor Advisory
+862|CVE-2013-4597|https://drupal.org/node/2133555|Patch
+863|CVE-2013-4597|https://drupal.org/node/2135257|Vendor Advisory
+864|CVE-2013-4599|https://drupal.org/node/2134409|Patch
+865|CVE-2013-4599|https://drupal.org/node/2134413|Patch
+866|CVE-2013-4599|https://drupal.org/node/2135273|Vendor Advisory
+867|CVE-2014-3933|https://drupal.org/node/2267475|Patch
+868|CVE-2014-3933|https://drupal.org/node/2267485|Patch,Vendor Advisory
+869|CVE-2013-4595|https://drupal.org/node/2128739|Patch
+870|CVE-2013-4595|https://drupal.org/node/2129381|Vendor Advisory
+871|CVE-2013-4596|https://drupal.org/node/2125239|Patch
+872|CVE-2013-4596|https://drupal.org/node/2129379|Patch,Vendor Advisory
+873|CVE-2013-7391,CVE-2013-4273|https://drupal.org/node/2065197|Patch
+874|CVE-2013-7391,CVE-2013-4273|https://drupal.org/node/2065207|Patch,Vendor Advisory
+875|CVE-2014-5020,CVE-2014-5022,CVE-2014-5021,CVE-2014-5019|https://www.drupal.org/SA-CORE-2014-003|Patch,Vendor Advisory
+876|CVE-2013-1780|http://drupal.org/node/1929390|Patch
+877|CVE-2013-1780|http://drupal.org/node/1929484|Patch,Vendor Advisory
+878|CVE-2013-1781|http://drupal.org/node/1730768|Patch
+879|CVE-2013-1781|http://drupal.org/node/1929486|Patch,Vendor Advisory
+880|CVE-2013-1782|http://drupal.org/node/1929396|Patch
+881|CVE-2013-1782|http://drupal.org/node/1929488|Patch,Vendor Advisory
+882|CVE-2013-1783|http://drupal.org/node/1723246|Patch
+883|CVE-2013-1783|http://drupal.org/node/1929496|Patch,Vendor Advisory
+884|CVE-2013-1784|http://drupal.org/node/1723532|Patch
+885|CVE-2013-1784|http://drupal.org/node/1929500|Patch,Vendor Advisory
+886|CVE-2013-1785|http://drupal.org/node/1730752|Patch
+887|CVE-2013-1785|http://drupal.org/node/1929508|Patch,Vendor Advisory
+888|CVE-2013-1786|http://drupal.org/node/1724232|Patch
+889|CVE-2013-1786|http://drupal.org/node/1929512|Patch,Vendor Advisory
+890|CVE-2013-1787|http://drupal.org/node/1730786|Patch
+891|CVE-2013-1787|http://drupal.org/node/1929514|Patch,Vendor Advisory
+892|CVE-2013-2715,CVE-2013-0181|https://drupal.org/node/1884076|Patch
+893|CVE-2013-2715,CVE-2013-0181|https://drupal.org/node/1884332|Patch,Vendor Advisory
+894|CVE-2013-0182|http://drupal.org/node/1871508|
+895|CVE-2013-0182|http://drupal.org/node/1883830|Patch
+896|CVE-2013-0182|https://drupal.org/node/1884360|Patch,Vendor Advisory
+897|CVE-2013-0205|https://drupal.org/node/1890212|Patch
+898|CVE-2013-0205|https://drupal.org/node/1890216|Patch
+899|CVE-2013-0205|https://drupal.org/node/1890222|Vendor Advisory
+900|CVE-2013-0206|http://drupal.org/node/1883976|
+901|CVE-2013-0206|http://drupal.org/node/1883978|
+902|CVE-2013-0206|https://drupal.org/node/1890318|Patch,Vendor Advisory
+903|CVE-2013-0224|https://drupal.org/node/1895234|Patch
+904|CVE-2013-0224|https://drupal.org/node/1896714|Patch,Vendor Advisory
+905|CVE-2013-0225|https://drupal.org/node/1896272|Patch
+906|CVE-2013-0225|https://drupal.org/node/1896276|Patch
+907|CVE-2013-0225|https://drupal.org/node/1896720|Patch,Vendor Advisory
+908|CVE-2013-0226|https://drupal.org/node/1896752|
+909|CVE-2013-0227|https://drupal.org/node/1896756|Patch
+910|CVE-2013-0227|https://drupal.org/node/1896782|Patch,Vendor Advisory
+911|CVE-2013-0257|http://drupal.org/node/1903264|Patch,Vendor Advisory
+912|CVE-2013-0258|http://drupal.org/node/1902102|Patch
+913|CVE-2013-0258|http://drupal.org/node/1903282|Patch,Vendor Advisory
+914|CVE-2013-0259|http://drupal.org/node/1897016|
+915|CVE-2013-0259|http://drupal.org/node/1903300|Patch,Vendor Advisory
+916|CVE-2013-0260|http://drupal.org/node/1903324|Vendor Advisory
+917|CVE-2013-0316|http://drupal.org/SA-CORE-2013-002|Patch,Vendor Advisory
+918|CVE-2013-0317|http://drupal.org/node/1915408|Patch
+919|CVE-2013-0317|http://drupal.org/node/1916312|Patch,Vendor Advisory
+920|CVE-2013-0318|http://drupal.org/node/1916370|Vendor Advisory
+921|CVE-2013-0319|http://drupal.org/node/1921340|Patch
+922|CVE-2013-0319|http://drupal.org/node/1921342|Patch
+923|CVE-2013-0319|http://drupal.org/node/1922400|Patch,Vendor Advisory
+924|CVE-2013-0320|http://drupal.org/node/1922168|Patch
+925|CVE-2013-0320|http://drupal.org/node/1922170|Patch
+926|CVE-2013-0320|http://drupal.org/node/1922410|Patch,Vendor Advisory
+927|CVE-2013-0321|http://drupal.org/node/1922128|Patch
+928|CVE-2013-0321|http://drupal.org/node/1922416|Patch,Vendor Advisory
+929|CVE-2013-0322|http://drupal.org/node/1922136|Patch
+930|CVE-2013-0322|http://drupal.org/node/1922418|Patch,Vendor Advisory
+931|CVE-2013-0323|http://drupal.org/node/1922424|Patch
+932|CVE-2013-0323|http://drupal.org/node/1922430|Patch
+933|CVE-2013-0323|http://drupal.org/node/1922438|Patch,Vendor Advisory
+934|CVE-2013-0324|http://drupal.org/node/1922434|Patch
+935|CVE-2013-0324|http://drupal.org/node/1922446|Patch,Vendor Advisory
+936|CVE-2013-1778|http://drupal.org/node/1929380|Patch
+937|CVE-2013-1778|http://drupal.org/node/1929474|Vendor Advisory
+938|CVE-2013-1779|http://drupal.org/node/1723316|
+939|CVE-2013-1779|http://drupal.org/node/1929482|Patch,Vendor Advisory
+940|CVE-2013-1859|http://drupal.org/node/1942330|Vendor Advisory
+941|CVE-2013-1887|http://drupal.org/node/1948354|Patch
+942|CVE-2013-1887|http://drupal.org/node/1948358|Patch,Vendor Advisory
+943|CVE-2013-0325|http://drupal.org/node/1922726|Patch
+944|CVE-2013-0325|http://drupal.org/node/1922730|Patch
+945|CVE-2013-0325|http://drupal.org/node/1922756|Patch,Vendor Advisory
+946|CVE-2013-0207|https://drupal.org/node/1890538|Vendor Advisory
+947|CVE-2013-0207|https://drupal.org/node/1890566|
+948|CVE-2012-6572|https://drupal.org/node/1782286|
+949|CVE-2012-6572|https://drupal.org/node/1782686|
+950|CVE-2012-6573|https://drupal.org/node/1762684|Patch,Vendor Advisory
+951|CVE-2012-6573|https://drupal.org/node/1762686|Patch,Vendor Advisory
+952|CVE-2012-6573|https://drupal.org/node/1762734|Patch,Vendor Advisory
+953|CVE-2012-6574|https://drupal.org/node/1778782|
+954|CVE-2012-6574|https://drupal.org/node/1789258|Patch,Vendor Advisory
+955|CVE-2012-6575|https://drupal.org/node/1774636|Patch
+956|CVE-2012-6575|https://drupal.org/node/1775582|Patch,Vendor Advisory
+957|CVE-2012-6576|https://drupal.org/node/1778778|
+958|CVE-2012-6576|https://drupal.org/node/1789252|Vendor Advisory
+959|CVE-2013-1393|https://drupal.org/node/1896718|Vendor Advisory
+960|CVE-2013-1905|http://drupal.org/node/1954588|Patch,Vendor Advisory
+961|CVE-2013-1905|https://drupal.org/node/1953840|Patch
+962|CVE-2013-1906|https://drupal.org/node/1954508|
+963|CVE-2013-1906|https://drupal.org/node/1954592|
+964|CVE-2013-1971|https://drupal.org/node/1972804|Vendor Advisory
+965|CVE-2013-1972|https://drupal.org/node/1972082|Vendor Advisory
+966|CVE-2013-1972|https://drupal.org/node/1972084|
+967|CVE-2013-1972|https://drupal.org/node/1972942|
+968|CVE-2013-2036|https://drupal.org/node/1983356|Vendor Advisory
+969|CVE-2013-2036|https://drupal.org/node/1984212|Vendor Advisory
+970|CVE-2013-2129|https://drupal.org/node/2007390|Vendor Advisory
+971|CVE-2013-2129|https://drupal.org/node/2007460|Vendor Advisory
+972|CVE-2013-2177|https://drupal.org/node/2017639|
+973|CVE-2013-2177|https://drupal.org/node/2017641|
+974|CVE-2013-2177|https://drupal.org/node/2017933|Vendor Advisory
+975|CVE-2013-1907|https://drupal.org/node/1954762|
+976|CVE-2013-1907|https://drupal.org/node/1954764|
+977|CVE-2013-1907,CVE-2013-1908|https://drupal.org/node/1954948|Patch,Vendor Advisory
+978|CVE-2013-1908|https://drupal.org/node/1954766|Patch,Vendor Advisory
+979|CVE-2013-1908|https://drupal.org/node/1954768|Patch
+980|CVE-2013-1925|https://drupal.org/node/1960406|Patch,Vendor Advisory
+981|CVE-2013-1925|https://drupal.org/node/1960424|Patch
+982|CVE-2013-2122|https://drupal.org/node/2006188|Vendor Advisory
+983|CVE-2013-2122|https://drupal.org/node/2007048|Vendor Advisory
+984|CVE-2013-2158|https://drupal.org/node/2012366|Vendor Advisory
+985|CVE-2013-2158|https://drupal.org/node/2012982|Vendor Advisory
+986|CVE-2013-4140|https://drupal.org/node/2031575|Patch
+987|CVE-2013-4140|https://drupal.org/node/2038807|Patch,Vendor Advisory
+988|CVE-2013-4272|https://drupal.org/node/2064781|Patch
+989|CVE-2013-4272|https://drupal.org/node/2064783|
+990|CVE-2013-4272|https://drupal.org/node/2064785|Patch
+991|CVE-2013-4272|https://drupal.org/node/2065057|Vendor Advisory
+992|CVE-2012-6582|https://drupal.org/node/1789084|Patch
+993|CVE-2012-6582|https://drupal.org/node/1789086|Patch
+994|CVE-2012-6582|https://drupal.org/node/1789242|Patch,Vendor Advisory
+995|CVE-2012-6583|https://drupal.org/node/1788726|Patch
+996|CVE-2012-6583|https://drupal.org/node/1789260|Vendor Advisory
+997|CVE-2013-2123|https://drupal.org/node/2007072|Patch
+998|CVE-2013-2123|https://drupal.org/node/2007078|Patch
+999|CVE-2013-2123|https://drupal.org/node/2007122|Vendor Advisory
+1000|CVE-2013-2198,CVE-2013-2197|https://drupal.org/node/2023503|Patch,Third Party Advisory
+1001|CVE-2013-2198,CVE-2013-2197|https://drupal.org/node/2023507|Patch,Third Party Advisory
+1002|CVE-2013-2198,CVE-2013-2197|https://drupal.org/node/2023585|Vendor Advisory,Third Party Advisory
+1003|CVE-2013-2247|https://drupal.org/node/2028417|Patch
+1004|CVE-2013-2247|https://drupal.org/node/2028421|Patch
+1005|CVE-2013-2247|https://drupal.org/node/2028813|Vendor Advisory
+1006|CVE-2013-4138|https://drupal.org/node/2038189|Patch
+1007|CVE-2013-4138|https://drupal.org/node/2038363|Vendor Advisory
+1008|CVE-2013-4174|https://drupal.org/node/2049251|Patch
+1009|CVE-2013-4174,CVE-2013-5315|https://drupal.org/node/2049415|Patch,Vendor Advisory
+1010|CVE-2013-4229|https://drupal.org/node/2059789|Patch
+1011|CVE-2013-4230,CVE-2013-4229|https://drupal.org/node/2059823|Vendor Advisory
+1012|CVE-2013-4230|https://drupal.org/node/2059805|Patch
+1013|CVE-2013-4230|https://drupal.org/node/2059807|Patch
+1014|CVE-2013-4274|https://drupal.org/node/2065241|Patch
+1015|CVE-2013-4274|https://drupal.org/node/2065387|Patch,Vendor Advisory
+1016|CVE-2013-5315|https://drupal.org/node/2049239|Patch
+1017|CVE-2013-4139|https://drupal.org/node/2038799|Patch
+1018|CVE-2013-4139|https://drupal.org/node/2038801|Patch,Vendor Advisory
+1019|CVE-2013-5938,CVE-2013-5937|https://drupal.org/node/2087055|Vendor Advisory
+1020|CVE-2013-5964|https://drupal.org/node/2075287|Patch
+1021|CVE-2013-5964|https://drupal.org/node/2076221|Patch,Vendor Advisory
+1022|CVE-2013-5965|https://drupal.org/node/2031621|Patch
+1023|CVE-2013-5965|https://drupal.org/node/2076315|Patch,Vendor Advisory
+1024|CVE-2012-0827,CVE-2012-0826,CVE-2012-0825|https://drupal.org/node/1425084|Patch,Vendor Advisory
+1025|CVE-2013-4379|https://drupal.org/node/2081637|Patch,Vendor Advisory
+1026|CVE-2013-4379|https://drupal.org/node/2081647|Patch
+1027|CVE-2013-4384|https://drupal.org/node/2092395|
+1028|CVE-2013-4447|https://drupal.org/node/2113487|Patch
+1029|CVE-2013-4447|https://drupal.org/node/2113491|Patch
+1030|CVE-2013-4447|https://drupal.org/node/2113515|
+1031|CVE-2013-4445,CVE-2013-4446|https://drupal.org/node/2112785|Patch
+1032|CVE-2013-4445,CVE-2013-4446|https://drupal.org/node/2112791|Patch
+1033|CVE-2013-4445,CVE-2013-4446|https://drupal.org/node/2113317|Patch,Vendor Advisory
+1034|CVE-2013-6388,CVE-2013-6386,CVE-2013-6385,CVE-2013-6389,CVE-2013-6387|https://drupal.org/SA-CORE-2013-003|Patch,Vendor Advisory
+1035|CVE-2013-7067|https://drupal.org/node/2149743|Patch
+1036|CVE-2013-7067|https://drupal.org/node/2149791|Patch,Vendor Advisory
+1037|CVE-2012-0914|http://drupal.org/node/1409436|Patch,Vendor Advisory
+1038|CVE-2012-0914|http://drupal.org/node/1409446|Patch
+1039|CVE-2012-0914|http://drupal.org/node/1409448|Patch
+1040|CVE-2007-0124|http://drupal.org/node/104238|Patch,Vendor Advisory
+1041|CVE-2007-0136|http://drupal.org/files/sa-2007-001/advisory.txt|Vendor Advisory
+1042|CVE-2007-0136|http://drupal.org/node/104233|Patch,Vendor Advisory
+1043|CVE-2007-0506,CVE-2007-0534,CVE-2007-0505|http://drupal.org/node/112146|Patch,Vendor Advisory
+1044|CVE-2007-0507|http://drupal.org/node/112145|Patch,Vendor Advisory
+1045|CVE-2007-0626|http://drupal.org/node/113935|Patch,Vendor Advisory
+1046|CVE-2007-0626,CVE-2007-0841|http://www.vbdrupal.org/forum/showthread.php?t=786|Patch,Vendor Advisory,Broken Link
+1047|CVE-2007-0658|http://cvs.drupal.org/viewcvs/drupal/contributions/modules/captcha/captcha.module?r1=1.25.2.1&r2=1.25.2.2|Patch
+1048|CVE-2007-0658|http://cvs.drupal.org/viewcvs/drupal/contributions/modules/textimage/captcha.inc?r1=1.1&r2=1.1.2.1|Patch
+1049|CVE-2007-0658|http://drupal.org/node/114364|Patch,Vendor Advisory
+1050|CVE-2007-0658|http://drupal.org/node/114519|Patch,Vendor Advisory
+1051|CVE-2007-1028|http://drupal.org/node/119293|
+1052|CVE-2007-1033|http://drupal.org/node/119619|Patch,Vendor Advisory
+1053|CVE-2007-1035|http://drupal.org/node/119385|Patch,Vendor Advisory
+1054|CVE-2006-7110,CVE-2006-7109|http://drupal.org/node/87101|Patch,Vendor Advisory
+1055|CVE-2007-1360|http://drupal.org/node/125324|Patch
+1056|CVE-2007-1368|http://drupal.org/node/125832|Vendor Advisory
+1057|CVE-2007-1368|http://drupal.org/node/125833|Patch
+1058|CVE-2007-2160,CVE-2007-2159|http://drupal.org/node/135549|Patch,Vendor Advisory
+1059|CVE-2007-3689|http://drupal.org/node/152804|Patch
+1060|CVE-2007-3689|http://drupal.org/node/158029|Patch
+1061|CVE-2007-3689|http://drupal.org/node/158032|Patch
+1062|CVE-2007-3690|http://drupal.org/node/152806|Patch
+1063|CVE-2007-3690|http://drupal.org/node/158022|Patch
+1064|CVE-2007-3690|http://drupal.org/node/158025|Patch
+1065|CVE-2007-3818,CVE-2007-3817|http://drupal.org/node/158921|Patch
+1066|CVE-2007-4063|http://drupal.org/files/sa-2007-017/advisory.txt|Patch
+1067|CVE-2007-4064|http://drupal.org/files/sa-2007-018/advisory.txt|
+1068|CVE-2007-4363|http://drupal.org/node/166992|
+1069|CVE-2007-4363|http://drupal.org/node/166994|
+1070|CVE-2007-4363|http://drupal.org/node/166998|
+1071|CVE-2007-4436|http://drupal.org/node/168760|Patch
+1072|CVE-2015-1051|https://www.drupal.org/node/2402779|Patch
+1073|CVE-2015-1051|https://www.drupal.org/node/2403351|Patch,Vendor Advisory
+1074|CVE-2014-9501|https://www.drupal.org/node/2390097|Patch
+1075|CVE-2014-9501|https://www.drupal.org/node/2390897|Vendor Advisory
+1076|CVE-2014-9505|https://www.drupal.org/node/2391119|Exploit,Patch
+1077|CVE-2014-9505|https://www.drupal.org/node/2395015|Vendor Advisory
+1078|CVE-2015-1567,CVE-2015-1568|https://www.drupal.org/node/2415219|Patch
+1079|CVE-2015-1567,CVE-2015-1568|https://www.drupal.org/node/2415885|Vendor Advisory
+1080|CVE-2015-1621|https://www.drupal.org/node/2423681|Patch
+1081|CVE-2015-1621|https://www.drupal.org/node/2424405|Patch,Vendor Advisory
+1082|CVE-2015-2086|https://www.drupal.org/node/2428749|Patch,Vendor Advisory
+1083|CVE-2015-2086|https://www.drupal.org/node/2428799|Patch,Vendor Advisory
+1084|CVE-2015-2087|https://www.drupal.org/node/2427069|Patch
+1085|CVE-2015-2087|https://www.drupal.org/node/2428793|Patch,Vendor Advisory
+1086|CVE-2015-2088|https://www.drupal.org/node/2428483|Patch
+1087|CVE-2015-2088|https://www.drupal.org/node/2428853|Patch,Vendor Advisory
+1088|CVE-2015-2101|https://www.drupal.org/node/2428503|Patch,Third Party Advisory
+1089|CVE-2015-2101|https://www.drupal.org/node/2428505|Patch,Third Party Advisory
+1090|CVE-2015-2101|https://www.drupal.org/node/2428815|Patch,Third Party Advisory
+1091|CVE-2015-2559,CVE-2015-2749,CVE-2015-2750|https://www.drupal.org/SA-CORE-2015-001|Patch,Vendor Advisory
+1092|CVE-2015-2215|https://www.drupal.org/node/2437965|Vendor Advisory
+1093|CVE-2015-2197|https://www.drupal.org/node/2437885|Patch
+1094|CVE-2015-2197|https://www.drupal.org/node/2437905|Patch,Vendor Advisory
+1095|CVE-2015-3350|https://www.drupal.org/node/2403013|Patch
+1096|CVE-2015-3350|https://www.drupal.org/node/2403015|Patch
+1097|CVE-2015-3350|https://www.drupal.org/node/2403465|Patch,Vendor Advisory
+1098|CVE-2015-3351|https://www.drupal.org/node/2402767|Patch
+1099|CVE-2015-3351|https://www.drupal.org/node/2403463|Patch,Vendor Advisory
+1100|CVE-2015-3352|https://www.drupal.org/node/2402745|Patch
+1101|CVE-2015-3352|https://www.drupal.org/node/2402749|Patch
+1102|CVE-2015-3352|https://www.drupal.org/node/2403487|Patch,Vendor Advisory
+1103|CVE-2015-3353|https://www.drupal.org/node/2403057|Patch
+1104|CVE-2015-3353|https://www.drupal.org/node/2403489|Patch,Vendor Advisory
+1105|CVE-2015-3354,CVE-2015-3357|https://www.drupal.org/node/2406803|Patch
+1106|CVE-2015-3354,CVE-2015-3357|https://www.drupal.org/node/2406811|Patch
+1107|CVE-2015-3354,CVE-2015-3357|https://www.drupal.org/node/2407313|Patch,Vendor Advisory
+1108|CVE-2015-3355|https://www.drupal.org/node/2402839|Patch
+1109|CVE-2015-3355|https://www.drupal.org/node/2403451|Patch,Vendor Advisory
+1110|CVE-2015-3358,CVE-2015-3356|https://www.drupal.org/node/2406949|Patch
+1111|CVE-2015-3358,CVE-2015-3356|https://www.drupal.org/node/2407321|Patch,Vendor Advisory
+1112|CVE-2015-3372,CVE-2015-3370,CVE-2015-3371|https://www.drupal.org/node/2415541|Patch
+1113|CVE-2015-3372,CVE-2015-3370,CVE-2015-3371|https://www.drupal.org/node/2415899|Patch,Vendor Advisory
+1114|CVE-2015-3373|https://www.drupal.org/node/2415457|Patch
+1115|CVE-2015-3373|https://www.drupal.org/node/2415873|Patch,Vendor Advisory
+1116|CVE-2015-3374|https://www.drupal.org/node/2411741|Patch,Vendor Advisory
+1117|CVE-2015-3375|https://www.drupal.org/node/2411269|Patch
+1118|CVE-2015-3375|https://www.drupal.org/node/2411271|Patch
+1119|CVE-2015-3375|https://www.drupal.org/node/2411737|Patch,Vendor Advisory
+1120|CVE-2015-3376|https://www.drupal.org/node/2410399|Patch
+1121|CVE-2015-3376|https://www.drupal.org/node/2411579|Patch,Vendor Advisory
+1122|CVE-2015-3379,CVE-2015-3378|https://www.drupal.org/node/2424097|Patch
+1123|CVE-2015-3379,CVE-2015-3378|https://www.drupal.org/node/2424101|Patch
+1124|CVE-2015-3379,CVE-2015-3378|https://www.drupal.org/node/2424103|Patch
+1125|CVE-2015-3379,CVE-2015-3378|https://www.drupal.org/node/2424403|Patch,Vendor Advisory
+1126|CVE-2015-3380|https://www.drupal.org/node/2424409|Patch,Vendor Advisory
+1127|CVE-2015-3393|https://www.drupal.org/node/2419483|Patch
+1128|CVE-2015-3393|https://www.drupal.org/node/2420089|Patch,Vendor Advisory
+1129|CVE-2015-3404|https://www.drupal.org/node/2407081|Patch
+1130|CVE-2015-3404|https://www.drupal.org/node/2415947|Patch,Vendor Advisory
+1131|CVE-2015-3342|https://www.drupal.org/node/2407145|Patch
+1132|CVE-2015-3342|https://www.drupal.org/node/2407347|Patch,Vendor Advisory
+1133|CVE-2015-3343|https://www.drupal.org/node/2402393|Patch
+1134|CVE-2015-3343|https://www.drupal.org/node/2403313|Patch,Vendor Advisory
+1135|CVE-2015-3344|https://www.drupal.org/node/2403305|Patch
+1136|CVE-2015-3344|https://www.drupal.org/node/2403309|Patch
+1137|CVE-2015-3344|https://www.drupal.org/node/2403333|Patch,Vendor Advisory
+1138|CVE-2015-3345|https://www.drupal.org/node/2402517|Patch
+1139|CVE-2015-3345|https://www.drupal.org/node/2403343|Patch,Vendor Advisory
+1140|CVE-2015-3346|https://www.drupal.org/node/2402905|Patch
+1141|CVE-2015-3346|https://www.drupal.org/node/2403375|Patch,Vendor Advisory
+1142|CVE-2015-3348,CVE-2015-3347|https://www.drupal.org/node/2402643|Patch
+1143|CVE-2015-3348,CVE-2015-3347|https://www.drupal.org/node/2403447|Patch,Vendor Advisory
+1144|CVE-2015-3349|https://www.drupal.org/node/2402825|Patch
+1145|CVE-2015-3349|https://www.drupal.org/node/2403445|Patch,Vendor Advisory
+1146|CVE-2015-3359|https://www.drupal.org/node/2406827|Patch
+1147|CVE-2015-3359|https://www.drupal.org/node/2407329|Patch,Vendor Advisory
+1148|CVE-2015-3360|https://www.drupal.org/node/2406869|Patch
+1149|CVE-2015-3360|https://www.drupal.org/node/2407315|Patch,Vendor Advisory
+1150|CVE-2015-3361|https://www.drupal.org/node/2402855|Patch
+1151|CVE-2015-3361|https://www.drupal.org/node/2402859|Patch
+1152|CVE-2015-3361|https://www.drupal.org/node/2403459|Patch,Vendor Advisory
+1153|CVE-2015-3362|https://www.drupal.org/node/2407047|Patch
+1154|CVE-2015-3362|https://www.drupal.org/node/2407341|Patch,Vendor Advisory
+1155|CVE-2015-3363|https://www.drupal.org/node/2407147|Patch
+1156|CVE-2015-3363|https://www.drupal.org/node/2407357|Patch,Vendor Advisory
+1157|CVE-2015-3364|https://www.drupal.org/node/2407261|Patch
+1158|CVE-2015-3364|https://www.drupal.org/node/2407395|Patch,Vendor Advisory
+1159|CVE-2015-3365|https://www.drupal.org/node/2407401|Patch,Vendor Advisory
+1160|CVE-2015-3366|https://www.drupal.org/node/2411501|Patch
+1161|CVE-2015-3366|https://www.drupal.org/node/2411523|Patch,Vendor Advisory
+1162|CVE-2015-3367|https://www.drupal.org/node/2411507|Patch
+1163|CVE-2015-3367|https://www.drupal.org/node/2411539|Patch,Vendor Advisory
+1164|CVE-2015-3368|https://www.drupal.org/node/2407783|Patch
+1165|CVE-2015-3368|https://www.drupal.org/node/2407785|Patch
+1166|CVE-2015-3368|https://www.drupal.org/node/2411527|Patch,Vendor Advisory
+1167|CVE-2015-3369|https://www.drupal.org/node/2409767|Patch
+1168|CVE-2015-3369|https://www.drupal.org/node/2409769|Patch
+1169|CVE-2015-3369|https://www.drupal.org/node/2411573|Patch,Vendor Advisory
+1170|CVE-2015-3382,CVE-2015-3383,CVE-2015-3381|https://www.drupal.org/node/2424419|Patch,Vendor Advisory
+1171|CVE-2015-3388,CVE-2015-3384|https://www.drupal.org/node/2424435|Patch,Vendor Advisory
+1172|CVE-2015-3385|https://www.drupal.org/node/2424411|Patch
+1173|CVE-2015-3385|https://www.drupal.org/node/2424439|Patch,Vendor Advisory
+1174|CVE-2015-3386|https://www.drupal.org/node/2424349|Patch,Vendor Advisory
+1175|CVE-2015-3387|https://www.drupal.org/node/2424059|Patch
+1176|CVE-2015-3387|https://www.drupal.org/node/2424355|Patch,Vendor Advisory
+1177|CVE-2015-3389|https://www.drupal.org/node/2420119|Patch,Vendor Advisory
+1178|CVE-2015-3390|https://www.drupal.org/node/2420161|Patch,Vendor Advisory
+1179|CVE-2015-3391|https://www.drupal.org/node/2420121|Patch
+1180|CVE-2015-3391|https://www.drupal.org/node/2420139|Patch,Vendor Advisory
+1181|CVE-2015-3392|https://www.drupal.org/node/2419971|Patch
+1182|CVE-2015-3392|https://www.drupal.org/node/2420099|Patch,Vendor Advisory
+1183|CVE-2015-4344|https://www.drupal.org/node/2428851|Vendor Advisory
+1184|CVE-2015-4344|https://www.drupal.org/node/2444861|Patch
+1185|CVE-2015-4345|https://www.drupal.org/node/2428855|Patch
+1186|CVE-2015-4345|https://www.drupal.org/node/2428857|Patch
+1187|CVE-2015-4345|https://www.drupal.org/node/2428863|Vendor Advisory
+1188|CVE-2015-4346|https://www.drupal.org/node/2431717|Patch
+1189|CVE-2015-4346|https://www.drupal.org/node/2437943|Patch,Vendor Advisory
+1190|CVE-2015-4347|https://www.drupal.org/node/2437969|Vendor Advisory
+1191|CVE-2015-4349,CVE-2015-4348|https://www.drupal.org/node/2437973|Vendor Advisory
+1192|CVE-2015-4350|https://www.drupal.org/node/2437977|Vendor Advisory
+1193|CVE-2015-4352,CVE-2015-4351|https://www.drupal.org/node/2437981|Vendor Advisory
+1194|CVE-2015-4363|https://www.drupal.org/node/2445967|Vendor Advisory
+1195|CVE-2015-4364|https://www.drupal.org/node/2445971|Patch,Vendor Advisory
+1196|CVE-2015-4364|https://www.drupal.org/node/2449747|
+1197|CVE-2015-4364|https://www.drupal.org/node/2452569|Patch
+1198|CVE-2015-4365|https://www.drupal.org/node/2445973|Vendor Advisory
+1199|CVE-2015-4366|https://www.drupal.org/node/2445977|Vendor Advisory
+1200|CVE-2015-4367|https://www.drupal.org/node/2437931|Patch
+1201|CVE-2015-4367|https://www.drupal.org/node/2437933|Patch
+1202|CVE-2015-4367|https://www.drupal.org/node/2446019|Patch,Vendor Advisory
+1203|CVE-2015-4368|https://www.drupal.org/node/2445835|Patch
+1204|CVE-2015-4368|https://www.drupal.org/node/2446051|Vendor Advisory
+1205|CVE-2015-4369|https://www.drupal.org/node/2373143|Patch
+1206|CVE-2015-4369|https://www.drupal.org/node/2373147|Patch
+1207|CVE-2015-4369|https://www.drupal.org/node/2446065|Vendor Advisory
+1208|CVE-2015-4370|https://www.drupal.org/node/2450321|Patch
+1209|CVE-2015-4370|https://www.drupal.org/node/2450387|Patch,Vendor Advisory
+1210|CVE-2015-4371|https://www.drupal.org/node/2449877|Patch
+1211|CVE-2015-4371|https://www.drupal.org/node/2450391|Patch,Vendor Advisory
+1212|CVE-2015-4372|https://www.drupal.org/node/2450015|Patch
+1213|CVE-2015-4372|https://www.drupal.org/node/2450393|Patch,Vendor Advisory
+1214|CVE-2015-4384|https://www.drupal.org/node/2459359|Patch,Vendor Advisory
+1215|CVE-2015-4384|https://www.drupal.org/node/2465857|Patch
+1216|CVE-2015-4384|https://www.drupal.org/node/2466529|Patch
+1217|CVE-2015-4385|https://www.drupal.org/node/2463237|Patch
+1218|CVE-2015-4385|https://www.drupal.org/node/2463823|Patch,Vendor Advisory
+1219|CVE-2015-4386|https://www.drupal.org/node/2463049|Patch
+1220|CVE-2015-4386|https://www.drupal.org/node/2463831|Patch,Vendor Advisory
+1221|CVE-2015-4387|https://www.drupal.org/node/2463327|Patch
+1222|CVE-2015-4387|https://www.drupal.org/node/2463329|Patch
+1223|CVE-2015-4387|https://www.drupal.org/node/2463835|Patch,Vendor Advisory
+1224|CVE-2015-4388|https://www.drupal.org/node/2463493|Patch
+1225|CVE-2015-4388|https://www.drupal.org/node/2463843|Patch,Vendor Advisory
+1226|CVE-2015-4389|https://www.drupal.org/node/2463891|Vendor Advisory
+1227|CVE-2015-4390|https://www.drupal.org/node/2463941|Patch
+1228|CVE-2015-4390|https://www.drupal.org/node/2463943|Patch
+1229|CVE-2015-4390|https://www.drupal.org/node/2463949|Patch,Vendor Advisory
+1230|CVE-2015-4391|https://www.drupal.org/node/2467631|Patch
+1231|CVE-2015-4391|https://www.drupal.org/node/2467635|Patch
+1232|CVE-2015-4391|https://www.drupal.org/node/2467697|Patch,Vendor Advisory
+1233|CVE-2015-4392|https://www.drupal.org/node/2471721|
+1234|CVE-2015-4392|https://www.drupal.org/node/2471733|Patch,Vendor Advisory
+1235|CVE-2015-4394,CVE-2015-4393|https://www.drupal.org/node/2471847|Patch
+1236|CVE-2015-4394,CVE-2015-4393|https://www.drupal.org/node/2471879|Patch,Vendor Advisory
+1237|CVE-2015-4395|https://www.drupal.org/node/2475443|Vendor Advisory
+1238|CVE-2015-4395|https://www.drupal.org/node/2475943|Vendor Advisory
+1239|CVE-2015-4396|https://www.drupal.org/node/2475591|Vendor Advisory
+1240|CVE-2015-4396|https://www.drupal.org/node/2475953|Patch
+1241|CVE-2015-4397|https://www.drupal.org/node/2475955|Vendor Advisory
+1242|CVE-2015-4353|https://www.drupal.org/node/2437985|Vendor Advisory
+1243|CVE-2015-4354|https://www.drupal.org/node/2437991|Patch,Vendor Advisory
+1244|CVE-2015-4354|https://www.drupal.org/node/2463199|Patch
+1245|CVE-2015-4354|https://www.drupal.org/node/2463207|Patch
+1246|CVE-2015-4355|https://www.drupal.org/node/2437993|Vendor Advisory
+1247|CVE-2015-4357,CVE-2015-4356|https://www.drupal.org/node/2445297|Patch,Vendor Advisory
+1248|CVE-2015-4357,CVE-2015-4356|https://www.drupal.org/node/2445935|Patch,Vendor Advisory
+1249|CVE-2015-4357|https://www.drupal.org/node/2445291|Patch
+1250|CVE-2015-4357|https://www.drupal.org/node/2445295|Patch
+1251|CVE-2015-4358|https://www.drupal.org/node/2438357|Patch
+1252|CVE-2015-4358|https://www.drupal.org/node/2445953|Vendor Advisory
+1253|CVE-2015-4360,CVE-2015-4361,CVE-2015-4359|https://www.drupal.org/node/2445955|Patch,Vendor Advisory
+1254|CVE-2015-4360,CVE-2015-4359|https://www.drupal.org/node/2465177|Patch
+1255|CVE-2015-4360,CVE-2015-4359|https://www.drupal.org/node/2465179|Patch
+1256|CVE-2015-4360,CVE-2015-4359|https://www.drupal.org/node/2465181|Patch
+1257|CVE-2015-4360,CVE-2015-4361|https://www.drupal.org/node/2446157|Patch
+1258|CVE-2015-4362|https://www.drupal.org/node/2445961|Patch,Vendor Advisory
+1259|CVE-2015-4362|https://www.drupal.org/node/2450135|Vendor Advisory
+1260|CVE-2015-4362|https://www.drupal.org/node/2453079|Patch
+1261|CVE-2015-4373|https://www.drupal.org/node/2404115|Patch
+1262|CVE-2015-4373|https://www.drupal.org/node/2450427|Patch,Vendor Advisory
+1263|CVE-2015-4374|https://www.drupal.org/node/2454055|Patch
+1264|CVE-2015-4374|https://www.drupal.org/node/2454059|Patch
+1265|CVE-2015-4374|https://www.drupal.org/node/2454063|Patch
+1266|CVE-2015-4374|https://www.drupal.org/node/2454903|Patch,Vendor Advisory
+1267|CVE-2015-4375,CVE-2015-4398|https://www.drupal.org/node/2454883|Patch
+1268|CVE-2015-4375,CVE-2015-4398|https://www.drupal.org/node/2454909|Patch,Vendor Advisory
+1269|CVE-2015-4376|https://www.drupal.org/node/2454383|Patch
+1270|CVE-2015-4376|https://www.drupal.org/node/2455011|Patch,Vendor Advisory
+1271|CVE-2015-4377|https://www.drupal.org/node/2458683|Patch
+1272|CVE-2015-4377|https://www.drupal.org/node/2459311|Patch,Vendor Advisory
+1273|CVE-2015-4378|https://www.drupal.org/node/2458675|Patch
+1274|CVE-2015-4378|https://www.drupal.org/node/2459315|Patch,Vendor Advisory
+1275|CVE-2015-4379|https://www.drupal.org/node/2459031|Patch
+1276|CVE-2015-4379|https://www.drupal.org/node/2459035|Patch
+1277|CVE-2015-4379|https://www.drupal.org/node/2459323|Patch,Vendor Advisory
+1278|CVE-2015-4380|https://www.drupal.org/node/2459197|Patch
+1279|CVE-2015-4380|https://www.drupal.org/node/2459327|Patch,Vendor Advisory
+1280|CVE-2015-4381,CVE-2015-4382|https://www.drupal.org/node/2459337|Patch,Vendor Advisory
+1281|CVE-2015-4381,CVE-2015-4382|https://www.drupal.org/node/2474135|Patch
+1282|CVE-2015-4381,CVE-2015-4382|https://www.drupal.org/node/2474139|Patch
+1283|CVE-2015-4383|https://www.drupal.org/node/2459349|Patch,Vendor Advisory
+1284|CVE-2015-4398|https://www.drupal.org/node/2454885|Patch
+1285|CVE-2015-3233,CVE-2015-3234,CVE-2015-3232,CVE-2015-3231|https://www.drupal.org/SA-CORE-2015-002|Patch,Vendor Advisory
+1286|CVE-2015-3233|https://www.drupal.org/node/2507535|Patch
+1287|CVE-2015-3233|https://www.drupal.org/node/2507555|Patch
+1288|CVE-2015-3233|https://www.drupal.org/node/2507561|Patch
+1289|CVE-2015-3233|https://www.drupal.org/node/2507729|Patch,Vendor Advisory
+1290|CVE-2015-3233|https://www.drupal.org/node/2507735|
+1291|CVE-2015-3233|https://www.drupal.org/node/2507741|Patch,Vendor Advisory
+1292|CVE-2014-9737|https://www.drupal.org/node/1614372|Patch
+1293|CVE-2014-9737|https://www.drupal.org/node/2179123|Patch,Vendor Advisory
+1294|CVE-2014-9738|https://www.drupal.org/node/2378289|Patch
+1295|CVE-2014-9738|https://www.drupal.org/node/2378401|Patch,Vendor Advisory
+1296|CVE-2014-9739|https://www.drupal.org/node/2373157|Patch
+1297|CVE-2014-9739|https://www.drupal.org/node/2378287|Patch,Vendor Advisory
+1298|CVE-2014-9740|https://www.drupal.org/node/2328549|Patch
+1299|CVE-2014-9740|https://www.drupal.org/node/2328567|Patch,Vendor Advisory
+1300|CVE-2015-5491|https://www.drupal.org/node/2484157|Patch,Vendor Advisory
+1301|CVE-2015-5491|https://www.drupal.org/node/2504965|Patch
+1302|CVE-2015-5492|https://www.drupal.org/node/2484195|Patch,Vendor Advisory
+1303|CVE-2015-5493|https://www.drupal.org/node/2483687|Patch
+1304|CVE-2015-5493|https://www.drupal.org/node/2484169|Patch,Vendor Advisory
+1305|CVE-2015-5494|https://www.drupal.org/node/2442741|Patch
+1306|CVE-2015-5494|https://www.drupal.org/node/2484231|Patch,Vendor Advisory
+1307|CVE-2015-5495|https://www.drupal.org/node/2484213|Patch
+1308|CVE-2015-5495|https://www.drupal.org/node/2484233|Patch,Vendor Advisory
+1309|CVE-2015-5496|https://www.drupal.org/node/2492205|Patch,Vendor Advisory
+1310|CVE-2015-5497|https://www.drupal.org/node/2487542|Patch
+1311|CVE-2015-5497|https://www.drupal.org/node/2487548|Patch
+1312|CVE-2015-5497|https://www.drupal.org/node/2492209|Patch,Vendor Advisory
+1313|CVE-2015-5498|https://www.drupal.org/node/2487580|Patch
+1314|CVE-2015-5498|https://www.drupal.org/node/2492243|Patch,Vendor Advisory
+1315|CVE-2015-5499,CVE-2015-5500|https://www.drupal.org/node/2492245|Patch,Vendor Advisory
+1316|CVE-2015-5501|https://www.drupal.org/node/2492317|Vendor Advisory
+1317|CVE-2015-5513|https://www.drupal.org/node/2511278|Patch
+1318|CVE-2015-5513|https://www.drupal.org/node/2511280|Patch
+1319|CVE-2015-5513|https://www.drupal.org/node/2511518|Patch,Vendor Advisory
+1320|CVE-2015-5514|https://www.drupal.org/node/2516560|Patch
+1321|CVE-2015-5514|https://www.drupal.org/node/2516678|Patch,Vendor Advisory
+1322|CVE-2015-5515|https://www.drupal.org/node/2516680|Patch
+1323|CVE-2015-5515|https://www.drupal.org/node/2516688|Patch,Vendor Advisory
+1324|CVE-2015-5487|https://www.drupal.org/node/2480169|Patch
+1325|CVE-2015-5487|https://www.drupal.org/node/2480171|Patch
+1326|CVE-2015-5487|https://www.drupal.org/node/2480241|Vendor Advisory
+1327|CVE-2015-5488|https://www.drupal.org/node/2480173|Patch
+1328|CVE-2015-5488|https://www.drupal.org/node/2480253|Patch,Vendor Advisory
+1329|CVE-2015-5489|https://www.drupal.org/node/2480289|Patch
+1330|CVE-2015-5489|https://www.drupal.org/node/2480321|Patch,Vendor Advisory
+1331|CVE-2015-5490|https://www.drupal.org/node/2475669|Exploit
+1332|CVE-2015-5490|https://www.drupal.org/node/2480259|Patch
+1333|CVE-2015-5490|https://www.drupal.org/node/2480327|Patch,Vendor Advisory
+1334|CVE-2015-5502|https://www.drupal.org/node/2495895|Patch
+1335|CVE-2015-5502|https://www.drupal.org/node/2495903|Patch,Vendor Advisory
+1336|CVE-2015-5503|https://www.drupal.org/node/2495929|Patch
+1337|CVE-2015-5503|https://www.drupal.org/node/2495931|Patch,Vendor Advisory
+1338|CVE-2015-5504|https://www.drupal.org/node/2499787|Patch,Vendor Advisory
+1339|CVE-2015-5505|https://www.drupal.org/node/2507539|Patch
+1340|CVE-2015-5505|https://www.drupal.org/node/2507543|Patch
+1341|CVE-2015-5505|https://www.drupal.org/node/2507563|Patch,Vendor Advisory
+1342|CVE-2015-5506|https://www.drupal.org/node/2489890|Patch
+1343|CVE-2015-5506|https://www.drupal.org/node/2507581|Patch,Vendor Advisory
+1344|CVE-2015-5507|https://www.drupal.org/node/2507593|Patch
+1345|CVE-2015-5507|https://www.drupal.org/node/2507605|Patch,Vendor Advisory
+1346|CVE-2015-5508|https://www.drupal.org/node/2507619|Vendor Advisory
+1347|CVE-2015-5509|https://www.drupal.org/node/2430043|Patch
+1348|CVE-2015-5509|https://www.drupal.org/node/2507645|Patch,Vendor Advisory
+1349|CVE-2015-5510|https://www.drupal.org/node/2507753|Patch,Vendor Advisory
+1350|CVE-2015-5510|https://www.drupal.org/node/2507763|Patch
+1351|CVE-2015-5511|https://www.drupal.org/node/2511200|Patch
+1352|CVE-2015-5511|https://www.drupal.org/node/2511410|Patch,Vendor Advisory
+1353|CVE-2015-5512|https://www.drupal.org/node/2511378|Patch
+1354|CVE-2015-5512|https://www.drupal.org/node/2511386|Patch
+1355|CVE-2015-5512|https://www.drupal.org/node/2511424|Patch,Vendor Advisory
+1356|CVE-2015-6752|https://www.drupal.org/node/2553485|Patch
+1357|CVE-2015-6752|https://www.drupal.org/node/2553977|Patch,Vendor Advisory
+1358|CVE-2015-6753|https://www.drupal.org/node/2546066|Patch
+1359|CVE-2015-6753|https://www.drupal.org/node/2546164|Patch,Vendor Advisory
+1360|CVE-2015-6754|https://www.drupal.org/node/2533510|Patch
+1361|CVE-2015-6754|https://www.drupal.org/node/2533926|Patch,Vendor Advisory
+1362|CVE-2015-6751|https://www.drupal.org/node/2537296|Patch
+1363|CVE-2015-6751|https://www.drupal.org/node/2537866|Patch,Vendor Advisory
+1364|CVE-2015-6659,CVE-2015-6660,CVE-2015-6665,CVE-2015-6658,CVE-2015-6661|https://www.drupal.org/SA-CORE-2015-003|Patch,Vendor Advisory
+1365|CVE-2015-6665|https://www.drupal.org/node/2554133|Patch
+1366|CVE-2015-7875,CVE-2015-6665|https://www.drupal.org/node/2554145|Patch,Vendor Advisory
+1367|CVE-2015-6807|https://www.drupal.org/node/2561695|Patch
+1368|CVE-2015-6807|https://www.drupal.org/node/2561699|Patch
+1369|CVE-2015-6807|https://www.drupal.org/node/2561951|Patch,Vendor Advisory
+1370|CVE-2015-6808|https://www.drupal.org/node/2561313|Patch
+1371|CVE-2015-6808|https://www.drupal.org/node/2561375|Patch,Vendor Advisory
+1372|CVE-2015-6921|https://www.drupal.org/node/2561887|Patch
+1373|CVE-2015-6921|https://www.drupal.org/node/2561893|Patch,Vendor Advisory
+1374|CVE-2015-7226|https://www.drupal.org/node/2529366|Patch
+1375|CVE-2015-7226|https://www.drupal.org/node/2529378|Patch,Vendor Advisory
+1376|CVE-2015-7227|https://www.drupal.org/node/2561971|Patch,Vendor Advisory
+1377|CVE-2015-7227|https://www.drupal.org/node/2561981|Patch
+1378|CVE-2015-7228|https://www.drupal.org/node/2565421|Patch
+1379|CVE-2015-7228|https://www.drupal.org/node/2565875|Patch,Vendor Advisory
+1380|CVE-2015-7229|https://www.drupal.org/node/2559981|Patch
+1381|CVE-2015-7229|https://www.drupal.org/node/2559985|Patch
+1382|CVE-2015-7229|https://www.drupal.org/node/2559989|Patch
+1383|CVE-2015-7229|https://www.drupal.org/node/2565827|Patch,Vendor Advisory
+1384|CVE-2015-7230|https://www.drupal.org/node/2484229|Patch
+1385|CVE-2015-7230|https://www.drupal.org/node/2553971|Patch,Vendor Advisory
+1386|CVE-2015-7231|https://www.drupal.org/node/2541832|Patch
+1387|CVE-2015-7231|https://www.drupal.org/node/2542380|Patch,Vendor Advisory
+1388|CVE-2015-7233,CVE-2015-7234,CVE-2015-7232|https://www.drupal.org/node/2537120|Patch
+1389|CVE-2015-7233,CVE-2015-7234,CVE-2015-7232|https://www.drupal.org/node/2537860|Patch,Vendor Advisory
+1390|CVE-2015-7304|https://www.drupal.org/node/2569243|Patch
+1391|CVE-2015-7304|https://www.drupal.org/node/2569587|Patch,Vendor Advisory
+1392|CVE-2015-7305|https://www.drupal.org/node/2569621|Patch,Vendor Advisory
+1393|CVE-2015-7305|https://www.drupal.org/node/2569631|Patch,Vendor Advisory
+1394|CVE-2015-7307,CVE-2015-7306|https://www.drupal.org/node/2569111|Patch
+1395|CVE-2015-7307,CVE-2015-7306|https://www.drupal.org/node/2569599|Patch,Vendor Advisory
+1396|CVE-2008-0462|http://drupal.org/node/213478|Patch
+1397|CVE-2008-0463|http://drupal.org/node/213473|Patch
+1398|CVE-2008-0568|http://drupal.org/node/216019|Patch
+1399|CVE-2008-0569|http://drupal.org/node/216024|
+1400|CVE-2008-0569|http://drupal.org/node/216035|
+1401|CVE-2008-0569|http://drupal.org/node/216036|
+1402|CVE-2008-0570|http://drupal.org/node/216022|
+1403|CVE-2008-0571|http://drupal.org/node/216023|Patch
+1404|CVE-2008-0576|http://drupal.org/node/216062|
+1405|CVE-2008-0577|http://drupal.org/node/216063|
+1406|CVE-2008-0823|http://drupal.org/node/221359|Patch
+1407|CVE-2008-1133,CVE-2008-1131|http://drupal.org/node/227608|Patch,Vendor Advisory
+1408|CVE-2008-1428|http://drupal.org/node/233492|Patch
+1409|CVE-2008-1729|http://drupal.org/node/244637|Patch,Vendor Advisory
+1410|CVE-2008-1731|http://drupal.org/node/244560|Patch,Vendor Advisory
+1411|CVE-2008-1792|http://drupal.org/node/241939|Patch,Vendor Advisory
+1412|CVE-2008-1794|http://drupal.org/node/242053|Patch,Vendor Advisory
+1413|CVE-2008-1916|http://drupal.org/node/241944|Patch,Vendor Advisory
+1414|CVE-2008-1977,CVE-2008-1976|http://drupal.org/node/250344|Patch,Third Party Advisory
+1415|CVE-2008-1978|http://drupal.org/node/250343|
+1416|CVE-2008-1981,CVE-2008-1980|http://drupal.org/node/250408|Patch,Third Party Advisory
+1417|CVE-2008-2271|http://drupal.org/node/258547|Vendor Advisory
+1418|CVE-2008-2771|http://drupal.org/node/269473|Patch
+1419|CVE-2008-2772|http://drupal.org/node/269321|Patch
+1420|CVE-2008-2773|http://drupal.org/node/269389|Patch
+1421|CVE-2008-2849,CVE-2008-2850|http://drupal.org/node/272191|Patch
+1422|CVE-2008-2999,CVE-2008-3000,CVE-2008-3001,CVE-2008-2998|http://drupal.org/node/269479|Patch,Vendor Advisory
+1423|CVE-2008-3091,CVE-2008-3092|http://drupal.org/node/277877|Patch
+1424|CVE-2008-3095,CVE-2008-3094|http://drupal.org/node/277873|Patch,Vendor Advisory
+1425|CVE-2008-3096|http://drupal.org/node/277883|Patch
+1426|CVE-2008-3097|http://drupal.org/node/277879|
+1427|CVE-2008-3221,CVE-2008-3223,CVE-2008-3222,CVE-2008-3218,CVE-2008-3219,CVE-2008-3220|http://drupal.org/node/280571|Patch,Vendor Advisory
+1428|CVE-2008-3222|http://drupal.org/node/286417|Patch,Vendor Advisory
+1429|CVE-2008-3500|http://drupal.org/node/274919|
+1430|CVE-2008-3740,CVE-2008-3745,CVE-2008-3743,CVE-2008-3744,CVE-2008-3742,CVE-2008-3741|http://drupal.org/node/295053|Patch
+1431|CVE-2008-4147|http://drupal.org/node/309802|Patch
+1432|CVE-2008-4148|http://drupal.org/node/309769|Patch
+1433|CVE-2008-4149|http://drupal.org/node/309861|Patch
+1434|CVE-2008-4152,CVE-2008-4153|http://drupal.org/node/309758|Patch
+1435|CVE-2008-4338|http://drupal.org/node/313054|
+1436|CVE-2008-4530,CVE-2008-4531|http://drupal.org/node/315919|Patch,Vendor Advisory
+1437|CVE-2008-4597,CVE-2008-4596,CVE-2008-4598|http://drupal.org/node/321758|Vendor Advisory
+1438|CVE-2008-4633|http://drupal.org/node/321685|Vendor Advisory
+1439|CVE-2008-4710|http://drupal.org/node/312923|Vendor Advisory
+1440|CVE-2008-4793,CVE-2008-4792,CVE-2008-4789,CVE-2008-4790,CVE-2008-4791|http://drupal.org/node/318706|Patch,Vendor Advisory
+1441|CVE-2020-36193|https://www.drupal.org/sa-core-2021-001|Third Party Advisory
+1442|CVE-2005-1921|http://www.drupal.org/security/drupal-sa-2005-003/advisory.txt|
+1443|CVE-2005-2106|http://www.drupal.org/security/drupal-sa-2005-002/advisory.txt|
+1444|CVE-2005-3973|http://drupal.org/files/sa-2005-007/4.6.3.patch|
+1445|CVE-2005-3973|http://drupal.org/files/sa-2005-007/advisory.txt|Patch,Vendor Advisory
+1446|CVE-2005-3974|http://drupal.org/files/sa-2005-009/4.6.3.patch|Patch
+1447|CVE-2005-3974|http://drupal.org/files/sa-2005-009/advisory.txt|Vendor Advisory
+1448|CVE-2005-3975|http://drupal.org/files/sa-2005-008/4.6.3.patch|
+1449|CVE-2005-3975|http://drupal.org/files/sa-2005-008/advisory.txt|Patch,Vendor Advisory
+1450|CVE-2010-2472,CVE-2010-2473,CVE-2010-2250,CVE-2010-2471|https://www.drupal.org/node/731710|Patch,Vendor Advisory
+1451|CVE-2011-4972|https://drupal.org/node/1337006|Patch,Third Party Advisory
+1452|CVE-2013-4275|https://drupal.org/node/2071055|Release Notes,Third Party Advisory
+1453|CVE-2013-4275|https://drupal.org/node/2071065|Release Notes,Third Party Advisory
+1454|CVE-2013-4275|https://drupal.org/node/2071157|Third Party Advisory
+1455|CVE-2013-4275|https://drupal.org/node/754000|Third Party Advisory
+1456|CVE-2011-2726|https://www.drupal.org/node/1231510|Vendor Advisory
+1457|CVE-2012-1637|https://www.drupal.org/node/1409476|Vendor Advisory
+1458|CVE-2012-2078,CVE-2012-2079|https://www.drupal.org/node/1506562|Vendor Advisory
+1459|CVE-2018-7602|https://www.drupal.org/sa-core-2018-004|Patch,Vendor Advisory
+1460|CVE-2018-14773|https://www.drupal.org/SA-CORE-2018-005|Patch,Third Party Advisory
+1461|CVE-2017-6922,CVE-2017-6921,CVE-2017-6920|https://www.drupal.org/forum/newsletters/security-advisories-for-drupal-core/2017-06-21/drupal-core-multiple|Patch,Mitigation,Vendor Advisory
+1462|CVE-2015-7943|https://www.drupal.org/forum/newsletters/security-advisories-for-drupal-core/2015-10-21/drupal-core-overlay-less-critical|Vendor Advisory
+1463|CVE-2015-7943|https://www.drupal.org/node/2598426|Vendor Advisory
+1464|CVE-2015-7943|https://www.drupal.org/node/2598434|Vendor Advisory
+1465|CVE-2015-7878|https://www.drupal.org/node/2577903|Vendor Advisory
+1466|CVE-2015-8754|https://www.drupal.org/node/2626872|Patch,Vendor Advisory
+1467|CVE-2015-8754|https://www.drupal.org/node/2627448|Patch
+1468|CVE-2015-8761|https://www.drupal.org/node/2622534|Patch
+1469|CVE-2015-8761|https://www.drupal.org/node/2636344|Patch,Vendor Advisory
+1470|CVE-2016-1565|https://www.drupal.org/node/2644832|Patch,Vendor Advisory
+1471|CVE-2016-1565|https://www.drupal.org/node/2645350|Patch
+1472|CVE-2016-1913|https://www.drupal.org/node/2649780|Patch
+1473|CVE-2016-1913|https://www.drupal.org/node/2649800|Patch,Vendor Advisory
+1474|CVE-2016-3188,CVE-2016-3187|https://www.drupal.org/node/2679215|Patch
+1475|CVE-2016-3188,CVE-2016-3187|https://www.drupal.org/node/2679503|Patch,Vendor Advisory
+1476|CVE-2016-3163,CVE-2016-3169,CVE-2016-3167,CVE-2016-3165,CVE-2016-3170,CVE-2016-3164,CVE-2016-3171,CVE-2016-3166,CVE-2016-3162,CVE-2016-3168|https://www.drupal.org/SA-CORE-2016-001|Patch,Vendor Advisory
+1477|CVE-2016-3144|https://www.drupal.org/node/2636498|Patch
+1478|CVE-2016-3144|https://www.drupal.org/node/2636502|Patch,Vendor Advisory
+1479|CVE-2020-11023,CVE-2020-11022|https://www.drupal.org/sa-core-2020-002|Third Party Advisory
+1480|CVE-2019-6342|https://www.drupal.org/sa-core-2019-008|Vendor Advisory
+1481|CVE-2015-7877|https://www.drupal.org/node/2572341|Patch,Vendor Advisory
+1482|CVE-2015-7877|https://www.drupal.org/node/2577901|Patch,Vendor Advisory
+1483|CVE-2015-7879|https://www.drupal.org/node/2581519|Vendor Advisory,Release Notes
+1484|CVE-2015-7879|https://www.drupal.org/node/2581997|Patch,Vendor Advisory
+1485|CVE-2015-7880|https://www.drupal.org/node/2582015|Vendor Advisory,Mitigation
+1486|CVE-2015-7880|https://www.drupal.org/node/2582283|Vendor Advisory
+1487|CVE-2015-7980|https://www.drupal.org/node/2545132|Patch,Vendor Advisory
+1488|CVE-2015-7980|https://www.drupal.org/node/2546174|Patch,Vendor Advisory
+1489|CVE-2007-5228|http://drupal.org/node/180568|Patch
+1490|CVE-2007-5270|http://drupal.org/node/180591|Patch
+1491|CVE-2007-5593|http://drupal.org/files/sa-2007-025/SA-2007-025-5.2.patch|Patch,Vendor Advisory
+1492|CVE-2007-5593|http://drupal.org/node/184316|Vendor Advisory
+1493|CVE-2007-5594|http://drupal.org/node/184348|Patch,Vendor Advisory
+1494|CVE-2007-5595|http://drupal.org/node/184315|Vendor Advisory
+1495|CVE-2007-5596|http://drupal.org/node/184320|Patch,Vendor Advisory
+1496|CVE-2007-5597|http://drupal.org/node/184354|Vendor Advisory
+1497|CVE-2007-5598|http://drupal.org/node/184323|Vendor Advisory
+1498|CVE-2007-5621|http://drupal.org/node/184336|Patch
+1499|CVE-2007-6298|http://drupal.org/node/198163|
+1500|CVE-2007-6299|http://drupal.org/node/198162|
+1501|CVE-2007-6320|http://drupal.org/node/198164|Patch
+1502|CVE-2006-1225|http://drupal.org/node/53806|Patch,Vendor Advisory
+1503|CVE-2006-1226|http://drupal.org/node/53803|Patch,Vendor Advisory
+1504|CVE-2006-1227|http://drupal.org/node/53796|Patch,Vendor Advisory
+1505|CVE-2006-1228|http://drupal.org/node/53805|Patch,Vendor Advisory
+1506|CVE-2006-2260|http://drupal.org/node/62406|Patch
+1507|CVE-2006-2742|http://drupal.org/node/65357|Patch,Vendor Advisory
+1508|CVE-2006-2743|http://drupal.org/node/65409|Patch,Vendor Advisory
+1509|CVE-2006-2831,CVE-2006-2832|http://drupal.org/files/sa-2006-007/advisory.txt|Patch,Vendor Advisory
+1510|CVE-2006-2831,CVE-2006-2832|http://drupal.org/node/66763|Patch
+1511|CVE-2006-2833|http://drupal.org/files/sa-2006-008/4.6.7.patch|Patch
+1512|CVE-2006-2833|http://drupal.org/node/66767|Patch
+1513|CVE-2020-13666|https://www.drupal.org/sa-core-2020-007|Vendor Advisory
+1514|CVE-2020-13662|https://www.drupal.org/sa-core-2020-003|Vendor Advisory
+1515|CVE-2020-13664|https://www.drupal.org/sa-core-2020-005|Vendor Advisory
+1516|CVE-2020-13665|https://www.drupal.org/sa-core-2020-006|Vendor Advisory
+1517|CVE-2020-13667|https://www.drupal.org/sa-core-2020-008|Patch,Vendor Advisory
+1518|CVE-2012-2724|http://drupal.org/node/1619812|Third Party Advisory
+1519|CVE-2012-2724|http://drupal.org/node/1619818|Third Party Advisory
+1520|CVE-2012-2724|http://drupal.org/node/1619820|Third Party Advisory
+1521|CVE-2012-2724|http://drupal.org/node/1619848|Third Party Advisory
+1522|CVE-2012-5558|http://drupal.org/node/1840892|Vendor Advisory
+1523|CVE-2012-5558|http://drupal.org/node/1840954|Vendor Advisory
+1524|CVE-2012-5558|http://drupal.org/node/1840956|Vendor Advisory
+1525|CVE-2011-2714,CVE-2011-2715|https://www.drupal.org/node/1056470|Patch,Vendor Advisory
+1526|CVE-2011-0771|http://drupal.org/node/1033154|Patch,Vendor Advisory
+1527|CVE-2011-0899|http://drupal.org/node/1040728|Patch
+1528|CVE-2011-0899|http://drupal.org/node/1048998|Patch,Vendor Advisory
+1529|CVE-2011-1066|http://drupal.org/node/1064024|Patch,Vendor Advisory
+1530|CVE-2010-4775|http://drupal.org/node/974668|Patch
+1531|CVE-2010-4775|http://drupal.org/node/974672|Patch
+1532|CVE-2010-4775|http://drupal.org/node/975094|Patch,Vendor Advisory
+1533|CVE-2011-1661|http://drupal.org/files/issues/db_rewrite_sql_12.patch|Patch
+1534|CVE-2011-1661|http://drupal.org/node/1080114|Patch
+1535|CVE-2011-1661|http://drupal.org/node/1118408|Patch,Vendor Advisory
+1536|CVE-2011-1664,CVE-2011-1662,CVE-2011-1663|http://drupal.org/node/1111174|Patch,Vendor Advisory
+1537|CVE-2010-4813|http://drupal.org/node/968176|Patch,Vendor Advisory
+1538|CVE-2011-2687|http://drupal.org/node/1204582|Patch,Vendor Advisory
+1539|CVE-2009-5096|http://drupal.org/node/610868|Patch,Vendor Advisory
+1540|CVE-2009-5096|http://drupal.org/node/610870|Patch
+1541|CVE-2011-4560|http://drupal.org/node/1300238|
+1542|CVE-2011-5030|http://drupal.org/node/1370878|Patch
+1543|CVE-2011-5030|http://drupal.org/node/1370934|
+1544|CVE-2009-4558,CVE-2009-4557|http://drupal.org/node/520564|Patch,Vendor Advisory
+1545|CVE-2009-4559|http://drupal.org/node/520372|Patch,Vendor Advisory
+1546|CVE-2009-4602|http://drupal.org/node/655668|Vendor Advisory
+1547|CVE-2010-0370|http://drupal.org/node/683584|Patch
+1548|CVE-2010-0370|http://drupal.org/node/683586|Patch
+1549|CVE-2010-0370|http://drupal.org/node/683598|Patch,Vendor Advisory
+1550|CVE-2010-0697|http://drupal.org/node/711072|Patch
+1551|CVE-2010-0697|http://drupal.org/node/711074|Patch
+1552|CVE-2010-0697|http://drupal.org/node/717214|Patch,Vendor Advisory
+1553|CVE-2010-0752|http://drupal.org/node/723776|Patch
+1554|CVE-2010-0752|http://drupal.org/node/724286|Patch,Vendor Advisory
+1555|CVE-2017-6379,CVE-2017-6381,CVE-2017-6377|https://www.drupal.org/SA-2017-001|Mitigation,Release Notes,Vendor Advisory,Third Party Advisory
+1556|CVE-2017-6919|https://www.drupal.org/SA-CORE-2017-002|Patch,Vendor Advisory
+1557|CVE-2020-28948,CVE-2020-28949|https://www.drupal.org/sa-core-2020-013|Third Party Advisory
+1558|CVE-2020-13671|https://www.drupal.org/sa-core-2020-012|Vendor Advisory
+1559|CVE-2016-20003,CVE-2016-20004,CVE-2016-20007,CVE-2016-20002,CVE-2016-20005,CVE-2016-20006,CVE-2016-20001,CVE-2016-20008|https://www.drupal.org/node/2744889|Third Party Advisory
+1560|CVE-2017-20001|https://www.drupal.org/node/2857028|Third Party Advisory
+1561|CVE-2018-25002|https://www.drupal.org/project/kcfinder/issues/1768718|Third Party Advisory
+1562|CVE-2018-25002|https://www.drupal.org/project/kcfinder/issues/1768720|Third Party Advisory
+1563|CVE-2018-25002|https://www.drupal.org/sa-contrib-2018-024|Third Party Advisory
+1564|CVE-2019-25012|https://www.drupal.org/project/webform_report/issues/3101410|Vendor Advisory
+1565|CVE-2017-6925,CVE-2017-6923,CVE-2017-6924|https://www.drupal.org/forum/newsletters/security-advisories-for-drupal-core/2017-08-16/drupal-core-multiple|Patch,Mitigation,Release Notes,Vendor Advisory
+1566|CVE-2018-7603|https://www.drupal.org/sa-contrib-2018-070|Patch,Vendor Advisory
+1567|CVE-2019-6338|https://www.drupal.org/sa-core-2019-001|Patch,Vendor Advisory
+1568|CVE-2019-6339|https://www.drupal.org/sa-core-2019-002|Patch,Vendor Advisory
+1569|CVE-2013-4187|https://drupal.org/node/2050827|Third Party Advisory
+1570|CVE-2013-4187|https://drupal.org/node/2054701|Third Party Advisory
+1571|CVE-2012-5570|https://www.drupal.org/node/1808852|Vendor Advisory
+1572|CVE-2013-4225|https://drupal.org/node/2059591|Vendor Advisory,Release Notes
+1573|CVE-2013-4225|https://drupal.org/node/2059593|Vendor Advisory,Release Notes
+1574|CVE-2013-4225|https://drupal.org/node/2059603|Patch,Vendor Advisory
+1575|CVE-2013-1924|http://drupal.org/node/1960338|Third Party Advisory
+1576|CVE-2013-4227|https://drupal.org/node/2058655|Patch,Third Party Advisory
+1577|CVE-2013-4227|https://drupal.org/node/2059599|Third Party Advisory
+1578|CVE-2013-4226|https://drupal.org/node/2058165|Vendor Advisory,Release Notes
+1579|CVE-2013-4226|https://drupal.org/node/2059589|Vendor Advisory
+1580|CVE-2013-4228|https://drupal.org/node/2059755|Vendor Advisory,Release Notes
+1581|CVE-2013-4228|https://drupal.org/node/2059765|Vendor Advisory

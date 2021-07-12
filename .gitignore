@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.vscode/
+data/med-visit/
+data/query2box-data/
+data/medkg-raw/
+model/
+*.log
+*run.py

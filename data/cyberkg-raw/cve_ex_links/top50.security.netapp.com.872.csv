@@ -1,0 +1,873 @@
+|cve-ids|ex_url|types
+0|CVE-2017-15519|https://security.netapp.com/advisory/ntap-20180306-0001/|Vendor Advisory,Mitigation
+1|CVE-2018-7170,CVE-2018-7183,CVE-2018-7184,CVE-2018-7185,CVE-2018-7182|https://security.netapp.com/advisory/ntap-20180626-0001/|Third Party Advisory
+2|CVE-2016-8612|https://security.netapp.com/advisory/ntap-20180601-0005/|Third Party Advisory
+3|CVE-2018-1050,CVE-2018-1057|https://security.netapp.com/advisory/ntap-20180313-0001/|Third Party Advisory
+4|CVE-2018-1302,CVE-2018-1303,CVE-2018-1301,CVE-2017-15710,CVE-2017-15715,CVE-2018-1283,CVE-2018-1312|https://security.netapp.com/advisory/ntap-20180601-0004/|Third Party Advisory
+5|CVE-2018-8048,CVE-2019-15587|https://security.netapp.com/advisory/ntap-20191122-0003/|
+6|CVE-2018-0733,CVE-2018-0739|https://security.netapp.com/advisory/ntap-20180330-0002/|Third Party Advisory
+7|CVE-2018-3066,CVE-2018-3071,CVE-2018-3079,CVE-2018-3065,CVE-2018-3073,CVE-2018-3054,CVE-2018-3062,CVE-2018-3074,CVE-2018-3080,CVE-2017-5645,CVE-2018-3070,CVE-2018-3084,CVE-2018-2598,CVE-2018-3081,CVE-2018-3077,CVE-2018-3056,CVE-2018-3075,CVE-2018-0739,CVE-2018-3078,CVE-2017-0379,CVE-2018-3067,CVE-2018-3058,CVE-2018-3060,CVE-2018-3061,CVE-2018-3064,CVE-2018-3082,CVE-2018-2767,CVE-2018-3063|https://security.netapp.com/advisory/ntap-20180726-0002/|Patch,Third Party Advisory
+8|CVE-2018-1327|https://security.netapp.com/advisory/ntap-20180330-0001/|Third Party Advisory
+9|CVE-2017-5703|https://security.netapp.com/advisory/ntap-20180924-0004/|
+10|CVE-2017-5130,CVE-2017-18258|https://security.netapp.com/advisory/ntap-20190719-0001/|
+11|CVE-2018-0737|https://security.netapp.com/advisory/ntap-20180726-0003/|
+12|CVE-2018-2779,CVE-2018-2762,CVE-2018-2805,CVE-2018-2766,CVE-2018-2839,CVE-2018-2846,CVE-2018-2773,CVE-2018-2759,CVE-2018-2782,CVE-2018-2816,CVE-2018-2818,CVE-2018-2817,CVE-2018-2813,CVE-2018-2755,CVE-2016-9878,CVE-2018-2819,CVE-2018-2877,CVE-2018-2761,CVE-2018-2787,CVE-2018-2758,CVE-2018-2771,CVE-2018-2769,CVE-2018-2778,CVE-2018-2781,CVE-2018-2776,CVE-2018-2780,CVE-2018-2777,CVE-2018-2786,CVE-2017-3737,CVE-2018-2810,CVE-2018-2812,CVE-2018-2775,CVE-2018-2784|https://security.netapp.com/advisory/ntap-20180419-0002/|Third Party Advisory
+13|CVE-2018-2783,CVE-2018-2796,CVE-2018-2800,CVE-2018-2826,CVE-2018-2811,CVE-2018-2798,CVE-2018-2799,CVE-2018-2815,CVE-2018-2795,CVE-2018-2825,CVE-2018-2794,CVE-2018-2814,CVE-2018-2790,CVE-2018-2797|https://security.netapp.com/advisory/ntap-20180419-0001/|Third Party Advisory
+14|CVE-2018-5486|https://security.netapp.com/advisory/ntap-20180425-0001/|Vendor Advisory,Mitigation
+15|CVE-2018-10548,CVE-2018-10546,CVE-2018-10547,CVE-2018-10545,CVE-2018-10549|https://security.netapp.com/advisory/ntap-20180607-0003/|Third Party Advisory
+16|CVE-2018-1413,CVE-2017-1428,CVE-2017-1784,CVE-2017-1783,CVE-2018-1842,CVE-2017-1779,CVE-2017-1427|https://security.netapp.com/advisory/ntap-20190329-0003/|Broken Link
+17|CVE-2018-1413,CVE-2017-1428,CVE-2017-1784,CVE-2017-1783,CVE-2018-1842,CVE-2017-1779,CVE-2017-1427|https://security.netapp.com/advisory/ntap-20190401-0003/|Third Party Advisory
+18|CVE-2018-8897|https://security.netapp.com/advisory/ntap-20180927-0002/|
+19|CVE-2018-8014,CVE-2018-3258,CVE-2018-3145,CVE-2018-3285,CVE-2018-3212,CVE-2018-3284,CVE-2018-3162,CVE-2018-3170,CVE-2016-9843,CVE-2018-3286,CVE-2018-3251,CVE-2018-3186,CVE-2018-3187,CVE-2018-3171,CVE-2018-3161,CVE-2018-3200,CVE-2018-3133,CVE-2018-3173,CVE-2018-3185,CVE-2018-3174,CVE-2018-3276,CVE-2018-3203,CVE-2018-11776,CVE-2018-3283,CVE-2018-3279,CVE-2018-3195,CVE-2018-3143,CVE-2018-3156,CVE-2018-3182,CVE-2018-3277,CVE-2018-3144,CVE-2018-3155,CVE-2018-3278,CVE-2018-3137,CVE-2018-1258,CVE-2018-3280,CVE-2018-3282,CVE-2018-3247|https://security.netapp.com/advisory/ntap-20181018-0002/|Patch,Third Party Advisory
+20|CVE-2019-2422,CVE-2019-2449,CVE-2019-2426,CVE-2018-11212,CVE-2019-2540|https://security.netapp.com/advisory/ntap-20190118-0001/|Patch,Third Party Advisory
+21|CVE-2017-18269|https://security.netapp.com/advisory/ntap-20190329-0001/|
+22|CVE-2018-11237,CVE-2018-11236,CVE-2017-18269|https://security.netapp.com/advisory/ntap-20190401-0001/|Third Party Advisory
+23|CVE-2018-3640,CVE-2018-3639|https://security.netapp.com/advisory/ntap-20180521-0001/|Third Party Advisory
+24|CVE-2018-5485|https://security.netapp.com/advisory/ntap-20180523-0002/|Patch,Vendor Advisory
+25|CVE-2018-5487|https://security.netapp.com/advisory/ntap-20180523-0001/|Patch,Vendor Advisory
+26|CVE-2016-7076|https://security.netapp.com/advisory/ntap-20181127-0002/|
+27|CVE-2019-19813,CVE-2019-19447,CVE-2019-19378,CVE-2019-19241,CVE-2019-19252,CVE-2019-18660,CVE-2019-19815,CVE-2019-19227,CVE-2019-19319,CVE-2019-19449,CVE-2019-19807,CVE-2019-14815,CVE-2019-19377,CVE-2019-19770,CVE-2019-19602,CVE-2019-19816,CVE-2019-10207,CVE-2019-18675,CVE-2019-10220,CVE-2019-19769,CVE-2019-19767,CVE-2019-14896,CVE-2019-19814,CVE-2019-19768,CVE-2019-19448,CVE-2019-19318|https://security.netapp.com/advisory/ntap-20200103-0001/|Third Party Advisory
+28|CVE-2019-19462|https://security.netapp.com/advisory/ntap-20210129-0004/|Third Party Advisory
+29|CVE-2019-19118|https://security.netapp.com/advisory/ntap-20191217-0003/|Third Party Advisory
+30|CVE-2019-19543|https://security.netapp.com/advisory/ntap-20200924-0005/|
+31|CVE-2019-19646,CVE-2019-19645,CVE-2019-19603,CVE-2019-19317|https://security.netapp.com/advisory/ntap-20191223-0001/|Third Party Advisory
+32|CVE-2019-11255|https://security.netapp.com/advisory/ntap-20200810-0003/|
+33|CVE-2019-1551|https://security.netapp.com/advisory/ntap-20191210-0001/|Third Party Advisory
+34|CVE-2019-14870,CVE-2019-14861|https://security.netapp.com/advisory/ntap-20191210-0002/|Third Party Advisory
+35|CVE-2019-11157|https://security.netapp.com/advisory/ntap-20191217-0001/|Third Party Advisory
+36|CVE-2019-14607|https://security.netapp.com/advisory/ntap-20191217-0002/|Third Party Advisory
+37|CVE-2019-19880|https://security.netapp.com/advisory/ntap-20200114-0001/|
+38|CVE-2019-19844|https://security.netapp.com/advisory/ntap-20200110-0003/|
+39|CVE-2019-19232,CVE-2019-19234|https://security.netapp.com/advisory/ntap-20200103-0004/|
+40|CVE-2019-17571|https://security.netapp.com/advisory/ntap-20200110-0001/|Third Party Advisory
+41|CVE-2019-4231,CVE-2019-4555|https://security.netapp.com/advisory/ntap-20200103-0003/|Third Party Advisory
+42|CVE-2019-5108,CVE-2019-18282,CVE-2007-4774,CVE-2019-20054,CVE-2019-19332,CVE-2019-19922,CVE-2019-19927,CVE-2020-7053,CVE-2019-19947,CVE-2019-20095,CVE-2019-19965,CVE-2019-19966|https://security.netapp.com/advisory/ntap-20200204-0002/|Third Party Advisory
+43|CVE-2019-19923,CVE-2019-19925,CVE-2019-19926,CVE-2019-19924|https://security.netapp.com/advisory/ntap-20200114-0003/|
+44|CVE-2019-11044,CVE-2019-11046,CVE-2019-11047,CVE-2019-11049,CVE-2019-11045,CVE-2019-11050|https://security.netapp.com/advisory/ntap-20200103-0002/|Third Party Advisory
+45|CVE-2019-17563,CVE-2019-12418|https://security.netapp.com/advisory/ntap-20200107-0001/|Third Party Advisory
+46|CVE-2019-19956|https://security.netapp.com/advisory/ntap-20200114-0002/|Third Party Advisory
+47|CVE-2019-4343|https://security.netapp.com/advisory/ntap-20200110-0002/|
+48|CVE-2017-5753,CVE-2017-5715,CVE-2017-5754|https://security.netapp.com/advisory/ntap-20180104-0001/|Third Party Advisory
+49|CVE-2017-17485|https://security.netapp.com/advisory/ntap-20180201-0003/|Third Party Advisory
+50|CVE-2018-2576,CVE-2018-2612,CVE-2018-2703,CVE-2018-2591,CVE-2018-2645,CVE-2018-2647,CVE-2018-2667,CVE-2017-12617,CVE-2018-2668,CVE-2018-2585,CVE-2018-2573,CVE-2018-2600,CVE-2018-2640,CVE-2018-2696,CVE-2018-2583,CVE-2017-3736,CVE-2018-2622,CVE-2018-2646,CVE-2018-2562,CVE-2018-2590,CVE-2018-2586,CVE-2018-2665,CVE-2017-3737,CVE-2018-2565|https://security.netapp.com/advisory/ntap-20180117-0002/|Third Party Advisory
+51|CVE-2018-2678,CVE-2018-2581,CVE-2018-2663,CVE-2018-2675,CVE-2018-2627,CVE-2018-2599,CVE-2018-2634,CVE-2018-2618,CVE-2018-2602,CVE-2018-2579,CVE-2018-2603,CVE-2018-2641,CVE-2018-2638,CVE-2018-2588,CVE-2018-2639,CVE-2018-2633,CVE-2018-2677,CVE-2018-2582,CVE-2018-2637,CVE-2018-2657,CVE-2018-2629|https://security.netapp.com/advisory/ntap-20180117-0001/|Third Party Advisory
+52|CVE-2015-9251|https://security.netapp.com/advisory/ntap-20210108-0004/|
+53|CVE-2016-10708|https://security.netapp.com/advisory/ntap-20180423-0003/|Third Party Advisory
+54|CVE-2018-5968|https://security.netapp.com/advisory/ntap-20180423-0002/|Third Party Advisory
+55|CVE-2017-1000409,CVE-2018-6485,CVE-2017-1000408,CVE-2018-1000001,CVE-2018-6551|https://security.netapp.com/advisory/ntap-20190404-0003/|Third Party Advisory
+56|CVE-2017-15095|https://security.netapp.com/advisory/ntap-20171214-0003/|Third Party Advisory
+57|CVE-2017-7525|https://security.netapp.com/advisory/ntap-20171214-0002/|Third Party Advisory
+58|CVE-2017-15518|https://security.netapp.com/advisory/NTAP-20180223-0001/|Vendor Advisory
+59|CVE-2018-1304,CVE-2018-1305|https://security.netapp.com/advisory/ntap-20180706-0001/|Patch,Third Party Advisory
+60|CVE-2018-7489|https://security.netapp.com/advisory/ntap-20180328-0001/|Third Party Advisory
+61|CVE-2014-3566|https://security.netapp.com/advisory/ntap-20141015-0001/|Third Party Advisory
+62|CVE-2016-7103,CVE-2007-2379,CVE-2010-5312,CVE-2011-4969|https://security.netapp.com/advisory/ntap-20190416-0007/|Third Party Advisory
+63|CVE-2014-8680,CVE-2014-8500|https://security.netapp.com/advisory/ntap-20190730-0002/|
+64|CVE-2019-9003,CVE-2019-9162|https://security.netapp.com/advisory/ntap-20190327-0002/|Third Party Advisory
+65|CVE-2019-9025,CVE-2019-9023,CVE-2019-9022,CVE-2019-9024,CVE-2019-9020,CVE-2019-9021|https://security.netapp.com/advisory/ntap-20190321-0001/|Patch,Third Party Advisory
+66|CVE-2019-9076,CVE-2019-9073,CVE-2019-9072,CVE-2019-9071,CVE-2019-9077,CVE-2019-9074,CVE-2019-9070,CVE-2019-9075|https://security.netapp.com/advisory/ntap-20190314-0003/|Patch,Third Party Advisory
+67|CVE-2009-5155,CVE-2019-9169,CVE-2018-20796|https://security.netapp.com/advisory/ntap-20190315-0002/|Patch,Third Party Advisory
+68|CVE-2019-5491|https://security.netapp.com/advisory/ntap-20190227-0001/|Vendor Advisory
+69|CVE-2019-1559|https://security.netapp.com/advisory/ntap-20190301-0001/|Patch,Third Party Advisory
+70|CVE-2019-1559|https://security.netapp.com/advisory/ntap-20190301-0002/|Third Party Advisory
+71|CVE-2019-1559,CVE-2018-0734,CVE-2019-2692|https://security.netapp.com/advisory/ntap-20190423-0002/|Third Party Advisory
+72|CVE-2017-15515|https://security.netapp.com/advisory/ntap-20190304-0002/|Patch,Vendor Advisory
+73|CVE-2018-5482|https://security.netapp.com/advisory/ntap-20190304-0001/|Patch,Vendor Advisory
+74|CVE-2019-3824|https://security.netapp.com/advisory/ntap-20190226-0001/|Third Party Advisory
+75|CVE-2019-0192,CVE-2017-3164|https://security.netapp.com/advisory/ntap-20190327-0003/|Third Party Advisory
+76|CVE-2019-9636|https://security.netapp.com/advisory/ntap-20190517-0001/|
+77|CVE-2019-9640,CVE-2019-9638,CVE-2019-9641,CVE-2019-9637,CVE-2019-9639|https://security.netapp.com/advisory/ntap-20190502-0007/|Patch,Third Party Advisory
+78|CVE-2019-9740|https://security.netapp.com/advisory/ntap-20190619-0005/|
+79|CVE-2018-20801|https://security.netapp.com/advisory/ntap-20190715-0001/|
+80|CVE-2018-12188,CVE-2018-12191,CVE-2018-12192,CVE-2018-12185,CVE-2018-12190,CVE-2018-12187,CVE-2018-12196,CVE-2018-12208,CVE-2018-12199,CVE-2018-12189,CVE-2018-12200,CVE-2018-12198|https://security.netapp.com/advisory/ntap-20190318-0001/|Third Party Advisory
+81|CVE-2018-12205,CVE-2018-12201,CVE-2018-12203,CVE-2018-12202,CVE-2018-12204|https://security.netapp.com/advisory/ntap-20190318-0002/|
+82|CVE-2018-11767|https://security.netapp.com/advisory/ntap-20190416-0009/|
+83|CVE-2018-14720,CVE-2019-12086,CVE-2018-14721,CVE-2018-19361,CVE-2018-14718,CVE-2018-19360,CVE-2018-14719,CVE-2018-19362,CVE-2018-12022,CVE-2018-12023|https://security.netapp.com/advisory/ntap-20190530-0003/|Third Party Advisory
+84|CVE-2019-8934,CVE-2019-6501,CVE-2018-18849|https://security.netapp.com/advisory/ntap-20190411-0006/|Third Party Advisory
+85|CVE-2018-19985,CVE-2019-7221,CVE-2019-9857,CVE-2018-20669,CVE-2019-7222|https://security.netapp.com/advisory/ntap-20190404-0002/|Third Party Advisory
+86|CVE-2019-3859,CVE-2019-3856,CVE-2019-3860,CVE-2019-3857,CVE-2019-3861,CVE-2019-3862,CVE-2019-3855,CVE-2019-3863,CVE-2019-3858|https://security.netapp.com/advisory/ntap-20190327-0005/|Third Party Advisory
+87|CVE-2019-6454|https://security.netapp.com/advisory/ntap-20190327-0004/|Third Party Advisory
+88|CVE-2019-9897,CVE-2019-9894,CVE-2019-9896,CVE-2019-9895|https://security.netapp.com/advisory/ntap-20190404-0001/|Patch,Third Party Advisory
+89|CVE-2019-9898|https://security.netapp.com/advisory/ntap-20190401-0002/|Patch,Third Party Advisory
+90|CVE-2019-5490|https://security.netapp.com/advisory/ntap-20190305-0001/|Vendor Advisory
+91|CVE-2019-9924|https://security.netapp.com/advisory/ntap-20190411-0001/|
+92|CVE-2019-9936,CVE-2019-9937|https://security.netapp.com/advisory/ntap-20190416-0005/|Third Party Advisory
+93|CVE-2019-9947,CVE-2019-9948|https://security.netapp.com/advisory/ntap-20190404-0004/|Third Party Advisory
+94|CVE-2019-10125,CVE-2019-3874|https://security.netapp.com/advisory/ntap-20190411-0003/|Third Party Advisory
+95|CVE-2019-7612|https://security.netapp.com/advisory/ntap-20190411-0002/|Third Party Advisory
+96|CVE-2018-10934|https://security.netapp.com/advisory/ntap-20190611-0002/|
+97|CVE-2019-3829|https://security.netapp.com/advisory/ntap-20190619-0004/|
+98|CVE-2019-5737,CVE-2019-5739|https://security.netapp.com/advisory/ntap-20190502-0008/|Third Party Advisory
+99|CVE-2019-0222|https://security.netapp.com/advisory/ntap-20190502-0006/|Third Party Advisory
+100|CVE-2019-9946,CVE-2019-1002100|https://security.netapp.com/advisory/ntap-20190416-0002/|Patch,Third Party Advisory
+101|CVE-2019-3836|https://security.netapp.com/advisory/ntap-20190502-0005/|Third Party Advisory
+102|CVE-2019-9193|https://security.netapp.com/advisory/ntap-20190502-0003/|Third Party Advisory
+103|CVE-2018-20506,CVE-2018-20505|https://security.netapp.com/advisory/ntap-20190502-0004/|Third Party Advisory
+104|CVE-2018-20449|https://security.netapp.com/advisory/ntap-20190502-0002/|Third Party Advisory
+105|CVE-2019-0211,CVE-2019-0217,CVE-2019-0215|https://security.netapp.com/advisory/ntap-20190423-0001/|Third Party Advisory
+106|CVE-2019-3880|https://security.netapp.com/advisory/ntap-20190411-0004/|Third Party Advisory
+107|CVE-2019-0199,CVE-2019-0232|https://security.netapp.com/advisory/ntap-20190419-0001/|Third Party Advisory
+108|CVE-2019-2945,CVE-2019-2964,CVE-2019-2987,CVE-2019-11068,CVE-2019-2989,CVE-2019-2978,CVE-2019-2962,CVE-2019-2983,CVE-2019-2981,CVE-2019-2933,CVE-2019-2999,CVE-2019-2973,CVE-2019-2975,CVE-2019-2988,CVE-2019-2958,CVE-2019-2977,CVE-2019-2992,CVE-2019-2949,CVE-2019-2996,CVE-2019-2894|https://security.netapp.com/advisory/ntap-20191017-0001/|Third Party Advisory
+109|CVE-2019-9628|https://security.netapp.com/advisory/ntap-20190611-0003/|
+110|CVE-2019-4178|https://security.netapp.com/advisory/ntap-20190509-0004/|
+111|CVE-2019-11035,CVE-2019-11034|https://security.netapp.com/advisory/ntap-20190502-0001/|Patch,Third Party Advisory
+112|CVE-2019-11358|https://security.netapp.com/advisory/ntap-20190919-0001/|Third Party Advisory
+113|CVE-2019-11243,CVE-2019-11244|https://security.netapp.com/advisory/ntap-20190509-0002/|Third Party Advisory
+114|CVE-2019-11487,CVE-2019-11486,CVE-2019-3900,CVE-2019-3901,CVE-2019-3882|https://security.netapp.com/advisory/ntap-20190517-0005/|Third Party Advisory
+115|CVE-2019-10247,CVE-2019-10246,CVE-2019-10241|https://security.netapp.com/advisory/ntap-20190509-0003/|Third Party Advisory
+116|CVE-2019-3844,CVE-2019-3843|https://security.netapp.com/advisory/ntap-20190619-0002/|Third Party Advisory
+117|CVE-2019-5492|https://security.netapp.com/advisory/ntap-20190426-0001/|Vendor Advisory
+118|CVE-2019-11683,CVE-2019-11599,CVE-2018-20509|https://security.netapp.com/advisory/ntap-20190517-0002/|
+119|CVE-2020-12770,CVE-2020-12769,CVE-2020-12655,CVE-2020-12771,CVE-2020-13143,CVE-2020-12826,CVE-2019-20794,CVE-2020-12465,CVE-2019-11599,CVE-2020-12114,CVE-2020-10711,CVE-2020-12659,CVE-2020-12653,CVE-2020-12464,CVE-2020-12657,CVE-2020-12654,CVE-2020-11884,CVE-2020-10690,CVE-2020-12888,CVE-2019-14898,CVE-2020-12652|https://security.netapp.com/advisory/ntap-20200608-0001/|Third Party Advisory
+120|CVE-2019-11036|https://security.netapp.com/advisory/ntap-20190517-0003/|Third Party Advisory
+121|CVE-2019-3894,CVE-2019-3805|https://security.netapp.com/advisory/ntap-20190517-0004/|Third Party Advisory
+122|CVE-2019-11815,CVE-2019-11810,CVE-2018-20836,CVE-2019-11811|https://security.netapp.com/advisory/ntap-20190719-0003/|Third Party Advisory
+123|CVE-2019-5021|https://security.netapp.com/advisory/ntap-20190510-0001/|Third Party Advisory
+124|CVE-2019-5018|https://security.netapp.com/advisory/ntap-20190521-0001/|
+125|CVE-2019-5494|https://security.netapp.com/advisory/ntap-20190509-0006/|Vendor Advisory
+126|CVE-2019-5495|https://security.netapp.com/advisory/ntap-20190509-0007/|Vendor Advisory
+127|CVE-2019-5496|https://security.netapp.com/advisory/ntap-20190509-0005/|Vendor Advisory
+128|CVE-2019-5597,CVE-2019-5598|https://security.netapp.com/advisory/ntap-20190611-0001/|
+129|CVE-2019-8936|https://security.netapp.com/advisory/ntap-20190503-0001/|Patch,Third Party Advisory
+130|CVE-2018-20839|https://security.netapp.com/advisory/ntap-20190530-0002/|
+131|CVE-2019-0201|https://security.netapp.com/advisory/ntap-20190619-0001/|
+132|CVE-2019-12615,CVE-2019-12819,CVE-2019-12379,CVE-2019-3846,CVE-2019-12455,CVE-2019-10126,CVE-2019-12881,CVE-2019-3896,CVE-2019-12380,CVE-2019-12614,CVE-2019-12818|https://security.netapp.com/advisory/ntap-20190710-0002/|Third Party Advisory
+133|CVE-2019-5435,CVE-2019-5436|https://security.netapp.com/advisory/ntap-20190606-0004/|Third Party Advisory
+134|CVE-2019-0221|https://security.netapp.com/advisory/ntap-20190606-0001/|
+135|CVE-2019-4139|https://security.netapp.com/advisory/ntap-20190617-0004/|
+136|CVE-2019-12450|https://security.netapp.com/advisory/ntap-20190606-0003/|
+137|CVE-2018-8029|https://security.netapp.com/advisory/ntap-20190617-0001/|
+138|CVE-2019-8457|https://security.netapp.com/advisory/ntap-20190606-0002/|Third Party Advisory
+139|CVE-2016-0687,CVE-2016-0686,CVE-2016-0695,CVE-2016-3426,CVE-2016-3443,CVE-2016-3425,CVE-2016-3422,CVE-2016-3449,CVE-2016-3427|https://security.netapp.com/advisory/ntap-20160420-0001/|
+140|CVE-2015-8325|https://security.netapp.com/advisory/ntap-20180628-0001/|
+141|CVE-2016-2176,CVE-2016-2106,CVE-2016-2105,CVE-2016-2108,CVE-2016-2109,CVE-2016-2107|https://security.netapp.com/advisory/ntap-20160504-0001/|Third Party Advisory
+142|CVE-2016-1182,CVE-2014-0114,CVE-2015-0899,CVE-2016-1181|https://security.netapp.com/advisory/ntap-20180629-0006/|Third Party Advisory
+143|CVE-2016-1000031,CVE-2016-3092|https://security.netapp.com/advisory/ntap-20190212-0001/|
+144|CVE-2016-4979,CVE-2016-1546|https://security.netapp.com/advisory/ntap-20180601-0001/|
+145|CVE-2016-2775|https://security.netapp.com/advisory/ntap-20160722-0002/|Third Party Advisory
+146|CVE-2016-3485,CVE-2016-3503,CVE-2016-3606,CVE-2016-3508,CVE-2016-3498,CVE-2016-3587,CVE-2016-3598,CVE-2016-3500,CVE-2016-3610,CVE-2016-3511,CVE-2016-3458,CVE-2016-3550,CVE-2016-3552|https://security.netapp.com/advisory/ntap-20160721-0001/|
+147|CVE-2016-6515|https://security.netapp.com/advisory/ntap-20171130-0003/|
+148|CVE-2016-2183|https://security.netapp.com/advisory/ntap-20160915-0001/|Third Party Advisory
+149|CVE-2016-5552,CVE-2016-8328,CVE-2017-3231,CVE-2016-5548,CVE-2016-5546,CVE-2017-3259,CVE-2016-5547,CVE-2016-5549,CVE-2017-3260,CVE-2017-3262,CVE-2017-3272,CVE-2017-3252,CVE-2017-3253,CVE-2016-2183,CVE-2017-3289,CVE-2017-3261,CVE-2017-3241|https://security.netapp.com/advisory/ntap-20170119-0001/|Third Party Advisory
+150|CVE-2016-3064|https://security.netapp.com/advisory/ntap-20160830-0002/|
+151|CVE-2016-5047|https://security.netapp.com/advisory/ntap-20160830-0001/|
+152|CVE-2015-8960|https://security.netapp.com/advisory/ntap-20180626-0002/|
+153|CVE-2016-2776|https://security.netapp.com/advisory/ntap-20160930-0001/|
+154|CVE-2016-1240,CVE-2017-6056,CVE-2016-9775,CVE-2016-9774|https://security.netapp.com/advisory/ntap-20180731-0002/|Third Party Advisory
+155|CVE-2015-2080|https://security.netapp.com/advisory/ntap-20190307-0005/|
+156|CVE-2016-2848|https://security.netapp.com/advisory/ntap-20180926-0002/|
+157|CVE-2016-2848,CVE-2016-9778,CVE-2016-9131,CVE-2018-5734,CVE-2016-9444,CVE-2016-8864,CVE-2017-3135,CVE-2016-9147|https://security.netapp.com/advisory/ntap-20180926-0005/|Third Party Advisory
+158|CVE-2016-5556,CVE-2016-5542,CVE-2016-5582,CVE-2016-5597,CVE-2016-5573,CVE-2016-5568,CVE-2016-5554|https://security.netapp.com/advisory/ntap-20161019-0001/|
+159|CVE-2016-5195|https://security.netapp.com/advisory/ntap-20161025-0001/|Third Party Advisory
+160|CVE-2016-8740,CVE-2016-2161,CVE-2016-8743,CVE-2016-0736|https://security.netapp.com/advisory/ntap-20180423-0001/|
+161|CVE-2016-8858|https://security.netapp.com/advisory/ntap-20180201-0001/|Third Party Advisory
+162|CVE-2010-1871|https://security.netapp.com/advisory/ntap-20161017-0001/|
+163|CVE-2014-0114|https://security.netapp.com/advisory/ntap-20140911-0001/|
+164|CVE-2013-4786|https://security.netapp.com/advisory/ntap-20190919-0005/|
+165|CVE-2007-2243|https://security.netapp.com/advisory/ntap-20191107-0003/|
+166|CVE-2007-2768|https://security.netapp.com/advisory/ntap-20191107-0002/|Third Party Advisory
+167|CVE-2015-0235|https://security.netapp.com/advisory/ntap-20150127-0001/|Third Party Advisory
+168|CVE-2015-2575|https://security.netapp.com/advisory/ntap-20150417-0003/|
+169|CVE-2015-4000|https://security.netapp.com/advisory/ntap-20150619-0001/|Third Party Advisory
+170|CVE-2015-4620|https://security.netapp.com/advisory/ntap-20190903-0003/|
+171|CVE-2015-5477|https://security.netapp.com/advisory/ntap-20160114-0001/|
+172|CVE-2015-3963|https://security.netapp.com/advisory/ntap-20160324-0001/|
+173|CVE-2015-5600|https://security.netapp.com/advisory/ntap-20151106-0001/|
+174|CVE-2015-3253|https://security.netapp.com/advisory/ntap-20160623-0001/|
+175|CVE-2015-6563|https://security.netapp.com/advisory/ntap-20180201-0002/|
+176|CVE-2015-5352|https://security.netapp.com/advisory/ntap-20181023-0001/|
+177|CVE-2015-5986,CVE-2015-5722|https://security.netapp.com/advisory/ntap-20190730-0001/|
+178|CVE-2018-15919|https://security.netapp.com/advisory/ntap-20181221-0001/|Third Party Advisory
+179|CVE-2018-14627|https://security.netapp.com/advisory/ntap-20181221-0002/|
+180|CVE-2018-5391|https://security.netapp.com/advisory/ntap-20181003-0002/|Third Party Advisory
+181|CVE-2018-3659,CVE-2018-3657,CVE-2018-3655,CVE-2018-3616,CVE-2018-3658|https://security.netapp.com/advisory/ntap-20180924-0003/|Third Party Advisory
+182|CVE-2018-3643|https://security.netapp.com/advisory/ntap-20180924-0002/|Third Party Advisory
+183|CVE-2018-17082|https://security.netapp.com/advisory/ntap-20180924-0001/|Third Party Advisory
+184|CVE-2018-16597,CVE-2018-17182|https://security.netapp.com/advisory/ntap-20190204-0001/|Patch,Third Party Advisory
+185|CVE-2018-11763|https://security.netapp.com/advisory/ntap-20190204-0004/|Third Party Advisory
+186|CVE-2018-14634|https://security.netapp.com/advisory/ntap-20190204-0002/|Patch,Third Party Advisory
+187|CVE-2018-16984|https://security.netapp.com/advisory/ntap-20190502-0009/|Third Party Advisory
+188|CVE-2018-11784|https://security.netapp.com/advisory/ntap-20181014-0002/|Third Party Advisory
+189|CVE-2018-5492|https://security.netapp.com/advisory/ntap-20181003-0001/|Vendor Advisory
+190|CVE-2018-18065,CVE-2018-18066|https://security.netapp.com/advisory/ntap-20181107-0001/|Third Party Advisory
+191|CVE-2018-1630,CVE-2018-1633,CVE-2018-1631,CVE-2018-1636,CVE-2018-1632,CVE-2019-4253,CVE-2018-11796,CVE-2018-1634,CVE-2018-1635|https://security.netapp.com/advisory/ntap-20190903-0002/|
+192|CVE-2018-3169,CVE-2018-3214,CVE-2018-3180,CVE-2018-3150,CVE-2018-13785,CVE-2018-3136,CVE-2018-3157,CVE-2018-3211,CVE-2018-3209,CVE-2018-3139,CVE-2018-3183,CVE-2018-3149|https://security.netapp.com/advisory/ntap-20181018-0001/|Third Party Advisory
+193|CVE-2019-2534,CVE-2018-0734,CVE-2019-2486,CVE-2019-2510,CVE-2019-2507,CVE-2019-2494,CVE-2019-2513,CVE-2019-2482,CVE-2019-2436,CVE-2019-2528,CVE-2018-0732,CVE-2019-2535,CVE-2019-2495,CVE-2019-2420,CVE-2019-2503,CVE-2019-2455,CVE-2019-2539,CVE-2019-2529,CVE-2019-2530,CVE-2019-2537,CVE-2019-2502,CVE-2019-2532,CVE-2019-2435,CVE-2019-2533,CVE-2019-2531,CVE-2019-2536,CVE-2019-2481,CVE-2019-2434,CVE-2018-10933|https://security.netapp.com/advisory/ntap-20190118-0002/|Third Party Advisory
+194|CVE-2018-18607,CVE-2018-18605,CVE-2018-18606|https://security.netapp.com/advisory/ntap-20190307-0003/|Third Party Advisory
+195|CVE-2018-0735,CVE-2018-0734|https://security.netapp.com/advisory/ntap-20181105-0002/|Third Party Advisory
+196|CVE-2018-5495|https://security.netapp.com/advisory/ntap-20181114-0001/|Vendor Advisory
+197|CVE-2018-5407|https://security.netapp.com/advisory/ntap-20181126-0001/|Third Party Advisory
+198|CVE-2018-16395,CVE-2018-16396|https://security.netapp.com/advisory/ntap-20190221-0002/|Third Party Advisory
+199|CVE-2018-18955|https://security.netapp.com/advisory/ntap-20190416-0003/|
+200|CVE-2018-12038,CVE-2018-12037|https://security.netapp.com/advisory/ntap-20181112-0001/|Third Party Advisory
+201|CVE-2018-19396,CVE-2018-19395|https://security.netapp.com/advisory/ntap-20181221-0005/|Third Party Advisory
+202|CVE-2018-19518|https://security.netapp.com/advisory/ntap-20181221-0004/|Third Party Advisory
+203|CVE-2018-14629,CVE-2018-16851,CVE-2018-16857,CVE-2018-16841,CVE-2018-16852,CVE-2018-16853|https://security.netapp.com/advisory/ntap-20181127-0001/|Third Party Advisory
+204|CVE-2018-19591|https://security.netapp.com/advisory/ntap-20190321-0003/|
+205|CVE-2018-5496|https://security.netapp.com/advisory/ntap-20181204-0001/|Vendor Advisory
+206|CVE-2018-1002101|https://security.netapp.com/advisory/ntap-20190416-0008/|Third Party Advisory
+207|CVE-2018-1002105|https://security.netapp.com/advisory/ntap-20190416-0001/|Third Party Advisory
+208|CVE-2018-18314,CVE-2018-18312,CVE-2018-18313,CVE-2018-18311|https://security.netapp.com/advisory/ntap-20190221-0003/|Patch,Third Party Advisory
+209|CVE-2018-19932,CVE-2018-19931,CVE-2018-20002|https://security.netapp.com/advisory/ntap-20190221-0004/|Patch,Third Party Advisory
+210|CVE-2018-19935|https://security.netapp.com/advisory/ntap-20181221-0003/|Third Party Advisory
+211|CVE-2018-19039,CVE-2018-12099|https://security.netapp.com/advisory/ntap-20190416-0004/|Third Party Advisory
+212|CVE-2018-1000873|https://security.netapp.com/advisory/ntap-20200904-0004/|Third Party Advisory
+213|CVE-2018-20406|https://security.netapp.com/advisory/ntap-20190416-0010/|
+214|CVE-2018-20483|https://security.netapp.com/advisory/ntap-20190321-0002/|
+215|CVE-2018-20217|https://security.netapp.com/advisory/ntap-20190416-0006/|
+216|CVE-2020-28852,CVE-2020-28851|https://security.netapp.com/advisory/ntap-20210212-0004/|Third Party Advisory
+217|CVE-2020-35496,CVE-2020-35495,CVE-2020-35494,CVE-2020-35493,CVE-2020-35507|https://security.netapp.com/advisory/ntap-20210212-0007/|Third Party Advisory
+218|CVE-2019-25013|https://security.netapp.com/advisory/ntap-20210205-0004/|Third Party Advisory
+219|CVE-2020-36158|https://security.netapp.com/advisory/ntap-20210212-0002/|
+220|CVE-2020-8265,CVE-2020-8287|https://security.netapp.com/advisory/ntap-20210212-0003/|Third Party Advisory
+221|CVE-2020-36183,CVE-2020-36188,CVE-2020-36179,CVE-2020-36180,CVE-2020-36184,CVE-2020-36185,CVE-2020-36182,CVE-2020-36186,CVE-2020-36187,CVE-2020-36189,CVE-2020-36181|https://security.netapp.com/advisory/ntap-20210205-0005/|Third Party Advisory
+222|CVE-2020-8584|https://security.netapp.com/advisory/ntap-20210108-0008/|Vendor Advisory
+223|CVE-2021-3121|https://security.netapp.com/advisory/ntap-20210219-0006/|Third Party Advisory
+224|CVE-2021-23240,CVE-2021-23239|https://security.netapp.com/advisory/ntap-20210129-0010/|Third Party Advisory
+225|CVE-2020-28374|https://security.netapp.com/advisory/ntap-20210219-0002/|Third Party Advisory
+226|CVE-2021-21252|https://security.netapp.com/advisory/ntap-20210219-0005/|Third Party Advisory
+227|CVE-2020-16119|https://security.netapp.com/advisory/ntap-20210304-0006/|Third Party Advisory
+228|CVE-2021-23926|https://security.netapp.com/advisory/ntap-20210513-0004/|Third Party Advisory
+229|CVE-2021-24122|https://security.netapp.com/advisory/ntap-20210212-0008/|Third Party Advisory
+230|CVE-2021-22132|https://security.netapp.com/advisory/ntap-20210219-0004/|Third Party Advisory
+231|CVE-2021-3177|https://security.netapp.com/advisory/ntap-20210226-0003/|Third Party Advisory
+232|CVE-2021-20190|https://security.netapp.com/advisory/ntap-20210219-0008/|Third Party Advisory
+233|CVE-2020-8581|https://security.netapp.com/advisory/ntap-20210119-0001/|Vendor Advisory
+234|CVE-2021-2058,CVE-2021-2009,CVE-2021-2042,CVE-2021-2001,CVE-2021-2020,CVE-2021-2048,CVE-2021-2088,CVE-2021-2061,CVE-2021-2060,CVE-2021-2024,CVE-2021-2087,CVE-2021-2122,CVE-2021-2036,CVE-2021-2072,CVE-2021-2019,CVE-2021-2046,CVE-2021-2056,CVE-2021-2016,CVE-2021-1998,CVE-2021-2032,CVE-2021-2012,CVE-2021-2081,CVE-2021-2065,CVE-2021-2070,CVE-2021-2076,CVE-2021-2021,CVE-2021-2022,CVE-2021-2014,CVE-2021-2002,CVE-2021-2030,CVE-2021-2055,CVE-2021-2031,CVE-2021-2028,CVE-2021-2038|https://security.netapp.com/advisory/ntap-20210219-0003/|Third Party Advisory
+235|CVE-2021-23901|https://security.netapp.com/advisory/ntap-20210513-0003/|Third Party Advisory
+236|CVE-2020-29443|https://security.netapp.com/advisory/ntap-20210304-0003/|Third Party Advisory
+237|CVE-2020-36227,CVE-2020-36230,CVE-2020-36225,CVE-2020-36226,CVE-2020-36229,CVE-2020-36223,CVE-2020-36228,CVE-2020-36224,CVE-2020-36222,CVE-2020-36221|https://security.netapp.com/advisory/ntap-20210226-0002/|Third Party Advisory
+238|CVE-2020-9492|https://security.netapp.com/advisory/ntap-20210304-0001/|Third Party Advisory
+239|CVE-2021-3115,CVE-2021-3114|https://security.netapp.com/advisory/ntap-20210219-0001/|Third Party Advisory
+240|CVE-2021-3156,CVE-2020-8585|https://security.netapp.com/advisory/ntap-20210128-0001/|Vendor Advisory,Third Party Advisory
+241|CVE-2021-3156|https://security.netapp.com/advisory/ntap-20210128-0002/|Third Party Advisory
+242|CVE-2021-26117|https://security.netapp.com/advisory/ntap-20210304-0008/|Third Party Advisory
+243|CVE-2021-3326|https://security.netapp.com/advisory/ntap-20210304-0007/|Third Party Advisory
+244|CVE-2020-35517|https://security.netapp.com/advisory/ntap-20210312-0002/|Third Party Advisory
+245|CVE-2020-8585|https://security.netapp.com/advisory/NTAP-20210128-0001|Vendor Advisory
+246|CVE-2021-3347|https://security.netapp.com/advisory/ntap-20210304-0005/|Third Party Advisory
+247|CVE-2020-17380|https://security.netapp.com/advisory/ntap-20210312-0003/|Third Party Advisory
+248|CVE-2021-3281|https://security.netapp.com/advisory/ntap-20210226-0004/|Third Party Advisory
+249|CVE-2021-21284,CVE-2021-21285|https://security.netapp.com/advisory/ntap-20210226-0005/|Third Party Advisory
+250|CVE-2020-17516|https://security.netapp.com/advisory/ntap-20210521-0002/|Mailing List,Third Party Advisory
+251|CVE-2020-8588|https://security.netapp.com/advisory/ntap-20210201-0001/|Vendor Advisory
+252|CVE-2020-8589|https://security.netapp.com/advisory/ntap-20210201-0002/|Vendor Advisory
+253|CVE-2021-26708|https://security.netapp.com/advisory/ntap-20210312-0008/|
+254|CVE-2020-8578|https://security.netapp.com/advisory/NTAP-20210208-0002/|Vendor Advisory
+255|CVE-2020-8587|https://security.netapp.com/advisory/NTAP-20210208-0001/|Vendor Advisory
+256|CVE-2020-8590|https://security.netapp.com/advisory/NTAP-20210208-0003/|Vendor Advisory
+257|CVE-2020-7021|https://security.netapp.com/advisory/ntap-20210319-0003/|Third Party Advisory
+258|CVE-2021-27191,CVE-2021-27185|https://security.netapp.com/advisory/ntap-20210319-0002/|Third Party Advisory
+259|CVE-2021-27212|https://security.netapp.com/advisory/ntap-20210319-0005/|Third Party Advisory
+260|CVE-2020-7071,CVE-2021-21702|https://security.netapp.com/advisory/ntap-20210312-0005/|Vendor Advisory,Third Party Advisory
+261|CVE-2020-28500,CVE-2021-23337|https://security.netapp.com/advisory/ntap-20210312-0006/|Third Party Advisory
+262|CVE-2021-23336|https://security.netapp.com/advisory/ntap-20210326-0004/|Third Party Advisory
+263|CVE-2021-27218,CVE-2021-27219|https://security.netapp.com/advisory/ntap-20210319-0004/|Third Party Advisory
+264|CVE-2021-21315|https://security.netapp.com/advisory/ntap-20210312-0007/|Third Party Advisory
+265|CVE-2021-23840,CVE-2021-23839,CVE-2021-23841|https://security.netapp.com/advisory/ntap-20210219-0009/|Third Party Advisory
+266|CVE-2021-2299,CVE-2021-3449,CVE-2021-2201,CVE-2021-2278,CVE-2021-2202,CVE-2021-2160,CVE-2021-2144,CVE-2021-2215,CVE-2021-2196,CVE-2021-2217,CVE-2021-2162,CVE-2021-2293,CVE-2021-2180,CVE-2021-2298,CVE-2021-2154,CVE-2021-2213,CVE-2021-2169,CVE-2021-2212,CVE-2021-2174,CVE-2021-2304,CVE-2021-2232,CVE-2021-2226,CVE-2021-2307,CVE-2021-2179,CVE-2021-2193,CVE-2021-2208,CVE-2021-2203,CVE-2020-28196,CVE-2021-2166,CVE-2021-2301,CVE-2021-2146,CVE-2021-2171,CVE-2021-23841,CVE-2021-2178,CVE-2021-2170,CVE-2021-2308,CVE-2021-2300,CVE-2021-2194,CVE-2021-2230,CVE-2021-2305,CVE-2021-2164,CVE-2020-1971,CVE-2021-2172|https://security.netapp.com/advisory/ntap-20210513-0002/|Third Party Advisory
+267|CVE-2021-26932,CVE-2021-26931,CVE-2021-26934,CVE-2021-26930|https://security.netapp.com/advisory/ntap-20210326-0001/|Third Party Advisory
+268|CVE-2020-8625|https://security.netapp.com/advisory/ntap-20210319-0001/|
+269|CVE-2021-27405|https://security.netapp.com/advisory/ntap-20210326-0002/|Third Party Advisory
+270|CVE-2021-26296|https://security.netapp.com/advisory/ntap-20210528-0007/|Third Party Advisory
+271|CVE-2021-3189|https://security.netapp.com/advisory/ntap-20210401-0004/|
+272|CVE-2021-20226|https://security.netapp.com/advisory/ntap-20210401-0001/|
+273|CVE-2021-20229|https://security.netapp.com/advisory/ntap-20210326-0005/|Third Party Advisory
+274|CVE-2021-20194|https://security.netapp.com/advisory/ntap-20210326-0003/|Third Party Advisory
+275|CVE-2020-27543|https://security.netapp.com/advisory/ntap-20210401-0002/|
+276|CVE-2020-27223|https://security.netapp.com/advisory/ntap-20210401-0005/|
+277|CVE-2020-27618|https://security.netapp.com/advisory/ntap-20210401-0006/|
+278|CVE-2021-25329,CVE-2021-25122|https://security.netapp.com/advisory/ntap-20210409-0002/|Third Party Advisory
+279|CVE-2020-14372|https://security.netapp.com/advisory/ntap-20210416-0004/|
+280|CVE-2021-22884,CVE-2021-22883|https://security.netapp.com/advisory/ntap-20210416-0001/|
+281|CVE-2021-26988|https://security.netapp.com/advisory/NTAP-20210303-0001|Patch,Vendor Advisory
+282|CVE-2021-26989|https://security.netapp.com/advisory/NTAP-20210303-0002|Patch,Vendor Advisory
+283|CVE-2021-28039,CVE-2021-27364,CVE-2021-28038,CVE-2021-27365,CVE-2021-27363|https://security.netapp.com/advisory/ntap-20210409-0001/|
+284|CVE-2021-28041|https://security.netapp.com/advisory/ntap-20210416-0002/|Third Party Advisory
+285|CVE-2021-22134|https://security.netapp.com/advisory/ntap-20210430-0006/|Third Party Advisory
+286|CVE-2021-3416,CVE-2021-20263|https://security.netapp.com/advisory/ntap-20210507-0002/|
+287|CVE-2021-20268|https://security.netapp.com/advisory/ntap-20210409-0006/|Third Party Advisory
+288|CVE-2021-21409,CVE-2021-21295|https://security.netapp.com/advisory/ntap-20210604-0003/|
+289|CVE-2020-35522,CVE-2020-35523,CVE-2020-35521,CVE-2020-35524|https://security.netapp.com/advisory/ntap-20210521-0009/|
+290|CVE-2021-20255|https://security.netapp.com/advisory/ntap-20210507-0003/|
+291|CVE-2020-5024,CVE-2020-5025,CVE-2020-4976|https://security.netapp.com/advisory/ntap-20210409-0003/|Third Party Advisory
+292|CVE-2021-28153|https://security.netapp.com/advisory/ntap-20210416-0003/|Third Party Advisory
+293|CVE-2021-20231,CVE-2021-20232|https://security.netapp.com/advisory/ntap-20210416-0005/|Third Party Advisory
+294|CVE-2021-28092|https://security.netapp.com/advisory/ntap-20210513-0008/|Third Party Advisory
+295|CVE-2021-28375|https://security.netapp.com/advisory/ntap-20210401-0003/|
+296|CVE-2021-26987|https://security.netapp.com/advisory/ntap-20210315-0001/|Vendor Advisory
+297|CVE-2021-28660|https://security.netapp.com/advisory/ntap-20210507-0008/|
+298|CVE-2021-27358|https://security.netapp.com/advisory/ntap-20210513-0007/|
+299|CVE-2019-10128,CVE-2019-10127|https://security.netapp.com/advisory/ntap-20210430-0004/|
+300|CVE-2021-26990|https://security.netapp.com/advisory/NTAP-20210318-0001|Patch,Vendor Advisory
+301|CVE-2021-26991|https://security.netapp.com/advisory/NTAP-20210318-0002|Patch,Vendor Advisory
+302|CVE-2021-26992|https://security.netapp.com/advisory/NTAP-20210318-0003|Patch,Vendor Advisory
+303|CVE-2021-21267|https://security.netapp.com/advisory/ntap-20210528-0006/|
+304|CVE-2021-28964,CVE-2021-28971,CVE-2021-28952,CVE-2021-28951,CVE-2021-28972|https://security.netapp.com/advisory/ntap-20210430-0003/|
+305|CVE-2021-28957|https://security.netapp.com/advisory/ntap-20210521-0004/|
+306|CVE-2021-28147,CVE-2021-28148|https://security.netapp.com/advisory/ntap-20210430-0005/|
+307|CVE-2021-21345,CVE-2021-21343,CVE-2021-21350,CVE-2021-21344,CVE-2021-21342,CVE-2021-21347,CVE-2021-21348,CVE-2021-21349,CVE-2021-21346,CVE-2021-21351,CVE-2021-21341|https://security.netapp.com/advisory/ntap-20210430-0002/|Third Party Advisory
+308|CVE-2021-20227|https://security.netapp.com/advisory/ntap-20210423-0010/|
+309|CVE-2021-3444|https://security.netapp.com/advisory/ntap-20210416-0006/|Third Party Advisory
+310|CVE-2021-3392,CVE-2021-3409|https://security.netapp.com/advisory/ntap-20210507-0001/|
+311|CVE-2021-3449,CVE-2021-3450|https://security.netapp.com/advisory/ntap-20210326-0006/|Third Party Advisory
+312|CVE-2020-35508|https://security.netapp.com/advisory/ntap-20210513-0006/|
+313|CVE-2021-20197|https://security.netapp.com/advisory/ntap-20210528-0009/|
+314|CVE-2021-20284|https://security.netapp.com/advisory/ntap-20210521-0010/|
+315|CVE-2021-20289|https://security.netapp.com/advisory/ntap-20210528-0008/|Third Party Advisory
+316|CVE-2020-25578,CVE-2020-25579|https://security.netapp.com/advisory/ntap-20210423-0002/|Third Party Advisory
+317|CVE-2020-25580|https://security.netapp.com/advisory/ntap-20210423-0005/|Third Party Advisory
+318|CVE-2020-25581|https://security.netapp.com/advisory/ntap-20210423-0006/|Third Party Advisory
+319|CVE-2020-25582|https://security.netapp.com/advisory/ntap-20210423-0003/|Third Party Advisory
+320|CVE-2021-29266|https://security.netapp.com/advisory/ntap-20210513-0005/|Third Party Advisory
+321|CVE-2020-25577|https://security.netapp.com/advisory/ntap-20210423-0001/|Third Party Advisory
+322|CVE-2020-25583|https://security.netapp.com/advisory/ntap-20210423-0004/|Third Party Advisory
+323|CVE-2021-29418|https://security.netapp.com/advisory/ntap-20210604-0001/|
+324|CVE-2021-28657|https://security.netapp.com/advisory/ntap-20210507-0004/|Third Party Advisory
+325|CVE-2021-29662|https://security.netapp.com/advisory/ntap-20210604-0002/|
+326|CVE-2004-1653|https://security.netapp.com/advisory/ntap-20191107-0001/|
+327|CVE-2019-10197|https://security.netapp.com/advisory/ntap-20190903-0001/|Third Party Advisory
+328|CVE-2019-15918,CVE-2019-14821,CVE-2019-15926,CVE-2019-15917,CVE-2019-15927,CVE-2019-16234,CVE-2019-15923,CVE-2019-16231,CVE-2019-15807,CVE-2019-15031,CVE-2019-15919,CVE-2018-21008,CVE-2019-15916,CVE-2019-16230,CVE-2019-16233,CVE-2019-15920,CVE-2019-15925,CVE-2019-15030,CVE-2019-15538,CVE-2019-15902,CVE-2019-15924,CVE-2019-15922,CVE-2019-16232,CVE-2019-16089,CVE-2019-15921,CVE-2019-16413,CVE-2019-16229,CVE-2019-15666|https://security.netapp.com/advisory/ntap-20191004-0001/|Third Party Advisory
+329|CVE-2019-15903|https://security.netapp.com/advisory/ntap-20190926-0004/|
+330|CVE-2019-16056|https://security.netapp.com/advisory/ntap-20190926-0005/|
+331|CVE-2019-16168|https://security.netapp.com/advisory/ntap-20190926-0003/|Third Party Advisory
+332|CVE-2019-13118,CVE-2020-2655,CVE-2020-2583,CVE-2020-2659,CVE-2020-2590,CVE-2020-2654,CVE-2019-16168,CVE-2020-2601,CVE-2020-2585,CVE-2019-13117,CVE-2020-2604,CVE-2020-2593|https://security.netapp.com/advisory/ntap-20200122-0003/|Third Party Advisory
+333|CVE-2019-12401|https://security.netapp.com/advisory/ntap-20190926-0002/|
+334|CVE-2019-5503|https://security.netapp.com/advisory/ntap-20190909-0001/|Third Party Advisory
+335|CVE-2019-1549,CVE-2019-1563,CVE-2019-1547|https://security.netapp.com/advisory/ntap-20190919-0002/|
+336|CVE-2020-2577,CVE-2020-2679,CVE-2020-2694,CVE-2020-2588,CVE-2020-2580,CVE-2020-2573,CVE-2019-1547,CVE-2020-2579,CVE-2020-2627,CVE-2020-2584,CVE-2020-2660,CVE-2020-2589,CVE-2020-2574,CVE-2020-2572,CVE-2020-2686|https://security.netapp.com/advisory/ntap-20200122-0002/|
+337|CVE-2020-2765,CVE-2020-2893,CVE-2020-2922,CVE-2020-2768,CVE-2020-2812,CVE-2020-2897,CVE-2020-2898,CVE-2020-2853,CVE-2020-2770,CVE-2020-2752,CVE-2020-2921,CVE-2019-5482,CVE-2020-2925,CVE-2020-2904,CVE-2020-2924,CVE-2019-1547,CVE-2020-2774,CVE-2020-2926,CVE-2020-2930,CVE-2020-2760,CVE-2020-2928,CVE-2020-2895,CVE-2020-2759,CVE-2020-2903,CVE-2020-2761,CVE-2020-2814,CVE-2020-2763,CVE-2020-2806,CVE-2020-2790,CVE-2020-2896,CVE-2020-2804,CVE-2020-2901,CVE-2020-2892,CVE-2020-2923,CVE-2020-2779,CVE-2020-2762,CVE-2020-2780|https://security.netapp.com/advisory/ntap-20200416-0003/|Third Party Advisory
+338|CVE-2019-16335,CVE-2019-14540|https://security.netapp.com/advisory/ntap-20191004-0002/|Third Party Advisory
+339|CVE-2019-11184|https://security.netapp.com/advisory/ntap-20190926-0001/|
+340|CVE-2019-5481,CVE-2019-5482|https://security.netapp.com/advisory/ntap-20191004-0003/|
+341|CVE-2019-14814,CVE-2019-17133,CVE-2019-14816,CVE-2019-14835,CVE-2019-18198,CVE-2019-16714,CVE-2019-16995,CVE-2019-17351,CVE-2019-17666,CVE-2019-2215,CVE-2019-16994,CVE-2019-16746|https://security.netapp.com/advisory/ntap-20191031-0005/|Third Party Advisory
+342|CVE-2019-4183,CVE-2019-4342|https://security.netapp.com/advisory/ntap-20191009-0001/|
+343|CVE-2019-15138|https://security.netapp.com/advisory/ntap-20191017-0005/|
+344|CVE-2019-15635|https://security.netapp.com/advisory/ntap-20191009-0002/|
+345|CVE-2019-5504|https://security.netapp.com/advisory/ntap-20190923-0001/|Patch,Vendor Advisory
+346|CVE-2019-5505|https://security.netapp.com/advisory/ntap-20190923-0002/|Patch,Vendor Advisory
+347|CVE-2019-5094|https://security.netapp.com/advisory/ntap-20200115-0002/|Third Party Advisory
+348|CVE-2019-10081,CVE-2019-9517,CVE-2019-10092|https://security.netapp.com/advisory/ntap-20190905-0003/|Third Party Advisory
+349|CVE-2019-16935|https://security.netapp.com/advisory/ntap-20191017-0004/|
+350|CVE-2019-16276|https://security.netapp.com/advisory/ntap-20191122-0004/|Third Party Advisory
+351|CVE-2019-16942,CVE-2019-17267,CVE-2019-16943|https://security.netapp.com/advisory/ntap-20191017-0006/|Third Party Advisory
+352|CVE-2019-17069,CVE-2019-17068,CVE-2019-17067|https://security.netapp.com/advisory/ntap-20191127-0003/|
+353|CVE-2018-14463,CVE-2018-16227,CVE-2018-14468,CVE-2018-14461,CVE-2018-14465,CVE-2018-16228,CVE-2018-16451,CVE-2018-14464,CVE-2018-16300,CVE-2018-14879,CVE-2018-14466,CVE-2018-14462,CVE-2018-14467,CVE-2018-10105,CVE-2018-14470,CVE-2018-16230,CVE-2018-14882,CVE-2019-15166,CVE-2018-10103,CVE-2018-14880,CVE-2018-16452,CVE-2018-14469,CVE-2018-14881,CVE-2018-16229|https://security.netapp.com/advisory/ntap-20200120-0001/|
+354|CVE-2019-17359|https://security.netapp.com/advisory/ntap-20191024-0006/|
+355|CVE-2019-5506|https://security.netapp.com/advisory/ntap-20191009-0003/|Vendor Advisory
+356|CVE-2019-5507|https://security.netapp.com/advisory/ntap-20191009-0004/|Vendor Advisory
+357|CVE-2019-16905|https://security.netapp.com/advisory/ntap-20191024-0003/|
+358|CVE-2019-17451,CVE-2019-17450|https://security.netapp.com/advisory/ntap-20191024-0002/|
+359|CVE-2019-17514|https://security.netapp.com/advisory/ntap-20191107-0005/|
+360|CVE-2019-17531|https://security.netapp.com/advisory/ntap-20191024-0005/|Third Party Advisory
+361|CVE-2019-17592|https://security.netapp.com/advisory/ntap-20191127-0002/|
+362|CVE-2019-2969,CVE-2019-2946,CVE-2019-3011,CVE-2019-2997,CVE-2019-2910,CVE-2019-2914,CVE-2019-2950,CVE-2019-2968,CVE-2019-2974,CVE-2019-2991,CVE-2019-2922,CVE-2019-2923,CVE-2019-2960,CVE-2019-2998,CVE-2019-2924,CVE-2019-2963,CVE-2019-2993,CVE-2019-2948,CVE-2019-2967,CVE-2019-2982,CVE-2019-3018,CVE-2019-3003,CVE-2019-2911,CVE-2019-3009,CVE-2019-5443,CVE-2019-3004,CVE-2019-2966,CVE-2019-2938,CVE-2019-2957|https://security.netapp.com/advisory/ntap-20191017-0002/|Third Party Advisory
+363|CVE-2019-11253|https://security.netapp.com/advisory/ntap-20191031-0006/|Third Party Advisory
+364|CVE-2019-14287|https://security.netapp.com/advisory/ntap-20191017-0003/|Third Party Advisory
+365|CVE-2019-6475,CVE-2019-6476|https://security.netapp.com/advisory/ntap-20191024-0004/|Third Party Advisory
+366|CVE-2019-18197|https://security.netapp.com/advisory/ntap-20191031-0004/|Third Party Advisory
+367|CVE-2020-2764,CVE-2020-2816,CVE-2020-2830,CVE-2020-2767,CVE-2020-2773,CVE-2020-2754,CVE-2020-2756,CVE-2020-2800,CVE-2020-2781,CVE-2020-2755,CVE-2020-2803,CVE-2020-2778,CVE-2020-2805,CVE-2020-2757,CVE-2019-18197|https://security.netapp.com/advisory/ntap-20200416-0004/|Third Party Advisory
+368|CVE-2019-18218|https://security.netapp.com/advisory/ntap-20200115-0001/|
+369|CVE-2019-18348|https://security.netapp.com/advisory/ntap-20191107-0004/|Technical Description
+370|CVE-2019-17596|https://security.netapp.com/advisory/ntap-20191122-0005/|Third Party Advisory
+371|CVE-2019-5508|https://security.netapp.com/advisory/ntap-20191024-0001/|Vendor Advisory
+372|CVE-2019-11043|https://security.netapp.com/advisory/ntap-20191031-0003/|
+373|CVE-2018-21029|https://security.netapp.com/advisory/ntap-20191122-0002/|
+374|CVE-2019-19076,CVE-2019-18814,CVE-2019-19062,CVE-2019-19077,CVE-2019-19061,CVE-2019-18809,CVE-2019-19071,CVE-2019-18683,CVE-2019-19063,CVE-2019-19047,CVE-2019-19069,CVE-2019-19074,CVE-2019-19052,CVE-2019-19081,CVE-2019-19045,CVE-2019-19078,CVE-2019-18680,CVE-2019-19036,CVE-2019-18813,CVE-2019-19079,CVE-2019-19072,CVE-2019-19073,CVE-2019-18811,CVE-2019-19068,CVE-2019-19044,CVE-2019-19065,CVE-2019-19043,CVE-2019-19050,CVE-2019-18808,CVE-2019-18805,CVE-2019-19056,CVE-2019-19082,CVE-2019-18810,CVE-2019-19048,CVE-2019-19059,CVE-2019-19060,CVE-2019-19053,CVE-2019-18885,CVE-2019-19083,CVE-2019-19058,CVE-2019-18812,CVE-2019-19075,CVE-2019-19066,CVE-2019-18807,CVE-2019-19054,CVE-2019-19057,CVE-2019-19080,CVE-2019-19037,CVE-2019-19051|https://security.netapp.com/advisory/ntap-20191205-0001/|Third Party Advisory
+375|CVE-2019-0154|https://security.netapp.com/advisory/ntap-20200320-0004/|
+376|CVE-2019-14590,CVE-2019-11111,CVE-2019-14591,CVE-2019-11113,CVE-2019-11089,CVE-2019-0155,CVE-2019-14574,CVE-2019-11112|https://security.netapp.com/advisory/ntap-20200320-0005/|
+377|CVE-2019-17272|https://security.netapp.com/advisory/ntap-20191121-0002/|Vendor Advisory
+378|CVE-2019-5509|https://security.netapp.com/advisory/ntap-20191121-0001/|Vendor Advisory
+379|CVE-2019-18276|https://security.netapp.com/advisory/ntap-20200430-0003/|Third Party Advisory
+380|CVE-2016-1000352,CVE-2016-1000343,CVE-2016-1000341,CVE-2016-1000346,CVE-2016-1000342,CVE-2016-1000345,CVE-2016-1000344,CVE-2016-1000339,CVE-2016-1000340|https://security.netapp.com/advisory/ntap-20181127-0004/|
+381|CVE-2018-1000613,CVE-2018-1000180|https://security.netapp.com/advisory/ntap-20190204-0003/|Patch,Third Party Advisory
+382|CVE-2018-3721,CVE-2019-1010266,CVE-2018-16487|https://security.netapp.com/advisory/ntap-20190919-0004/|Third Party Advisory
+383|CVE-2018-12015|https://security.netapp.com/advisory/ntap-20180927-0001/|Patch,Third Party Advisory
+384|CVE-2018-0732|https://security.netapp.com/advisory/ntap-20181105-0001/|
+385|CVE-2018-5488|https://security.netapp.com/advisory/ntap-20180612-0001/|Vendor Advisory
+386|CVE-2018-8011,CVE-2018-1333|https://security.netapp.com/advisory/ntap-20180926-0007/|Third Party Advisory
+387|CVE-2018-3665|https://security.netapp.com/advisory/ntap-20181016-0001/|
+388|CVE-2017-7568|https://security.netapp.com/advisory/ntap-20180621-0001/|Third Party Advisory
+389|CVE-2017-7656,CVE-2018-12536,CVE-2017-7658,CVE-2018-12538,CVE-2017-7657|https://security.netapp.com/advisory/ntap-20181014-0001/|Patch,Third Party Advisory
+390|CVE-2018-12882|https://security.netapp.com/advisory/ntap-20181109-0001/|Third Party Advisory
+391|CVE-2018-8026|https://security.netapp.com/advisory/ntap-20190307-0002/|Third Party Advisory
+392|CVE-2018-3627|https://security.netapp.com/advisory/ntap-20190327-0006/|Third Party Advisory
+393|CVE-2018-3628,CVE-2018-3629,CVE-2018-3632|https://security.netapp.com/advisory/ntap-20190327-0001/|Third Party Advisory
+394|CVE-2018-3652|https://security.netapp.com/advisory/ntap-20180802-0001/|Third Party Advisory
+395|CVE-2018-3693|https://security.netapp.com/advisory/ntap-20180823-0001/|Third Party Advisory
+396|CVE-2018-2942,CVE-2018-2938,CVE-2018-2964,CVE-2018-2973,CVE-2018-2941,CVE-2018-2952,CVE-2018-2940,CVE-2018-2972|https://security.netapp.com/advisory/ntap-20180726-0001/|
+397|CVE-2018-14404|https://security.netapp.com/advisory/ntap-20190719-0002/|
+398|CVE-2017-12151,CVE-2017-12163,CVE-2017-12150|https://security.netapp.com/advisory/ntap-20170921-0001/|Third Party Advisory
+399|CVE-2017-13652|https://security.netapp.com/advisory/ntap-20180731-0001/|Vendor Advisory
+400|CVE-2018-8037,CVE-2018-1336,CVE-2018-8034|https://security.netapp.com/advisory/ntap-20180817-0001/|Third Party Advisory
+401|CVE-2018-15132,CVE-2018-14884,CVE-2017-9118,CVE-2018-14851,CVE-2017-9120,CVE-2018-14883|https://security.netapp.com/advisory/ntap-20181107-0003/|Third Party Advisory
+402|CVE-2018-5489|https://security.netapp.com/advisory/ntap-20150323-0001/|Vendor Advisory
+403|CVE-2018-5490|https://security.netapp.com/advisory/ntap-20150324-0001/|Vendor Advisory
+404|CVE-2018-5390|https://security.netapp.com/advisory/ntap-20180815-0003/|Third Party Advisory
+405|CVE-2018-15173|https://security.netapp.com/advisory/ntap-20200827-0004/|
+406|CVE-2018-6922|https://security.netapp.com/advisory/ntap-20180815-0002/|Third Party Advisory
+407|CVE-2016-4975|https://security.netapp.com/advisory/ntap-20180926-0006/|Third Party Advisory
+408|CVE-2018-3646,CVE-2018-3615,CVE-2018-3620|https://security.netapp.com/advisory/ntap-20180815-0001/|Third Party Advisory
+409|CVE-2018-15473|https://security.netapp.com/advisory/ntap-20181101-0001/|Third Party Advisory
+410|CVE-2018-1000632|https://security.netapp.com/advisory/ntap-20190530-0001/|Third Party Advisory
+411|CVE-2018-1000656|https://security.netapp.com/advisory/ntap-20190221-0001/|Patch,Third Party Advisory
+412|CVE-2018-11776|https://security.netapp.com/advisory/ntap-20180822-0001/|Third Party Advisory
+413|CVE-2018-10858,CVE-2018-10918,CVE-2018-10919,CVE-2018-1140,CVE-2018-1139|https://security.netapp.com/advisory/ntap-20180814-0001/|Third Party Advisory
+414|CVE-2019-10160|https://security.netapp.com/advisory/ntap-20190617-0003/|
+415|CVE-2019-0220|https://security.netapp.com/advisory/ntap-20190625-0007/|
+416|CVE-2019-0196,CVE-2019-0197|https://security.netapp.com/advisory/ntap-20190617-0002/|
+417|CVE-2019-0174|https://security.netapp.com/advisory/ntap-20190612-0001/|
+418|CVE-2019-12875|https://security.netapp.com/advisory/ntap-20190625-0005/|
+419|CVE-2019-11479,CVE-2019-11477,CVE-2019-11478|https://security.netapp.com/advisory/ntap-20190625-0001/|Third Party Advisory
+420|CVE-2019-12814|https://security.netapp.com/advisory/ntap-20190625-0006/|Third Party Advisory
+421|CVE-2019-10072|https://security.netapp.com/advisory/ntap-20190625-0002/|
+422|CVE-2019-12384|https://security.netapp.com/advisory/ntap-20190703-0002/|Third Party Advisory
+423|CVE-2018-20843|https://security.netapp.com/advisory/ntap-20190703-0001/|Third Party Advisory
+424|CVE-2019-13648,CVE-2019-10639,CVE-2019-13631,CVE-2019-13233,CVE-2019-10638,CVE-2019-12984,CVE-2019-13272|https://security.netapp.com/advisory/ntap-20190806-0001/|Third Party Advisory
+425|CVE-2019-13012|https://security.netapp.com/advisory/ntap-20190806-0003/|
+426|CVE-2019-13068|https://security.netapp.com/advisory/ntap-20190710-0001/|
+427|CVE-2019-13118,CVE-2019-13117|https://security.netapp.com/advisory/ntap-20190806-0004/|
+428|CVE-2019-12781|https://security.netapp.com/advisory/ntap-20190705-0002/|Third Party Advisory
+429|CVE-2019-5497|https://security.netapp.com/advisory/ntap-20190627-0001/|Vendor Advisory
+430|CVE-2019-5599|https://security.netapp.com/advisory/ntap-20190625-0004/|Third Party Advisory
+431|CVE-2019-13232|https://security.netapp.com/advisory/ntap-20190814-0002/|Third Party Advisory
+432|CVE-2019-13115|https://security.netapp.com/advisory/ntap-20190806-0002/|
+433|CVE-2019-13636,CVE-2019-13638|https://security.netapp.com/advisory/ntap-20190828-0001/|
+434|CVE-2019-14271,CVE-2019-13509|https://security.netapp.com/advisory/ntap-20190828-0003/|
+435|CVE-2019-1010204|https://security.netapp.com/advisory/ntap-20190822-0001/|
+436|CVE-2019-14444,CVE-2019-14250|https://security.netapp.com/advisory/ntap-20190822-0002/|
+437|CVE-2019-10744|https://security.netapp.com/advisory/ntap-20191004-0005/|Third Party Advisory
+438|CVE-2019-5604,CVE-2019-5606,CVE-2019-5603,CVE-2019-5607,CVE-2019-5605|https://security.netapp.com/advisory/ntap-20190814-0003/|
+439|CVE-2019-15222,CVE-2019-15214,CVE-2019-10140,CVE-2019-15118,CVE-2019-15291,CVE-2019-14284,CVE-2018-20961,CVE-2019-15216,CVE-2019-15212,CVE-2018-20855,CVE-2019-15219,CVE-2019-15220,CVE-2019-15099,CVE-2019-15217,CVE-2019-15117,CVE-2019-15292,CVE-2019-15098,CVE-2019-15504,CVE-2019-15090,CVE-2019-15218,CVE-2019-15505,CVE-2019-15213,CVE-2019-15215,CVE-2019-15211,CVE-2018-20854,CVE-2018-20976,CVE-2019-14283,CVE-2019-15223,CVE-2019-15221,CVE-2018-20856|https://security.netapp.com/advisory/ntap-20190905-0002/|Third Party Advisory
+440|CVE-2019-13057|https://security.netapp.com/advisory/ntap-20190822-0004/|
+441|CVE-2019-14379,CVE-2019-14439|https://security.netapp.com/advisory/ntap-20190814-0001/|Third Party Advisory
+442|CVE-2019-1552|https://security.netapp.com/advisory/ntap-20190823-0006/|
+443|CVE-2019-14233,CVE-2019-14235,CVE-2019-14232,CVE-2019-14234|https://security.netapp.com/advisory/ntap-20190828-0002/|
+444|CVE-2019-5493|https://security.netapp.com/advisory/ntap-20190801-0002/|Patch,Vendor Advisory
+445|CVE-2019-5501|https://security.netapp.com/advisory/ntap-20190801-0001/|Vendor Advisory
+446|CVE-2019-10093,CVE-2019-10088|https://security.netapp.com/advisory/ntap-20190828-0004/|
+447|CVE-2019-5502|https://security.netapp.com/advisory/ntap-20190802-0002/|Vendor Advisory
+448|CVE-2019-12259,CVE-2019-12265,CVE-2019-12255,CVE-2019-12261,CVE-2019-12257,CVE-2019-12258,CVE-2019-12263,CVE-2019-12256,CVE-2019-12260|https://security.netapp.com/advisory/ntap-20190802-0001/|Third Party Advisory
+449|CVE-2019-5498|https://security.netapp.com/advisory/ntap-20190809-0001/|Vendor Advisory
+450|CVE-2019-11042,CVE-2019-11041|https://security.netapp.com/advisory/ntap-20190822-0003/|Third Party Advisory
+451|CVE-2019-9511,CVE-2019-9516,CVE-2019-9513|https://security.netapp.com/advisory/ntap-20190823-0002/|Third Party Advisory
+452|CVE-2019-9511,CVE-2019-9513,CVE-2019-9512,CVE-2019-9517,CVE-2019-9515,CVE-2019-9514,CVE-2019-9518,CVE-2019-9516|https://security.netapp.com/advisory/ntap-20190823-0005/|Third Party Advisory
+453|CVE-2019-9512,CVE-2019-9514|https://security.netapp.com/advisory/ntap-20190823-0001/|Third Party Advisory
+454|CVE-2019-9512,CVE-2019-9514|https://security.netapp.com/advisory/ntap-20190823-0004/|Third Party Advisory
+455|CVE-2019-9517|https://security.netapp.com/advisory/ntap-20190823-0003/|Third Party Advisory
+456|CVE-2019-13139|https://security.netapp.com/advisory/ntap-20190910-0001/|
+457|CVE-2019-12400|https://security.netapp.com/advisory/ntap-20190910-0003/|Third Party Advisory
+458|CVE-2019-8460|https://security.netapp.com/advisory/ntap-20190905-0001/|Third Party Advisory
+459|CVE-2019-11247,CVE-2019-11245,CVE-2019-11250,CVE-2019-11246,CVE-2019-11249,CVE-2019-11248|https://security.netapp.com/advisory/ntap-20190919-0003/|Third Party Advisory
+460|CVE-2019-5609,CVE-2019-5612,CVE-2019-5611,CVE-2019-5608,CVE-2019-5610|https://security.netapp.com/advisory/ntap-20190910-0002/|
+461|CVE-2019-15043|https://security.netapp.com/advisory/ntap-20191004-0004/|
+462|CVE-2016-4461|https://security.netapp.com/advisory/ntap-20180629-0004/|Third Party Advisory
+463|CVE-2017-15361|https://security.netapp.com/advisory/ntap-20171024-0001/|
+464|CVE-2017-10384,CVE-2017-10165,CVE-2017-10277,CVE-2017-10311,CVE-2017-5664,CVE-2017-10155,CVE-2017-10314,CVE-2017-10284,CVE-2017-10379,CVE-2017-3731,CVE-2017-10296,CVE-2017-10167,CVE-2017-10283,CVE-2017-10378,CVE-2017-10365,CVE-2017-10286,CVE-2017-10313,CVE-2017-10276,CVE-2017-10227,CVE-2017-10268,CVE-2017-10203,CVE-2017-10424,CVE-2017-10294,CVE-2017-10320,CVE-2017-10279|https://security.netapp.com/advisory/ntap-20171019-0002/|Third Party Advisory
+465|CVE-2017-10285,CVE-2017-10356,CVE-2017-10357,CVE-2017-10309,CVE-2017-10295,CVE-2017-10341,CVE-2017-10349,CVE-2017-10345,CVE-2017-10350,CVE-2017-10348,CVE-2017-10281,CVE-2017-10386,CVE-2017-10388,CVE-2017-10342,CVE-2016-9841,CVE-2017-10274,CVE-2017-10355,CVE-2017-10293,CVE-2017-10380,CVE-2016-10165,CVE-2017-10347,CVE-2017-10346|https://security.netapp.com/advisory/ntap-20171019-0001/|
+466|CVE-2017-15906|https://security.netapp.com/advisory/ntap-20180423-0004/|
+467|CVE-2016-3090|https://security.netapp.com/advisory/ntap-20180629-0005/|
+468|CVE-2017-3735,CVE-2017-3736|https://security.netapp.com/advisory/ntap-20171107-0002/|Issue Tracking,Third Party Advisory
+469|CVE-2017-16642|https://security.netapp.com/advisory/ntap-20181123-0001/|Third Party Advisory
+470|CVE-2017-11461|https://security.netapp.com/advisory/ntap-20171107-0001/|Vendor Advisory
+471|CVE-2017-5201|https://security.netapp.com/advisory/ntap-20170809-0001/|Vendor Advisory,Issue Tracking
+472|CVE-2016-8610|https://security.netapp.com/advisory/ntap-20171130-0001/|Third Party Advisory
+473|CVE-2017-15516|https://security.netapp.com/advisory/ntap-20171114-0001/|Patch,Vendor Advisory
+474|CVE-2017-15517|https://security.netapp.com/advisory/ntap-20171116-0001/|Vendor Advisory
+475|CVE-2017-5707,CVE-2017-5710,CVE-2017-5709,CVE-2017-5705,CVE-2017-5712,CVE-2017-5708,CVE-2017-5711,CVE-2017-5706|https://security.netapp.com/advisory/ntap-20171120-0001/|Tool Signature,Issue Tracking,Third Party Advisory
+476|CVE-2017-15707|https://security.netapp.com/advisory/ntap-20171214-0001/|Third Party Advisory
+477|CVE-2017-3738,CVE-2017-3737|https://security.netapp.com/advisory/ntap-20171208-0001/|Third Party Advisory
+478|CVE-2016-6904|https://security.netapp.com/advisory/ntap-20171208-0002/|Vendor Advisory,Issue Tracking
+479|CVE-2017-13098|https://security.netapp.com/advisory/ntap-20171222-0001/|Issue Tracking,Third Party Advisory
+480|CVE-2017-14583|https://security.netapp.com/advisory/ntap-20171215-0001/|Vendor Advisory,Issue Tracking
+481|CVE-2015-7575|https://security.netapp.com/advisory/ntap-20160225-0001/|
+482|CVE-2015-7886|https://security.netapp.com/advisory/ntap-20160114-0002/|
+483|CVE-2015-8138,CVE-2015-7976,CVE-2015-7974,CVE-2015-7979,CVE-2015-7973,CVE-2015-7978,CVE-2015-7975,CVE-2015-8158,CVE-2015-7977|https://security.netapp.com/advisory/ntap-20171031-0001/|Third Party Advisory
+484|CVE-2016-0728|https://security.netapp.com/advisory/ntap-20160211-0001/|
+485|CVE-2016-0603|https://security.netapp.com/advisory/ntap-20160217-0001/|
+486|CVE-2015-7547|https://security.netapp.com/advisory/ntap-20160217-0002/|
+487|CVE-2016-0706,CVE-2015-5174,CVE-2015-5351,CVE-2016-0714,CVE-2015-5345,CVE-2015-5346,CVE-2016-0763|https://security.netapp.com/advisory/ntap-20180531-0001/|
+488|CVE-2016-0800|https://security.netapp.com/advisory/ntap-20160301-0001/|
+489|CVE-2016-2842|https://security.netapp.com/advisory/ntap-20160321-0001/|
+490|CVE-2016-0636|https://security.netapp.com/advisory/ntap-20160328-0001/|
+491|CVE-2016-0793|https://security.netapp.com/advisory/ntap-20180215-0001/|
+492|CVE-2016-1563|https://security.netapp.com/advisory/ntap-20160310-0002/|
+493|CVE-2020-15852|https://security.netapp.com/advisory/ntap-20200810-0001/|
+494|CVE-2020-8559|https://security.netapp.com/advisory/ntap-20200810-0004/|
+495|CVE-2020-8557|https://security.netapp.com/advisory/ntap-20200821-0002/|
+496|CVE-2020-15778|https://security.netapp.com/advisory/ntap-20200731-0007/|Third Party Advisory
+497|CVE-2020-14725|https://security.netapp.com/advisory/ntap-20200731-0006/|
+498|CVE-2020-14888,CVE-2020-14775,CVE-2020-14773,CVE-2020-14873,CVE-2020-14791,CVE-2020-14812,CVE-2020-14829,CVE-2020-14794,CVE-2020-14860,CVE-2020-14868,CVE-2020-14789,CVE-2020-14827,CVE-2020-14848,CVE-2020-14839,CVE-2020-14785,CVE-2020-14814,CVE-2020-14844,CVE-2020-14870,CVE-2020-4051,CVE-2020-14846,CVE-2020-14878,CVE-2020-14869,CVE-2020-14853,CVE-2020-14861,CVE-2020-14852,CVE-2020-14838,CVE-2020-14790,CVE-2020-14765,CVE-2020-14836,CVE-2020-14821,CVE-2020-14828,CVE-2020-14776,CVE-2020-14800,CVE-2020-14867,CVE-2020-14760,CVE-2020-14845,CVE-2020-14771,CVE-2020-8174,CVE-2020-14830,CVE-2020-14866,CVE-2020-14769,CVE-2020-14893,CVE-2020-14777,CVE-2020-14837,CVE-2020-14793,CVE-2020-14891,CVE-2020-14672,CVE-2020-14799,CVE-2020-14786,CVE-2020-14809,CVE-2020-14804|https://security.netapp.com/advisory/ntap-20201023-0003/|Third Party Advisory
+499|CVE-2020-11110|https://security.netapp.com/advisory/ntap-20200810-0002/|
+500|CVE-2020-8558|https://security.netapp.com/advisory/ntap-20200821-0001/|
+501|CVE-2020-14309,CVE-2020-15705,CVE-2020-14308,CVE-2020-15706,CVE-2020-15707,CVE-2020-10713|https://security.netapp.com/advisory/ntap-20200731-0008/|Third Party Advisory
+502|CVE-2020-7699|https://security.netapp.com/advisory/ntap-20200821-0003/|
+503|CVE-2020-16166|https://security.netapp.com/advisory/ntap-20200814-0004/|Third Party Advisory
+504|CVE-2020-8574|https://security.netapp.com/advisory/ntap-20200803-0001/|Vendor Advisory
+505|CVE-2020-8575|https://security.netapp.com/advisory/ntap-20200803-0002/|Vendor Advisory
+506|CVE-2020-7460,CVE-2020-7459|https://security.netapp.com/advisory/ntap-20200821-0005/|
+507|CVE-2020-16845|https://security.netapp.com/advisory/ntap-20200924-0002/|Third Party Advisory
+508|CVE-2020-11993,CVE-2020-11984,CVE-2020-9490|https://security.netapp.com/advisory/ntap-20200814-0005/|Third Party Advisory
+509|CVE-2020-11985|https://security.netapp.com/advisory/ntap-20200827-0002/|
+510|CVE-2020-16092|https://security.netapp.com/advisory/ntap-20200821-0006/|Third Party Advisory
+511|CVE-2020-8730,CVE-2020-8706,CVE-2020-8707,CVE-2020-8719,CVE-2020-8708,CVE-2020-8732,CVE-2020-8716,CVE-2020-8717,CVE-2020-8712,CVE-2020-8713,CVE-2020-8720,CVE-2020-8709,CVE-2020-8718,CVE-2020-8710,CVE-2020-8715,CVE-2020-8711,CVE-2020-8731,CVE-2020-8722,CVE-2020-8721,CVE-2020-8729,CVE-2020-8723,CVE-2020-8714|https://security.netapp.com/advisory/ntap-20200814-0002/|Third Party Advisory
+512|CVE-2020-8733|https://security.netapp.com/advisory/ntap-20200814-0003/|Third Party Advisory
+513|CVE-2020-12299,CVE-2020-12301,CVE-2020-12300|https://security.netapp.com/advisory/ntap-20200814-0001/|Third Party Advisory
+514|CVE-2020-24348,CVE-2020-24346,CVE-2020-24349,CVE-2020-24347|https://security.netapp.com/advisory/ntap-20200918-0001/|
+515|CVE-2020-7019|https://security.netapp.com/advisory/ntap-20200827-0001/|
+516|CVE-2020-24394|https://security.netapp.com/advisory/ntap-20200904-0003/|Third Party Advisory
+517|CVE-2020-14356|https://security.netapp.com/advisory/ntap-20200904-0002/|
+518|CVE-2020-15861,CVE-2020-15862|https://security.netapp.com/advisory/ntap-20200904-0001/|Third Party Advisory
+519|CVE-2020-8624,CVE-2020-8623,CVE-2020-8622,CVE-2020-8621,CVE-2020-8620|https://security.netapp.com/advisory/ntap-20200827-0003/|
+520|CVE-2020-14350,CVE-2020-14349|https://security.netapp.com/advisory/ntap-20200918-0002/|
+521|CVE-2020-24606,CVE-2020-15810,CVE-2020-15811|https://security.netapp.com/advisory/ntap-20210219-0007/|Third Party Advisory
+522|CVE-2020-24606,CVE-2020-15810,CVE-2020-15811|https://security.netapp.com/advisory/ntap-20210226-0006/|Third Party Advisory
+523|CVE-2020-24606,CVE-2020-15810,CVE-2020-15811|https://security.netapp.com/advisory/ntap-20210226-0007/|Broken Link,Third Party Advisory
+524|CVE-2020-24616,CVE-2020-9546,CVE-2020-9548,CVE-2020-9547|https://security.netapp.com/advisory/ntap-20200904-0006/|Third Party Advisory
+525|CVE-2019-19499|https://security.netapp.com/advisory/ntap-20200918-0003/|
+526|CVE-2020-14364|https://security.netapp.com/advisory/ntap-20200924-0006/|
+527|CVE-2020-24584,CVE-2020-24583|https://security.netapp.com/advisory/ntap-20200918-0004/|
+528|CVE-2020-13946|https://security.netapp.com/advisory/ntap-20210521-0005/|
+529|CVE-2020-24553|https://security.netapp.com/advisory/ntap-20200924-0003/|
+530|CVE-2020-8576|https://security.netapp.com/advisory/NTAP-20200902-0001/|Vendor Advisory
+531|CVE-2020-24977|https://security.netapp.com/advisory/ntap-20200924-0001/|Third Party Advisory
+532|CVE-2020-24659|https://security.netapp.com/advisory/ntap-20200911-0006/|Third Party Advisory
+533|CVE-2020-1968|https://security.netapp.com/advisory/ntap-20200911-0004/|Third Party Advisory
+534|CVE-2020-1749|https://security.netapp.com/advisory/ntap-20201222-0001/|
+535|CVE-2020-25211|https://security.netapp.com/advisory/ntap-20201009-0001/|Third Party Advisory
+536|CVE-2020-7068|https://security.netapp.com/advisory/ntap-20200918-0005/|Third Party Advisory
+537|CVE-2020-25220|https://security.netapp.com/advisory/ntap-20201001-0004/|Third Party Advisory
+538|CVE-2020-25221|https://security.netapp.com/advisory/ntap-20201001-0003/|
+539|CVE-2020-8758|https://security.netapp.com/advisory/ntap-20200911-0005/|Third Party Advisory
+540|CVE-2020-25285|https://security.netapp.com/advisory/ntap-20201009-0002/|Third Party Advisory
+541|CVE-2020-10733|https://security.netapp.com/advisory/ntap-20201001-0006/|
+542|CVE-2020-1748|https://security.netapp.com/advisory/ntap-20201001-0005/|
+543|CVE-2020-24750|https://security.netapp.com/advisory/ntap-20201009-0003/|Third Party Advisory
+544|CVE-2020-8252,CVE-2020-8251,CVE-2020-8201|https://security.netapp.com/advisory/ntap-20201009-0004/|
+545|CVE-2020-5421|https://security.netapp.com/advisory/ntap-20210513-0009/|
+546|CVE-2020-10714|https://security.netapp.com/advisory/ntap-20201223-0002/|
+547|CVE-2020-24718|https://security.netapp.com/advisory/ntap-20201016-0002/|
+548|CVE-2020-25084,CVE-2020-25741,CVE-2020-25085,CVE-2020-25625|https://security.netapp.com/advisory/ntap-20201009-0005/|Third Party Advisory
+549|CVE-2020-26116|https://security.netapp.com/advisory/ntap-20201023-0001/|
+550|CVE-2018-11765|https://security.netapp.com/advisory/ntap-20201016-0005/|
+551|CVE-2020-25626|https://security.netapp.com/advisory/ntap-20201016-0003/|
+552|CVE-2020-7070,CVE-2020-7069|https://security.netapp.com/advisory/ntap-20201016-0001/|Third Party Advisory
+553|CVE-2020-25613|https://security.netapp.com/advisory/ntap-20210115-0008/|
+554|CVE-2020-25643|https://security.netapp.com/advisory/ntap-20201103-0002/|
+555|CVE-2020-25644|https://security.netapp.com/advisory/ntap-20201016-0004/|
+556|CVE-2020-13943|https://security.netapp.com/advisory/ntap-20201016-0007/|Third Party Advisory
+557|CVE-2020-13957|https://security.netapp.com/advisory/ntap-20201023-0002/|Third Party Advisory
+558|CVE-2020-25645|https://security.netapp.com/advisory/ntap-20201103-0004/|Third Party Advisory
+559|CVE-2020-24352|https://security.netapp.com/advisory/ntap-20201123-0003/|Third Party Advisory
+560|CVE-2020-14803,CVE-2020-14779,CVE-2020-14792,CVE-2020-14781,CVE-2020-14798,CVE-2020-14797,CVE-2020-14796,CVE-2020-14782|https://security.netapp.com/advisory/ntap-20201023-0004/|Third Party Advisory
+561|CVE-2018-11764|https://security.netapp.com/advisory/ntap-20201103-0003/|
+562|CVE-2020-27619|https://security.netapp.com/advisory/ntap-20201123-0004/|Third Party Advisory
+563|CVE-2020-7020|https://security.netapp.com/advisory/ntap-20201123-0001/|
+564|CVE-2019-17006|https://security.netapp.com/advisory/ntap-20210129-0001/|Third Party Advisory
+565|CVE-2020-27216|https://security.netapp.com/advisory/ntap-20201123-0005/|Third Party Advisory
+566|CVE-2020-8579|https://security.netapp.com/advisory/NTAP-20201026-0001|Vendor Advisory
+567|CVE-2020-24303|https://security.netapp.com/advisory/ntap-20201123-0002/|
+568|CVE-2020-14323|https://security.netapp.com/advisory/ntap-20201103-0001/|Third Party Advisory
+569|CVE-2020-25689|https://security.netapp.com/advisory/ntap-20201123-0006/|
+570|CVE-2017-5689|https://security.netapp.com/advisory/ntap-20170509-0001/|Third Party Advisory
+571|CVE-2017-8779|https://security.netapp.com/advisory/ntap-20180109-0001/|
+572|CVE-2017-9078,CVE-2017-9079|https://security.netapp.com/advisory/ntap-20191004-0006/|
+573|CVE-2016-10158,CVE-2016-7478,CVE-2016-5399,CVE-2016-7480,CVE-2017-7272,CVE-2017-11143,CVE-2017-11628,CVE-2017-7890,CVE-2017-5340,CVE-2017-11147,CVE-2016-7479,CVE-2017-11144,CVE-2016-10161,CVE-2016-5873,CVE-2016-10397,CVE-2017-12932,CVE-2017-11362,CVE-2016-10159,CVE-2017-9119,CVE-2017-11145,CVE-2016-10160,CVE-2017-11142|https://security.netapp.com/advisory/ntap-20180112-0001/|Third Party Advisory
+574|CVE-2017-7494|https://security.netapp.com/advisory/ntap-20170524-0001/|
+575|CVE-2019-12520,CVE-2019-12522,CVE-2019-12521,CVE-2019-12519,CVE-2019-12524|https://security.netapp.com/advisory/ntap-20210205-0006/|Third Party Advisory
+576|CVE-2020-11868|https://security.netapp.com/advisory/ntap-20200424-0002/|Third Party Advisory
+577|CVE-2020-1751|https://security.netapp.com/advisory/ntap-20200430-0002/|Third Party Advisory
+578|CVE-2020-1967|https://security.netapp.com/advisory/ntap-20200424-0003/|Third Party Advisory
+579|CVE-2020-14576,CVE-2020-14624,CVE-2020-14614,CVE-2020-14651,CVE-2020-14632,CVE-2020-14567,CVE-2020-14575,CVE-2020-14619,CVE-2020-14539,CVE-2020-14553,CVE-2020-14620,CVE-2020-14597,CVE-2020-14568,CVE-2020-14663,CVE-2020-14547,CVE-2020-14591,CVE-2020-14559,CVE-2020-14631,CVE-2020-14633,CVE-2020-14697,CVE-2020-1967,CVE-2020-14654,CVE-2020-14623,CVE-2020-14656,CVE-2020-14540,CVE-2020-14680,CVE-2020-14678,CVE-2020-14641,CVE-2020-14702,CVE-2020-14643,CVE-2020-14586,CVE-2020-14634|https://security.netapp.com/advisory/ntap-20200717-0004/|Third Party Advisory
+580|CVE-2020-11945|https://security.netapp.com/advisory/ntap-20210304-0004/|Third Party Advisory
+581|CVE-2020-5866,CVE-2020-5867,CVE-2020-5865,CVE-2020-5864,CVE-2020-5863|https://security.netapp.com/advisory/ntap-20200430-0005/|
+582|CVE-2020-12052,CVE-2020-12245|https://security.netapp.com/advisory/ntap-20200511-0001/|
+583|CVE-2019-4729|https://security.netapp.com/advisory/ntap-20200504-0002/|
+584|CVE-2020-9488|https://security.netapp.com/advisory/ntap-20200504-0003/|Third Party Advisory
+585|CVE-2020-7067|https://security.netapp.com/advisory/ntap-20200504-0001/|Third Party Advisory
+586|CVE-2020-12243|https://security.netapp.com/advisory/ntap-20200511-0003/|
+587|CVE-2020-12430|https://security.netapp.com/advisory/ntap-20200518-0003/|
+588|CVE-2020-10663|https://security.netapp.com/advisory/ntap-20210129-0003/|Third Party Advisory
+589|CVE-2019-5614,CVE-2019-15874|https://security.netapp.com/advisory/ntap-20200511-0002/|
+590|CVE-2020-12458|https://security.netapp.com/advisory/ntap-20200518-0001/|
+591|CVE-2020-12459|https://security.netapp.com/advisory/ntap-20200518-0004/|
+592|CVE-2020-11023,CVE-2020-11022|https://security.netapp.com/advisory/ntap-20200511-0006/|Third Party Advisory
+593|CVE-2020-1752|https://security.netapp.com/advisory/ntap-20200511-0005/|Third Party Advisory
+594|CVE-2020-10683|https://security.netapp.com/advisory/ntap-20200518-0002/|Third Party Advisory
+595|CVE-2020-10933|https://security.netapp.com/advisory/ntap-20200625-0001/|
+596|CVE-2018-8956|https://security.netapp.com/advisory/ntap-20200518-0006/|
+597|CVE-2018-5493|https://security.netapp.com/advisory/ntap-20200507-0001/|Third Party Advisory
+598|CVE-2020-5895|https://security.netapp.com/advisory/ntap-20200522-0001/|
+599|CVE-2020-12762|https://security.netapp.com/advisory/ntap-20210521-0001/|
+600|CVE-2019-5500|https://security.netapp.com/advisory/ntap-20190802-0003/|Vendor Advisory
+601|CVE-2019-15878|https://security.netapp.com/advisory/ntap-20200518-0007/|
+602|CVE-2020-7455,CVE-2019-15879,CVE-2020-7454|https://security.netapp.com/advisory/ntap-20200518-0005/|
+603|CVE-2019-15880|https://security.netapp.com/advisory/ntap-20200518-0008/|
+604|CVE-2020-12662|https://security.netapp.com/advisory/ntap-20200702-0006/|Third Party Advisory
+605|CVE-2020-8616,CVE-2020-8617|https://security.netapp.com/advisory/ntap-20200522-0002/|Third Party Advisory
+606|CVE-2020-7656|https://security.netapp.com/advisory/ntap-20200528-0001/|
+607|CVE-2019-11048|https://security.netapp.com/advisory/ntap-20200528-0006/|
+608|CVE-2020-9484|https://security.netapp.com/advisory/ntap-20200528-0005/|Third Party Advisory
+609|CVE-2020-8572|https://security.netapp.com/advisory/ntap-20200520-0001/|Patch,Vendor Advisory
+610|CVE-2020-13388|https://security.netapp.com/advisory/ntap-20200528-0002/|
+611|CVE-2020-13430|https://security.netapp.com/advisory/ntap-20200528-0003/|
+612|CVE-2020-13434,CVE-2020-13435|https://security.netapp.com/advisory/ntap-20200528-0004/|Third Party Advisory
+613|CVE-2019-20806|https://security.netapp.com/advisory/ntap-20200619-0001/|
+614|CVE-2020-13632,CVE-2020-13631,CVE-2020-13630|https://security.netapp.com/advisory/ntap-20200608-0002/|Third Party Advisory
+615|CVE-2020-13645|https://security.netapp.com/advisory/ntap-20200608-0004/|Third Party Advisory
+616|CVE-2020-13362,CVE-2020-13361|https://security.netapp.com/advisory/ntap-20200608-0003/|
+617|CVE-2020-10703|https://security.netapp.com/advisory/ntap-20200608-0005/|
+618|CVE-2020-13754,CVE-2020-13659|https://security.netapp.com/advisory/ntap-20200608-0007/|Third Party Advisory
+619|CVE-2020-13401|https://security.netapp.com/advisory/ntap-20200717-0002/|
+620|CVE-2018-18624,CVE-2018-18623,CVE-2018-18625|https://security.netapp.com/advisory/ntap-20200608-0008/|
+621|CVE-2020-13776|https://security.netapp.com/advisory/ntap-20200611-0003/|Third Party Advisory
+622|CVE-2020-13254,CVE-2020-13596|https://security.netapp.com/advisory/ntap-20200611-0002/|
+623|CVE-2020-7014|https://security.netapp.com/advisory/ntap-20200619-0003/|
+624|CVE-2020-13379|https://security.netapp.com/advisory/ntap-20200608-0006/|Third Party Advisory
+625|CVE-2020-13777|https://security.netapp.com/advisory/ntap-20200619-0004/|
+626|CVE-2020-13817|https://security.netapp.com/advisory/ntap-20200625-0004/|
+627|CVE-2020-13692|https://security.netapp.com/advisory/ntap-20200619-0005/|Third Party Advisory
+628|CVE-2020-13765|https://security.netapp.com/advisory/ntap-20200619-0006/|Third Party Advisory
+629|CVE-2020-13791,CVE-2020-13800|https://security.netapp.com/advisory/ntap-20200717-0001/|Third Party Advisory
+630|CVE-2020-10702|https://security.netapp.com/advisory/ntap-20200724-0007/|
+631|CVE-2020-12723,CVE-2020-10878,CVE-2020-10543|https://security.netapp.com/advisory/ntap-20200611-0001/|Third Party Advisory
+632|CVE-2020-8555|https://security.netapp.com/advisory/ntap-20200724-0005/|
+633|CVE-2020-13871|https://security.netapp.com/advisory/ntap-20200619-0002/|
+634|CVE-2020-8172|https://security.netapp.com/advisory/ntap-20200625-0002/|
+635|CVE-2020-10757|https://security.netapp.com/advisory/ntap-20200702-0004/|
+636|CVE-2020-10761|https://security.netapp.com/advisory/ntap-20200731-0001/|
+637|CVE-2020-7456|https://security.netapp.com/advisory/ntap-20200625-0005/|Third Party Advisory
+638|CVE-2020-10732|https://security.netapp.com/advisory/ntap-20210129-0005/|Third Party Advisory
+639|CVE-2020-14195,CVE-2020-14062,CVE-2020-14061,CVE-2020-14060|https://security.netapp.com/advisory/ntap-20200702-0003/|Third Party Advisory
+640|CVE-2020-8674,CVE-2020-0532,CVE-2020-0531,CVE-2020-0538,CVE-2020-0540,CVE-2020-0595,CVE-2020-0535,CVE-2020-0597,CVE-2020-0537,CVE-2020-0596,CVE-2020-0594|https://security.netapp.com/advisory/ntap-20200611-0007/|
+641|CVE-2020-0536,CVE-2020-0533,CVE-2020-0534,CVE-2020-0541,CVE-2020-0539,CVE-2020-0545,CVE-2020-0542|https://security.netapp.com/advisory/ntap-20200611-0006/|
+642|CVE-2020-0566|https://security.netapp.com/advisory/ntap-20200611-0005/|
+643|CVE-2020-0586|https://security.netapp.com/advisory/ntap-20200611-0004/|
+644|CVE-2020-11903,CVE-2020-11900,CVE-2020-11909,CVE-2020-11904,CVE-2020-11896,CVE-2020-11907,CVE-2020-11902,CVE-2020-11908,CVE-2020-11914,CVE-2020-11911,CVE-2020-11912,CVE-2020-11906,CVE-2020-11899,CVE-2020-11913,CVE-2020-11898,CVE-2020-11905,CVE-2020-11910|https://security.netapp.com/advisory/ntap-20200625-0006/|
+645|CVE-2020-8619,CVE-2020-8618|https://security.netapp.com/advisory/ntap-20200625-0003/|
+646|CVE-2020-14422|https://security.netapp.com/advisory/ntap-20200724-0004/|Third Party Advisory
+647|CVE-2020-14968,CVE-2020-14966,CVE-2020-14967|https://security.netapp.com/advisory/ntap-20200724-0001/|
+648|CVE-2020-15025|https://security.netapp.com/advisory/ntap-20200702-0002/|
+649|CVE-2020-11996|https://security.netapp.com/advisory/ntap-20200709-0002/|Third Party Advisory
+650|CVE-2020-15358|https://security.netapp.com/advisory/ntap-20200709-0001/|Third Party Advisory
+651|CVE-2020-8573|https://security.netapp.com/advisory/ntap-20200626-0001/|Vendor Advisory
+652|CVE-2020-14002|https://security.netapp.com/advisory/ntap-20200717-0003/|
+653|CVE-2020-14145|https://security.netapp.com/advisory/ntap-20200709-0004/|Third Party Advisory
+654|CVE-2020-14059,CVE-2020-14058,CVE-2020-15049|https://security.netapp.com/advisory/ntap-20210312-0001/|Third Party Advisory
+655|CVE-2020-15523|https://security.netapp.com/advisory/ntap-20210312-0004/|Patch,Issue Tracking,Third Party Advisory
+656|CVE-2020-14303|https://security.netapp.com/advisory/ntap-20200709-0003/|Third Party Advisory
+657|CVE-2020-7458,CVE-2020-7457|https://security.netapp.com/advisory/ntap-20200724-0002/|
+658|CVE-2020-10756|https://security.netapp.com/advisory/ntap-20201001-0001/|
+659|CVE-2019-20907|https://security.netapp.com/advisory/ntap-20200731-0002/|Third Party Advisory
+660|CVE-2020-13934,CVE-2020-13935|https://security.netapp.com/advisory/ntap-20200724-0003/|
+661|CVE-2020-8203|https://security.netapp.com/advisory/ntap-20200724-0006/|Third Party Advisory
+662|CVE-2020-14573,CVE-2020-14579,CVE-2020-14593,CVE-2020-14578,CVE-2020-14664,CVE-2020-14581,CVE-2020-14583,CVE-2020-14562,CVE-2020-14556,CVE-2020-14577,CVE-2020-14621|https://security.netapp.com/advisory/ntap-20200717-0005/|Third Party Advisory
+663|CVE-2020-15801|https://security.netapp.com/advisory/ntap-20200731-0003/|
+664|CVE-2020-14001|https://security.netapp.com/advisory/ntap-20200731-0004/|Third Party Advisory
+665|CVE-2020-15586,CVE-2020-14039|https://security.netapp.com/advisory/ntap-20200731-0005/|Third Party Advisory
+666|CVE-2017-7668,CVE-2017-7679,CVE-2017-3169,CVE-2017-3167,CVE-2017-7659|https://security.netapp.com/advisory/ntap-20180601-0002/|Third Party Advisory
+667|CVE-2017-7660|https://security.netapp.com/advisory/ntap-20181127-0003/|
+668|CVE-2017-9791,CVE-2017-7672,CVE-2017-9787|https://security.netapp.com/advisory/ntap-20180706-0002/|Third Party Advisory
+669|CVE-2017-9789,CVE-2017-9788|https://security.netapp.com/advisory/ntap-20170911-0002/|Third Party Advisory
+670|CVE-2015-7705,CVE-2015-7850,CVE-2015-7853,CVE-2015-7854,CVE-2015-7855,CVE-2015-7852,CVE-2015-7702,CVE-2015-7701,CVE-2015-7704,CVE-2015-5300,CVE-2015-7691,CVE-2015-7848,CVE-2015-7849,CVE-2015-7703,CVE-2015-7871,CVE-2015-7692|https://security.netapp.com/advisory/ntap-20171004-0001/|Third Party Advisory
+671|CVE-2015-8138,CVE-2016-2517,CVE-2016-2519,CVE-2016-1550,CVE-2016-1547,CVE-2016-1551,CVE-2015-7704,CVE-2016-1549,CVE-2016-1548,CVE-2016-2516,CVE-2016-2518|https://security.netapp.com/advisory/ntap-20171004-0002/|Third Party Advisory
+672|CVE-2017-10176,CVE-2017-10125,CVE-2017-10074,CVE-2017-10086,CVE-2017-10101,CVE-2017-10109,CVE-2017-10118,CVE-2017-10067,CVE-2017-10145,CVE-2017-10102,CVE-2017-10135,CVE-2017-10107,CVE-2017-10105,CVE-2017-10116,CVE-2017-10193,CVE-2017-10078,CVE-2017-10243,CVE-2017-10108,CVE-2017-10198,CVE-2017-10053,CVE-2017-10110,CVE-2017-10117,CVE-2017-10087,CVE-2017-10089,CVE-2017-10114,CVE-2017-10081,CVE-2017-10111,CVE-2017-10096,CVE-2017-10115,CVE-2017-10121,CVE-2017-10090,CVE-2017-10104|https://security.netapp.com/advisory/ntap-20170720-0001/|
+673|CVE-2016-6796,CVE-2016-0762,CVE-2016-6794,CVE-2016-6797,CVE-2016-5018|https://security.netapp.com/advisory/ntap-20180605-0001/|
+674|CVE-2016-6816,CVE-2016-8735,CVE-2016-6817|https://security.netapp.com/advisory/ntap-20180607-0001/|
+675|CVE-2016-8745|https://security.netapp.com/advisory/ntap-20180607-0002/|
+676|CVE-2017-7675,CVE-2017-7674|https://security.netapp.com/advisory/ntap-20180614-0003/|
+677|CVE-2015-5146|https://security.netapp.com/advisory/ntap-20180731-0003/|
+678|CVE-2017-3735|https://security.netapp.com/advisory/ntap-20170927-0001/|Issue Tracking,Third Party Advisory
+679|CVE-2015-5209|https://security.netapp.com/advisory/ntap-20180629-0002/|
+680|CVE-2017-9805|https://security.netapp.com/advisory/ntap-20170907-0001/|
+681|CVE-2017-9798|https://security.netapp.com/advisory/ntap-20180601-0003/|Third Party Advisory
+682|CVE-2017-12616,CVE-2017-12615|https://security.netapp.com/advisory/ntap-20171018-0001/|
+683|CVE-2017-12814,CVE-2017-12837,CVE-2017-12883|https://security.netapp.com/advisory/ntap-20180426-0001/|
+684|CVE-2016-8738,CVE-2015-5169,CVE-2016-6795|https://security.netapp.com/advisory/ntap-20180629-0003/|Third Party Advisory
+685|CVE-2017-9793,CVE-2017-9804|https://security.netapp.com/advisory/ntap-20180629-0001/|
+686|CVE-2017-12617|https://security.netapp.com/advisory/ntap-20171018-0002/|
+687|CVE-2021-28918|https://security.netapp.com/advisory/ntap-20210528-0010/|Third Party Advisory
+688|CVE-2021-3393|https://security.netapp.com/advisory/ntap-20210507-0006/|Third Party Advisory
+689|CVE-2021-22890,CVE-2021-22876|https://security.netapp.com/advisory/ntap-20210521-0007/|Third Party Advisory
+690|CVE-2021-28658|https://security.netapp.com/advisory/ntap-20210528-0001/|Third Party Advisory
+691|CVE-2021-29424|https://security.netapp.com/advisory/ntap-20210604-0007/|
+692|CVE-2020-36309|https://security.netapp.com/advisory/ntap-20210507-0005/|Third Party Advisory
+693|CVE-2020-36313|https://security.netapp.com/advisory/ntap-20210604-0005/|
+694|CVE-2020-25584|https://security.netapp.com/advisory/ntap-20210423-0009/|Third Party Advisory
+695|CVE-2021-29626|https://security.netapp.com/advisory/ntap-20210423-0008/|
+696|CVE-2021-29627|https://security.netapp.com/advisory/ntap-20210423-0007/|
+697|CVE-2021-29154|https://security.netapp.com/advisory/ntap-20210604-0006/|
+698|CVE-2021-23369|https://security.netapp.com/advisory/ntap-20210604-0008/|
+699|CVE-2021-29943,CVE-2021-29262|https://security.netapp.com/advisory/ntap-20210604-0009/|
+700|CVE-2021-27850|https://security.netapp.com/advisory/ntap-20210528-0002/|Third Party Advisory
+701|CVE-2021-26073|https://security.netapp.com/advisory/ntap-20210604-0004/|
+702|CVE-2021-28965|https://security.netapp.com/advisory/ntap-20210528-0003/|Third Party Advisory
+703|CVE-2021-2163,CVE-2021-2161|https://security.netapp.com/advisory/ntap-20210513-0001/|
+704|CVE-2019-25042,CVE-2019-25032,CVE-2019-25031,CVE-2019-25038,CVE-2019-25041,CVE-2019-25040,CVE-2019-25034,CVE-2019-25036,CVE-2019-25037,CVE-2019-25035,CVE-2019-25033,CVE-2019-25039|https://security.netapp.com/advisory/ntap-20210507-0007/|Third Party Advisory
+705|CVE-2021-30638|https://security.netapp.com/advisory/ntap-20210528-0004/|
+706|CVE-2021-25216,CVE-2021-25214,CVE-2021-25215|https://security.netapp.com/advisory/ntap-20210521-0006/|
+707|CVE-2020-15225|https://security.netapp.com/advisory/ntap-20210604-0010/|
+708|CVE-2021-20254|https://security.netapp.com/advisory/ntap-20210430-0001/|Third Party Advisory
+709|CVE-2021-3507|https://security.netapp.com/advisory/ntap-20210528-0005/|Third Party Advisory
+710|CVE-2021-20277,CVE-2020-27840|https://security.netapp.com/advisory/ntap-20210326-0007/|Third Party Advisory
+711|CVE-2021-26994|https://security.netapp.com/advisory/NTAP-20210601-0001/|
+712|CVE-2019-20330|https://security.netapp.com/advisory/ntap-20200127-0004/|Third Party Advisory
+713|CVE-2019-19959|https://security.netapp.com/advisory/ntap-20200204-0001/|Third Party Advisory
+714|CVE-2020-6750|https://security.netapp.com/advisory/ntap-20200127-0001/|
+715|CVE-2019-20372|https://security.netapp.com/advisory/ntap-20200127-0003/|
+716|CVE-2019-20386|https://security.netapp.com/advisory/ntap-20200210-0002/|
+717|CVE-2019-19344,CVE-2019-14907,CVE-2019-14902|https://security.netapp.com/advisory/ntap-20200122-0001/|Third Party Advisory
+718|CVE-2020-7595,CVE-2019-20388|https://security.netapp.com/advisory/ntap-20200702-0005/|Third Party Advisory
+719|CVE-2011-4461|https://security.netapp.com/advisory/ntap-20190307-0004/|
+720|CVE-2016-10010,CVE-2016-10012,CVE-2016-10009,CVE-2016-10011|https://security.netapp.com/advisory/ntap-20171130-0002/|
+721|CVE-2016-8106|https://security.netapp.com/advisory/ntap-20190731-0001/|
+722|CVE-2015-8020|https://security.netapp.com/advisory/ntap-20160802-0001/|
+723|CVE-2016-6820|https://security.netapp.com/advisory/ntap-20160816-0001/|
+724|CVE-2015-8139,CVE-2015-8140|https://security.netapp.com/advisory/ntap-20200204-0003/|
+725|CVE-2015-7599|https://security.netapp.com/advisory/ntap-20151029-0001/|
+726|CVE-2015-8322|https://security.netapp.com/advisory/ntap-20160310-0003/|
+727|CVE-2015-8544|https://security.netapp.com/advisory/ntap-20160111-0001/|
+728|CVE-2016-1894|https://security.netapp.com/advisory/ntap-20160310-0001/|
+729|CVE-2016-3063|https://security.netapp.com/advisory/ntap-20160310-0004/|
+730|CVE-2016-5372|https://security.netapp.com/advisory/ntap-20160622-0001/|
+731|CVE-2016-6210|https://security.netapp.com/advisory/ntap-20190206-0001/|
+732|CVE-2017-5638|https://security.netapp.com/advisory/ntap-20170310-0001/|
+733|CVE-2016-8747|https://security.netapp.com/advisory/ntap-20180614-0002/|
+734|CVE-2016-4800|https://security.netapp.com/advisory/ntap-20190307-0006/|
+735|CVE-2017-5651,CVE-2017-5650,CVE-2017-5648,CVE-2017-5647|https://security.netapp.com/advisory/ntap-20180614-0001/|
+736|CVE-2017-5645|https://security.netapp.com/advisory/ntap-20181107-0002/|Third Party Advisory
+737|CVE-2003-0028|https://security.netapp.com/advisory/ntap-20150122-0002/|
+738|CVE-2020-27617,CVE-2020-27616|https://security.netapp.com/advisory/ntap-20201202-0002/|
+739|CVE-2020-28196|https://security.netapp.com/advisory/ntap-20201202-0001/|
+740|CVE-2020-8580|https://security.netapp.com/advisory/ntap-20201105-0002/|Vendor Advisory
+741|CVE-2020-8577|https://security.netapp.com/advisory/ntap-20201105-0001/|Vendor Advisory
+742|CVE-2020-13954|https://security.netapp.com/advisory/ntap-20210513-0010/|Third Party Advisory
+743|CVE-2020-0588,CVE-2020-0590,CVE-2020-0593,CVE-2020-0587,CVE-2020-0591,CVE-2020-0592|https://security.netapp.com/advisory/ntap-20201113-0001/|Third Party Advisory
+744|CVE-2020-8755,CVE-2020-8751,CVE-2020-8761,CVE-2020-8744,CVE-2020-12303,CVE-2020-8745,CVE-2020-8756,CVE-2020-12297,CVE-2020-8705|https://security.netapp.com/advisory/ntap-20201113-0002/|Third Party Advisory
+745|CVE-2020-8751,CVE-2020-8744,CVE-2020-12355,CVE-2020-12303,CVE-2020-8745,CVE-2020-8750,CVE-2020-12297,CVE-2020-8705|https://security.netapp.com/advisory/ntap-20201113-0005/|Third Party Advisory
+746|CVE-2020-12356,CVE-2020-8752,CVE-2020-8753,CVE-2020-8754,CVE-2020-12354,CVE-2020-8749,CVE-2020-8760,CVE-2020-8746,CVE-2020-8747,CVE-2020-8757|https://security.netapp.com/advisory/ntap-20201113-0003/|Third Party Advisory
+747|CVE-2020-8698,CVE-2020-8696|https://security.netapp.com/advisory/ntap-20201113-0006/|Third Party Advisory
+748|CVE-2020-8755,CVE-2020-8744,CVE-2020-8705|https://security.netapp.com/advisory/ntap-20201113-0004/|Third Party Advisory
+749|CVE-2020-8738,CVE-2020-8740,CVE-2020-8739,CVE-2020-8764|https://security.netapp.com/advisory/ntap-20210122-0008/|Third Party Advisory
+750|CVE-2020-8582|https://security.netapp.com/advisory/NTAP-20201113-0007/|Vendor Advisory
+751|CVE-2020-8583|https://security.netapp.com/advisory/NTAP-20201113-0008/|Vendor Advisory
+752|CVE-2020-25695,CVE-2020-25694|https://security.netapp.com/advisory/ntap-20201202-0003/|
+753|CVE-2020-26217|https://security.netapp.com/advisory/ntap-20210409-0004/|Third Party Advisory
+754|CVE-2020-28367,CVE-2020-28362,CVE-2020-28366|https://security.netapp.com/advisory/ntap-20201202-0004/|Third Party Advisory
+755|CVE-2020-28974|https://security.netapp.com/advisory/ntap-20210108-0003/|Third Party Advisory
+756|CVE-2020-15436|https://security.netapp.com/advisory/ntap-20201218-0002/|
+757|CVE-2020-25640|https://security.netapp.com/advisory/ntap-20201210-0001/|Third Party Advisory
+758|CVE-2020-27218|https://security.netapp.com/advisory/ntap-20201218-0003/|Third Party Advisory
+759|CVE-2020-29368|https://security.netapp.com/advisory/ntap-20210108-0002/|
+760|CVE-2020-29369|https://security.netapp.com/advisory/ntap-20210115-0001/|Third Party Advisory
+761|CVE-2020-29370|https://security.netapp.com/advisory/ntap-20201218-0001/|
+762|CVE-2020-29374|https://security.netapp.com/advisory/ntap-20210115-0002/|
+763|CVE-2020-25624|https://security.netapp.com/advisory/ntap-20201210-0005/|
+764|CVE-2020-14305|https://security.netapp.com/advisory/ntap-20201210-0004/|
+765|CVE-2020-25723|https://security.netapp.com/advisory/ntap-20201218-0004/|Third Party Advisory
+766|CVE-2020-25649|https://security.netapp.com/advisory/ntap-20210108-0007/|Third Party Advisory
+767|CVE-2020-27783|https://security.netapp.com/advisory/ntap-20210521-0003/|
+768|CVE-2020-17527|https://security.netapp.com/advisory/ntap-20201210-0003/|
+769|CVE-2020-29562,CVE-2020-29573|https://security.netapp.com/advisory/ntap-20210122-0004/|Third Party Advisory
+770|CVE-2020-17521|https://security.netapp.com/advisory/ntap-20201218-0006/|Third Party Advisory
+771|CVE-2020-8564,CVE-2020-8566,CVE-2020-8563|https://security.netapp.com/advisory/ntap-20210122-0006/|Third Party Advisory
+772|CVE-2020-25692|https://security.netapp.com/advisory/ntap-20210108-0006/|
+773|CVE-2020-17531|https://security.netapp.com/advisory/ntap-20210115-0007/|
+774|CVE-2020-1971|https://security.netapp.com/advisory/ntap-20201218-0005/|Third Party Advisory
+775|CVE-2020-27821|https://security.netapp.com/advisory/ntap-20210115-0006/|
+776|CVE-2020-29661,CVE-2020-29660|https://security.netapp.com/advisory/ntap-20210122-0001/|
+777|CVE-2020-16592,CVE-2020-16591,CVE-2020-16590|https://security.netapp.com/advisory/ntap-20210115-0003/|
+778|CVE-2020-16593,CVE-2020-16599|https://security.netapp.com/advisory/ntap-20210122-0003/|
+779|CVE-2020-27350|https://security.netapp.com/advisory/ntap-20210108-0005/|
+780|CVE-2020-17530|https://security.netapp.com/advisory/ntap-20210115-0005/|Third Party Advisory
+781|CVE-2020-27786|https://security.netapp.com/advisory/ntap-20210122-0002/|
+782|CVE-2020-27825|https://security.netapp.com/advisory/ntap-20210521-0008/|
+783|CVE-2020-27730|https://security.netapp.com/advisory/ntap-20210115-0004/|
+784|CVE-2020-29510,CVE-2020-29511,CVE-2020-29509|https://security.netapp.com/advisory/ntap-20210129-0006/|Third Party Advisory
+785|CVE-2020-8285,CVE-2020-8284,CVE-2020-8286|https://security.netapp.com/advisory/ntap-20210122-0007/|Third Party Advisory
+786|CVE-2020-29569|https://security.netapp.com/advisory/ntap-20210205-0001/|Third Party Advisory
+787|CVE-2020-26259,CVE-2020-26258|https://security.netapp.com/advisory/ntap-20210409-0005/|Third Party Advisory
+788|CVE-2020-35490,CVE-2020-35491|https://security.netapp.com/advisory/ntap-20210122-0005/|Third Party Advisory
+789|CVE-2020-27846|https://security.netapp.com/advisory/ntap-20210205-0002/|Third Party Advisory
+790|CVE-2020-27337,CVE-2020-25066,CVE-2020-27336,CVE-2020-27338|https://security.netapp.com/advisory/ntap-20210201-0003/|Third Party Advisory
+791|CVE-2020-4642|https://security.netapp.com/advisory/ntap-20210129-0009/|Third Party Advisory
+792|CVE-2020-35448|https://security.netapp.com/advisory/ntap-20210129-0008/|Third Party Advisory
+793|CVE-2020-35728|https://security.netapp.com/advisory/ntap-20210129-0007/|Third Party Advisory
+794|CVE-2019-20808|https://security.netapp.com/advisory/ntap-20210205-0003/|Third Party Advisory
+795|CVE-2020-11947|https://security.netapp.com/advisory/ntap-20210212-0001/|Third Party Advisory
+796|CVE-2018-5481|https://security.netapp.com/advisory/ntap-20190104-0001/|Vendor Advisory
+797|CVE-2019-5489|https://security.netapp.com/advisory/ntap-20190307-0001/|Third Party Advisory
+798|CVE-2018-20685|https://security.netapp.com/advisory/ntap-20190215-0001/|Third Party Advisory
+799|CVE-2018-16864,CVE-2018-16866,CVE-2018-16865|https://security.netapp.com/advisory/ntap-20190117-0001/|Third Party Advisory
+800|CVE-2018-16888|https://security.netapp.com/advisory/ntap-20190307-0007/|Third Party Advisory
+801|CVE-2017-3138,CVE-2017-3137,CVE-2017-3136|https://security.netapp.com/advisory/ntap-20180802-0002/|Third Party Advisory
+802|CVE-2017-3140,CVE-2017-3141|https://security.netapp.com/advisory/ntap-20180926-0001/|Third Party Advisory
+803|CVE-2017-3143,CVE-2017-3142|https://security.netapp.com/advisory/ntap-20190830-0003/|
+804|CVE-2017-3145|https://security.netapp.com/advisory/ntap-20180117-0003/|Third Party Advisory
+805|CVE-2018-5736,CVE-2018-5737|https://security.netapp.com/advisory/ntap-20180926-0004/|Third Party Advisory
+806|CVE-2018-5738|https://security.netapp.com/advisory/ntap-20190830-0002/|
+807|CVE-2018-5740|https://security.netapp.com/advisory/ntap-20180926-0003/|Third Party Advisory
+808|CVE-2018-5741|https://security.netapp.com/advisory/ntap-20190830-0001/|
+809|CVE-2018-6444,CVE-2018-6443,CVE-2018-6445|https://security.netapp.com/advisory/ntap-20190411-0005/|Third Party Advisory
+810|CVE-2019-6260|https://security.netapp.com/advisory/ntap-20190314-0001/|Patch,Third Party Advisory
+811|CVE-2018-5497|https://security.netapp.com/advisory/ntap-20190109-0001/|Vendor Advisory,Issue Tracking
+812|CVE-2019-6977|https://security.netapp.com/advisory/ntap-20190315-0003/|Patch,Third Party Advisory
+813|CVE-2019-3462|https://security.netapp.com/advisory/ntap-20190125-0002/|Third Party Advisory
+814|CVE-2019-0190,CVE-2018-17199,CVE-2018-17189|https://security.netapp.com/advisory/ntap-20190125-0001/|Third Party Advisory
+815|CVE-2019-6111,CVE-2019-6110,CVE-2019-6109|https://security.netapp.com/advisory/ntap-20190213-0001/|Third Party Advisory
+816|CVE-2018-5498|https://security.netapp.com/advisory/ntap-20190115-0001/|Patch,Vendor Advisory
+817|CVE-2019-7317|https://security.netapp.com/advisory/ntap-20190719-0005/|
+818|CVE-2018-16890,CVE-2019-3822,CVE-2019-3823|https://security.netapp.com/advisory/ntap-20190315-0001/|Patch,Exploit,Third Party Advisory
+819|CVE-2019-3822|https://security.netapp.com/advisory/ntap-20190719-0004/|Third Party Advisory
+820|CVE-2019-5736|https://security.netapp.com/advisory/ntap-20190307-0008/|Third Party Advisory
+821|CVE-2018-5499|https://security.netapp.com/advisory/ntap-20190125-0003/|Patch,Vendor Advisory,Mitigation
+822|CVE-2019-3016,CVE-2019-20422,CVE-2020-9391,CVE-2020-8428,CVE-2020-9383,CVE-2020-8992|https://security.netapp.com/advisory/ntap-20200313-0003/|
+823|CVE-2020-0549,CVE-2020-0548|https://security.netapp.com/advisory/ntap-20200210-0004/|Third Party Advisory
+824|CVE-2019-18634|https://security.netapp.com/advisory/ntap-20200210-0001/|
+825|CVE-2019-17273|https://security.netapp.com/advisory/ntap-20200129-0001/|Vendor Advisory
+826|CVE-2020-8492|https://security.netapp.com/advisory/ntap-20200221-0001/|Third Party Advisory
+827|CVE-2020-7471|https://security.netapp.com/advisory/ntap-20200221-0006/|
+828|CVE-2020-8597|https://security.netapp.com/advisory/ntap-20200313-0004/|
+829|CVE-2019-9674|https://security.netapp.com/advisory/ntap-20200221-0003/|
+830|CVE-2020-8517,CVE-2020-8449,CVE-2020-8450|https://security.netapp.com/advisory/ntap-20210304-0002/|Third Party Advisory
+831|CVE-2019-16203|https://security.netapp.com/advisory/ntap-20200511-0008/|
+832|CVE-2019-16204|https://security.netapp.com/advisory/ntap-20200511-0007/|
+833|CVE-2020-8648|https://security.netapp.com/advisory/ntap-20200924-0004/|
+834|CVE-2020-8608|https://security.netapp.com/advisory/ntap-20201001-0002/|Third Party Advisory
+835|CVE-2019-15604,CVE-2019-15606,CVE-2019-15605|https://security.netapp.com/advisory/ntap-20200221-0004/|Third Party Advisory
+836|CVE-2020-7059,CVE-2020-7060|https://security.netapp.com/advisory/ntap-20200221-0002/|
+837|CVE-2020-8840|https://security.netapp.com/advisory/ntap-20200327-0002/|Third Party Advisory
+838|CVE-2019-14598|https://security.netapp.com/advisory/ntap-20200221-0005/|
+839|CVE-2020-4135|https://security.netapp.com/advisory/ntap-20210108-0001/|
+840|CVE-2020-8441|https://security.netapp.com/advisory/ntap-20200313-0001/|
+841|CVE-2020-9327|https://security.netapp.com/advisory/ntap-20200313-0002/|
+842|CVE-2019-17569,CVE-2020-1935|https://security.netapp.com/advisory/ntap-20200327-0005/|Third Party Advisory
+843|CVE-2020-1938|https://security.netapp.com/advisory/ntap-20200226-0002/|Third Party Advisory
+844|CVE-2019-17274|https://security.netapp.com/advisory/ntap-20200226-0001/|Vendor Advisory
+845|CVE-2019-17275|https://security.netapp.com/advisory/ntap-20200226-0003/|Patch,Vendor Advisory
+846|CVE-2015-2992|https://security.netapp.com/advisory/ntap-20200330-0001/|Third Party Advisory
+847|CVE-2019-14892|https://security.netapp.com/advisory/ntap-20200904-0005/|
+848|CVE-2019-14893|https://security.netapp.com/advisory/ntap-20200327-0006/|Third Party Advisory
+849|CVE-2020-10029|https://security.netapp.com/advisory/ntap-20200327-0003/|
+850|CVE-2020-9402|https://security.netapp.com/advisory/ntap-20200327-0004/|Third Party Advisory
+851|CVE-2020-0520,CVE-2020-0506,CVE-2020-0517,CVE-2020-0567,CVE-2020-0501,CVE-2020-0502,CVE-2020-0508,CVE-2020-0505,CVE-2020-0515,CVE-2020-0519,CVE-2020-0503,CVE-2020-0507,CVE-2020-0514,CVE-2020-0511,CVE-2020-0504,CVE-2020-0565,CVE-2020-0516|https://security.netapp.com/advisory/ntap-20200320-0003/|Third Party Advisory
+852|CVE-2020-0550|https://security.netapp.com/advisory/ntap-20200320-0001/|Third Party Advisory
+853|CVE-2020-0551|https://security.netapp.com/advisory/ntap-20200320-0002/|Third Party Advisory
+854|CVE-2020-8571|https://security.netapp.com/advisory/ntap-20200313-0005/|Vendor Advisory
+855|CVE-2019-14887|https://security.netapp.com/advisory/ntap-20200327-0007/|
+856|CVE-2020-7919|https://security.netapp.com/advisory/ntap-20200327-0001/|Third Party Advisory
+857|CVE-2020-10673,CVE-2020-11113,CVE-2020-10672,CVE-2020-10969,CVE-2020-10968,CVE-2020-11111,CVE-2020-11112|https://security.netapp.com/advisory/ntap-20200403-0002/|Third Party Advisory
+858|CVE-2019-17276|https://security.netapp.com/advisory/ntap-20200323-0001/|Vendor Advisory
+859|CVE-2020-10942|https://security.netapp.com/advisory/ntap-20200403-0003/|Third Party Advisory
+860|CVE-2019-11254,CVE-2020-8552,CVE-2020-8551|https://security.netapp.com/advisory/ntap-20200413-0003/|Third Party Advisory
+861|CVE-2020-7009|https://security.netapp.com/advisory/ntap-20200403-0004/|Third Party Advisory
+862|CVE-2020-7064,CVE-2020-7066,CVE-2020-7065|https://security.netapp.com/advisory/ntap-20200403-0001/|Third Party Advisory
+863|CVE-2020-1934,CVE-2020-1927|https://security.netapp.com/advisory/ntap-20200413-0002/|Third Party Advisory
+864|CVE-2020-8835,CVE-2020-8832,CVE-2019-20636,CVE-2020-11668,CVE-2020-11608,CVE-2020-11494,CVE-2020-11609|https://security.netapp.com/advisory/ntap-20200430-0004/|Third Party Advisory
+865|CVE-2020-11501|https://security.netapp.com/advisory/ntap-20200416-0002/|Third Party Advisory
+866|CVE-2020-11612|https://security.netapp.com/advisory/ntap-20201223-0001/|Third Party Advisory
+867|CVE-2020-11619,CVE-2020-11620|https://security.netapp.com/advisory/ntap-20200511-0004/|Third Party Advisory
+868|CVE-2020-11656,CVE-2020-11655|https://security.netapp.com/advisory/ntap-20200416-0001/|Third Party Advisory
+869|CVE-2020-11669|https://security.netapp.com/advisory/ntap-20200430-0001/|Patch,Mailing List,Third Party Advisory
+870|CVE-2020-11724|https://security.netapp.com/advisory/ntap-20210129-0002/|Third Party Advisory
+871|CVE-2020-1730|https://security.netapp.com/advisory/ntap-20200424-0001/|Third Party Advisory

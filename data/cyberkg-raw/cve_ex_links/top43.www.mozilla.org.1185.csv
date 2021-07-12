@@ -1,0 +1,1186 @@
+|cve-ids|ex_url|types
+0|CVE-2006-3113|http://www.mozilla.org/security/announce/2006/mfsa2006-46.html|Vendor Advisory
+1|CVE-2006-3677|http://www.mozilla.org/security/announce/2006/mfsa2006-45.html|Vendor Advisory
+2|CVE-2006-3801|http://www.mozilla.org/security/announce/2006/mfsa2006-44.html|
+3|CVE-2006-3802|http://www.mozilla.org/security/announce/2006/mfsa2006-47.html|Vendor Advisory
+4|CVE-2006-3803|http://www.mozilla.org/security/announce/2006/mfsa2006-48.html|
+5|CVE-2006-3804|http://www.mozilla.org/security/announce/2006/mfsa2006-49.html|Vendor Advisory
+6|CVE-2006-3805,CVE-2006-3806|http://www.mozilla.org/security/announce/2006/mfsa2006-50.html|Vendor Advisory
+7|CVE-2006-3807|http://www.mozilla.org/security/announce/2006/mfsa2006-51.html|Vendor Advisory
+8|CVE-2006-3808|http://www.mozilla.org/security/announce/2006/mfsa2006-52.html|Vendor Advisory
+9|CVE-2006-3809|http://www.mozilla.org/security/announce/2006/mfsa2006-53.html|Vendor Advisory
+10|CVE-2006-3810|http://www.mozilla.org/security/announce/2006/mfsa2006-54.html|Vendor Advisory
+11|CVE-2006-3811|http://www.mozilla.org/security/announce/2006/mfsa2006-55.html|Vendor Advisory
+12|CVE-2006-3812|http://www.mozilla.org/security/announce/2006/mfsa2006-56.html|
+13|CVE-2006-4253|http://www.mozilla.org/security/announce/2006/mfsa2006-59.html|
+14|CVE-2006-4340,CVE-2006-5462|http://www.mozilla.org/security/announce/2006/mfsa2006-60.html|Patch
+15|CVE-2006-4340,CVE-2006-5462|http://www.mozilla.org/security/announce/2006/mfsa2006-66.html|Patch
+16|CVE-2006-4565,CVE-2006-4566|http://www.mozilla.org/security/announce/2006/mfsa2006-57.html|Vendor Advisory
+17|CVE-2006-4567|http://www.mozilla.org/security/announce/2006/mfsa2006-58.html|Exploit
+18|CVE-2006-4568|http://www.mozilla.org/security/announce/2006/mfsa2006-61.html|Vendor Advisory
+19|CVE-2006-4569|http://www.mozilla.org/security/announce/2006/mfsa2006-62.html|Vendor Advisory
+20|CVE-2006-4570|http://www.mozilla.org/security/announce/2006/mfsa2006-63.html|Vendor Advisory
+21|CVE-2006-4571|http://www.mozilla.org/security/announce/2006/mfsa2006-64.html|Vendor Advisory
+22|CVE-2006-5463|http://www.mozilla.org/security/announce/2006/mfsa2006-67.html|Patch
+23|CVE-2006-5747,CVE-2006-5748,CVE-2006-5464|http://www.mozilla.org/security/announce/2006/mfsa2006-65.html|Patch,Vendor Advisory
+24|CVE-2007-0045,CVE-2007-0996,CVE-2007-0995,CVE-2006-6077|http://www.mozilla.org/security/announce/2007/mfsa2007-02.html|Patch,Vendor Advisory
+25|CVE-2006-6499,CVE-2006-6498,CVE-2006-6497|http://www.mozilla.org/security/announce/2006/mfsa2006-68.html|Vendor Advisory
+26|CVE-2006-6500|http://www.mozilla.org/security/announce/2006/mfsa2006-69.html|Vendor Advisory
+27|CVE-2006-6501|http://www.mozilla.org/security/announce/2006/mfsa2006-70.html|Vendor Advisory
+28|CVE-2006-6502|http://www.mozilla.org/security/announce/2006/mfsa2006-71.html|Vendor Advisory
+29|CVE-2006-6503|http://www.mozilla.org/security/announce/2006/mfsa2006-72.html|Vendor Advisory
+30|CVE-2006-6504|http://www.mozilla.org/security/announce/2006/mfsa2006-73.html|Vendor Advisory
+31|CVE-2006-6505|http://www.mozilla.org/security/announce/2006/mfsa2006-74.html|
+32|CVE-2006-6506|http://www.mozilla.org/security/announce/2006/mfsa2006-75.html|
+33|CVE-2006-6507|http://www.mozilla.org/security/announce/2006/mfsa2006-76.html|
+34|CVE-2004-0903,CVE-2004-0902,CVE-2004-0908,CVE-2004-0904,CVE-2004-0909,CVE-2004-0905,CVE-2004-0907,CVE-2004-0906|http://www.mozilla.org/projects/security/known-vulnerabilities.html#mozilla1.7.3|Vendor Advisory
+35|CVE-2005-0145|http://www.mozilla.org/security/announce/mfsa2005-07.html|Patch,Vendor Advisory
+36|CVE-2005-0149|http://www.mozilla.org/security/announce/mfsa2005-11.html|Patch,Vendor Advisory
+37|CVE-2005-0231|http://www.mozilla.org/security/announce/mfsa2005-26.html|Exploit,Vendor Advisory,Patch
+38|CVE-2005-0233|http://www.mozilla.org/security/announce/mfsa2005-29.html|Exploit,Vendor Advisory,Patch
+39|CVE-2005-0143|http://www.mozilla.org/security/announce/mfsa2005-03.html|Patch,Vendor Advisory
+40|CVE-2005-0585|http://www.mozilla.org/security/announce/mfsa2005-23.html|Patch,Vendor Advisory
+41|CVE-2005-0587|http://www.mozilla.org/security/announce/mfsa2005-21.html|Vendor Advisory
+42|CVE-2005-0592|http://www.mozilla.org/security/announce/mfsa2005-15.html|Vendor Advisory
+43|CVE-2005-0593|http://www.mozilla.org/security/announce/mfsa2005-14.html|
+44|CVE-2005-0752|http://www.mozilla.org/security/announce/mfsa2005-34.html|
+45|CVE-2005-0141|http://www.mozilla.org/security/announce/mfsa2005-01.html|Vendor Advisory
+46|CVE-2005-0142|http://www.mozilla.org/security/announce/mfsa2005-02.html|Vendor Advisory
+47|CVE-2005-0144|http://www.mozilla.org/security/announce/mfsa2005-04.html|Vendor Advisory
+48|CVE-2005-0146|http://www.mozilla.org/security/announce/mfsa2005-08.html|Vendor Advisory
+49|CVE-2005-0147|http://www.mozilla.org/security/announce/mfsa2005-09.html|Vendor Advisory
+50|CVE-2005-0148|http://www.mozilla.org/security/announce/mfsa2005-10.html|Vendor Advisory
+51|CVE-2005-0150|http://www.mozilla.org/security/announce/mfsa2005-12.html|Patch,Vendor Advisory
+52|CVE-2005-0230|http://www.mozilla.org/security/announce/mfsa2005-25.html|Patch
+53|CVE-2005-0527,CVE-2005-0232|http://www.mozilla.org/security/announce/mfsa2005-27.html|Vendor Advisory
+54|CVE-2005-0255|http://www.mozilla.org/security/announce/mfsa2005-18.html|Vendor Advisory
+55|CVE-2005-0399|http://www.mozilla.org/security/announce/mfsa2005-30.html|Vendor Advisory
+56|CVE-2005-0401|http://www.mozilla.org/security/announce/mfsa2005-32.html|
+57|CVE-2005-0402|http://www.mozilla.org/security/announce/mfsa2005-31.html|Vendor Advisory
+58|CVE-2005-0578|http://www.mozilla.org/security/announce/mfsa2005-28.html|Vendor Advisory
+59|CVE-2005-0584|http://www.mozilla.org/security/announce/mfsa2005-24.html|
+60|CVE-2005-0586|http://www.mozilla.org/security/announce/mfsa2005-22.html|Vendor Advisory
+61|CVE-2005-0588|http://www.mozilla.org/security/announce/mfsa2005-20.html|
+62|CVE-2005-0589|http://www.mozilla.org/security/announce/mfsa2005-19.html|Vendor Advisory
+63|CVE-2005-0590|http://www.mozilla.org/security/announce/mfsa2005-17.html|Vendor Advisory
+64|CVE-2005-0591|http://www.mozilla.org/security/announce/mfsa2005-16.html|
+65|CVE-2005-0989|http://www.mozilla.org/security/announce/mfsa2005-33.html|Vendor Advisory
+66|CVE-2005-1153|http://www.mozilla.org/security/announce/mfsa2005-35.html|Vendor Advisory
+67|CVE-2005-1154|http://www.mozilla.org/security/announce/mfsa2005-36.html|Vendor Advisory
+68|CVE-2005-1155|http://www.mozilla.org/security/announce/mfsa2005-37.html|Vendor Advisory
+69|CVE-2005-1156,CVE-2005-1157|http://www.mozilla.org/security/announce/mfsa2005-38.html|Vendor Advisory
+70|CVE-2005-1158|http://www.mozilla.org/security/announce/mfsa2005-39.html|Vendor Advisory
+71|CVE-2005-1159|http://www.mozilla.org/security/announce/mfsa2005-40.html|Vendor Advisory
+72|CVE-2005-1160|http://www.mozilla.org/security/announce/mfsa2005-41.html|Vendor Advisory
+73|CVE-2014-1565|http://www.mozilla.org/security/announce/2014/mfsa2014-70.html|Vendor Advisory
+74|CVE-2014-1566|http://www.mozilla.org/security/announce/2014/mfsa2014-71.html|Vendor Advisory
+75|CVE-2014-1567|http://www.mozilla.org/security/announce/2014/mfsa2014-72.html|Vendor Advisory
+76|CVE-2014-1554,CVE-2014-1553,CVE-2014-1562|http://www.mozilla.org/security/announce/2014/mfsa2014-67.html|Vendor Advisory
+77|CVE-2014-1563|http://www.mozilla.org/security/announce/2014/mfsa2014-68.html|Vendor Advisory
+78|CVE-2014-1564|http://www.mozilla.org/security/announce/2014/mfsa2014-69.html|Vendor Advisory
+79|CVE-2014-1568|http://www.mozilla.org/security/announce/2014/mfsa2014-73.html|Vendor Advisory
+80|CVE-2014-1575,CVE-2014-1574|http://www.mozilla.org/security/announce/2014/mfsa2014-74.html|Vendor Advisory
+81|CVE-2014-1576|http://www.mozilla.org/security/announce/2014/mfsa2014-75.html|Vendor Advisory
+82|CVE-2014-1577|http://www.mozilla.org/security/announce/2014/mfsa2014-76.html|Vendor Advisory
+83|CVE-2014-1578|http://www.mozilla.org/security/announce/2014/mfsa2014-77.html|Vendor Advisory
+84|CVE-2014-1580|http://www.mozilla.org/security/announce/2014/mfsa2014-78.html|Vendor Advisory
+85|CVE-2014-1581|http://www.mozilla.org/security/announce/2014/mfsa2014-79.html|Vendor Advisory
+86|CVE-2014-1582,CVE-2014-1584|http://www.mozilla.org/security/announce/2014/mfsa2014-80.html|Vendor Advisory
+87|CVE-2014-1583|http://www.mozilla.org/security/announce/2014/mfsa2014-82.html|Vendor Advisory
+88|CVE-2014-1586,CVE-2014-1585|http://www.mozilla.org/security/announce/2014/mfsa2014-81.html|Vendor Advisory
+89|CVE-2014-8632,CVE-2014-8631|http://www.mozilla.org/security/announce/2014/mfsa2014-91.html|Vendor Advisory
+90|CVE-2014-1588,CVE-2014-1587|http://www.mozilla.org/security/announce/2014/mfsa2014-83.html|Vendor Advisory
+91|CVE-2014-1589|http://www.mozilla.org/security/announce/2014/mfsa2014-84.html|Vendor Advisory
+92|CVE-2014-1590|http://www.mozilla.org/security/announce/2014/mfsa2014-85.html|Vendor Advisory
+93|CVE-2014-1591|http://www.mozilla.org/security/announce/2014/mfsa2014-86.html|Vendor Advisory
+94|CVE-2014-1592|http://www.mozilla.org/security/announce/2014/mfsa2014-87.html|Vendor Advisory
+95|CVE-2014-1593|http://www.mozilla.org/security/announce/2014/mfsa2014-88.html|Vendor Advisory
+96|CVE-2014-1594|http://www.mozilla.org/security/announce/2014/mfsa2014-89.html|Vendor Advisory
+97|CVE-2014-1595|http://www.mozilla.org/security/announce/2014/mfsa2014-90.html|Vendor Advisory
+98|CVE-2013-0744|http://www.mozilla.org/security/announce/2013/mfsa2013-05.html|Vendor Advisory
+99|CVE-2013-0745|http://www.mozilla.org/security/announce/2013/mfsa2013-08.html|Vendor Advisory
+100|CVE-2013-0746|http://www.mozilla.org/security/announce/2013/mfsa2013-09.html|Vendor Advisory
+101|CVE-2013-0747|http://www.mozilla.org/security/announce/2013/mfsa2013-10.html|Vendor Advisory
+102|CVE-2013-0748|http://www.mozilla.org/security/announce/2013/mfsa2013-11.html|Vendor Advisory
+103|CVE-2013-0749,CVE-2013-0769,CVE-2013-0770|http://www.mozilla.org/security/announce/2013/mfsa2013-01.html|Vendor Advisory
+104|CVE-2013-0750|http://www.mozilla.org/security/announce/2013/mfsa2013-12.html|Vendor Advisory
+105|CVE-2013-0751|http://www.mozilla.org/security/announce/2013/mfsa2013-06.html|Vendor Advisory
+106|CVE-2013-0752|http://www.mozilla.org/security/announce/2013/mfsa2013-13.html|Vendor Advisory
+107|CVE-2013-0753|http://www.mozilla.org/security/announce/2013/mfsa2013-16.html|Vendor Advisory
+108|CVE-2013-0754|http://www.mozilla.org/security/announce/2013/mfsa2013-17.html|Vendor Advisory
+109|CVE-2013-0755|http://www.mozilla.org/security/announce/2013/mfsa2013-18.html|Vendor Advisory
+110|CVE-2013-0756|http://www.mozilla.org/security/announce/2013/mfsa2013-19.html|Vendor Advisory
+111|CVE-2013-0757|http://www.mozilla.org/security/announce/2013/mfsa2013-14.html|Vendor Advisory
+112|CVE-2013-0758|http://www.mozilla.org/security/announce/2013/mfsa2013-15.html|Vendor Advisory
+113|CVE-2013-0759|http://www.mozilla.org/security/announce/2013/mfsa2013-04.html|Vendor Advisory
+114|CVE-2013-0761,CVE-2013-0771,CVE-2013-0763,CVE-2013-0760,CVE-2013-0766,CVE-2012-5829,CVE-2013-0762,CVE-2013-0767|http://www.mozilla.org/security/announce/2013/mfsa2013-02.html|Vendor Advisory
+115|CVE-2013-0764|http://www.mozilla.org/security/announce/2013/mfsa2013-07.html|Vendor Advisory
+116|CVE-2013-0768|http://www.mozilla.org/security/announce/2013/mfsa2013-03.html|Vendor Advisory
+117|CVE-2013-0765|http://www.mozilla.org/security/announce/2013/mfsa2013-23.html|Vendor Advisory,Third Party Advisory
+118|CVE-2013-0772|http://www.mozilla.org/security/announce/2013/mfsa2013-22.html|Patch,Vendor Advisory
+119|CVE-2013-0773|http://www.mozilla.org/security/announce/2013/mfsa2013-24.html|Vendor Advisory
+120|CVE-2013-0774|http://www.mozilla.org/security/announce/2013/mfsa2013-25.html|Vendor Advisory
+121|CVE-2013-0775|http://www.mozilla.org/security/announce/2013/mfsa2013-26.html|Vendor Advisory
+122|CVE-2013-0776|http://www.mozilla.org/security/announce/2013/mfsa2013-27.html|Vendor Advisory
+123|CVE-2013-0778,CVE-2013-0779,CVE-2013-0777,CVE-2013-0781,CVE-2013-0780,CVE-2013-0782|http://www.mozilla.org/security/announce/2013/mfsa2013-28.html|Vendor Advisory
+124|CVE-2013-0784,CVE-2013-0783|http://www.mozilla.org/security/announce/2013/mfsa2013-21.html|Vendor Advisory
+125|CVE-2009-0773,CVE-2009-0774,CVE-2009-0772,CVE-2009-0771|http://www.mozilla.org/security/announce/2009/mfsa2009-07.html|Vendor Advisory
+126|CVE-2009-0775|http://www.mozilla.org/security/announce/2009/mfsa2009-08.html|
+127|CVE-2009-0776|http://www.mozilla.org/security/announce/2009/mfsa2009-09.html|Vendor Advisory
+128|CVE-2009-0777|http://www.mozilla.org/security/announce/2009/mfsa2009-11.html|Vendor Advisory
+129|CVE-2009-1044|http://www.mozilla.org/security/announce/2009/mfsa2009-13.html|Patch,Vendor Advisory
+130|CVE-2009-1169|http://www.mozilla.org/security/announce/2009/mfsa2009-12.html|Patch,Vendor Advisory
+131|CVE-2009-1305,CVE-2009-1304,CVE-2009-1302,CVE-2009-1303|http://www.mozilla.org/security/announce/2009/mfsa2009-14.html|Vendor Advisory
+132|CVE-2009-1306|http://www.mozilla.org/security/announce/2009/mfsa2009-16.html|Vendor Advisory
+133|CVE-2009-1307|http://www.mozilla.org/security/announce/2009/mfsa2009-17.html|Vendor Advisory
+134|CVE-2009-1308|http://www.mozilla.org/security/announce/2009/mfsa2009-18.html|Vendor Advisory
+135|CVE-2009-1309|http://www.mozilla.org/security/announce/2009/mfsa2009-19.html|Vendor Advisory
+136|CVE-2009-1310|http://www.mozilla.org/security/announce/2009/mfsa2009-20.html|Vendor Advisory
+137|CVE-2009-1311|http://www.mozilla.org/security/announce/2009/mfsa2009-21.html|Vendor Advisory
+138|CVE-2009-1312|http://www.mozilla.org/security/announce/2009/mfsa2009-22.html|Vendor Advisory
+139|CVE-2009-1313|http://www.mozilla.org/security/announce/2009/mfsa2009-23.html|
+140|CVE-2009-2468,CVE-2009-1194|http://www.mozilla.org/security/announce/2009/mfsa2009-36.html|Vendor Advisory
+141|CVE-2009-1392,CVE-2009-1832,CVE-2009-1833|http://www.mozilla.org/security/announce/2009/mfsa2009-24.html|Vendor Advisory
+142|CVE-2009-1834|http://www.mozilla.org/security/announce/2009/mfsa2009-25.html|Vendor Advisory
+143|CVE-2009-1835|http://www.mozilla.org/security/announce/2009/mfsa2009-26.html|Vendor Advisory
+144|CVE-2009-1836|http://www.mozilla.org/security/announce/2009/mfsa2009-27.html|Vendor Advisory
+145|CVE-2009-1837|http://www.mozilla.org/security/announce/2009/mfsa2009-28.html|Vendor Advisory
+146|CVE-2009-1838|http://www.mozilla.org/security/announce/2009/mfsa2009-29.html|Vendor Advisory
+147|CVE-2009-1839|http://www.mozilla.org/security/announce/2009/mfsa2009-30.html|Vendor Advisory
+148|CVE-2009-1840|http://www.mozilla.org/security/announce/2009/mfsa2009-31.html|Vendor Advisory
+149|CVE-2009-1841|http://www.mozilla.org/security/announce/2009/mfsa2009-32.html|Vendor Advisory
+150|CVE-2009-2210|http://www.mozilla.org/security/announce/2009/mfsa2009-33.html|Patch,Vendor Advisory
+151|CVE-2009-0689|http://www.mozilla.org/security/announce/2009/mfsa2009-59.html|Vendor Advisory
+152|CVE-2009-2408|http://www.mozilla.org/security/announce/2009/mfsa2009-42.html|Vendor Advisory
+153|CVE-2009-2464,CVE-2009-2465,CVE-2009-2466,CVE-2009-2462,CVE-2009-2463|http://www.mozilla.org/security/announce/2009/mfsa2009-34.html|Patch,Vendor Advisory
+154|CVE-2010-0161,CVE-2010-0163,CVE-2009-2463,CVE-2009-3075,CVE-2009-3072|http://www.mozilla.org/security/announce/2010/mfsa2010-07.html|Patch,Vendor Advisory
+155|CVE-2009-2467|http://www.mozilla.org/security/announce/2009/mfsa2009-35.html|Vendor Advisory
+156|CVE-2009-2469|http://www.mozilla.org/security/announce/2009/mfsa2009-37.html|Vendor Advisory
+157|CVE-2009-2471|http://www.mozilla.org/security/announce/2009/mfsa2009-39.html|Vendor Advisory
+158|CVE-2009-2472|http://www.mozilla.org/security/announce/2009/mfsa2009-40.html|Patch,Vendor Advisory
+159|CVE-2009-2477|http://www.mozilla.org/security/announce/2009/mfsa2009-41.html|Patch,Vendor Advisory
+160|CVE-2008-6961|http://www.mozilla.org/security/announce/2008/mfsa2008-59.html|Vendor Advisory
+161|CVE-2009-2404|http://www.mozilla.org/security/announce/2009/mfsa2009-43.html|Patch,Vendor Advisory
+162|CVE-2009-2470|http://www.mozilla.org/security/announce/2009/mfsa2009-38.html|Patch,Vendor Advisory
+163|CVE-2009-2654|http://www.mozilla.org/security/announce/2009/mfsa2009-44.html|Patch,Vendor Advisory
+164|CVE-2009-2662,CVE-2009-2663,CVE-2009-2664|http://www.mozilla.org/security/announce/2009/mfsa2009-45.html|Patch,Vendor Advisory
+165|CVE-2009-2665|http://www.mozilla.org/security/announce/2009/mfsa2009-46.html|Patch,Vendor Advisory
+166|CVE-2009-3070,CVE-2009-3073,CVE-2009-3069,CVE-2009-3071,CVE-2009-3075,CVE-2009-3072,CVE-2009-3074|http://www.mozilla.org/security/announce/2009/mfsa2009-47.html|Vendor Advisory
+167|CVE-2009-3076|http://www.mozilla.org/security/announce/2009/mfsa2009-48.html|Vendor Advisory
+168|CVE-2009-3077|http://www.mozilla.org/security/announce/2009/mfsa2009-49.html|Vendor Advisory
+169|CVE-2009-3078|http://www.mozilla.org/security/announce/2009/mfsa2009-50.html|Vendor Advisory
+170|CVE-2009-3079|http://www.mozilla.org/security/announce/2009/mfsa2009-51.html|Vendor Advisory
+171|CVE-2009-3274|http://www.mozilla.org/security/announce/2009/mfsa2009-53.html|Vendor Advisory
+172|CVE-2009-3370|http://www.mozilla.org/security/announce/2009/mfsa2009-52.html|
+173|CVE-2009-3371|http://www.mozilla.org/security/announce/2009/mfsa2009-54.html|Exploit,Patch
+174|CVE-2009-3372|http://www.mozilla.org/security/announce/2009/mfsa2009-55.html|Patch,Vendor Advisory
+175|CVE-2009-3373|http://www.mozilla.org/security/announce/2009/mfsa2009-56.html|Patch,Vendor Advisory
+176|CVE-2009-3374|http://www.mozilla.org/security/announce/2009/mfsa2009-57.html|Patch,Vendor Advisory
+177|CVE-2009-3375|http://www.mozilla.org/security/announce/2009/mfsa2009-61.html|
+178|CVE-2009-3376|http://www.mozilla.org/security/announce/2009/mfsa2009-62.html|Patch,Vendor Advisory
+179|CVE-2009-3379,CVE-2009-3377,CVE-2009-3378|http://www.mozilla.org/security/announce/2009/mfsa2009-63.html|Patch,Vendor Advisory
+180|CVE-2009-3382,CVE-2009-3380,CVE-2009-3383,CVE-2009-3381|http://www.mozilla.org/security/announce/2009/mfsa2009-64.html|Patch,Vendor Advisory
+181|CVE-2009-3555|http://www.mozilla.org/security/announce/2010/mfsa2010-22.html|Third Party Advisory
+182|CVE-2009-3388|http://www.mozilla.org/security/announce/2009/mfsa2009-66.html|Vendor Advisory
+183|CVE-2009-3389|http://www.mozilla.org/security/announce/2009/mfsa2009-67.html|Patch,Vendor Advisory
+184|CVE-2009-3982,CVE-2009-3980,CVE-2009-3981,CVE-2009-3979|http://www.mozilla.org/security/announce/2009/mfsa2009-65.html|Patch,Vendor Advisory
+185|CVE-2009-3983|http://www.mozilla.org/security/announce/2009/mfsa2009-68.html|Patch,Vendor Advisory
+186|CVE-2009-3985,CVE-2009-3984|http://www.mozilla.org/security/announce/2009/mfsa2009-69.html|Patch,Vendor Advisory
+187|CVE-2009-3986|http://www.mozilla.org/security/announce/2009/mfsa2009-70.html|Vendor Advisory
+188|CVE-2009-3987|http://www.mozilla.org/security/announce/2009/mfsa2009-71.html|Vendor Advisory
+189|CVE-2018-12400,CVE-2018-12388,CVE-2018-12395,CVE-2018-12397,CVE-2018-12403,CVE-2018-12398,CVE-2018-12402,CVE-2018-12392,CVE-2018-12401,CVE-2018-12391,CVE-2018-12393,CVE-2018-12396,CVE-2018-12399,CVE-2018-12390|https://www.mozilla.org/security/advisories/mfsa2018-26/|Patch,Vendor Advisory
+190|CVE-2018-12389,CVE-2018-12395,CVE-2018-12397,CVE-2018-12392,CVE-2018-12391,CVE-2018-12393,CVE-2018-12396,CVE-2018-12390|https://www.mozilla.org/security/advisories/mfsa2018-27/|Patch,Vendor Advisory
+191|CVE-2018-12389,CVE-2018-12392,CVE-2018-12391,CVE-2018-12393,CVE-2018-12390|https://www.mozilla.org/security/advisories/mfsa2018-28/|Patch,Vendor Advisory
+192|CVE-2018-12405,CVE-2018-18498,CVE-2018-12406,CVE-2018-18510,CVE-2018-18495,CVE-2018-18496,CVE-2018-18493,CVE-2018-18492,CVE-2018-12407,CVE-2018-18497,CVE-2018-18494|https://www.mozilla.org/security/advisories/mfsa2018-29/|Exploit,Vendor Advisory
+193|CVE-2018-12405,CVE-2018-18498,CVE-2018-18493,CVE-2018-18492,CVE-2018-18494|https://www.mozilla.org/security/advisories/mfsa2018-30/|Vendor Advisory
+194|CVE-2018-12405,CVE-2018-18498,CVE-2018-18493,CVE-2018-18492,CVE-2018-18494|https://www.mozilla.org/security/advisories/mfsa2018-31/|Vendor Advisory
+195|CVE-2018-12376,CVE-2018-12381,CVE-2018-12383,CVE-2018-18499,CVE-2018-12375,CVE-2018-12379,CVE-2018-12378,CVE-2018-12377,CVE-2018-12382|https://www.mozilla.org/security/advisories/mfsa2018-20/|Vendor Advisory
+196|CVE-2018-12376,CVE-2018-12381,CVE-2018-18499,CVE-2018-12379,CVE-2018-12378,CVE-2018-12377|https://www.mozilla.org/security/advisories/mfsa2018-21/|Vendor Advisory
+197|CVE-2018-12376,CVE-2018-12383,CVE-2018-18499,CVE-2018-12379,CVE-2018-12378,CVE-2018-12377,CVE-2018-12385|https://www.mozilla.org/security/advisories/mfsa2018-25/|Vendor Advisory
+198|CVE-2017-7774,CVE-2017-7772,CVE-2017-7773,CVE-2017-7776,CVE-2017-7771,CVE-2017-7777|https://www.mozilla.org/en-US/security/advisories/mfsa2017-15/|Patch,Exploit,Vendor Advisory
+199|CVE-2018-5179|https://www.mozilla.org/en-US/security/advisories/mfsa2018-11/|Vendor Advisory
+200|CVE-2018-18509|https://www.mozilla.org/security/advisories/mfsa2019-06/|Vendor Advisory
+201|CVE-2018-18511|https://www.mozilla.org/security/advisories/mfsa2019-04/|Vendor Advisory
+202|CVE-2018-18505,CVE-2018-18500,CVE-2018-18513,CVE-2018-18512,CVE-2018-18501|https://www.mozilla.org/security/advisories/mfsa2019-03/|Vendor Advisory
+203|CVE-2018-5124|https://www.mozilla.org/en-US/security/advisories/mfsa2018-05/|Vendor Advisory
+204|CVE-2019-9789,CVE-2019-9805,CVE-2019-9795,CVE-2019-9794,CVE-2019-9803,CVE-2019-9791,CVE-2019-9807,CVE-2019-9804,CVE-2019-9788,CVE-2019-9790,CVE-2019-9797,CVE-2019-9798,CVE-2019-9809,CVE-2019-9793,CVE-2019-9796,CVE-2019-9799,CVE-2019-9802,CVE-2019-9808,CVE-2019-9792,CVE-2019-9801,CVE-2019-9806|https://www.mozilla.org/security/advisories/mfsa2019-07/|Vendor Advisory
+205|CVE-2019-9796,CVE-2019-9791,CVE-2019-9788,CVE-2019-9790,CVE-2019-9795,CVE-2019-9794,CVE-2019-9792,CVE-2019-9801,CVE-2019-9793|https://www.mozilla.org/security/advisories/mfsa2019-08/|Vendor Advisory
+206|CVE-2019-9796,CVE-2019-9791,CVE-2019-9788,CVE-2019-9790,CVE-2019-9795,CVE-2019-9794,CVE-2019-9792,CVE-2019-9801,CVE-2019-9793|https://www.mozilla.org/security/advisories/mfsa2019-11/|Vendor Advisory
+207|CVE-2019-9813,CVE-2019-9810|https://www.mozilla.org/security/advisories/mfsa2019-09/|Vendor Advisory
+208|CVE-2019-9813,CVE-2019-9810|https://www.mozilla.org/security/advisories/mfsa2019-10/|Vendor Advisory
+209|CVE-2019-9813,CVE-2019-9810|https://www.mozilla.org/security/advisories/mfsa2019-12/|Vendor Advisory
+210|CVE-2016-2805,CVE-2016-2807,CVE-2016-2806,CVE-2016-2804|http://www.mozilla.org/security/announce/2016/mfsa2016-39.html|Vendor Advisory
+211|CVE-2016-2808|http://www.mozilla.org/security/announce/2016/mfsa2016-47.html|Vendor Advisory
+212|CVE-2016-2809|http://www.mozilla.org/security/announce/2016/mfsa2016-40.html|Vendor Advisory
+213|CVE-2016-2810|http://www.mozilla.org/security/announce/2016/mfsa2016-41.html|Vendor Advisory
+214|CVE-2016-2811,CVE-2016-2812|http://www.mozilla.org/security/announce/2016/mfsa2016-42.html|Vendor Advisory
+215|CVE-2016-2813|http://www.mozilla.org/security/announce/2016/mfsa2016-43.html|Vendor Advisory
+216|CVE-2016-2814|http://www.mozilla.org/security/announce/2016/mfsa2016-44.html|Vendor Advisory
+217|CVE-2016-2816|http://www.mozilla.org/security/announce/2016/mfsa2016-45.html|Vendor Advisory
+218|CVE-2016-2817|http://www.mozilla.org/security/announce/2016/mfsa2016-46.html|Vendor Advisory
+219|CVE-2016-2820|http://www.mozilla.org/security/announce/2016/mfsa2016-48.html|Vendor Advisory
+220|CVE-2016-0718|http://www.mozilla.org/security/announce/2016/mfsa2016-68.html|Third Party Advisory
+221|CVE-2016-2815,CVE-2016-2818|http://www.mozilla.org/security/announce/2016/mfsa2016-49.html|Vendor Advisory
+222|CVE-2016-2819|http://www.mozilla.org/security/announce/2016/mfsa2016-50.html|Vendor Advisory
+223|CVE-2016-2821|http://www.mozilla.org/security/announce/2016/mfsa2016-51.html|Vendor Advisory
+224|CVE-2016-2822|http://www.mozilla.org/security/announce/2016/mfsa2016-52.html|Vendor Advisory
+225|CVE-2016-2824|http://www.mozilla.org/security/announce/2016/mfsa2016-53.html|Vendor Advisory
+226|CVE-2016-2825|http://www.mozilla.org/security/announce/2016/mfsa2016-54.html|Vendor Advisory
+227|CVE-2016-2826|http://www.mozilla.org/security/announce/2016/mfsa2016-55.html|Vendor Advisory
+228|CVE-2016-2828|http://www.mozilla.org/security/announce/2016/mfsa2016-56.html|Vendor Advisory
+229|CVE-2016-2829|http://www.mozilla.org/security/announce/2016/mfsa2016-57.html|Vendor Advisory
+230|CVE-2016-2831|http://www.mozilla.org/security/announce/2016/mfsa2016-58.html|Vendor Advisory
+231|CVE-2016-2832|http://www.mozilla.org/security/announce/2016/mfsa2016-59.html|Vendor Advisory
+232|CVE-2016-2833|http://www.mozilla.org/security/announce/2016/mfsa2016-60.html|Vendor Advisory
+233|CVE-2016-2834|http://www.mozilla.org/security/announce/2016/mfsa2016-61.html|Vendor Advisory
+234|CVE-2016-2830|http://www.mozilla.org/security/announce/2016/mfsa2016-63.html|Vendor Advisory
+235|CVE-2016-2835,CVE-2016-2836|http://www.mozilla.org/security/announce/2016/mfsa2016-62.html|Vendor Advisory
+236|CVE-2016-2837|http://www.mozilla.org/security/announce/2016/mfsa2016-77.html|Vendor Advisory
+237|CVE-2016-2838|http://www.mozilla.org/security/announce/2016/mfsa2016-64.html|Vendor Advisory
+238|CVE-2016-2839|http://www.mozilla.org/security/announce/2016/mfsa2016-65.html|Vendor Advisory
+239|CVE-2016-5250|http://www.mozilla.org/security/announce/2016/mfsa2016-84.html|Vendor Advisory
+240|CVE-2016-5274,CVE-2016-5277,CVE-2016-5284,CVE-2016-5276,CVE-2016-5270,CVE-2016-5281,CVE-2016-5261,CVE-2016-5272,CVE-2016-5250,CVE-2016-5280,CVE-2016-5278,CVE-2016-5257|https://www.mozilla.org/security/advisories/mfsa2016-86/|
+241|CVE-2016-5274,CVE-2016-5277,CVE-2016-5284,CVE-2016-5276,CVE-2016-5270,CVE-2016-5281,CVE-2016-5272,CVE-2016-5250,CVE-2016-5280,CVE-2016-5278,CVE-2016-5257|https://www.mozilla.org/security/advisories/mfsa2016-88/|
+242|CVE-2016-5251|http://www.mozilla.org/security/announce/2016/mfsa2016-66.html|Vendor Advisory
+243|CVE-2016-5252|http://www.mozilla.org/security/announce/2016/mfsa2016-67.html|Vendor Advisory
+244|CVE-2016-5253|http://www.mozilla.org/security/announce/2016/mfsa2016-69.html|Vendor Advisory
+245|CVE-2016-5254|http://www.mozilla.org/security/announce/2016/mfsa2016-70.html|Vendor Advisory
+246|CVE-2016-5255|http://www.mozilla.org/security/announce/2016/mfsa2016-71.html|Vendor Advisory
+247|CVE-2016-5258|http://www.mozilla.org/security/announce/2016/mfsa2016-72.html|Vendor Advisory
+248|CVE-2016-5259|http://www.mozilla.org/security/announce/2016/mfsa2016-73.html|Vendor Advisory
+249|CVE-2016-5260|http://www.mozilla.org/security/announce/2016/mfsa2016-74.html|Vendor Advisory
+250|CVE-2016-5261|http://www.mozilla.org/security/announce/2016/mfsa2016-75.html|Vendor Advisory
+251|CVE-2016-5262|http://www.mozilla.org/security/announce/2016/mfsa2016-76.html|Vendor Advisory
+252|CVE-2016-5263|http://www.mozilla.org/security/announce/2016/mfsa2016-78.html|Vendor Advisory
+253|CVE-2016-5264|http://www.mozilla.org/security/announce/2016/mfsa2016-79.html|Vendor Advisory
+254|CVE-2016-5265|http://www.mozilla.org/security/announce/2016/mfsa2016-80.html|Vendor Advisory
+255|CVE-2016-5266|http://www.mozilla.org/security/announce/2016/mfsa2016-81.html|Vendor Advisory
+256|CVE-2016-5267|http://www.mozilla.org/security/announce/2016/mfsa2016-82.html|Vendor Advisory
+257|CVE-2016-5268|http://www.mozilla.org/security/announce/2016/mfsa2016-83.html|Vendor Advisory
+258|CVE-2016-2827|https://www.mozilla.org/security/advisories/mfsa2016-85/|
+259|CVE-2016-5273,CVE-2016-5274,CVE-2016-5277,CVE-2016-5275,CVE-2016-5276,CVE-2016-5284,CVE-2016-5270,CVE-2016-5279,CVE-2016-5280,CVE-2016-5272,CVE-2016-5281,CVE-2016-5282,CVE-2016-5271,CVE-2016-5283,CVE-2016-5256,CVE-2016-5278,CVE-2016-5257|http://www.mozilla.org/security/announce/2016/mfsa2016-85.html|Vendor Advisory,Release Notes
+260|CVE-2014-8635,CVE-2014-8634|http://www.mozilla.org/security/announce/2014/mfsa2015-01.html|Vendor Advisory
+261|CVE-2014-8636|http://www.mozilla.org/security/announce/2014/mfsa2015-09.html|Vendor Advisory
+262|CVE-2014-8637|http://www.mozilla.org/security/announce/2014/mfsa2015-02.html|Vendor Advisory
+263|CVE-2014-8638|http://www.mozilla.org/security/announce/2014/mfsa2015-03.html|Vendor Advisory
+264|CVE-2014-8639|http://www.mozilla.org/security/announce/2014/mfsa2015-04.html|Vendor Advisory
+265|CVE-2014-8640|http://www.mozilla.org/security/announce/2014/mfsa2015-05.html|Vendor Advisory
+266|CVE-2014-8641|http://www.mozilla.org/security/announce/2014/mfsa2015-06.html|Vendor Advisory
+267|CVE-2014-8642|http://www.mozilla.org/security/announce/2014/mfsa2015-08.html|Vendor Advisory
+268|CVE-2014-8643|http://www.mozilla.org/security/announce/2014/mfsa2015-07.html|Vendor Advisory
+269|CVE-2010-1028|http://www.mozilla.org/security/announce/2010/mfsa2010-08.html|Vendor Advisory
+270|CVE-2010-1121|http://www.mozilla.org/security/announce/2010/mfsa2010-25.html|Vendor Advisory
+271|CVE-2010-1125|http://www.mozilla.org/security/announce/2010/mfsa2010-31.html|Vendor Advisory
+272|CVE-2010-0173,CVE-2010-0174|http://www.mozilla.org/security/announce/2010/mfsa2010-16.html|Vendor Advisory
+273|CVE-2010-0175|http://www.mozilla.org/security/announce/2010/mfsa2010-17.html|Vendor Advisory
+274|CVE-2010-0176|http://www.mozilla.org/security/announce/2010/mfsa2010-18.html|
+275|CVE-2010-0177|http://www.mozilla.org/security/announce/2010/mfsa2010-19.html|Vendor Advisory
+276|CVE-2010-0178|http://www.mozilla.org/security/announce/2010/mfsa2010-20.html|
+277|CVE-2010-0179|http://www.mozilla.org/security/announce/2010/mfsa2010-21.html|Vendor Advisory
+278|CVE-2010-0181|http://www.mozilla.org/security/announce/2010/mfsa2010-23.html|
+279|CVE-2010-0182|http://www.mozilla.org/security/announce/2010/mfsa2010-24.html|
+280|CVE-2010-1585|http://www.mozilla.org/security/announce/2011/mfsa2011-08.html|
+281|CVE-2010-0183|http://www.mozilla.org/security/announce/2010/mfsa2010-27.html|Vendor Advisory
+282|CVE-2010-1196|http://www.mozilla.org/security/announce/2010/mfsa2010-29.html|Vendor Advisory
+283|CVE-2010-1197|http://www.mozilla.org/security/announce/2010/mfsa2010-32.html|Vendor Advisory
+284|CVE-2010-1198|http://www.mozilla.org/security/announce/2010/mfsa2010-28.html|Vendor Advisory
+285|CVE-2010-1199|http://www.mozilla.org/security/announce/2010/mfsa2010-30.html|Vendor Advisory
+286|CVE-2010-1200,CVE-2010-1203,CVE-2010-1201,CVE-2010-1202|http://www.mozilla.org/security/announce/2010/mfsa2010-26.html|Vendor Advisory
+287|CVE-2010-1205|http://www.mozilla.org/security/announce/2010/mfsa2010-41.html|Third Party Advisory
+288|CVE-2010-1206,CVE-2010-2751|http://www.mozilla.org/security/announce/2010/mfsa2010-45.html|Vendor Advisory
+289|CVE-2010-1207|http://www.mozilla.org/security/announce/2010/mfsa2010-43.html|Vendor Advisory
+290|CVE-2010-1208|http://www.mozilla.org/security/announce/2010/mfsa2010-35.html|Vendor Advisory
+291|CVE-2010-1209|http://www.mozilla.org/security/announce/2010/mfsa2010-36.html|Vendor Advisory
+292|CVE-2010-1210|http://www.mozilla.org/security/announce/2010/mfsa2010-44.html|Vendor Advisory
+293|CVE-2010-1211,CVE-2010-1212|http://www.mozilla.org/security/announce/2010/mfsa2010-34.html|Vendor Advisory
+294|CVE-2010-1213|http://www.mozilla.org/security/announce/2010/mfsa2010-42.html|Vendor Advisory
+295|CVE-2010-1214|http://www.mozilla.org/security/announce/2010/mfsa2010-37.html|Vendor Advisory
+296|CVE-2010-1215|http://www.mozilla.org/security/announce/2010/mfsa2010-38.html|Vendor Advisory
+297|CVE-2010-2752|http://www.mozilla.org/security/announce/2010/mfsa2010-39.html|Vendor Advisory
+298|CVE-2010-2753|http://www.mozilla.org/security/announce/2010/mfsa2010-40.html|Vendor Advisory
+299|CVE-2010-2754|http://www.mozilla.org/security/announce/2010/mfsa2010-47.html|Vendor Advisory
+300|CVE-2010-2755|http://www.mozilla.org/security/announce/2010/mfsa2010-48.html|
+301|CVE-2010-3131|http://www.mozilla.org/security/announce/2010/mfsa2010-52.html|
+302|CVE-2010-2760|http://www.mozilla.org/security/announce/2010/mfsa2010-54.html|Vendor Advisory
+303|CVE-2010-2762|http://www.mozilla.org/security/announce/2010/mfsa2010-59.html|Vendor Advisory
+304|CVE-2010-2763|http://www.mozilla.org/security/announce/2010/mfsa2010-60.html|Vendor Advisory
+305|CVE-2010-2764|http://www.mozilla.org/security/announce/2010/mfsa2010-63.html|Vendor Advisory
+306|CVE-2010-2765|http://www.mozilla.org/security/announce/2010/mfsa2010-50.html|Vendor Advisory
+307|CVE-2010-2766|http://www.mozilla.org/security/announce/2010/mfsa2010-57.html|Vendor Advisory
+308|CVE-2010-2767|http://www.mozilla.org/security/announce/2010/mfsa2010-51.html|Vendor Advisory
+309|CVE-2010-2768|http://www.mozilla.org/security/announce/2010/mfsa2010-61.html|Vendor Advisory
+310|CVE-2010-2769|http://www.mozilla.org/security/announce/2010/mfsa2010-62.html|Vendor Advisory
+311|CVE-2010-2770|http://www.mozilla.org/security/announce/2010/mfsa2010-58.html|Vendor Advisory
+312|CVE-2010-3166|http://www.mozilla.org/security/announce/2010/mfsa2010-53.html|Vendor Advisory
+313|CVE-2010-3167|http://www.mozilla.org/security/announce/2010/mfsa2010-56.html|Vendor Advisory
+314|CVE-2010-3168|http://www.mozilla.org/security/announce/2010/mfsa2010-55.html|Vendor Advisory
+315|CVE-2010-3169|http://www.mozilla.org/security/announce/2010/mfsa2010-49.html|Vendor Advisory
+316|CVE-2010-3170|http://www.mozilla.org/security/announce/2010/mfsa2010-70.html|Vendor Advisory
+317|CVE-2010-3173|http://www.mozilla.org/security/announce/2010/mfsa2010-72.html|Vendor Advisory
+318|CVE-2010-3174,CVE-2010-3176,CVE-2010-3175|http://www.mozilla.org/security/announce/2010/mfsa2010-64.html|Vendor Advisory
+319|CVE-2010-3177|http://www.mozilla.org/security/announce/2010/mfsa2010-68.html|
+320|CVE-2010-3178|http://www.mozilla.org/security/announce/2010/mfsa2010-69.html|Vendor Advisory
+321|CVE-2010-3179|http://www.mozilla.org/security/announce/2010/mfsa2010-65.html|Vendor Advisory
+322|CVE-2010-3180|http://www.mozilla.org/security/announce/2010/mfsa2010-66.html|Vendor Advisory
+323|CVE-2010-3181,CVE-2010-3182|http://www.mozilla.org/security/announce/2010/mfsa2010-71.html|Vendor Advisory
+324|CVE-2010-3183|http://www.mozilla.org/security/announce/2010/mfsa2010-67.html|Vendor Advisory
+325|CVE-2010-3765|http://www.mozilla.org/security/announce/2010/mfsa2010-73.html|
+326|CVE-2010-3766|http://www.mozilla.org/security/announce/2010/mfsa2010-80.html|Vendor Advisory
+327|CVE-2010-3767|http://www.mozilla.org/security/announce/2010/mfsa2010-81.html|Vendor Advisory
+328|CVE-2010-3768|http://www.mozilla.org/security/announce/2010/mfsa2010-78.html|Vendor Advisory
+329|CVE-2010-3769|http://www.mozilla.org/security/announce/2010/mfsa2010-75.html|Vendor Advisory
+330|CVE-2010-3770|http://www.mozilla.org/security/announce/2010/mfsa2010-84.html|Patch,Vendor Advisory
+331|CVE-2010-3771|http://www.mozilla.org/security/announce/2010/mfsa2010-76.html|Vendor Advisory
+332|CVE-2010-3772|http://www.mozilla.org/security/announce/2010/mfsa2010-77.html|Vendor Advisory
+333|CVE-2010-3773|http://www.mozilla.org/security/announce/2010/mfsa2010-82.html|Vendor Advisory
+334|CVE-2010-3774|http://www.mozilla.org/security/announce/2010/mfsa2010-83.html|Patch,Vendor Advisory
+335|CVE-2010-3775|http://www.mozilla.org/security/announce/2010/mfsa2010-79.html|Vendor Advisory
+336|CVE-2010-3778,CVE-2010-3776,CVE-2010-3777|http://www.mozilla.org/security/announce/2010/mfsa2010-74.html|Vendor Advisory
+337|CVE-2008-5913|http://www.mozilla.org/security/announce/2010/mfsa2010-33.html|
+338|CVE-2009-0352,CVE-2009-0353|http://www.mozilla.org/security/announce/2009/mfsa2009-01.html|Vendor Advisory
+339|CVE-2009-0354|http://www.mozilla.org/security/announce/2009/mfsa2009-02.html|Vendor Advisory
+340|CVE-2009-0355|http://www.mozilla.org/security/announce/2009/mfsa2009-03.html|Vendor Advisory
+341|CVE-2009-0356|http://www.mozilla.org/security/announce/2009/mfsa2009-04.html|Vendor Advisory
+342|CVE-2009-0357|http://www.mozilla.org/security/announce/2009/mfsa2009-05.html|Vendor Advisory
+343|CVE-2009-0358|http://www.mozilla.org/security/announce/2009/mfsa2009-06.html|Vendor Advisory
+344|CVE-2009-0652|http://www.mozilla.org/security/announce/2009/mfsa2009-15.html|
+345|CVE-2012-0442,CVE-2012-0443|http://www.mozilla.org/security/announce/2012/mfsa2012-01.html|Vendor Advisory
+346|CVE-2012-0444|http://www.mozilla.org/security/announce/2012/mfsa2012-07.html|Vendor Advisory
+347|CVE-2012-0445|http://www.mozilla.org/security/announce/2012/mfsa2012-03.html|Vendor Advisory
+348|CVE-2012-0446|http://www.mozilla.org/security/announce/2012/mfsa2012-05.html|Vendor Advisory
+349|CVE-2012-0447|http://www.mozilla.org/security/announce/2012/mfsa2012-06.html|Vendor Advisory
+350|CVE-2012-0449|http://www.mozilla.org/security/announce/2012/mfsa2012-08.html|Vendor Advisory
+351|CVE-2012-0450|http://www.mozilla.org/security/announce/2012/mfsa2012-09.html|Vendor Advisory
+352|CVE-2012-0452|http://www.mozilla.org/security/announce/2012/mfsa2012-10.html|
+353|CVE-2011-3062|http://www.mozilla.org/security/announce/2012/mfsa2012-31.html|Third Party Advisory
+354|CVE-2012-0451|http://www.mozilla.org/security/announce/2012/mfsa2012-15.html|
+355|CVE-2012-0454|http://www.mozilla.org/security/announce/2012/mfsa2012-12.html|
+356|CVE-2012-0455|http://www.mozilla.org/security/announce/2012/mfsa2012-13.html|Vendor Advisory
+357|CVE-2012-0457,CVE-2012-0456|http://www.mozilla.org/security/announce/2012/mfsa2012-14.html|Vendor Advisory,Third Party Advisory
+358|CVE-2012-0458|http://www.mozilla.org/security/announce/2012/mfsa2012-16.html|Vendor Advisory
+359|CVE-2012-0459|http://www.mozilla.org/security/announce/2012/mfsa2012-17.html|Vendor Advisory
+360|CVE-2012-0460|http://www.mozilla.org/security/announce/2012/mfsa2012-18.html|Vendor Advisory
+361|CVE-2012-0463,CVE-2012-0461,CVE-2012-0462,CVE-2012-0464|http://www.mozilla.org/security/announce/2012/mfsa2012-19.html|Vendor Advisory
+362|CVE-2012-0467,CVE-2012-0468|http://www.mozilla.org/security/announce/2012/mfsa2012-20.html|Vendor Advisory
+363|CVE-2012-0469|http://www.mozilla.org/security/announce/2012/mfsa2012-22.html|Vendor Advisory
+364|CVE-2012-0470|http://www.mozilla.org/security/announce/2012/mfsa2012-23.html|Vendor Advisory
+365|CVE-2012-0471|http://www.mozilla.org/security/announce/2012/mfsa2012-24.html|Vendor Advisory
+366|CVE-2012-0472|http://www.mozilla.org/security/announce/2012/mfsa2012-25.html|Vendor Advisory
+367|CVE-2012-0473|http://www.mozilla.org/security/announce/2012/mfsa2012-26.html|Vendor Advisory
+368|CVE-2012-0474|http://www.mozilla.org/security/announce/2012/mfsa2012-27.html|Vendor Advisory
+369|CVE-2012-0475|http://www.mozilla.org/security/announce/2012/mfsa2012-28.html|Vendor Advisory
+370|CVE-2012-0477|http://www.mozilla.org/security/announce/2012/mfsa2012-29.html|Vendor Advisory
+371|CVE-2012-0478|http://www.mozilla.org/security/announce/2012/mfsa2012-30.html|Vendor Advisory
+372|CVE-2012-0479|http://www.mozilla.org/security/announce/2012/mfsa2012-33.html|
+373|CVE-2012-1128,CVE-2012-1129,CVE-2012-1134,CVE-2012-1133,CVE-2012-1135,CVE-2012-1136,CVE-2012-1141,CVE-2012-1142,CVE-2012-1143,CVE-2012-1132,CVE-2012-1137,CVE-2012-1139,CVE-2012-1144,CVE-2012-1130,CVE-2012-1126,CVE-2012-1127,CVE-2012-1140,CVE-2012-1131,CVE-2012-1138|http://www.mozilla.org/security/announce/2012/mfsa2012-21.html|Vendor Advisory
+374|CVE-2011-3079|http://www.mozilla.org/security/announce/2015/mfsa2015-57.html|
+375|CVE-2015-2708,CVE-2015-2709,CVE-2015-2710,CVE-2011-3079,CVE-2015-2713,CVE-2015-0797,CVE-2015-2716|https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird31.7|Vendor Advisory
+376|CVE-2011-3671|http://www.mozilla.org/security/announce/2012/mfsa2012-41.html|Vendor Advisory
+377|CVE-2012-0441|http://www.mozilla.org/security/announce/2012/mfsa2012-39.html|Vendor Advisory
+378|CVE-2012-1939,CVE-2012-1938,CVE-2012-3105,CVE-2012-1937|http://www.mozilla.org/security/announce/2012/mfsa2012-34.html|Vendor Advisory
+379|CVE-2012-1947,CVE-2012-1941,CVE-2012-1940|http://www.mozilla.org/security/announce/2012/mfsa2012-40.html|Vendor Advisory
+380|CVE-2012-1943,CVE-2012-1942|http://www.mozilla.org/security/announce/2012/mfsa2012-35.html|Vendor Advisory
+381|CVE-2013-1673,CVE-2012-1942|http://www.mozilla.org/security/announce/2013/mfsa2013-45.html|Vendor Advisory
+382|CVE-2012-1944|http://www.mozilla.org/security/announce/2012/mfsa2012-36.html|Vendor Advisory
+383|CVE-2012-1945|http://www.mozilla.org/security/announce/2012/mfsa2012-37.html|Vendor Advisory
+384|CVE-2012-1946|http://www.mozilla.org/security/announce/2012/mfsa2012-38.html|Vendor Advisory
+385|CVE-2012-1949,CVE-2012-1948|http://www.mozilla.org/security/announce/2012/mfsa2012-42.html|Vendor Advisory
+386|CVE-2012-1950|http://www.mozilla.org/security/announce/2012/mfsa2012-43.html|Vendor Advisory
+387|CVE-2012-1953,CVE-2012-1954,CVE-2012-1951,CVE-2012-1952|http://www.mozilla.org/security/announce/2012/mfsa2012-44.html|Vendor Advisory
+388|CVE-2012-1955|http://www.mozilla.org/security/announce/2012/mfsa2012-45.html|Vendor Advisory
+389|CVE-2012-1957|http://www.mozilla.org/security/announce/2012/mfsa2012-47.html|Vendor Advisory
+390|CVE-2012-1958|http://www.mozilla.org/security/announce/2012/mfsa2012-48.html|Vendor Advisory
+391|CVE-2012-1959|http://www.mozilla.org/security/announce/2012/mfsa2012-49.html|Vendor Advisory
+392|CVE-2012-1960|http://www.mozilla.org/security/announce/2012/mfsa2012-50.html|Vendor Advisory
+393|CVE-2012-1961|http://www.mozilla.org/security/announce/2012/mfsa2012-51.html|Vendor Advisory
+394|CVE-2012-1962|http://www.mozilla.org/security/announce/2012/mfsa2012-52.html|Vendor Advisory
+395|CVE-2012-1963|http://www.mozilla.org/security/announce/2012/mfsa2012-53.html|Vendor Advisory
+396|CVE-2012-1964|http://www.mozilla.org/security/announce/2012/mfsa2012-54.html|Vendor Advisory
+397|CVE-2012-1965|http://www.mozilla.org/security/announce/2012/mfsa2012-55.html|Vendor Advisory
+398|CVE-2012-1966|http://www.mozilla.org/security/announce/2012/mfsa2012-46.html|Vendor Advisory
+399|CVE-2012-1967|http://www.mozilla.org/security/announce/2012/mfsa2012-56.html|Vendor Advisory
+400|CVE-2012-1956|http://www.mozilla.org/security/announce/2012/mfsa2012-59.html|Vendor Advisory
+401|CVE-2012-1971,CVE-2012-1970|http://www.mozilla.org/security/announce/2012/mfsa2012-57.html|Vendor Advisory
+402|CVE-2012-3957,CVE-2012-3961,CVE-2012-3958,CVE-2012-3963,CVE-2012-1973,CVE-2012-1975,CVE-2012-1976,CVE-2012-1974,CVE-2012-3959,CVE-2012-3962,CVE-2012-3964,CVE-2012-1972,CVE-2012-3956,CVE-2012-3960|http://www.mozilla.org/security/announce/2012/mfsa2012-58.html|Vendor Advisory
+403|CVE-2012-3965|http://www.mozilla.org/security/announce/2012/mfsa2012-60.html|
+404|CVE-2012-3966|http://www.mozilla.org/security/announce/2012/mfsa2012-61.html|Vendor Advisory
+405|CVE-2012-3967,CVE-2012-3968|http://www.mozilla.org/security/announce/2012/mfsa2012-62.html|Vendor Advisory
+406|CVE-2012-3969,CVE-2012-3970|http://www.mozilla.org/security/announce/2012/mfsa2012-63.html|Vendor Advisory
+407|CVE-2012-3971|http://www.mozilla.org/security/announce/2012/mfsa2012-64.html|Vendor Advisory
+408|CVE-2012-3972|http://www.mozilla.org/security/announce/2012/mfsa2012-65.html|Vendor Advisory
+409|CVE-2012-3973|http://www.mozilla.org/security/announce/2012/mfsa2012-66.html|Vendor Advisory
+410|CVE-2012-3974|http://www.mozilla.org/security/announce/2012/mfsa2012-67.html|Vendor Advisory
+411|CVE-2012-3975|http://www.mozilla.org/security/announce/2012/mfsa2012-68.html|Vendor Advisory
+412|CVE-2012-3976|http://www.mozilla.org/security/announce/2012/mfsa2012-69.html|Vendor Advisory
+413|CVE-2012-3978|http://www.mozilla.org/security/announce/2012/mfsa2012-70.html|Vendor Advisory
+414|CVE-2012-3979|http://www.mozilla.org/security/announce/2012/mfsa2012-71.html|Vendor Advisory
+415|CVE-2012-3980|http://www.mozilla.org/security/announce/2012/mfsa2012-72.html|Vendor Advisory
+416|CVE-2012-3982,CVE-2012-3983|http://www.mozilla.org/security/announce/2012/mfsa2012-74.html|Vendor Advisory
+417|CVE-2012-3984,CVE-2012-5354|http://www.mozilla.org/security/announce/2012/mfsa2012-75.html|Vendor Advisory
+418|CVE-2012-3985|http://www.mozilla.org/security/announce/2012/mfsa2012-76.html|Vendor Advisory
+419|CVE-2012-3986|http://www.mozilla.org/security/announce/2012/mfsa2012-77.html|Vendor Advisory
+420|CVE-2012-3987|http://www.mozilla.org/security/announce/2012/mfsa2012-78.html|Vendor Advisory
+421|CVE-2012-3988|http://www.mozilla.org/security/announce/2012/mfsa2012-79.html|Vendor Advisory
+422|CVE-2012-3989|http://www.mozilla.org/security/announce/2012/mfsa2012-80.html|Vendor Advisory
+423|CVE-2012-3990|http://www.mozilla.org/security/announce/2012/mfsa2012-87.html|Vendor Advisory
+424|CVE-2012-3991|http://www.mozilla.org/security/announce/2012/mfsa2012-81.html|Vendor Advisory
+425|CVE-2012-3992|http://www.mozilla.org/security/announce/2012/mfsa2012-84.html|Vendor Advisory
+426|CVE-2012-3993,CVE-2012-4184|http://www.mozilla.org/security/announce/2012/mfsa2012-83.html|Vendor Advisory
+427|CVE-2012-3994|http://www.mozilla.org/security/announce/2012/mfsa2012-82.html|Vendor Advisory
+428|CVE-2012-4179,CVE-2012-4182,CVE-2012-4183,CVE-2012-3995,CVE-2012-4180,CVE-2012-4181|http://www.mozilla.org/security/announce/2012/mfsa2012-85.html|Vendor Advisory,Third Party Advisory
+429|CVE-2012-4188,CVE-2012-4185,CVE-2012-4187,CVE-2012-4186|http://www.mozilla.org/security/announce/2012/mfsa2012-86.html|Vendor Advisory
+430|CVE-2012-4190,CVE-2012-4191|http://www.mozilla.org/security/announce/2012/mfsa2012-88.html|Vendor Advisory
+431|CVE-2012-4193,CVE-2012-4192|http://www.mozilla.org/security/announce/2012/mfsa2012-89.html|Vendor Advisory
+432|CVE-2012-4196,CVE-2012-4195,CVE-2012-4194|http://www.mozilla.org/security/announce/2012/mfsa2012-90.html|Vendor Advisory
+433|CVE-2012-4201|http://www.mozilla.org/security/announce/2012/mfsa2012-93.html|Vendor Advisory
+434|CVE-2012-4202|http://www.mozilla.org/security/announce/2012/mfsa2012-92.html|Vendor Advisory
+435|CVE-2012-4203|http://www.mozilla.org/security/announce/2012/mfsa2012-95.html|Vendor Advisory
+436|CVE-2012-4204|http://www.mozilla.org/security/announce/2012/mfsa2012-96.html|Vendor Advisory
+437|CVE-2012-4205|http://www.mozilla.org/security/announce/2012/mfsa2012-97.html|Vendor Advisory
+438|CVE-2012-4206|http://www.mozilla.org/security/announce/2012/mfsa2012-98.html|Vendor Advisory
+439|CVE-2012-4207|http://www.mozilla.org/security/announce/2012/mfsa2012-101.html|Vendor Advisory
+440|CVE-2012-4208|http://www.mozilla.org/security/announce/2012/mfsa2012-99.html|Vendor Advisory
+441|CVE-2012-4209|http://www.mozilla.org/security/announce/2012/mfsa2012-103.html|Vendor Advisory
+442|CVE-2012-4210|http://www.mozilla.org/security/announce/2012/mfsa2012-104.html|Vendor Advisory
+443|CVE-2012-4216,CVE-2012-4218,CVE-2012-4214,CVE-2012-5839,CVE-2012-4212,CVE-2012-4217,CVE-2012-4215,CVE-2012-4213,CVE-2012-5840|http://www.mozilla.org/security/announce/2012/mfsa2012-105.html|Vendor Advisory
+444|CVE-2012-5835,CVE-2012-5830,CVE-2012-5833,CVE-2012-5838|http://www.mozilla.org/security/announce/2012/mfsa2012-106.html|Vendor Advisory
+445|CVE-2012-5836|http://www.mozilla.org/security/announce/2012/mfsa2012-94.html|Vendor Advisory
+446|CVE-2012-5837|http://www.mozilla.org/security/announce/2012/mfsa2012-102.html|Vendor Advisory
+447|CVE-2012-5841|http://www.mozilla.org/security/announce/2012/mfsa2012-100.html|Vendor Advisory
+448|CVE-2012-5843,CVE-2012-5842|http://www.mozilla.org/security/announce/2012/mfsa2012-91.html|Vendor Advisory
+449|CVE-2015-4514,CVE-2015-4513|http://www.mozilla.org/security/announce/2015/mfsa2015-116.html|Vendor Advisory
+450|CVE-2015-4515|http://www.mozilla.org/security/announce/2015/mfsa2015-117.html|Vendor Advisory
+451|CVE-2015-4518|http://www.mozilla.org/security/announce/2015/mfsa2015-118.html|Vendor Advisory
+452|CVE-2015-7183,CVE-2015-7181,CVE-2015-7182|http://www.mozilla.org/security/announce/2015/mfsa2015-133.html|Vendor Advisory
+453|CVE-2015-7185|http://www.mozilla.org/security/announce/2015/mfsa2015-119.html|Vendor Advisory
+454|CVE-2015-7186|http://www.mozilla.org/security/announce/2015/mfsa2015-120.html|Vendor Advisory
+455|CVE-2015-7187|http://www.mozilla.org/security/announce/2015/mfsa2015-121.html|Vendor Advisory
+456|CVE-2015-7188|http://www.mozilla.org/security/announce/2015/mfsa2015-122.html|Vendor Advisory
+457|CVE-2015-7189|http://www.mozilla.org/security/announce/2015/mfsa2015-123.html|Vendor Advisory
+458|CVE-2015-7190|http://www.mozilla.org/security/announce/2015/mfsa2015-124.html|Vendor Advisory
+459|CVE-2015-7191|http://www.mozilla.org/security/announce/2015/mfsa2015-125.html|Vendor Advisory
+460|CVE-2015-7192|http://www.mozilla.org/security/announce/2015/mfsa2015-126.html|Vendor Advisory
+461|CVE-2015-7193|http://www.mozilla.org/security/announce/2015/mfsa2015-127.html|Vendor Advisory
+462|CVE-2015-7194|http://www.mozilla.org/security/announce/2015/mfsa2015-128.html|Vendor Advisory
+463|CVE-2015-7195|http://www.mozilla.org/security/announce/2015/mfsa2015-129.html|Vendor Advisory
+464|CVE-2015-7196|http://www.mozilla.org/security/announce/2015/mfsa2015-130.html|Vendor Advisory
+465|CVE-2015-7197|http://www.mozilla.org/security/announce/2015/mfsa2015-132.html|Vendor Advisory
+466|CVE-2015-7199,CVE-2015-7200,CVE-2015-7198|http://www.mozilla.org/security/announce/2015/mfsa2015-131.html|Vendor Advisory
+467|CVE-2015-7201,CVE-2015-7202|http://www.mozilla.org/security/announce/2015/mfsa2015-134.html|Vendor Advisory
+468|CVE-2015-7220,CVE-2015-7203,CVE-2015-7221|http://www.mozilla.org/security/announce/2015/mfsa2015-144.html|Vendor Advisory
+469|CVE-2015-7204|http://www.mozilla.org/security/announce/2015/mfsa2015-135.html|Vendor Advisory
+470|CVE-2015-7205|http://www.mozilla.org/security/announce/2015/mfsa2015-145.html|Vendor Advisory
+471|CVE-2015-7207|http://www.mozilla.org/security/announce/2015/mfsa2015-136.html|Vendor Advisory
+472|CVE-2015-7208|http://www.mozilla.org/security/announce/2015/mfsa2015-137.html|Vendor Advisory
+473|CVE-2016-1939,CVE-2015-7208|http://www.mozilla.org/security/announce/2016/mfsa2016-04.html|Vendor Advisory
+474|CVE-2015-7210|http://www.mozilla.org/security/announce/2015/mfsa2015-138.html|Vendor Advisory
+475|CVE-2015-7211|http://www.mozilla.org/security/announce/2015/mfsa2015-141.html|Vendor Advisory
+476|CVE-2015-7212|http://www.mozilla.org/security/announce/2015/mfsa2015-139.html|Vendor Advisory
+477|CVE-2015-7213|http://www.mozilla.org/security/announce/2015/mfsa2015-146.html|Vendor Advisory
+478|CVE-2015-7214|http://www.mozilla.org/security/announce/2015/mfsa2015-149.html|Vendor Advisory
+479|CVE-2015-7215|http://www.mozilla.org/security/announce/2015/mfsa2015-140.html|Vendor Advisory
+480|CVE-2015-7217,CVE-2015-7216|http://www.mozilla.org/security/announce/2015/mfsa2015-143.html|Vendor Advisory
+481|CVE-2015-7218,CVE-2015-7219|http://www.mozilla.org/security/announce/2015/mfsa2015-142.html|Vendor Advisory
+482|CVE-2015-7222|http://www.mozilla.org/security/announce/2015/mfsa2015-147.html|Vendor Advisory
+483|CVE-2015-7223|http://www.mozilla.org/security/announce/2015/mfsa2015-148.html|Vendor Advisory
+484|CVE-2014-1478,CVE-2014-1477|http://www.mozilla.org/security/announce/2014/mfsa2014-01.html|Vendor Advisory
+485|CVE-2014-1479|http://www.mozilla.org/security/announce/2014/mfsa2014-02.html|Vendor Advisory
+486|CVE-2014-1480|http://www.mozilla.org/security/announce/2014/mfsa2014-03.html|Vendor Advisory
+487|CVE-2014-1481|http://www.mozilla.org/security/announce/2014/mfsa2014-13.html|Vendor Advisory
+488|CVE-2014-1482|http://www.mozilla.org/security/announce/2014/mfsa2014-04.html|Vendor Advisory
+489|CVE-2014-1483|http://www.mozilla.org/security/announce/2014/mfsa2014-05.html|Vendor Advisory
+490|CVE-2014-1484|http://www.mozilla.org/security/announce/2014/mfsa2014-06.html|Vendor Advisory
+491|CVE-2014-1485|http://www.mozilla.org/security/announce/2014/mfsa2014-07.html|Vendor Advisory
+492|CVE-2014-1486|http://www.mozilla.org/security/announce/2014/mfsa2014-08.html|Vendor Advisory
+493|CVE-2014-1487|http://www.mozilla.org/security/announce/2014/mfsa2014-09.html|Vendor Advisory
+494|CVE-2014-1488|http://www.mozilla.org/security/announce/2014/mfsa2014-11.html|Vendor Advisory
+495|CVE-2014-1489|http://www.mozilla.org/security/announce/2014/mfsa2014-10.html|Vendor Advisory
+496|CVE-2014-1491,CVE-2014-1490|http://www.mozilla.org/security/announce/2014/mfsa2014-12.html|Vendor Advisory,Third Party Advisory
+497|CVE-2013-6674,CVE-2014-2018|http://www.mozilla.org/security/announce/2014/mfsa2014-14.html|Vendor Advisory
+498|CVE-2014-1492|http://www.mozilla.org/security/announce/2014/mfsa2014-45.html|
+499|CVE-2014-1493,CVE-2014-1494|http://www.mozilla.org/security/announce/2014/mfsa2014-15.html|Vendor Advisory
+500|CVE-2014-1496|http://www.mozilla.org/security/announce/2014/mfsa2014-16.html|Vendor Advisory
+501|CVE-2014-1497|http://www.mozilla.org/security/announce/2014/mfsa2014-17.html|Vendor Advisory
+502|CVE-2014-1498|http://www.mozilla.org/security/announce/2014/mfsa2014-18.html|Vendor Advisory
+503|CVE-2014-1499|http://www.mozilla.org/security/announce/2014/mfsa2014-19.html|Vendor Advisory
+504|CVE-2014-1500|http://www.mozilla.org/security/announce/2014/mfsa2014-20.html|Vendor Advisory
+505|CVE-2014-1501|http://www.mozilla.org/security/announce/2014/mfsa2014-21.html|Vendor Advisory
+506|CVE-2014-1502|http://www.mozilla.org/security/announce/2014/mfsa2014-22.html|Vendor Advisory
+507|CVE-2014-1504|http://www.mozilla.org/security/announce/2014/mfsa2014-23.html|Vendor Advisory
+508|CVE-2014-1512|http://www.mozilla.org/security/announce/2014/mfsa2014-30.html|Vendor Advisory
+509|CVE-2014-1513|http://www.mozilla.org/security/announce/2014/mfsa2014-31.html|Vendor Advisory
+510|CVE-2014-1514|http://www.mozilla.org/security/announce/2014/mfsa2014-32.html|Vendor Advisory
+511|CVE-2014-1515|https://www.mozilla.org/security/announce/2014/mfsa2014-33.html|Vendor Advisory
+512|CVE-2014-1505|http://www.mozilla.org/security/announce/2014/mfsa2014-28.html|Vendor Advisory
+513|CVE-2014-1506|http://www.mozilla.org/security/announce/2014/mfsa2014-24.html|Vendor Advisory
+514|CVE-2014-1507|http://www.mozilla.org/security/announce/2014/mfsa2014-25.html|Vendor Advisory
+515|CVE-2014-1508|http://www.mozilla.org/security/announce/2014/mfsa2014-26.html|Vendor Advisory
+516|CVE-2014-1509|http://www.mozilla.org/security/announce/2014/mfsa2014-27.html|Vendor Advisory
+517|CVE-2014-1510,CVE-2014-1511|http://www.mozilla.org/security/announce/2014/mfsa2014-29.html|Vendor Advisory
+518|CVE-2014-1526|http://www.mozilla.org/security/announce/2014/mfsa2014-47.html|Vendor Advisory
+519|CVE-2014-1527|http://www.mozilla.org/security/announce/2014/mfsa2014-40.html|Vendor Advisory
+520|CVE-2014-1528|http://www.mozilla.org/security/announce/2014/mfsa2014-41.html|Vendor Advisory
+521|CVE-2014-1529|http://www.mozilla.org/security/announce/2014/mfsa2014-42.html|Vendor Advisory
+522|CVE-2014-1530|http://www.mozilla.org/security/announce/2014/mfsa2014-43.html|Vendor Advisory
+523|CVE-2014-1531|http://www.mozilla.org/security/announce/2014/mfsa2014-44.html|Vendor Advisory
+524|CVE-2014-1519,CVE-2014-1518|http://www.mozilla.org/security/announce/2014/mfsa2014-34.html|Vendor Advisory
+525|CVE-2014-1520|http://www.mozilla.org/security/announce/2014/mfsa2014-35.html|Vendor Advisory
+526|CVE-2014-1522|http://www.mozilla.org/security/announce/2014/mfsa2014-36.html|Vendor Advisory
+527|CVE-2014-1523|http://www.mozilla.org/security/announce/2014/mfsa2014-37.html|Vendor Advisory
+528|CVE-2014-1524|http://www.mozilla.org/security/announce/2014/mfsa2014-38.html|Vendor Advisory
+529|CVE-2014-1525|http://www.mozilla.org/security/announce/2014/mfsa2014-39.html|Vendor Advisory
+530|CVE-2014-1532|http://www.mozilla.org/security/announce/2014/mfsa2014-46.html|Vendor Advisory
+531|CVE-2014-1541|http://www.mozilla.org/security/announce/2014/mfsa2014-52.html|Vendor Advisory
+532|CVE-2014-1542|http://www.mozilla.org/security/announce/2014/mfsa2014-53.html|Vendor Advisory
+533|CVE-2014-1543|http://www.mozilla.org/security/announce/2014/mfsa2014-54.html|Vendor Advisory
+534|CVE-2014-1545|http://www.mozilla.org/security/announce/2014/mfsa2014-55.html|Vendor Advisory
+535|CVE-2014-1533,CVE-2014-1534|http://www.mozilla.org/security/announce/2014/mfsa2014-48.html|Vendor Advisory
+536|CVE-2014-1536,CVE-2014-1538,CVE-2014-1537|http://www.mozilla.org/security/announce/2014/mfsa2014-49.html|Vendor Advisory
+537|CVE-2014-1539|http://www.mozilla.org/security/announce/2014/mfsa2014-50.html|Vendor Advisory
+538|CVE-2014-1540|http://www.mozilla.org/security/announce/2014/mfsa2014-51.html|Vendor Advisory
+539|CVE-2014-1557|http://www.mozilla.org/security/announce/2014/mfsa2014-64.html|Vendor Advisory
+540|CVE-2014-1560,CVE-2014-1559,CVE-2014-1558|http://www.mozilla.org/security/announce/2014/mfsa2014-65.html|Vendor Advisory
+541|CVE-2014-1561|http://www.mozilla.org/security/announce/2014/mfsa2014-60.html|Vendor Advisory
+542|CVE-2014-1550|http://www.mozilla.org/security/announce/2014/mfsa2014-58.html|Vendor Advisory
+543|CVE-2014-1551|http://www.mozilla.org/security/announce/2014/mfsa2014-59.html|Vendor Advisory
+544|CVE-2014-1552|http://www.mozilla.org/security/announce/2014/mfsa2014-66.html|Vendor Advisory
+545|CVE-2014-1555|http://www.mozilla.org/security/announce/2014/mfsa2014-61.html|Vendor Advisory
+546|CVE-2014-1556|http://www.mozilla.org/security/announce/2014/mfsa2014-62.html|Vendor Advisory
+547|CVE-2014-1544|http://www.mozilla.org/security/announce/2014/mfsa2014-63.html|Vendor Advisory
+548|CVE-2014-1547,CVE-2014-1548|http://www.mozilla.org/security/announce/2014/mfsa2014-56.html|Vendor Advisory
+549|CVE-2014-1549|http://www.mozilla.org/security/announce/2014/mfsa2014-57.html|Vendor Advisory
+550|CVE-2013-0787|http://www.mozilla.org/security/announce/2013/mfsa2013-29.html|Vendor Advisory
+551|CVE-2013-2566,CVE-2013-1741,CVE-2013-5607,CVE-2013-5605,CVE-2013-5606|http://www.mozilla.org/security/announce/2013/mfsa2013-103.html|Vendor Advisory,Third Party Advisory
+552|CVE-2013-0788,CVE-2013-0790,CVE-2013-0789|http://www.mozilla.org/security/announce/2013/mfsa2013-30.html|Vendor Advisory
+553|CVE-2013-0791|http://www.mozilla.org/security/announce/2013/mfsa2013-40.html|Vendor Advisory
+554|CVE-2013-0792|http://www.mozilla.org/security/announce/2013/mfsa2013-39.html|Vendor Advisory
+555|CVE-2013-0793|http://www.mozilla.org/security/announce/2013/mfsa2013-38.html|Vendor Advisory
+556|CVE-2013-0794|http://www.mozilla.org/security/announce/2013/mfsa2013-37.html|Vendor Advisory
+557|CVE-2013-0795|http://www.mozilla.org/security/announce/2013/mfsa2013-36.html|Vendor Advisory
+558|CVE-2013-0796|http://www.mozilla.org/security/announce/2013/mfsa2013-35.html|Vendor Advisory
+559|CVE-2013-0797|http://www.mozilla.org/security/announce/2013/mfsa2013-34.html|Vendor Advisory
+560|CVE-2013-0798|http://www.mozilla.org/security/announce/2013/mfsa2013-33.html|Vendor Advisory
+561|CVE-2013-0799|http://www.mozilla.org/security/announce/2013/mfsa2013-32.html|Vendor Advisory
+562|CVE-2013-0800|http://www.mozilla.org/security/announce/2013/mfsa2013-31.html|Vendor Advisory
+563|CVE-2013-0801,CVE-2013-1669|http://www.mozilla.org/security/announce/2013/mfsa2013-41.html|Vendor Advisory
+564|CVE-2013-1670|http://www.mozilla.org/security/announce/2013/mfsa2013-42.html|Vendor Advisory
+565|CVE-2013-1671|http://www.mozilla.org/security/announce/2013/mfsa2013-43.html|Vendor Advisory
+566|CVE-2013-1672|http://www.mozilla.org/security/announce/2013/mfsa2013-44.html|Vendor Advisory
+567|CVE-2013-1674|http://www.mozilla.org/security/announce/2013/mfsa2013-46.html|Vendor Advisory
+568|CVE-2013-1675|http://www.mozilla.org/security/announce/2013/mfsa2013-47.html|Vendor Advisory
+569|CVE-2013-1678,CVE-2013-1679,CVE-2013-1676,CVE-2013-1680,CVE-2013-1677,CVE-2013-1681|http://www.mozilla.org/security/announce/2013/mfsa2013-48.html|Vendor Advisory
+570|CVE-2013-1683,CVE-2013-1682|http://www.mozilla.org/security/announce/2013/mfsa2013-49.html|Vendor Advisory
+571|CVE-2013-1684,CVE-2013-1686,CVE-2013-1685|http://www.mozilla.org/security/announce/2013/mfsa2013-50.html|Vendor Advisory
+572|CVE-2013-1687|http://www.mozilla.org/security/announce/2013/mfsa2013-51.html|Vendor Advisory
+573|CVE-2013-1688|http://www.mozilla.org/security/announce/2013/mfsa2013-52.html|Vendor Advisory
+574|CVE-2013-1690|http://www.mozilla.org/security/announce/2013/mfsa2013-53.html|Vendor Advisory
+575|CVE-2013-1692|http://www.mozilla.org/security/announce/2013/mfsa2013-54.html|Vendor Advisory
+576|CVE-2013-1693|http://www.mozilla.org/security/announce/2013/mfsa2013-55.html|Vendor Advisory
+577|CVE-2013-1694|http://www.mozilla.org/security/announce/2013/mfsa2013-56.html|Vendor Advisory
+578|CVE-2013-1695|http://www.mozilla.org/security/announce/2013/mfsa2013-57.html|Vendor Advisory
+579|CVE-2013-1696|http://www.mozilla.org/security/announce/2013/mfsa2013-58.html|Vendor Advisory
+580|CVE-2013-1697|http://www.mozilla.org/security/announce/2013/mfsa2013-59.html|Vendor Advisory
+581|CVE-2013-1698|http://www.mozilla.org/security/announce/2013/mfsa2013-60.html|Vendor Advisory
+582|CVE-2013-1699|http://www.mozilla.org/security/announce/2013/mfsa2013-61.html|Vendor Advisory
+583|CVE-2013-1700|http://www.mozilla.org/security/announce/2013/mfsa2013-62.html|Vendor Advisory
+584|CVE-2013-1701,CVE-2013-1702|http://www.mozilla.org/security/announce/2013/mfsa2013-63.html|Vendor Advisory
+585|CVE-2013-1704|http://www.mozilla.org/security/announce/2013/mfsa2013-64.html|Vendor Advisory
+586|CVE-2013-1705|http://www.mozilla.org/security/announce/2013/mfsa2013-65.html|Vendor Advisory
+587|CVE-2013-1706,CVE-2013-1707|http://www.mozilla.org/security/announce/2013/mfsa2013-66.html|Vendor Advisory
+588|CVE-2013-1708|http://www.mozilla.org/security/announce/2013/mfsa2013-67.html|Vendor Advisory
+589|CVE-2013-1709|http://www.mozilla.org/security/announce/2013/mfsa2013-68.html|Vendor Advisory
+590|CVE-2013-1710|http://www.mozilla.org/security/announce/2013/mfsa2013-69.html|Vendor Advisory
+591|CVE-2013-1711|http://www.mozilla.org/security/announce/2013/mfsa2013-70.html|Vendor Advisory
+592|CVE-2013-1712|http://www.mozilla.org/security/announce/2013/mfsa2013-71.html|Vendor Advisory
+593|CVE-2013-1713|http://www.mozilla.org/security/announce/2013/mfsa2013-72.html|Vendor Advisory
+594|CVE-2013-1714|http://www.mozilla.org/security/announce/2013/mfsa2013-73.html|Vendor Advisory
+595|CVE-2013-1715|http://www.mozilla.org/security/announce/2013/mfsa2013-74.html|Vendor Advisory
+596|CVE-2013-1717|http://www.mozilla.org/security/announce/2013/mfsa2013-75.html|Vendor Advisory
+597|CVE-2013-1719,CVE-2013-1718|http://www.mozilla.org/security/announce/2013/mfsa2013-76.html|Vendor Advisory
+598|CVE-2013-1720|http://www.mozilla.org/security/announce/2013/mfsa2013-77.html|Vendor Advisory
+599|CVE-2013-1721|http://www.mozilla.org/security/announce/2013/mfsa2013-78.html|Vendor Advisory
+600|CVE-2013-1722|http://www.mozilla.org/security/announce/2013/mfsa2013-79.html|Vendor Advisory
+601|CVE-2013-1723|http://www.mozilla.org/security/announce/2013/mfsa2013-80.html|Vendor Advisory
+602|CVE-2013-1724|http://www.mozilla.org/security/announce/2013/mfsa2013-81.html|Vendor Advisory
+603|CVE-2013-1725|http://www.mozilla.org/security/announce/2013/mfsa2013-82.html|Vendor Advisory
+604|CVE-2013-1726|http://www.mozilla.org/security/announce/2013/mfsa2013-83.html|Vendor Advisory
+605|CVE-2013-1727|http://www.mozilla.org/security/announce/2013/mfsa2013-84.html|Vendor Advisory
+606|CVE-2013-1728|http://www.mozilla.org/security/announce/2013/mfsa2013-85.html|Vendor Advisory
+607|CVE-2013-1729|http://www.mozilla.org/security/announce/2013/mfsa2013-86.html|Vendor Advisory
+608|CVE-2013-1730|http://www.mozilla.org/security/announce/2013/mfsa2013-88.html|Vendor Advisory
+609|CVE-2013-1731|http://www.mozilla.org/security/announce/2013/mfsa2013-87.html|Vendor Advisory
+610|CVE-2013-1732|http://www.mozilla.org/security/announce/2013/mfsa2013-89.html|Vendor Advisory
+611|CVE-2013-1735,CVE-2013-1736|http://www.mozilla.org/security/announce/2013/mfsa2013-90.html|Vendor Advisory
+612|CVE-2013-1737|http://www.mozilla.org/security/announce/2013/mfsa2013-91.html|Vendor Advisory
+613|CVE-2013-1738|http://www.mozilla.org/security/announce/2013/mfsa2013-92.html|Vendor Advisory
+614|CVE-2013-5591,CVE-2013-5592,CVE-2013-1739,CVE-2013-5590|http://www.mozilla.org/security/announce/2013/mfsa2013-93.html|Vendor Advisory
+615|CVE-2013-5593|http://www.mozilla.org/security/announce/2013/mfsa2013-94.html|Vendor Advisory
+616|CVE-2013-5595|http://www.mozilla.org/security/announce/2013/mfsa2013-96.html|Vendor Advisory
+617|CVE-2013-5596|http://www.mozilla.org/security/announce/2013/mfsa2013-97.html|Vendor Advisory
+618|CVE-2013-5597|http://www.mozilla.org/security/announce/2013/mfsa2013-98.html|Vendor Advisory
+619|CVE-2013-5598|http://www.mozilla.org/security/announce/2013/mfsa2013-99.html|Vendor Advisory
+620|CVE-2013-5599,CVE-2013-5601,CVE-2013-5600|http://www.mozilla.org/security/announce/2013/mfsa2013-100.html|Vendor Advisory
+621|CVE-2013-5602|http://www.mozilla.org/security/announce/2013/mfsa2013-101.html|Vendor Advisory
+622|CVE-2013-5603|http://www.mozilla.org/security/announce/2013/mfsa2013-102.html|Vendor Advisory
+623|CVE-2013-5604|http://www.mozilla.org/security/announce/2013/mfsa2013-95.html|Vendor Advisory
+624|CVE-2013-6630,CVE-2013-6629|http://www.mozilla.org/security/announce/2013/mfsa2013-116.html|
+625|CVE-2013-5610,CVE-2013-5609|http://www.mozilla.org/security/announce/2013/mfsa2013-104.html|Vendor Advisory
+626|CVE-2013-5611|http://www.mozilla.org/security/announce/2013/mfsa2013-105.html|Vendor Advisory
+627|CVE-2013-5612|http://www.mozilla.org/security/announce/2013/mfsa2013-106.html|Vendor Advisory
+628|CVE-2013-5613|http://www.mozilla.org/security/announce/2013/mfsa2013-114.html|Vendor Advisory
+629|CVE-2013-5614|http://www.mozilla.org/security/announce/2013/mfsa2013-107.html|Vendor Advisory
+630|CVE-2013-6671|http://www.mozilla.org/security/announce/2013/mfsa2013-111.html|Vendor Advisory
+631|CVE-2013-6672|http://www.mozilla.org/security/announce/2013/mfsa2013-112.html|Vendor Advisory
+632|CVE-2013-6673|http://www.mozilla.org/security/announce/2013/mfsa2013-113.html|Vendor Advisory
+633|CVE-2013-5615|http://www.mozilla.org/security/announce/2013/mfsa2013-115.html|Vendor Advisory
+634|CVE-2013-5616|http://www.mozilla.org/security/announce/2013/mfsa2013-108.html|Vendor Advisory
+635|CVE-2013-5618|http://www.mozilla.org/security/announce/2013/mfsa2013-109.html|Vendor Advisory
+636|CVE-2013-5619|http://www.mozilla.org/security/announce/2013/mfsa2013-110.html|Vendor Advisory
+637|CVE-2011-3659|http://www.mozilla.org/security/announce/2012/mfsa2012-04.html|Vendor Advisory
+638|CVE-2011-3670|http://www.mozilla.org/security/announce/2012/mfsa2012-02.html|Vendor Advisory
+639|CVE-2007-0009,CVE-2007-0008|http://www.mozilla.org/security/announce/2007/mfsa2007-06.html|Patch,Vendor Advisory
+640|CVE-2007-0777,CVE-2007-0776,CVE-2007-0775|http://www.mozilla.org/security/announce/2007/mfsa2007-01.html|Patch,Vendor Advisory
+641|CVE-2007-0778|http://www.mozilla.org/security/announce/2007/mfsa2007-03.html|Patch,Vendor Advisory
+642|CVE-2007-0779|http://www.mozilla.org/security/announce/2007/mfsa2007-04.html|Patch,Vendor Advisory
+643|CVE-2007-0780,CVE-2007-0800|http://www.mozilla.org/security/announce/2007/mfsa2007-05.html|Patch,Vendor Advisory
+644|CVE-2007-0981|http://www.mozilla.org/security/announce/2007/mfsa2007-07.html|
+645|CVE-2007-1092|http://www.mozilla.org/security/announce/2007/mfsa2007-08.html|
+646|CVE-2007-1095|http://www.mozilla.org/security/announce/2007/mfsa2007-30.html|
+647|CVE-2007-0994|http://www.mozilla.org/security/announce/2007/mfsa2007-09.html|Vendor Advisory
+648|CVE-2007-1282|http://www.mozilla.org/security/announce/2007/mfsa2007-10.html|Patch
+649|CVE-2007-1562|http://www.mozilla.org/security/announce/2007/mfsa2007-11.html|Vendor Advisory
+650|CVE-2007-1558|http://www.mozilla.org/security/announce/2007/mfsa2007-15.html|Patch,Vendor Advisory
+651|CVE-2007-2292|http://www.mozilla.org/security/announce/2007/mfsa2007-31.html|
+652|CVE-2007-1362|http://www.mozilla.org/security/announce/2007/mfsa2007-14.html|Patch
+653|CVE-2007-2867,CVE-2007-2868|http://www.mozilla.org/security/announce/2007/mfsa2007-12.html|Patch,Vendor Advisory
+654|CVE-2007-2869|http://www.mozilla.org/security/announce/2007/mfsa2007-13.html|Vendor Advisory
+655|CVE-2007-2870|http://www.mozilla.org/security/announce/2007/mfsa2007-16.html|Vendor Advisory
+656|CVE-2007-2871|http://www.mozilla.org/security/announce/2007/mfsa2007-17.html|Vendor Advisory
+657|CVE-2007-3089|http://www.mozilla.org/security/announce/2007/mfsa2007-20.html|
+658|CVE-2007-3285|http://www.mozilla.org/security/announce/2007/mfsa2007-22.html|
+659|CVE-2007-3511,CVE-2006-2894|http://www.mozilla.org/security/announce/2007/mfsa2007-32.html|
+660|CVE-2007-3656|http://www.mozilla.org/security/announce/2007/mfsa2007-24.html|
+661|CVE-2007-3670|http://www.mozilla.org/security/announce/2007/mfsa2007-23.html|
+662|CVE-2007-3670|http://www.mozilla.org/security/announce/2007/mfsa2007-40.html|
+663|CVE-2007-3735,CVE-2007-3734|http://www.mozilla.org/security/announce/2007/mfsa2007-18.html|
+664|CVE-2007-3736|http://www.mozilla.org/security/announce/2007/mfsa2007-19.html|
+665|CVE-2007-3737|http://www.mozilla.org/security/announce/2007/mfsa2007-21.html|Vendor Advisory
+666|CVE-2007-3738|http://www.mozilla.org/security/announce/2007/mfsa2007-25.html|Vendor Advisory
+667|CVE-2007-3844|http://www.mozilla.org/security/announce/2007/mfsa2007-26.html|Patch
+668|CVE-2007-3845|http://www.mozilla.org/security/announce/2007/mfsa2007-27.html|
+669|CVE-2015-0830|http://www.mozilla.org/security/announce/2015/mfsa2015-14.html|Vendor Advisory
+670|CVE-2015-0831|http://www.mozilla.org/security/announce/2015/mfsa2015-16.html|Vendor Advisory
+671|CVE-2015-0832|http://www.mozilla.org/security/announce/2015/mfsa2015-13.html|Vendor Advisory
+672|CVE-2015-0833|http://www.mozilla.org/security/announce/2015/mfsa2015-12.html|Vendor Advisory
+673|CVE-2015-0834|http://www.mozilla.org/security/announce/2015/mfsa2015-15.html|Vendor Advisory
+674|CVE-2015-0836,CVE-2015-0835|http://www.mozilla.org/security/announce/2015/mfsa2015-11.html|Vendor Advisory
+675|CVE-2015-0820|http://www.mozilla.org/security/announce/2015/mfsa2015-27.html|Vendor Advisory
+676|CVE-2015-0821|http://www.mozilla.org/security/announce/2015/mfsa2015-25.html|Vendor Advisory
+677|CVE-2015-0822|http://www.mozilla.org/security/announce/2015/mfsa2015-24.html|Vendor Advisory
+678|CVE-2015-0823|http://www.mozilla.org/security/announce/2015/mfsa2015-23.html|Vendor Advisory
+679|CVE-2015-0824|http://www.mozilla.org/security/announce/2015/mfsa2015-22.html|Vendor Advisory
+680|CVE-2015-0825|http://www.mozilla.org/security/announce/2015/mfsa2015-21.html|Vendor Advisory
+681|CVE-2015-0826|http://www.mozilla.org/security/announce/2015/mfsa2015-20.html|Vendor Advisory
+682|CVE-2015-0827|http://www.mozilla.org/security/announce/2015/mfsa2015-19.html|Vendor Advisory
+683|CVE-2015-0828|http://www.mozilla.org/security/announce/2015/mfsa2015-18.html|Vendor Advisory
+684|CVE-2015-0829|http://www.mozilla.org/security/announce/2015/mfsa2015-17.html|Vendor Advisory
+685|CVE-2015-0819|http://www.mozilla.org/security/announce/2015/mfsa2015-26.html|Vendor Advisory
+686|CVE-2015-0817|http://www.mozilla.org/security/announce/2015/mfsa2015-29.html|Vendor Advisory
+687|CVE-2015-0818|http://www.mozilla.org/security/announce/2015/mfsa2015-28.html|Vendor Advisory
+688|CVE-2015-2706|http://www.mozilla.org/security/announce/2015/mfsa2015-45.html|Vendor Advisory
+689|CVE-2015-0798|http://www.mozilla.org/security/announce/2015/mfsa2015-43.html|Vendor Advisory
+690|CVE-2015-0799|http://www.mozilla.org/security/announce/2015/mfsa2015-44.html|Vendor Advisory
+691|CVE-2015-0800,CVE-2012-2808|http://www.mozilla.org/security/announce/2015/mfsa2015-41.html|Vendor Advisory
+692|CVE-2015-0801|http://www.mozilla.org/security/announce/2015/mfsa2015-40.html|Vendor Advisory
+693|CVE-2015-0802|http://www.mozilla.org/security/announce/2015/mfsa2015-42.html|Vendor Advisory
+694|CVE-2015-0804,CVE-2015-0803|http://www.mozilla.org/security/announce/2015/mfsa2015-39.html|Vendor Advisory
+695|CVE-2015-0805,CVE-2015-0806|http://www.mozilla.org/security/announce/2015/mfsa2015-38.html|Vendor Advisory
+696|CVE-2015-0807|http://www.mozilla.org/security/announce/2015/mfsa2015-37.html|Vendor Advisory
+697|CVE-2015-0808|http://www.mozilla.org/security/announce/2015/mfsa2015-36.html|Vendor Advisory
+698|CVE-2015-0810|http://www.mozilla.org/security/announce/2015/mfsa2015-35.html|Vendor Advisory
+699|CVE-2015-0811|http://www.mozilla.org/security/announce/2015/mfsa2015-34.html|Vendor Advisory
+700|CVE-2015-0812|http://www.mozilla.org/security/announce/2015/mfsa2015-32.html|Vendor Advisory
+701|CVE-2015-0813|http://www.mozilla.org/security/announce/2015/mfsa2015-31.html|Vendor Advisory
+702|CVE-2015-0814,CVE-2015-0815|http://www.mozilla.org/security/announce/2015/mfsa2015-30.html|Vendor Advisory
+703|CVE-2015-0816|http://www.mozilla.org/security/announce/2015/mfsa2015-33.html|Vendor Advisory
+704|CVE-2015-0797|http://www.mozilla.org/security/announce/2015/mfsa2015-47.html|Vendor Advisory
+705|CVE-2015-4000|http://www.mozilla.org/security/announce/2015/mfsa2015-70.html|Third Party Advisory
+706|CVE-2015-2708,CVE-2015-2709|http://www.mozilla.org/security/announce/2015/mfsa2015-46.html|Vendor Advisory
+707|CVE-2015-2710|http://www.mozilla.org/security/announce/2015/mfsa2015-48.html|Vendor Advisory
+708|CVE-2015-2711|http://www.mozilla.org/security/announce/2015/mfsa2015-49.html|Vendor Advisory
+709|CVE-2015-2712|http://www.mozilla.org/security/announce/2015/mfsa2015-50.html|Vendor Advisory
+710|CVE-2015-2713|http://www.mozilla.org/security/announce/2015/mfsa2015-51.html|Vendor Advisory
+711|CVE-2015-2714|http://www.mozilla.org/security/announce/2015/mfsa2015-52.html|Vendor Advisory
+712|CVE-2015-2715|http://www.mozilla.org/security/announce/2015/mfsa2015-53.html|Vendor Advisory
+713|CVE-2015-2716|http://www.mozilla.org/security/announce/2015/mfsa2015-54.html|Vendor Advisory
+714|CVE-2015-2717|http://www.mozilla.org/security/announce/2015/mfsa2015-55.html|Vendor Advisory
+715|CVE-2015-2718|http://www.mozilla.org/security/announce/2015/mfsa2015-56.html|Vendor Advisory
+716|CVE-2015-2720|http://www.mozilla.org/security/announce/2015/mfsa2015-58.html|
+717|CVE-2015-2737,CVE-2015-2740,CVE-2015-2735,CVE-2015-2736,CVE-2015-2739,CVE-2015-2734,CVE-2015-2738|http://www.mozilla.org/security/announce/2015/mfsa2015-66.html|Vendor Advisory
+718|CVE-2015-2741|http://www.mozilla.org/security/announce/2015/mfsa2015-67.html|Vendor Advisory
+719|CVE-2015-2742|http://www.mozilla.org/security/announce/2015/mfsa2015-68.html|Vendor Advisory
+720|CVE-2015-2743|http://www.mozilla.org/security/announce/2015/mfsa2015-69.html|Vendor Advisory
+721|CVE-2015-2724,CVE-2015-2725,CVE-2015-2726|http://www.mozilla.org/security/announce/2015/mfsa2015-59.html|Vendor Advisory
+722|CVE-2015-2727|http://www.mozilla.org/security/announce/2015/mfsa2015-60.html|Vendor Advisory
+723|CVE-2015-2728|http://www.mozilla.org/security/announce/2015/mfsa2015-61.html|Vendor Advisory
+724|CVE-2015-2729|http://www.mozilla.org/security/announce/2015/mfsa2015-62.html|Vendor Advisory
+725|CVE-2015-2730|http://www.mozilla.org/security/announce/2015/mfsa2015-64.html|Vendor Advisory
+726|CVE-2015-2731|http://www.mozilla.org/security/announce/2015/mfsa2015-63.html|Vendor Advisory
+727|CVE-2015-2733,CVE-2015-2722|http://www.mozilla.org/security/announce/2015/mfsa2015-65.html|Vendor Advisory
+728|CVE-2015-2721|http://www.mozilla.org/security/announce/2015/mfsa2015-71.html|Vendor Advisory
+729|CVE-2015-4473,CVE-2015-4474|http://www.mozilla.org/security/announce/2015/mfsa2015-79.html|Vendor Advisory
+730|CVE-2015-4475|http://www.mozilla.org/security/announce/2015/mfsa2015-80.html|Vendor Advisory
+731|CVE-2015-4477|http://www.mozilla.org/security/announce/2015/mfsa2015-81.html|Vendor Advisory
+732|CVE-2015-4478|http://www.mozilla.org/security/announce/2015/mfsa2015-82.html|Vendor Advisory
+733|CVE-2015-4479,CVE-2015-4480,CVE-2015-4493|http://www.mozilla.org/security/announce/2015/mfsa2015-83.html|Vendor Advisory
+734|CVE-2015-4481|http://www.mozilla.org/security/announce/2015/mfsa2015-84.html|Vendor Advisory
+735|CVE-2015-4482|http://www.mozilla.org/security/announce/2015/mfsa2015-85.html|Vendor Advisory
+736|CVE-2015-4494|http://www.mozilla.org/security/announce/2015/mfsa2015-76.html|Vendor Advisory
+737|CVE-2015-4495|http://www.mozilla.org/security/announce/2015/mfsa2015-78.html|Vendor Advisory
+738|CVE-2015-4496|http://www.mozilla.org/security/announce/2015/mfsa2015-93.html|Vendor Advisory
+739|CVE-2015-4497|http://www.mozilla.org/security/announce/2015/mfsa2015-94.html|Vendor Advisory
+740|CVE-2015-4498|http://www.mozilla.org/security/announce/2015/mfsa2015-95.html|Vendor Advisory
+741|CVE-2015-5960|http://www.mozilla.org/security/announce/2015/mfsa2015-74.html|Vendor Advisory
+742|CVE-2015-5961|http://www.mozilla.org/security/announce/2015/mfsa2015-75.html|
+743|CVE-2015-5962|http://www.mozilla.org/security/announce/2015/mfsa2015-77.html|Vendor Advisory
+744|CVE-2015-2744|http://www.mozilla.org/security/announce/2015/mfsa2015-72.html|Vendor Advisory
+745|CVE-2015-2745|http://www.mozilla.org/security/announce/2015/mfsa2015-73.html|Vendor Advisory
+746|CVE-2015-4483|http://www.mozilla.org/security/announce/2015/mfsa2015-86.html|Vendor Advisory
+747|CVE-2015-4484|http://www.mozilla.org/security/announce/2015/mfsa2015-87.html|Vendor Advisory
+748|CVE-2015-4486,CVE-2015-4485|http://www.mozilla.org/security/announce/2015/mfsa2015-89.html|Vendor Advisory
+749|CVE-2015-4488,CVE-2015-4489,CVE-2015-4487|http://www.mozilla.org/security/announce/2015/mfsa2015-90.html|Vendor Advisory
+750|CVE-2015-4490|http://www.mozilla.org/security/announce/2015/mfsa2015-91.html|Vendor Advisory
+751|CVE-2015-4491|http://www.mozilla.org/security/announce/2015/mfsa2015-88.html|Vendor Advisory
+752|CVE-2015-4492|http://www.mozilla.org/security/announce/2015/mfsa2015-92.html|Vendor Advisory
+753|CVE-2015-4476|http://www.mozilla.org/security/announce/2015/mfsa2015-99.html|Vendor Advisory
+754|CVE-2015-4500,CVE-2015-4501|http://www.mozilla.org/security/announce/2015/mfsa2015-96.html|Vendor Advisory
+755|CVE-2015-4502|http://www.mozilla.org/security/announce/2015/mfsa2015-108.html|Vendor Advisory
+756|CVE-2015-4503|http://www.mozilla.org/security/announce/2015/mfsa2015-97.html|Vendor Advisory
+757|CVE-2015-4504|http://www.mozilla.org/security/announce/2015/mfsa2015-98.html|
+758|CVE-2015-4505|http://www.mozilla.org/security/announce/2015/mfsa2015-100.html|Vendor Advisory
+759|CVE-2015-4506|http://www.mozilla.org/security/announce/2015/mfsa2015-101.html|Vendor Advisory
+760|CVE-2015-4507|http://www.mozilla.org/security/announce/2015/mfsa2015-102.html|Vendor Advisory
+761|CVE-2015-4508|http://www.mozilla.org/security/announce/2015/mfsa2015-103.html|Vendor Advisory
+762|CVE-2015-4509|http://www.mozilla.org/security/announce/2015/mfsa2015-106.html|Vendor Advisory
+763|CVE-2015-4510|http://www.mozilla.org/security/announce/2015/mfsa2015-104.html|Vendor Advisory
+764|CVE-2015-4511|http://www.mozilla.org/security/announce/2015/mfsa2015-105.html|Vendor Advisory
+765|CVE-2015-4512|http://www.mozilla.org/security/announce/2015/mfsa2015-107.html|Vendor Advisory
+766|CVE-2015-4516|http://www.mozilla.org/security/announce/2015/mfsa2015-109.html|Vendor Advisory
+767|CVE-2015-7180,CVE-2015-7174,CVE-2015-7177,CVE-2015-4522,CVE-2015-4517,CVE-2015-7175,CVE-2015-4521,CVE-2015-7176|http://www.mozilla.org/security/announce/2015/mfsa2015-112.html|Vendor Advisory
+768|CVE-2015-4519|http://www.mozilla.org/security/announce/2015/mfsa2015-110.html|Vendor Advisory
+769|CVE-2015-4520|http://www.mozilla.org/security/announce/2015/mfsa2015-111.html|Vendor Advisory
+770|CVE-2015-7179,CVE-2015-7178|http://www.mozilla.org/security/announce/2015/mfsa2015-113.html|Vendor Advisory
+771|CVE-2015-7327|http://www.mozilla.org/security/announce/2015/mfsa2015-114.html|Vendor Advisory
+772|CVE-2015-7184|http://www.mozilla.org/security/announce/2015/mfsa2015-115.html|Vendor Advisory
+773|CVE-2016-5292,CVE-2016-5296,CVE-2016-9064,CVE-2016-5297,CVE-2016-9069,CVE-2016-9068,CVE-2016-9073,CVE-2016-5290,CVE-2016-9063,CVE-2016-9062,CVE-2016-9076,CVE-2016-9066,CVE-2016-5293,CVE-2016-9061,CVE-2016-9074,CVE-2016-9070,CVE-2016-5298,CVE-2016-9075,CVE-2016-5289,CVE-2016-5299,CVE-2016-9077,CVE-2016-9065,CVE-2016-5294,CVE-2016-9072,CVE-2016-9071,CVE-2016-5291,CVE-2016-9067,CVE-2016-5295|https://www.mozilla.org/security/advisories/mfsa2016-89/|Vendor Advisory
+774|CVE-2018-12360,CVE-2018-5186,CVE-2018-12364,CVE-2018-12369,CVE-2018-12361,CVE-2018-12363,CVE-2018-12370,CVE-2018-5188,CVE-2018-5187,CVE-2018-12365,CVE-2018-12366,CVE-2018-12368,CVE-2018-5156,CVE-2018-12358,CVE-2018-12367,CVE-2018-12371,CVE-2018-12362,CVE-2018-12359|https://www.mozilla.org/security/advisories/mfsa2018-15/|Vendor Advisory
+775|CVE-2018-12360,CVE-2018-12364,CVE-2018-12369,CVE-2018-12363,CVE-2018-12361,CVE-2018-5188,CVE-2018-5187,CVE-2018-12365,CVE-2018-12366,CVE-2018-12368,CVE-2018-5156,CVE-2018-12367,CVE-2018-12371,CVE-2018-12362,CVE-2018-12359|https://www.mozilla.org/security/advisories/mfsa2018-16/|Vendor Advisory
+776|CVE-2018-12360,CVE-2018-12364,CVE-2018-5188,CVE-2018-12363,CVE-2018-12365,CVE-2018-12366,CVE-2018-12368,CVE-2018-5156,CVE-2018-12362,CVE-2018-12359|https://www.mozilla.org/security/advisories/mfsa2018-17/|Vendor Advisory
+777|CVE-2018-12360,CVE-2018-12372,CVE-2018-12364,CVE-2018-5188,CVE-2018-12363,CVE-2018-12374,CVE-2018-12365,CVE-2018-12366,CVE-2018-12368,CVE-2018-12373,CVE-2018-12362,CVE-2018-12359|https://www.mozilla.org/security/advisories/mfsa2018-18/|Vendor Advisory
+778|CVE-2018-12360,CVE-2018-12364,CVE-2018-5188,CVE-2018-12363,CVE-2018-12361,CVE-2018-5187,CVE-2018-12365,CVE-2018-12366,CVE-2018-12368,CVE-2018-5156,CVE-2018-12367,CVE-2018-12371,CVE-2018-12362,CVE-2018-12359|https://www.mozilla.org/security/advisories/mfsa2018-19/|Vendor Advisory
+779|CVE-2018-12385,CVE-2018-12383|https://www.mozilla.org/security/advisories/mfsa2018-23/|Vendor Advisory
+780|CVE-2018-12385|https://www.mozilla.org/security/advisories/mfsa2018-22/|Vendor Advisory
+781|CVE-2018-12387,CVE-2018-12386|https://www.mozilla.org/security/advisories/mfsa2018-24/|Vendor Advisory
+782|CVE-2008-0304|http://www.mozilla.org/security/announce/2008/mfsa2008-12.html|
+783|CVE-2008-0412,CVE-2008-0413|http://www.mozilla.org/security/announce/2008/mfsa2008-01.html|
+784|CVE-2008-0414|http://www.mozilla.org/security/announce/2008/mfsa2008-02.html|
+785|CVE-2008-0415|http://www.mozilla.org/security/announce/2008/mfsa2008-03.html|
+786|CVE-2008-0416|http://www.mozilla.org/security/announce/2008/mfsa2008-13.html|
+787|CVE-2008-0417|http://www.mozilla.org/security/announce/2008/mfsa2008-04.html|
+788|CVE-2008-0418|http://www.mozilla.org/security/announce/2008/mfsa2008-05.html|
+789|CVE-2008-0419|http://www.mozilla.org/security/announce/2008/mfsa2008-06.html|
+790|CVE-2008-0420|http://www.mozilla.org/security/announce/2008/mfsa2008-07.html|
+791|CVE-2008-0591|http://www.mozilla.org/security/announce/2008/mfsa2008-08.html|
+792|CVE-2008-0592|http://www.mozilla.org/security/announce/2008/mfsa2008-09.html|
+793|CVE-2008-0593|http://www.mozilla.org/security/announce/2008/mfsa2008-10.html|
+794|CVE-2008-0594|http://www.mozilla.org/security/announce/2008/mfsa2008-11.html|
+795|CVE-2008-1195,CVE-2008-1240|http://www.mozilla.org/security/announce/2008/mfsa2008-18.html|Third Party Advisory
+796|CVE-2008-1233,CVE-2008-1234,CVE-2008-1235|http://www.mozilla.org/security/announce/2008/mfsa2008-14.html|Patch,Vendor Advisory
+797|CVE-2008-1236,CVE-2008-1237|http://www.mozilla.org/security/announce/2008/mfsa2008-15.html|
+798|CVE-2008-1238|http://www.mozilla.org/security/announce/2008/mfsa2008-16.html|Exploit
+799|CVE-2008-1241|http://www.mozilla.org/security/announce/2008/mfsa2008-19.html|
+800|CVE-2008-1380|http://www.mozilla.org/security/announce/2008/mfsa2008-20.html|
+801|CVE-2008-2785|http://www.mozilla.org/security/announce/2008/mfsa2008-34.html|Patch,Vendor Advisory
+802|CVE-2008-2810,CVE-2008-2806,CVE-2008-2798,CVE-2008-2807,CVE-2008-2799,CVE-2008-2811,CVE-2008-2803,CVE-2008-2805,CVE-2008-2800,CVE-2008-2808,CVE-2008-2809,CVE-2008-2802,CVE-2008-2801|http://www.mozilla.org/projects/security/known-vulnerabilities.html#firefox2.0.0.15|
+803|CVE-2008-2798,CVE-2008-2799|http://www.mozilla.org/security/announce/2008/mfsa2008-21.html|
+804|CVE-2008-2800|http://www.mozilla.org/security/announce/2008/mfsa2008-22.html|
+805|CVE-2008-2801|http://www.mozilla.org/security/announce/2008/mfsa2008-23.html|
+806|CVE-2008-2802|http://www.mozilla.org/security/announce/2008/mfsa2008-24.html|
+807|CVE-2008-2803|http://www.mozilla.org/security/announce/2008/mfsa2008-25.html|
+808|CVE-2008-2805|http://www.mozilla.org/security/announce/2008/mfsa2008-27.html|
+809|CVE-2008-2806|http://www.mozilla.org/security/announce/2008/mfsa2008-28.html|
+810|CVE-2008-2807|http://www.mozilla.org/security/announce/2008/mfsa2008-29.html|
+811|CVE-2008-2808|http://www.mozilla.org/security/announce/2008/mfsa2008-30.html|
+812|CVE-2008-2809|http://www.mozilla.org/security/announce/2008/mfsa2008-31.html|
+813|CVE-2008-2810|http://www.mozilla.org/security/announce/2008/mfsa2008-32.html|
+814|CVE-2008-2811|http://www.mozilla.org/security/announce/2008/mfsa2008-33.html|
+815|CVE-2008-3198,CVE-2008-2933|http://www.mozilla.org/security/announce/2008/mfsa2008-35.html|
+816|CVE-2008-2934|http://www.mozilla.org/security/announce/2008/mfsa2008-36.html|
+817|CVE-2008-0016|http://www.mozilla.org/security/announce/2008/mfsa2008-37.html|
+818|CVE-2008-3835|http://www.mozilla.org/security/announce/2008/mfsa2008-38.html|
+819|CVE-2008-3836|http://www.mozilla.org/security/announce/2008/mfsa2008-39.html|
+820|CVE-2008-3837|http://www.mozilla.org/security/announce/2008/mfsa2008-40.html|Vendor Advisory
+821|CVE-2008-4060,CVE-2008-4058,CVE-2008-4059|http://www.mozilla.org/security/announce/2008/mfsa2008-41.html|Vendor Advisory
+822|CVE-2008-4061,CVE-2008-4064,CVE-2008-4063,CVE-2008-4062|http://www.mozilla.org/security/announce/2008/mfsa2008-42.html|Vendor Advisory,Third Party Advisory
+823|CVE-2008-4065,CVE-2008-4066|http://www.mozilla.org/security/announce/2008/mfsa2008-43.html|Vendor Advisory
+824|CVE-2008-4067,CVE-2008-4068|http://www.mozilla.org/security/announce/2008/mfsa2008-44.html|Vendor Advisory
+825|CVE-2008-4069|http://www.mozilla.org/security/announce/2008/mfsa2008-45.html|
+826|CVE-2008-4070|http://www.mozilla.org/security/announce/2008/mfsa2008-46.html|Patch
+827|CVE-2008-4582|http://www.mozilla.org/security/announce/2008/mfsa2008-47.html|Vendor Advisory
+828|CVE-2008-0017|http://www.mozilla.org/security/announce/2008/mfsa2008-54.html|Vendor Advisory
+829|CVE-2008-5012|http://www.mozilla.org/security/announce/2008/mfsa2008-48.html|Vendor Advisory
+830|CVE-2008-5013|http://www.mozilla.org/security/announce/2008/mfsa2008-49.html|
+831|CVE-2008-5014|http://www.mozilla.org/security/announce/2008/mfsa2008-50.html|Vendor Advisory
+832|CVE-2008-5015|http://www.mozilla.org/security/announce/2008/mfsa2008-51.html|Vendor Advisory
+833|CVE-2008-5052,CVE-2008-5017,CVE-2008-5018,CVE-2008-5016|http://www.mozilla.org/security/announce/2008/mfsa2008-52.html|Vendor Advisory
+834|CVE-2008-5019|http://www.mozilla.org/security/announce/2008/mfsa2008-53.html|Vendor Advisory
+835|CVE-2008-5021|http://www.mozilla.org/security/announce/2008/mfsa2008-55.html|Vendor Advisory
+836|CVE-2008-5022|http://www.mozilla.org/security/announce/2008/mfsa2008-56.html|Vendor Advisory
+837|CVE-2008-5023|http://www.mozilla.org/security/announce/2008/mfsa2008-57.html|Vendor Advisory
+838|CVE-2008-5024|http://www.mozilla.org/security/announce/2008/mfsa2008-58.html|Vendor Advisory
+839|CVE-2008-5502,CVE-2008-5501,CVE-2008-5500|http://www.mozilla.org/security/announce/2008/mfsa2008-60.html|Vendor Advisory
+840|CVE-2008-5503|http://www.mozilla.org/security/announce/2008/mfsa2008-61.html|
+841|CVE-2008-5504|http://www.mozilla.org/security/announce/2008/mfsa2008-62.html|Vendor Advisory
+842|CVE-2008-5505|http://www.mozilla.org/security/announce/2008/mfsa2008-63.html|Vendor Advisory
+843|CVE-2008-5506|http://www.mozilla.org/security/announce/2008/mfsa2008-64.html|Vendor Advisory
+844|CVE-2008-5507|http://www.mozilla.org/security/announce/2008/mfsa2008-65.html|Vendor Advisory
+845|CVE-2008-5508|http://www.mozilla.org/security/announce/2008/mfsa2008-66.html|Vendor Advisory
+846|CVE-2008-5510|http://www.mozilla.org/security/announce/2008/mfsa2008-67.html|Vendor Advisory
+847|CVE-2008-5511,CVE-2008-5512|http://www.mozilla.org/security/announce/2008/mfsa2008-68.html|Vendor Advisory
+848|CVE-2008-5513|http://www.mozilla.org/security/announce/2008/mfsa2008-69.html|Vendor Advisory
+849|CVE-2020-35113,CVE-2020-35111,CVE-2020-26975,CVE-2020-26978,CVE-2020-26971,CVE-2020-26973,CVE-2020-26977,CVE-2020-26979,CVE-2020-26976,CVE-2020-35114,CVE-2020-35112,CVE-2020-26972,CVE-2020-26974|https://www.mozilla.org/security/advisories/mfsa2020-54/|Vendor Advisory
+850|CVE-2020-35113,CVE-2020-35111,CVE-2020-26978,CVE-2020-26971,CVE-2020-26973,CVE-2020-35112,CVE-2020-26974|https://www.mozilla.org/security/advisories/mfsa2020-55/|Vendor Advisory
+851|CVE-2020-35113,CVE-2020-35111,CVE-2020-26978,CVE-2020-26971,CVE-2020-26973,CVE-2020-35112,CVE-2020-26974|https://www.mozilla.org/security/advisories/mfsa2020-56/|Vendor Advisory
+852|CVE-2021-23970,CVE-2021-23976,CVE-2021-23975,CVE-2021-23968,CVE-2021-23977,CVE-2021-23978,CVE-2021-23974,CVE-2021-23973,CVE-2021-23979,CVE-2021-23972,CVE-2021-23969,CVE-2021-23971|https://www.mozilla.org/security/advisories/mfsa2021-07/|Vendor Advisory,Release Notes
+853|CVE-2021-23973,CVE-2021-23968,CVE-2021-23969,CVE-2021-23978|https://www.mozilla.org/security/advisories/mfsa2021-08/|Vendor Advisory,Release Notes
+854|CVE-2021-23973,CVE-2021-23968,CVE-2021-23969,CVE-2021-23978|https://www.mozilla.org/security/advisories/mfsa2021-09/|Vendor Advisory,Release Notes
+855|CVE-2021-23965,CVE-2021-23953,CVE-2021-23959,CVE-2021-23954,CVE-2021-23957,CVE-2021-23964,CVE-2021-23958,CVE-2021-23955,CVE-2021-23962,CVE-2021-23956,CVE-2021-23961,CVE-2021-23963,CVE-2021-23960|https://www.mozilla.org/security/advisories/mfsa2021-03/|Vendor Advisory,Release Notes
+856|CVE-2021-23954,CVE-2021-23964,CVE-2021-23960,CVE-2021-23953|https://www.mozilla.org/security/advisories/mfsa2021-04/|Vendor Advisory,Release Notes
+857|CVE-2021-23954,CVE-2021-23964,CVE-2021-23960,CVE-2021-23953|https://www.mozilla.org/security/advisories/mfsa2021-05/|Vendor Advisory,Release Notes
+858|CVE-2021-23988,CVE-2021-23985,CVE-2021-23986,CVE-2021-23981,CVE-2021-23983,CVE-2021-23982,CVE-2021-23987,CVE-2021-23984|https://www.mozilla.org/security/advisories/mfsa2021-10/|Vendor Advisory
+859|CVE-2021-23987,CVE-2021-23984,CVE-2021-23981,CVE-2021-23982|https://www.mozilla.org/security/advisories/mfsa2021-11/|Vendor Advisory
+860|CVE-2021-23987,CVE-2021-23984,CVE-2021-23981,CVE-2021-23982|https://www.mozilla.org/security/advisories/mfsa2021-12/|Vendor Advisory
+861|CVE-2005-1476,CVE-2005-1477|http://www.mozilla.org/security/announce/mfsa2005-42.html|Vendor Advisory
+862|CVE-2005-1531|http://www.mozilla.org/security/announce/mfsa2005-43.html|Patch
+863|CVE-2005-1532|http://www.mozilla.org/security/announce/mfsa2005-44.html|
+864|CVE-2005-1937|http://www.mozilla.org/security/announce/mfsa2005-51.html|
+865|CVE-2005-2260|http://www.mozilla.org/security/announce/mfsa2005-45.html|Patch,Vendor Advisory
+866|CVE-2005-2261|http://www.mozilla.org/security/announce/mfsa2005-46.html|Patch,Vendor Advisory
+867|CVE-2005-2262|http://www.mozilla.org/security/announce/mfsa2005-47.html|
+868|CVE-2005-2263|http://www.mozilla.org/security/announce/mfsa2005-48.html|Patch,Vendor Advisory
+869|CVE-2005-2264|http://www.mozilla.org/security/announce/mfsa2005-49.html|Patch,Vendor Advisory
+870|CVE-2005-2265|http://www.mozilla.org/security/announce/mfsa2005-50.html|Patch,Vendor Advisory
+871|CVE-2005-2266|http://www.mozilla.org/security/announce/mfsa2005-52.html|Patch,Vendor Advisory
+872|CVE-2005-2267|http://www.mozilla.org/security/announce/mfsa2005-53.html|
+873|CVE-2005-2268|http://www.mozilla.org/security/announce/mfsa2005-54.html|Patch,Vendor Advisory
+874|CVE-2005-2269|http://www.mozilla.org/security/announce/mfsa2005-55.html|Patch,Vendor Advisory
+875|CVE-2005-2270|http://www.mozilla.org/security/announce/mfsa2005-56.html|Patch,Vendor Advisory
+876|CVE-2005-2705,CVE-2005-2701,CVE-2005-2706,CVE-2005-2704,CVE-2005-2968,CVE-2005-2702,CVE-2005-2703|http://www.mozilla.org/security/announce/mfsa2005-58.html|Vendor Advisory
+877|CVE-2005-2707|http://www.mozilla.org/security/announce/mfsa2005-59.html|
+878|CVE-2005-2871|http://www.mozilla.org/security/announce/mfsa2005-57.html|
+879|CVE-2005-3089|http://www.mozilla.org/products/firefox/releases/1.0.7.html|Patch
+880|CVE-2005-4134|http://www.mozilla.org/security/announce/mfsa2006-03.html|
+881|CVE-2005-4134|http://www.mozilla.org/security/history-title.html|
+882|CVE-2004-0648,CVE-2004-1450,CVE-2004-0598,CVE-2004-0597,CVE-2004-1451,CVE-2004-0763,CVE-2004-0599,CVE-2004-0758|http://www.mozilla.org/projects/security/known-vulnerabilities.html|
+883|CVE-2004-0648|http://www.mozilla.org/security/shell.html|
+884|CVE-2004-0765,CVE-2004-0757,CVE-2004-0761,CVE-2004-0779,CVE-2004-0759,CVE-2004-0764,CVE-2004-0762|http://www.mozilla.org/projects/security/known-vulnerabilities.html#mozilla1.7|
+885|CVE-2004-1381,CVE-2004-1380|http://www.mozilla.org/security/announce/mfsa2005-05.html|Patch,Vendor Advisory
+886|CVE-2004-1156|http://www.mozilla.org/security/announce/mfsa2005-13.html|
+887|CVE-2004-1316|http://www.mozilla.org/security/announce/mfsa2005-06.html|Patch,Vendor Advisory
+888|CVE-2019-11733|https://www.mozilla.org/security/advisories/mfsa2019-24/|Vendor Advisory
+889|CVE-2019-11736,CVE-2019-11737,CVE-2019-11744,CVE-2019-11746,CVE-2019-11751,CVE-2019-9812,CVE-2019-11749,CVE-2019-11734,CVE-2019-11743,CVE-2019-11758,CVE-2019-11753,CVE-2019-11735,CVE-2019-11740,CVE-2019-11741,CVE-2019-11742,CVE-2019-11747,CVE-2019-11738,CVE-2019-11748,CVE-2019-11750,CVE-2019-11752|https://www.mozilla.org/security/advisories/mfsa2019-25/|Vendor Advisory
+890|CVE-2019-11736,CVE-2019-11746,CVE-2019-11744,CVE-2019-11751,CVE-2019-9812,CVE-2019-11749,CVE-2019-11743,CVE-2019-11753,CVE-2019-11740,CVE-2019-11735,CVE-2019-11742,CVE-2019-11747,CVE-2019-11748,CVE-2019-11738,CVE-2019-11750,CVE-2019-11752|https://www.mozilla.org/security/advisories/mfsa2019-26/|Vendor Advisory
+891|CVE-2019-11746,CVE-2019-11744,CVE-2019-11743,CVE-2019-11740,CVE-2019-11742,CVE-2019-11752,CVE-2019-11739|https://www.mozilla.org/security/advisories/mfsa2019-29/|Vendor Advisory
+892|CVE-2019-11746,CVE-2019-11744,CVE-2019-11743,CVE-2019-11740,CVE-2019-11742,CVE-2019-11752,CVE-2019-11739|https://www.mozilla.org/security/advisories/mfsa2019-30/|Vendor Advisory
+893|CVE-2019-11746,CVE-2019-11744,CVE-2019-9812,CVE-2019-11743,CVE-2019-11753,CVE-2019-11740,CVE-2019-11742,CVE-2019-11752|https://www.mozilla.org/security/advisories/mfsa2019-27/|Vendor Advisory
+894|CVE-2019-11754|https://www.mozilla.org/security/advisories/mfsa2019-31/|Vendor Advisory
+895|CVE-2019-11755|https://www.mozilla.org/security/advisories/mfsa2019-32/|Vendor Advisory
+896|CVE-2016-5288,CVE-2016-5287|https://www.mozilla.org/security/advisories/mfsa2016-87/|Vendor Advisory
+897|CVE-2016-9066,CVE-2016-5296,CVE-2016-5293,CVE-2016-5297,CVE-2016-9064,CVE-2016-5294,CVE-2016-5291,CVE-2016-5290,CVE-2016-9074|https://www.mozilla.org/security/advisories/mfsa2016-90/|Vendor Advisory
+898|CVE-2016-9066,CVE-2016-5296,CVE-2016-5297,CVE-2016-5294,CVE-2016-5291,CVE-2016-5290,CVE-2016-9074|https://www.mozilla.org/security/advisories/mfsa2016-93/|Vendor Advisory
+899|CVE-2016-5295|https://www.mozilla.org/en-US/security/advisories/mfsa2013-44/|Vendor Advisory
+900|CVE-2016-9078|https://www.mozilla.org/security/advisories/mfsa2016-91/|Vendor Advisory
+901|CVE-2016-9079|https://www.mozilla.org/security/advisories/mfsa2016-92/|Vendor Advisory
+902|CVE-2016-9893,CVE-2016-9080,CVE-2016-9901,CVE-2016-9902,CVE-2016-9895,CVE-2016-9903,CVE-2016-9897,CVE-2016-9904,CVE-2016-9894,CVE-2016-9899,CVE-2016-9900,CVE-2016-9896,CVE-2016-9898|https://www.mozilla.org/security/advisories/mfsa2016-94/|Vendor Advisory
+903|CVE-2016-9893,CVE-2016-9901,CVE-2016-9902,CVE-2016-9895,CVE-2016-9904,CVE-2016-9905,CVE-2016-9899,CVE-2016-9900,CVE-2016-9897,CVE-2016-9898|https://www.mozilla.org/security/advisories/mfsa2016-95/|Vendor Advisory
+904|CVE-2016-9893,CVE-2016-9895,CVE-2016-9904,CVE-2016-9905,CVE-2016-9899,CVE-2016-9900,CVE-2016-9897,CVE-2016-9898|https://www.mozilla.org/security/advisories/mfsa2016-96/|Vendor Advisory
+905|CVE-2017-5387,CVE-2017-5394,CVE-2017-5391,CVE-2017-5380,CVE-2017-5393,CVE-2017-5395,CVE-2017-5390,CVE-2017-5389,CVE-2017-5375,CVE-2017-5382,CVE-2017-5377,CVE-2017-5384,CVE-2017-5378,CVE-2017-5376,CVE-2017-5386,CVE-2017-5381,CVE-2017-5373,CVE-2017-5379,CVE-2017-5385,CVE-2017-5392,CVE-2017-5374,CVE-2017-5396,CVE-2017-5383,CVE-2017-5388|https://www.mozilla.org/security/advisories/mfsa2017-01/|Vendor Advisory
+906|CVE-2017-5378,CVE-2017-5396,CVE-2017-5376,CVE-2017-5380,CVE-2017-5383,CVE-2017-5386,CVE-2017-5390,CVE-2017-5373,CVE-2017-5375|https://www.mozilla.org/security/advisories/mfsa2017-02/|Vendor Advisory
+907|CVE-2017-5378,CVE-2017-5396,CVE-2017-5376,CVE-2017-5380,CVE-2017-5383,CVE-2017-5390,CVE-2017-5373,CVE-2017-5375|https://www.mozilla.org/security/advisories/mfsa2017-03/|Vendor Advisory
+908|CVE-2017-5397|https://www.mozilla.org/security/advisories/mfsa2017-04/|Vendor Advisory
+909|CVE-2017-5407,CVE-2017-5415,CVE-2017-5427,CVE-2017-5414,CVE-2017-5398,CVE-2017-5417,CVE-2017-5418,CVE-2017-5420,CVE-2017-5413,CVE-2017-5410,CVE-2017-5400,CVE-2017-5412,CVE-2017-5409,CVE-2017-5406,CVE-2017-5404,CVE-2017-5421,CVE-2017-5426,CVE-2017-5402,CVE-2017-5399,CVE-2017-5411,CVE-2017-5403,CVE-2017-5425,CVE-2017-5401,CVE-2017-5422,CVE-2017-5419,CVE-2017-5408,CVE-2017-5416,CVE-2017-5405|https://www.mozilla.org/security/advisories/mfsa2017-05/|Vendor Advisory
+910|CVE-2017-5404,CVE-2017-5407,CVE-2017-5405,CVE-2017-5402,CVE-2017-5408,CVE-2017-5398,CVE-2017-5410,CVE-2017-5400,CVE-2017-5401,CVE-2017-5409|https://www.mozilla.org/security/advisories/mfsa2017-06/|Vendor Advisory
+911|CVE-2017-5404,CVE-2017-5407,CVE-2017-5405,CVE-2017-5402,CVE-2017-5408,CVE-2017-5398,CVE-2017-5410,CVE-2017-5400,CVE-2017-5401|https://www.mozilla.org/security/advisories/mfsa2017-07/|Vendor Advisory
+912|CVE-2017-5407,CVE-2017-5414,CVE-2017-5398,CVE-2017-5418,CVE-2017-5413,CVE-2017-5410,CVE-2017-5400,CVE-2017-5412,CVE-2017-5406,CVE-2017-5404,CVE-2017-5421,CVE-2017-5426,CVE-2017-5402,CVE-2017-5399,CVE-2017-5411,CVE-2017-5403,CVE-2017-5425,CVE-2017-5401,CVE-2017-5422,CVE-2017-5419,CVE-2017-5408,CVE-2017-5416,CVE-2017-5405|https://www.mozilla.org/security/advisories/mfsa2017-09/|Vendor Advisory
+913|CVE-2017-5428|https://www.mozilla.org/security/advisories/mfsa2017-08/|Vendor Advisory
+914|CVE-2017-5449,CVE-2017-5453,CVE-2017-5443,CVE-2017-5442,CVE-2017-5440,CVE-2017-5430,CVE-2017-5463,CVE-2017-5456,CVE-2017-5460,CVE-2017-5455,CVE-2017-5438,CVE-2017-5429,CVE-2017-5436,CVE-2017-5466,CVE-2016-10196,CVE-2017-5434,CVE-2017-5459,CVE-2017-5458,CVE-2017-5444,CVE-2017-5467,CVE-2017-5462,CVE-2017-5469,CVE-2017-5432,CVE-2017-5454,CVE-2017-5439,CVE-2017-5433,CVE-2017-5446,CVE-2017-5452,CVE-2017-5445,CVE-2017-5464,CVE-2017-5468,CVE-2017-5435,CVE-2017-5450,CVE-2017-5448,CVE-2017-5447,CVE-2017-5441,CVE-2017-5465,CVE-2017-5451|https://www.mozilla.org/security/advisories/mfsa2017-10/|Vendor Advisory
+915|CVE-2017-5443,CVE-2017-5442,CVE-2017-5440,CVE-2017-5460,CVE-2017-5438,CVE-2017-5429,CVE-2017-5436,CVE-2016-10196,CVE-2017-5434,CVE-2017-5459,CVE-2017-5444,CVE-2017-5462,CVE-2017-5469,CVE-2017-5432,CVE-2017-5439,CVE-2017-5433,CVE-2017-5446,CVE-2017-5445,CVE-2017-5464,CVE-2017-5435,CVE-2017-5448,CVE-2017-5447,CVE-2017-5441,CVE-2017-5465|https://www.mozilla.org/security/advisories/mfsa2017-11/|Vendor Advisory
+916|CVE-2017-5449,CVE-2017-5443,CVE-2017-5442,CVE-2017-5440,CVE-2017-5430,CVE-2017-5456,CVE-2017-5460,CVE-2017-5455,CVE-2017-5438,CVE-2017-5429,CVE-2017-5436,CVE-2017-5466,CVE-2016-10196,CVE-2017-5434,CVE-2017-5459,CVE-2017-5444,CVE-2017-5467,CVE-2017-5462,CVE-2017-5469,CVE-2017-5432,CVE-2017-5454,CVE-2017-5439,CVE-2017-5433,CVE-2017-5446,CVE-2017-5445,CVE-2017-5464,CVE-2017-5435,CVE-2017-5448,CVE-2017-5447,CVE-2017-5441,CVE-2017-5465,CVE-2017-5451|https://www.mozilla.org/security/advisories/mfsa2017-12/|Vendor Advisory
+917|CVE-2017-5449,CVE-2017-5443,CVE-2017-5442,CVE-2017-5440,CVE-2017-5430,CVE-2017-5460,CVE-2017-5438,CVE-2017-5429,CVE-2017-5436,CVE-2017-5466,CVE-2016-10196,CVE-2017-5434,CVE-2017-5459,CVE-2017-5444,CVE-2017-5467,CVE-2017-5462,CVE-2017-5469,CVE-2017-5432,CVE-2017-5454,CVE-2017-5439,CVE-2017-5433,CVE-2017-5446,CVE-2017-5445,CVE-2017-5464,CVE-2017-5435,CVE-2017-5447,CVE-2017-5441,CVE-2017-5465,CVE-2017-5451|https://www.mozilla.org/security/advisories/mfsa2017-13/|Vendor Advisory
+918|CVE-2017-7757,CVE-2017-7750,CVE-2017-7752,CVE-2017-7755,CVE-2017-7760,CVE-2017-5470,CVE-2017-7766,CVE-2017-7770,CVE-2017-7761,CVE-2017-5472,CVE-2017-7762,CVE-2017-7778,CVE-2017-7764,CVE-2017-7758,CVE-2017-7756,CVE-2017-7765,CVE-2017-7749,CVE-2017-5471,CVE-2017-7751,CVE-2017-7768,CVE-2017-7759,CVE-2017-7767,CVE-2017-7754,CVE-2017-7763|https://www.mozilla.org/security/advisories/mfsa2017-15/|Vendor Advisory
+919|CVE-2017-7754,CVE-2017-7767,CVE-2017-7778,CVE-2017-7764,CVE-2017-7752,CVE-2017-7755,CVE-2017-7757,CVE-2017-7758,CVE-2017-7760,CVE-2017-7756,CVE-2017-7765,CVE-2017-7749,CVE-2017-5470,CVE-2017-7750,CVE-2017-7761,CVE-2017-7751,CVE-2017-7766,CVE-2017-7763,CVE-2017-7768,CVE-2017-5472|https://www.mozilla.org/security/advisories/mfsa2017-16/|Vendor Advisory
+920|CVE-2017-7754,CVE-2017-7778,CVE-2017-7764,CVE-2017-7752,CVE-2017-7755,CVE-2017-7757,CVE-2017-7758,CVE-2017-7756,CVE-2017-7765,CVE-2017-7749,CVE-2017-5470,CVE-2017-7750,CVE-2017-7751,CVE-2017-7763,CVE-2017-5472|https://www.mozilla.org/security/advisories/mfsa2017-17/|Vendor Advisory
+921|CVE-2017-7783,CVE-2017-7789,CVE-2017-7794,CVE-2017-7797,CVE-2017-7803,CVE-2017-7799,CVE-2017-7801,CVE-2017-7806,CVE-2017-7798,CVE-2017-7781,CVE-2017-7807,CVE-2017-7788,CVE-2017-7784,CVE-2017-7782,CVE-2017-7800,CVE-2017-7790,CVE-2017-7809,CVE-2017-7779,CVE-2017-7753,CVE-2017-7786,CVE-2017-7802,CVE-2017-7792,CVE-2017-7785,CVE-2017-7791,CVE-2017-7780,CVE-2017-7796,CVE-2017-7804,CVE-2017-7787,CVE-2017-7808|https://www.mozilla.org/security/advisories/mfsa2017-18/|Vendor Advisory
+922|CVE-2017-7785,CVE-2017-7801,CVE-2017-7809,CVE-2017-7791,CVE-2017-7779,CVE-2017-7753,CVE-2017-7792,CVE-2017-7798,CVE-2017-7807,CVE-2017-7804,CVE-2017-7786,CVE-2017-7802,CVE-2017-7784,CVE-2017-7787,CVE-2017-7782,CVE-2017-7800,CVE-2017-7803|https://www.mozilla.org/security/advisories/mfsa2017-19/|Vendor Advisory
+923|CVE-2017-7785,CVE-2017-7801,CVE-2017-7809,CVE-2017-7791,CVE-2017-7779,CVE-2017-7753,CVE-2017-7792,CVE-2017-7807,CVE-2017-7804,CVE-2017-7786,CVE-2017-7802,CVE-2017-7784,CVE-2017-7787,CVE-2017-7782,CVE-2017-7800,CVE-2017-7803|https://www.mozilla.org/security/advisories/mfsa2017-20/|Vendor Advisory
+924|CVE-2017-7793,CVE-2017-7815,CVE-2017-7825,CVE-2017-7819,CVE-2017-7822,CVE-2017-7824,CVE-2017-7820,CVE-2017-7816,CVE-2017-7814,CVE-2017-7810,CVE-2017-7818,CVE-2017-7823,CVE-2017-7817,CVE-2017-7813,CVE-2017-7821,CVE-2017-7811,CVE-2017-7812,CVE-2017-7805|https://www.mozilla.org/security/advisories/mfsa2017-21/|Vendor Advisory
+925|CVE-2017-7793,CVE-2017-7825,CVE-2017-7819,CVE-2017-7818,CVE-2017-7814,CVE-2017-7810,CVE-2017-7823,CVE-2017-7824,CVE-2017-7805|https://www.mozilla.org/security/advisories/mfsa2017-22/|Vendor Advisory
+926|CVE-2017-7793,CVE-2017-7825,CVE-2017-7819,CVE-2017-7818,CVE-2017-7814,CVE-2017-7810,CVE-2017-7823,CVE-2017-7824,CVE-2017-7805|https://www.mozilla.org/security/advisories/mfsa2017-23/|Vendor Advisory
+927|CVE-2017-7835,CVE-2017-7827,CVE-2017-7832,CVE-2017-7826,CVE-2017-7833,CVE-2017-7834,CVE-2017-7840,CVE-2017-7842,CVE-2017-7836,CVE-2017-7830,CVE-2017-7831,CVE-2017-7838,CVE-2017-7828,CVE-2017-7837,CVE-2017-7839|https://www.mozilla.org/security/advisories/mfsa2017-24/|Vendor Advisory
+928|CVE-2017-7830,CVE-2017-7826,CVE-2017-7828|https://www.mozilla.org/security/advisories/mfsa2017-25/|Vendor Advisory
+929|CVE-2017-7830,CVE-2017-7826,CVE-2017-7828|https://www.mozilla.org/security/advisories/mfsa2017-26/|Vendor Advisory
+930|CVE-2017-7847,CVE-2017-7829,CVE-2017-7845,CVE-2017-7846,CVE-2017-7848|https://www.mozilla.org/security/advisories/mfsa2017-30/|Vendor Advisory
+931|CVE-2017-7843,CVE-2017-7844|https://www.mozilla.org/security/advisories/mfsa2017-27/|Vendor Advisory
+932|CVE-2017-7843,CVE-2017-7845|https://www.mozilla.org/security/advisories/mfsa2017-28/|Vendor Advisory
+933|CVE-2017-7845|https://www.mozilla.org/security/advisories/mfsa2017-29/|Vendor Advisory
+934|CVE-2018-5110,CVE-2018-5118,CVE-2018-5107,CVE-2018-5102,CVE-2018-5101,CVE-2018-5091,CVE-2018-5095,CVE-2018-5092,CVE-2018-5108,CVE-2018-5112,CVE-2018-5098,CVE-2018-5117,CVE-2018-5122,CVE-2018-5089,CVE-2018-5109,CVE-2018-5113,CVE-2018-5116,CVE-2018-5094,CVE-2018-5114,CVE-2018-5111,CVE-2018-5103,CVE-2018-5121,CVE-2018-5115,CVE-2018-5090,CVE-2018-5099,CVE-2018-5097,CVE-2018-5104,CVE-2018-5105,CVE-2018-5106,CVE-2018-5093,CVE-2018-5100,CVE-2018-5119|https://www.mozilla.org/security/advisories/mfsa2018-02/|Vendor Advisory
+935|CVE-2018-5097,CVE-2018-5098,CVE-2018-5104,CVE-2018-5096,CVE-2018-5117,CVE-2018-5103,CVE-2018-5089,CVE-2018-5102,CVE-2018-5099,CVE-2018-5091,CVE-2018-5095|https://www.mozilla.org/security/advisories/mfsa2018-03/|Vendor Advisory
+936|CVE-2018-5097,CVE-2018-5098,CVE-2018-5104,CVE-2018-5096,CVE-2018-5117,CVE-2018-5103,CVE-2018-5089,CVE-2018-5102,CVE-2018-5099,CVE-2018-5095|https://www.mozilla.org/security/advisories/mfsa2018-04/|Vendor Advisory
+937|CVE-2018-5132,CVE-2018-5143,CVE-2018-5142,CVE-2018-5136,CVE-2018-5141,CVE-2018-5129,CVE-2018-5135,CVE-2018-5126,CVE-2018-5131,CVE-2018-5127,CVE-2018-5140,CVE-2018-5125,CVE-2018-5133,CVE-2018-5137,CVE-2018-5138,CVE-2018-5128,CVE-2018-5134,CVE-2018-5130|https://www.mozilla.org/security/advisories/mfsa2018-06/|Vendor Advisory
+938|CVE-2018-5129,CVE-2018-5131,CVE-2018-5127,CVE-2018-5144,CVE-2018-5125,CVE-2018-5145,CVE-2018-5130|https://www.mozilla.org/security/advisories/mfsa2018-07/|Vendor Advisory
+939|CVE-2018-5146,CVE-2018-5129,CVE-2018-5144,CVE-2018-5127,CVE-2018-5125,CVE-2018-5145|https://www.mozilla.org/security/advisories/mfsa2018-09/|Vendor Advisory
+940|CVE-2018-5147,CVE-2018-5146|https://www.mozilla.org/security/advisories/mfsa2018-08/|Vendor Advisory
+941|CVE-2018-5148|https://www.mozilla.org/security/advisories/mfsa2018-10/|Vendor Advisory
+942|CVE-2018-5150,CVE-2018-5166,CVE-2018-5154,CVE-2018-5167,CVE-2018-5164,CVE-2018-5163,CVE-2018-5172,CVE-2018-5151,CVE-2018-5174,CVE-2018-5152,CVE-2018-5157,CVE-2018-5177,CVE-2018-5158,CVE-2018-5182,CVE-2018-5168,CVE-2018-5176,CVE-2018-5169,CVE-2018-5160,CVE-2018-5159,CVE-2018-5181,CVE-2018-5155,CVE-2018-5173,CVE-2018-5153,CVE-2018-5175,CVE-2018-5180,CVE-2018-5165|https://www.mozilla.org/security/advisories/mfsa2018-11/|Vendor Advisory,Third Party Advisory
+943|CVE-2018-5150,CVE-2018-5158,CVE-2018-5159,CVE-2018-5154,CVE-2018-5168,CVE-2018-5155,CVE-2018-5178,CVE-2018-5174,CVE-2018-5157,CVE-2018-5183|https://www.mozilla.org/security/advisories/mfsa2018-12/|Vendor Advisory
+944|CVE-2018-5150,CVE-2018-5161,CVE-2018-5159,CVE-2018-5154,CVE-2018-5168,CVE-2018-5170,CVE-2018-5155,CVE-2018-5162,CVE-2018-5178,CVE-2018-5174,CVE-2018-5183,CVE-2018-5185,CVE-2018-5184|https://www.mozilla.org/security/advisories/mfsa2018-13/|Vendor Advisory
+945|CVE-2019-11700,CVE-2019-9818,CVE-2019-11695,CVE-2019-11691,CVE-2019-9819,CVE-2019-11693,CVE-2019-11699,CVE-2019-9814,CVE-2019-9820,CVE-2019-9816,CVE-2019-11701,CVE-2019-11694,CVE-2019-11697,CVE-2019-11698,CVE-2019-11692,CVE-2019-9800,CVE-2019-11696,CVE-2019-9817,CVE-2019-9821,CVE-2019-9815|https://www.mozilla.org/security/advisories/mfsa2019-13/|Vendor Advisory
+946|CVE-2019-9818,CVE-2019-11691,CVE-2019-9819,CVE-2019-11693,CVE-2019-9820,CVE-2019-11694,CVE-2019-11698,CVE-2019-9800,CVE-2019-11692,CVE-2019-9817,CVE-2019-9816,CVE-2019-9815|https://www.mozilla.org/security/advisories/mfsa2019-14/|Vendor Advisory
+947|CVE-2019-9818,CVE-2019-11691,CVE-2019-9819,CVE-2019-11693,CVE-2019-9820,CVE-2019-11694,CVE-2019-11698,CVE-2019-9800,CVE-2019-11692,CVE-2019-9817,CVE-2019-9816,CVE-2019-9815|https://www.mozilla.org/security/advisories/mfsa2019-15/|Vendor Advisory
+948|CVE-2019-11702|https://www.mozilla.org/security/advisories/mfsa2019-16/|Vendor Advisory
+949|CVE-2019-11704,CVE-2019-11706,CVE-2019-11705,CVE-2019-11703|https://www.mozilla.org/security/advisories/mfsa2019-17/|Vendor Advisory
+950|CVE-2019-11707|https://www.mozilla.org/security/advisories/mfsa2019-18/|Vendor Advisory
+951|CVE-2019-11707,CVE-2019-11708|https://www.mozilla.org/security/advisories/mfsa2019-20/|Vendor Advisory
+952|CVE-2019-11708|https://www.mozilla.org/security/advisories/mfsa2019-19/|Vendor Advisory
+953|CVE-2019-11709,CVE-2019-9811,CVE-2019-11729,CVE-2019-11717,CVE-2019-11716,CVE-2019-11713,CVE-2019-11730,CVE-2019-11724,CVE-2019-11727,CVE-2019-11711,CVE-2019-11712,CVE-2019-11715,CVE-2019-11723,CVE-2019-11725,CVE-2019-11721,CVE-2019-11718,CVE-2019-11714,CVE-2019-11720,CVE-2019-11710,CVE-2019-11728,CVE-2019-11719|https://www.mozilla.org/security/advisories/mfsa2019-21/|Vendor Advisory
+954|CVE-2019-11709,CVE-2019-9811,CVE-2019-11719,CVE-2019-11711,CVE-2019-11729,CVE-2019-11712,CVE-2019-11717,CVE-2019-11715,CVE-2019-11713,CVE-2019-11730|https://www.mozilla.org/security/advisories/mfsa2019-22/|Vendor Advisory
+955|CVE-2019-11709,CVE-2019-9811,CVE-2019-11719,CVE-2019-11711,CVE-2019-11729,CVE-2019-11712,CVE-2019-11717,CVE-2019-11715,CVE-2019-11713,CVE-2019-11730|https://www.mozilla.org/security/advisories/mfsa2019-23/|Vendor Advisory
+956|CVE-2015-7575|http://www.mozilla.org/security/announce/2015/mfsa2015-150.html|Vendor Advisory
+957|CVE-2015-8510|http://www.mozilla.org/security/announce/2015/mfsa2015-153.html|Vendor Advisory
+958|CVE-2015-8511|http://www.mozilla.org/security/announce/2015/mfsa2015-152.html|Vendor Advisory
+959|CVE-2015-8512|http://www.mozilla.org/security/announce/2015/mfsa2015-151.html|Vendor Advisory
+960|CVE-2016-1930,CVE-2016-1931|http://www.mozilla.org/security/announce/2016/mfsa2016-01.html|Vendor Advisory
+961|CVE-2016-1933|http://www.mozilla.org/security/announce/2016/mfsa2016-02.html|Vendor Advisory
+962|CVE-2016-1935|http://www.mozilla.org/security/announce/2016/mfsa2016-03.html|Vendor Advisory
+963|CVE-2016-1937|http://www.mozilla.org/security/announce/2016/mfsa2016-06.html|Vendor Advisory
+964|CVE-2016-1938|http://www.mozilla.org/security/announce/2016/mfsa2016-07.html|Vendor Advisory
+965|CVE-2016-1940|http://www.mozilla.org/security/announce/2016/mfsa2016-05.html|Vendor Advisory
+966|CVE-2016-1941|http://www.mozilla.org/security/announce/2016/mfsa2016-08.html|Vendor Advisory
+967|CVE-2016-1943,CVE-2016-1942|http://www.mozilla.org/security/announce/2016/mfsa2016-09.html|Vendor Advisory
+968|CVE-2016-1946,CVE-2016-1945,CVE-2016-1944|http://www.mozilla.org/security/announce/2016/mfsa2016-10.html|Vendor Advisory
+969|CVE-2016-1947|http://www.mozilla.org/security/announce/2016/mfsa2016-11.html|Vendor Advisory
+970|CVE-2016-1948|http://www.mozilla.org/security/announce/2016/mfsa2016-12.html|Vendor Advisory
+971|CVE-2016-1521,CVE-2016-1522,CVE-2016-1523,CVE-2016-1526|http://www.mozilla.org/security/announce/2016/mfsa2016-14.html|Patch,Vendor Advisory,Third Party Advisory
+972|CVE-2016-1949|http://www.mozilla.org/security/announce/2016/mfsa2016-13.html|Vendor Advisory
+973|CVE-2016-1950|http://www.mozilla.org/security/announce/2016/mfsa2016-35.html|Vendor Advisory
+974|CVE-2016-1952,CVE-2016-1953|http://www.mozilla.org/security/announce/2016/mfsa2016-16.html|Vendor Advisory
+975|CVE-2016-1954|http://www.mozilla.org/security/announce/2016/mfsa2016-17.html|Vendor Advisory
+976|CVE-2016-1955|http://www.mozilla.org/security/announce/2016/mfsa2016-18.html|Vendor Advisory
+977|CVE-2016-1956|http://www.mozilla.org/security/announce/2016/mfsa2016-19.html|Vendor Advisory
+978|CVE-2016-1957|http://www.mozilla.org/security/announce/2016/mfsa2016-20.html|Vendor Advisory
+979|CVE-2016-1958|http://www.mozilla.org/security/announce/2016/mfsa2016-21.html|Vendor Advisory
+980|CVE-2016-1959|http://www.mozilla.org/security/announce/2016/mfsa2016-22.html|Vendor Advisory
+981|CVE-2016-1960|http://www.mozilla.org/security/announce/2016/mfsa2016-23.html|Vendor Advisory
+982|CVE-2016-1961|http://www.mozilla.org/security/announce/2016/mfsa2016-24.html|Vendor Advisory
+983|CVE-2016-1962|http://www.mozilla.org/security/announce/2016/mfsa2016-25.html|Vendor Advisory
+984|CVE-2016-1963|http://www.mozilla.org/security/announce/2016/mfsa2016-26.html|Vendor Advisory
+985|CVE-2016-1964|http://www.mozilla.org/security/announce/2016/mfsa2016-27.html|Vendor Advisory
+986|CVE-2016-1965|http://www.mozilla.org/security/announce/2016/mfsa2016-28.html|Vendor Advisory
+987|CVE-2016-1966|http://www.mozilla.org/security/announce/2016/mfsa2016-31.html|Vendor Advisory
+988|CVE-2016-1967|http://www.mozilla.org/security/announce/2016/mfsa2016-29.html|Vendor Advisory
+989|CVE-2016-1968|http://www.mozilla.org/security/announce/2016/mfsa2016-30.html|Vendor Advisory
+990|CVE-2016-1969|http://www.mozilla.org/security/announce/2016/mfsa2016-38.html|Vendor Advisory
+991|CVE-2016-1975,CVE-2016-1971,CVE-2016-1972,CVE-2016-1970,CVE-2016-1976|http://www.mozilla.org/security/announce/2016/mfsa2016-32.html|Vendor Advisory
+992|CVE-2016-1973|http://www.mozilla.org/security/announce/2016/mfsa2016-33.html|Vendor Advisory
+993|CVE-2016-1974|http://www.mozilla.org/security/announce/2016/mfsa2016-34.html|Vendor Advisory
+994|CVE-2016-2801,CVE-2016-2800,CVE-2016-2794,CVE-2016-2799,CVE-2016-2792,CVE-2016-2791,CVE-2016-2793,CVE-2016-1977,CVE-2016-2795,CVE-2016-2790,CVE-2016-2797,CVE-2016-2802,CVE-2016-2796,CVE-2016-2798|http://www.mozilla.org/security/announce/2016/mfsa2016-37.html|Vendor Advisory
+995|CVE-2016-1978|http://www.mozilla.org/security/announce/2016/mfsa2016-15.html|Vendor Advisory
+996|CVE-2016-1979|http://www.mozilla.org/security/announce/2016/mfsa2016-36.html|Vendor Advisory
+997|CVE-2020-15647|https://www.mozilla.org/security/advisories/mfsa2020-27/|Vendor Advisory
+998|CVE-2020-15648|https://www.mozilla.org/security/advisories/mfsa2020-28/|Vendor Advisory
+999|CVE-2020-15648|https://www.mozilla.org/security/advisories/mfsa2020-29/|Vendor Advisory
+1000|CVE-2020-15650,CVE-2020-15659,CVE-2020-15649,CVE-2020-15652|https://www.mozilla.org/security/advisories/mfsa2020-31/|Vendor Advisory
+1001|CVE-2020-15662,CVE-2020-15661,CVE-2020-15651|https://www.mozilla.org/security/advisories/mfsa2020-34/|Vendor Advisory
+1002|CVE-2020-15659,CVE-2020-15656,CVE-2020-15652,CVE-2020-15655,CVE-2020-15658,CVE-2020-15654,CVE-2020-15657,CVE-2020-15653|https://www.mozilla.org/security/advisories/mfsa2020-30/|Vendor Advisory
+1003|CVE-2020-15659,CVE-2020-15656,CVE-2020-15652,CVE-2020-15655,CVE-2020-15658,CVE-2020-15654,CVE-2020-15657,CVE-2020-15653|https://www.mozilla.org/security/advisories/mfsa2020-32/|Vendor Advisory
+1004|CVE-2020-15659,CVE-2020-15656,CVE-2020-15652,CVE-2020-15655,CVE-2020-15658,CVE-2020-15654,CVE-2020-15657,CVE-2020-15653|https://www.mozilla.org/security/advisories/mfsa2020-33/|Vendor Advisory
+1005|CVE-2020-15659,CVE-2020-15652|https://www.mozilla.org/security/advisories/mfsa2020-35/|Vendor Advisory
+1006|CVE-2020-15665,CVE-2020-15663,CVE-2020-12400,CVE-2020-15668,CVE-2020-15670,CVE-2020-15667,CVE-2020-15666,CVE-2020-6829,CVE-2020-15664,CVE-2020-12401|https://www.mozilla.org/security/advisories/mfsa2020-36/|Vendor Advisory,Release Notes
+1007|CVE-2020-15669,CVE-2020-15664,CVE-2020-15663|https://www.mozilla.org/security/advisories/mfsa2020-37/|Vendor Advisory,Release Notes
+1008|CVE-2020-15670,CVE-2020-15664,CVE-2020-15663|https://www.mozilla.org/security/advisories/mfsa2020-38/|Vendor Advisory,Release Notes
+1009|CVE-2020-15669,CVE-2020-15664,CVE-2020-15663|https://www.mozilla.org/security/advisories/mfsa2020-40/|Vendor Advisory,Release Notes
+1010|CVE-2020-15670,CVE-2020-15664,CVE-2020-15663|https://www.mozilla.org/security/advisories/mfsa2020-41/|Vendor Advisory,Release Notes
+1011|CVE-2020-12400,CVE-2020-15668,CVE-2020-15671,CVE-2020-15670,CVE-2020-15666,CVE-2020-6829,CVE-2020-15664,CVE-2020-12401|https://www.mozilla.org/security/advisories/mfsa2020-39/|Vendor Advisory,Release Notes
+1012|CVE-2020-15673,CVE-2020-15674,CVE-2020-15678,CVE-2020-15676,CVE-2020-15677,CVE-2020-15675|https://www.mozilla.org/security/advisories/mfsa2020-42/|Vendor Advisory,Release Notes
+1013|CVE-2020-15673,CVE-2020-15678,CVE-2020-15676,CVE-2020-15677|https://www.mozilla.org/security/advisories/mfsa2020-43/|Vendor Advisory,Release Notes
+1014|CVE-2020-15673,CVE-2020-15678,CVE-2020-15676,CVE-2020-15677|https://www.mozilla.org/security/advisories/mfsa2020-44/|Vendor Advisory,Release Notes
+1015|CVE-2020-12417,CVE-2020-12420,CVE-2020-12421,CVE-2020-12419,CVE-2020-15646,CVE-2020-12418|https://www.mozilla.org/security/advisories/mfsa2020-26/|Vendor Advisory
+1016|CVE-2020-15682,CVE-2020-15684,CVE-2020-15683,CVE-2020-15681,CVE-2020-15680|https://www.mozilla.org/security/advisories/mfsa2020-45/|Vendor Advisory,Release Notes
+1017|CVE-2020-15683|https://www.mozilla.org/security/advisories/mfsa2020-46/|Vendor Advisory,Release Notes
+1018|CVE-2020-15683|https://www.mozilla.org/security/advisories/mfsa2020-47/|Vendor Advisory,Release Notes
+1019|CVE-2017-5031|https://www.mozilla.org/security/advisories/mfsa2017-14/|
+1020|CVE-2017-5461|https://www.mozilla.org/en-US/security/advisories/mfsa2017-10/#CVE-2017-5461|Vendor Advisory
+1021|CVE-2017-5461|https://www.mozilla.org/en-US/security/advisories/mfsa2017-11/#CVE-2017-5461|Vendor Advisory
+1022|CVE-2017-5461|https://www.mozilla.org/en-US/security/advisories/mfsa2017-12/#CVE-2017-5461|Vendor Advisory
+1023|CVE-2017-5461|https://www.mozilla.org/en-US/security/advisories/mfsa2017-13/#CVE-2017-5461|Vendor Advisory
+1024|CVE-2020-6820,CVE-2020-6819|https://www.mozilla.org/security/advisories/mfsa2020-11/|Vendor Advisory
+1025|CVE-2020-6820,CVE-2020-6822,CVE-2020-6821,CVE-2020-6819,CVE-2020-6825|https://www.mozilla.org/security/advisories/mfsa2020-14/|Vendor Advisory
+1026|CVE-2020-6822,CVE-2020-6821,CVE-2020-6823,CVE-2020-6824,CVE-2020-6826,CVE-2020-6825|https://www.mozilla.org/security/advisories/mfsa2020-12/|Vendor Advisory,Third Party Advisory
+1027|CVE-2020-6822,CVE-2020-6828,CVE-2020-6821,CVE-2020-6827,CVE-2020-6825|https://www.mozilla.org/security/advisories/mfsa2020-13/|Vendor Advisory
+1028|CVE-2020-12395,CVE-2020-12397,CVE-2020-6831,CVE-2020-12387,CVE-2020-12393,CVE-2020-12392|https://www.mozilla.org/security/advisories/mfsa2020-18/|Vendor Advisory,Third Party Advisory
+1029|CVE-2020-12390,CVE-2020-12395,CVE-2020-12389,CVE-2020-12394,CVE-2020-6831,CVE-2020-12391,CVE-2020-12387,CVE-2020-12393,CVE-2020-12392,CVE-2020-12396,CVE-2020-12388|https://www.mozilla.org/security/advisories/mfsa2020-16/|Vendor Advisory,Third Party Advisory
+1030|CVE-2020-12395,CVE-2020-6831,CVE-2020-12387,CVE-2020-12393,CVE-2020-12392,CVE-2020-12389,CVE-2020-12388|https://www.mozilla.org/security/advisories/mfsa2020-17/|Vendor Advisory,Third Party Advisory
+1031|CVE-2020-6830|https://www.mozilla.org/security/advisories/mfsa2020-15/|Vendor Advisory
+1032|CVE-2020-12416,CVE-2020-12426,CVE-2020-12423,CVE-2020-12424,CVE-2020-12417,CVE-2020-12420,CVE-2020-12425,CVE-2020-12402,CVE-2020-12421,CVE-2020-12415,CVE-2020-12422,CVE-2020-12419,CVE-2020-12418|https://www.mozilla.org/security/advisories/mfsa2020-24/|Vendor Advisory
+1033|CVE-2020-12405,CVE-2020-12398,CVE-2020-12406,CVE-2020-12399,CVE-2020-12410|https://www.mozilla.org/security/advisories/mfsa2020-22/|Vendor Advisory
+1034|CVE-2020-12409,CVE-2020-12410,CVE-2020-12407,CVE-2020-12411,CVE-2020-12406,CVE-2020-12399,CVE-2020-12405,CVE-2020-12408|https://www.mozilla.org/security/advisories/mfsa2020-20/|Vendor Advisory
+1035|CVE-2020-12406,CVE-2020-12410,CVE-2020-12399,CVE-2020-12405|https://www.mozilla.org/security/advisories/mfsa2020-21/|Vendor Advisory
+1036|CVE-2020-12404|https://www.mozilla.org/security/advisories/mfsa2020-19/|Vendor Advisory
+1037|CVE-2019-17001,CVE-2019-11765,CVE-2019-11757,CVE-2019-17002,CVE-2019-11759,CVE-2019-11760,CVE-2019-11764,CVE-2019-11763,CVE-2019-17000,CVE-2020-12412,CVE-2019-11761,CVE-2019-11762|https://www.mozilla.org/security/advisories/mfsa2019-34/|Vendor Advisory
+1038|CVE-2020-12414|https://www.mozilla.org/security/advisories/mfsa2020-23/|Vendor Advisory
+1039|CVE-2020-12417,CVE-2020-12420,CVE-2020-12421,CVE-2020-12419,CVE-2020-12418|https://www.mozilla.org/security/advisories/mfsa2020-25/|Vendor Advisory
+1040|CVE-2007-4841|http://www.mozilla.org/security/announce/2007/mfsa2007-36.html|
+1041|CVE-2007-4879|http://www.mozilla.org/security/announce/2008/mfsa2008-17.html|
+1042|CVE-2007-5045|http://www.mozilla.org/security/announce/2007/mfsa2007-28.html|Patch
+1043|CVE-2007-5334|http://www.mozilla.org/security/announce/2007/mfsa2007-33.html|Patch
+1044|CVE-2007-5337|http://www.mozilla.org/security/announce/2007/mfsa2007-34.html|Patch
+1045|CVE-2007-5338|http://www.mozilla.org/security/announce/2007/mfsa2007-35.html|Patch
+1046|CVE-2007-5340,CVE-2007-5339|http://www.mozilla.org/security/announce/2007/mfsa2007-29.html|Patch
+1047|CVE-2007-5947,CVE-2007-6589|http://www.mozilla.org/security/announce/2007/mfsa2007-37.html|Vendor Advisory
+1048|CVE-2007-5959|http://www.mozilla.org/security/announce/2007/mfsa2007-38.html|Patch
+1049|CVE-2007-5960|http://www.mozilla.org/security/announce/2007/mfsa2007-39.html|
+1050|CVE-2006-0293,CVE-2006-0292|http://www.mozilla.org/security/announce/2006/mfsa2006-01.html|
+1051|CVE-2006-0294|http://www.mozilla.org/security/announce/2006/mfsa2006-02.html|
+1052|CVE-2006-0295|http://www.mozilla.org/security/announce/2006/mfsa2006-04.html|
+1053|CVE-2006-0296|http://www.mozilla.org/security/announce/2006/mfsa2006-05.html|
+1054|CVE-2006-0297|http://www.mozilla.org/security/announce/2006/mfsa2006-06.html|
+1055|CVE-2006-0298|http://www.mozilla.org/security/announce/2006/mfsa2006-07.html|
+1056|CVE-2006-0299|http://www.mozilla.org/security/announce/2006/mfsa2006-08.html|
+1057|CVE-2006-0884|http://www.mozilla.org/security/announce/2006/mfsa2006-21.html|Vendor Advisory
+1058|CVE-2006-1045|http://www.mozilla.org/security/announce/2006/mfsa2006-26.html|
+1059|CVE-2006-0749|http://www.mozilla.org/security/announce/2006/mfsa2006-18.html|Vendor Advisory
+1060|CVE-2006-1529,CVE-2006-1724,CVE-2006-1531,CVE-2006-1723,CVE-2006-1530|http://www.mozilla.org/security/announce/2006/mfsa2006-20.html|Patch,Vendor Advisory
+1061|CVE-2006-1725|http://www.mozilla.org/security/announce/2006/mfsa2006-29.html|Vendor Advisory
+1062|CVE-2006-1726|http://www.mozilla.org/security/announce/2006/mfsa2006-28.html|Patch,Vendor Advisory
+1063|CVE-2006-1727|http://www.mozilla.org/security/announce/2006/mfsa2006-25.html|Vendor Advisory
+1064|CVE-2006-1728|http://www.mozilla.org/security/announce/2006/mfsa2006-24.html|Vendor Advisory
+1065|CVE-2006-1729|http://www.mozilla.org/security/announce/2006/mfsa2006-23.html|Vendor Advisory
+1066|CVE-2006-1730|http://www.mozilla.org/security/announce/2006/mfsa2006-22.html|Vendor Advisory
+1067|CVE-2006-1731|http://www.mozilla.org/security/announce/2006/mfsa2006-19.html|
+1068|CVE-2006-1732|http://www.mozilla.org/security/announce/2006/mfsa2006-17.html|
+1069|CVE-2006-1733|http://www.mozilla.org/security/announce/2006/mfsa2006-16.html|Patch,Vendor Advisory
+1070|CVE-2006-1734|http://www.mozilla.org/security/announce/2006/mfsa2006-15.html|Exploit
+1071|CVE-2006-1735|http://www.mozilla.org/security/announce/2006/mfsa2006-14.html|Exploit
+1072|CVE-2006-1736|http://www.mozilla.org/security/announce/2006/mfsa2006-13.html|
+1073|CVE-2006-1737,CVE-2006-1790,CVE-2006-1738,CVE-2006-1739|http://www.mozilla.org/security/announce/2006/mfsa2006-11.html|Patch,Vendor Advisory
+1074|CVE-2006-1740|http://www.mozilla.org/security/announce/2006/mfsa2006-12.html|
+1075|CVE-2006-1741|http://www.mozilla.org/security/announce/2006/mfsa2006-09.html|Exploit
+1076|CVE-2006-1742|http://www.mozilla.org/security/announce/2006/mfsa2006-10.html|
+1077|CVE-2006-1942|http://www.mozilla.org/security/announce/2006/mfsa2006-39.html|Vendor Advisory
+1078|CVE-2006-1993|http://www.mozilla.org/security/announce/2006/mfsa2006-30.html|Vendor Advisory
+1079|CVE-2006-2775|http://www.mozilla.org/security/announce/2006/mfsa2006-35.html|Patch,Vendor Advisory
+1080|CVE-2006-2776|http://www.mozilla.org/security/announce/2006/mfsa2006-37.html|Patch,Vendor Advisory
+1081|CVE-2006-2777|http://www.mozilla.org/security/announce/2006/mfsa2006-43.html|Patch,Vendor Advisory
+1082|CVE-2006-2778|http://www.mozilla.org/security/announce/2006/mfsa2006-38.html|
+1083|CVE-2006-2780,CVE-2006-2779|http://www.mozilla.org/security/announce/2006/mfsa2006-32.html|
+1084|CVE-2006-2781|http://www.mozilla.org/security/announce/2006/mfsa2006-40.html|
+1085|CVE-2006-2782|http://www.mozilla.org/security/announce/2006/mfsa2006-41.html|
+1086|CVE-2006-2783|http://www.mozilla.org/security/announce/2006/mfsa2006-42.html|
+1087|CVE-2006-2784|http://www.mozilla.org/security/announce/2006/mfsa2006-36.html|Vendor Advisory
+1088|CVE-2006-2785|http://www.mozilla.org/security/announce/2006/mfsa2006-34.html|Vendor Advisory
+1089|CVE-2006-2786|http://www.mozilla.org/security/announce/2006/mfsa2006-33.html|Vendor Advisory
+1090|CVE-2006-2787|http://www.mozilla.org/security/announce/2006/mfsa2006-31.html|Vendor Advisory
+1091|CVE-2019-17008,CVE-2019-17010,CVE-2019-17009,CVE-2019-17005,CVE-2019-11745,CVE-2019-11756,CVE-2019-17013,CVE-2019-17012,CVE-2019-17011,CVE-2019-17014|https://www.mozilla.org/security/advisories/mfsa2019-36/|Vendor Advisory
+1092|CVE-2019-17008,CVE-2019-17010,CVE-2019-17009,CVE-2019-17005,CVE-2019-11745,CVE-2019-17012,CVE-2019-17011|https://www.mozilla.org/security/advisories/mfsa2019-37/|Vendor Advisory
+1093|CVE-2019-17008,CVE-2019-17010,CVE-2019-17009,CVE-2019-17005,CVE-2019-11745,CVE-2019-17012,CVE-2019-17011|https://www.mozilla.org/security/advisories/mfsa2019-38/|Vendor Advisory
+1094|CVE-2019-11757,CVE-2019-11759,CVE-2019-11760,CVE-2019-11764,CVE-2019-11758,CVE-2019-11763,CVE-2019-11761,CVE-2019-11762|https://www.mozilla.org/security/advisories/mfsa2019-33/|Vendor Advisory
+1095|CVE-2019-11757,CVE-2019-11759,CVE-2019-11760,CVE-2019-11764,CVE-2019-11758,CVE-2019-11763,CVE-2019-11761,CVE-2019-11762|https://www.mozilla.org/security/advisories/mfsa2019-35/|Vendor Advisory
+1096|CVE-2019-17018,CVE-2019-17024,CVE-2019-17025,CVE-2019-17023,CVE-2019-17021,CVE-2019-17022,CVE-2019-17015,CVE-2019-17017,CVE-2019-17019,CVE-2019-17020,CVE-2019-17016|https://www.mozilla.org/security/advisories/mfsa2020-01/|Vendor Advisory
+1097|CVE-2019-17024,CVE-2019-17021,CVE-2019-17022,CVE-2019-17015,CVE-2019-17017,CVE-2019-17016|https://www.mozilla.org/security/advisories/mfsa2020-02/|Vendor Advisory
+1098|CVE-2019-13722|https://www.mozilla.org/en-US/security/advisories/mfsa2019-36/|Third Party Advisory
+1099|CVE-2011-0051|http://www.mozilla.org/security/announce/2011/mfsa2011-02.html|Vendor Advisory
+1100|CVE-2011-0053,CVE-2011-0062|http://www.mozilla.org/security/announce/2011/mfsa2011-01.html|Vendor Advisory
+1101|CVE-2011-0054|http://www.mozilla.org/security/announce/2011/mfsa2011-04.html|Vendor Advisory
+1102|CVE-2011-0055|http://www.mozilla.org/security/announce/2011/mfsa2011-03.html|Vendor Advisory
+1103|CVE-2011-0056|http://www.mozilla.org/security/announce/2011/mfsa2011-05.html|Vendor Advisory
+1104|CVE-2011-0057|http://www.mozilla.org/security/announce/2011/mfsa2011-06.html|Vendor Advisory
+1105|CVE-2011-0058|http://www.mozilla.org/security/announce/2011/mfsa2011-07.html|Vendor Advisory
+1106|CVE-2011-0059|http://www.mozilla.org/security/announce/2011/mfsa2011-10.html|Vendor Advisory
+1107|CVE-2011-0061|http://www.mozilla.org/security/announce/2011/mfsa2011-09.html|Vendor Advisory
+1108|CVE-2011-1187|http://www.mozilla.org/security/announce/2012/mfsa2012-32.html|Third Party Advisory
+1109|CVE-2011-1300|http://www.mozilla.org/security/announce/2011/mfsa2011-17.html|Vendor Advisory
+1110|CVE-2011-1712|http://www.mozilla.org/security/announce/2011/mfsa2011-18.html|Vendor Advisory
+1111|CVE-2011-0066,CVE-2011-0073,CVE-2011-0065|http://www.mozilla.org/security/announce/2011/mfsa2011-13.html|Vendor Advisory
+1112|CVE-2011-0067|http://www.mozilla.org/security/announce/2011/mfsa2011-14.html|Vendor Advisory
+1113|CVE-2011-0077,CVE-2011-0081,CVE-2011-0074,CVE-2011-0080,CVE-2011-0070,CVE-2011-0079,CVE-2011-0072,CVE-2011-0075,CVE-2011-0069,CVE-2011-0078|http://www.mozilla.org/security/announce/2011/mfsa2011-12.html|Vendor Advisory
+1114|CVE-2011-0071|http://www.mozilla.org/security/announce/2011/mfsa2011-16.html|Vendor Advisory
+1115|CVE-2011-0076|http://www.mozilla.org/security/announce/2011/mfsa2011-15.html|Vendor Advisory
+1116|CVE-2011-0085,CVE-2011-2363,CVE-2011-0083|http://www.mozilla.org/security/announce/2011/mfsa2011-23.html|Vendor Advisory
+1117|CVE-2011-2362|http://www.mozilla.org/security/announce/2011/mfsa2011-24.html|Vendor Advisory
+1118|CVE-2011-2365,CVE-2011-2374,CVE-2011-2605,CVE-2011-2376,CVE-2011-2375,CVE-2011-2364|http://www.mozilla.org/security/announce/2011/mfsa2011-19.html|Vendor Advisory
+1119|CVE-2011-2366|http://www.mozilla.org/security/announce/2011/mfsa2011-25.html|
+1120|CVE-2011-2368,CVE-2011-2367|http://www.mozilla.org/security/announce/2011/mfsa2011-26.html|Vendor Advisory
+1121|CVE-2011-2369|http://www.mozilla.org/security/announce/2011/mfsa2011-27.html|Vendor Advisory
+1122|CVE-2011-2370|http://www.mozilla.org/security/announce/2011/mfsa2011-28.html|Vendor Advisory
+1123|CVE-2011-2371|http://www.mozilla.org/security/announce/2011/mfsa2011-22.html|Vendor Advisory
+1124|CVE-2011-2373|http://www.mozilla.org/security/announce/2011/mfsa2011-20.html|Vendor Advisory
+1125|CVE-2011-2377|http://www.mozilla.org/security/announce/2011/mfsa2011-21.html|Vendor Advisory
+1126|CVE-2011-2991,CVE-2011-2992,CVE-2011-2986,CVE-2011-2988,CVE-2011-0084,CVE-2011-2987,CVE-2011-2989,CVE-2011-2993,CVE-2011-2990,CVE-2011-2985|http://www.mozilla.org/security/announce/2011/mfsa2011-29.html|Vendor Advisory
+1127|CVE-2011-2981,CVE-2011-2982,CVE-2011-2378,CVE-2011-2980,CVE-2011-0084,CVE-2011-2984,CVE-2011-2983|http://www.mozilla.org/security/announce/2011/mfsa2011-30.html|Vendor Advisory
+1128|CVE-2011-2991,CVE-2011-2992,CVE-2011-2986,CVE-2011-2988,CVE-2011-0084,CVE-2011-2987,CVE-2011-2989,CVE-2011-2985|http://www.mozilla.org/security/announce/2011/mfsa2011-31.html|
+1129|CVE-2011-2991,CVE-2011-2992,CVE-2011-2986,CVE-2011-2988,CVE-2011-0084,CVE-2011-2987,CVE-2011-2989,CVE-2011-2993,CVE-2011-2990,CVE-2011-2985|http://www.mozilla.org/security/announce/2011/mfsa2011-33.html|
+1130|CVE-2011-2372,CVE-2011-3001|http://www.mozilla.org/security/announce/2011/mfsa2011-40.html|Vendor Advisory
+1131|CVE-2011-2997,CVE-2011-2996,CVE-2011-2995|http://www.mozilla.org/security/announce/2011/mfsa2011-36.html|Vendor Advisory
+1132|CVE-2011-2998|http://www.mozilla.org/security/announce/2011/mfsa2011-37.html|Vendor Advisory
+1133|CVE-2011-2999|http://www.mozilla.org/security/announce/2011/mfsa2011-38.html|Vendor Advisory
+1134|CVE-2011-3000|http://www.mozilla.org/security/announce/2011/mfsa2011-39.html|Vendor Advisory
+1135|CVE-2011-3003,CVE-2011-3002|http://www.mozilla.org/security/announce/2011/mfsa2011-41.html|Vendor Advisory
+1136|CVE-2011-3004|http://www.mozilla.org/security/announce/2011/mfsa2011-43.html|Vendor Advisory
+1137|CVE-2011-3005|http://www.mozilla.org/security/announce/2011/mfsa2011-44.html|Vendor Advisory
+1138|CVE-2011-3232|http://www.mozilla.org/security/announce/2011/mfsa2011-42.html|
+1139|CVE-2011-3866|http://www.mozilla.org/security/announce/2011/mfsa2011-45.html|Vendor Advisory
+1140|CVE-2011-3647|http://www.mozilla.org/security/announce/2011/mfsa2011-46.html|Vendor Advisory
+1141|CVE-2011-3648|http://www.mozilla.org/security/announce/2011/mfsa2011-47.html|Vendor Advisory
+1142|CVE-2011-3649|http://www.mozilla.org/security/announce/2011/mfsa2011-50.html|Vendor Advisory
+1143|CVE-2011-3650|http://www.mozilla.org/security/announce/2011/mfsa2011-49.html|Vendor Advisory
+1144|CVE-2011-3652,CVE-2011-3651,CVE-2011-3654|http://www.mozilla.org/security/announce/2011/mfsa2011-48.html|Vendor Advisory
+1145|CVE-2011-3653|http://www.mozilla.org/security/announce/2011/mfsa2011-51.html|Vendor Advisory
+1146|CVE-2011-3655|http://www.mozilla.org/security/announce/2011/mfsa2011-52.html|Vendor Advisory
+1147|CVE-2011-3658|http://www.mozilla.org/security/announce/2011/mfsa2011-55.html|Vendor Advisory
+1148|CVE-2011-3660|http://www.mozilla.org/security/announce/2011/mfsa2011-53.html|Vendor Advisory
+1149|CVE-2011-3661|http://www.mozilla.org/security/announce/2011/mfsa2011-54.html|Vendor Advisory
+1150|CVE-2011-3663|http://www.mozilla.org/security/announce/2011/mfsa2011-56.html|Vendor Advisory
+1151|CVE-2011-3664|http://www.mozilla.org/security/announce/2011/mfsa2011-57.html|Vendor Advisory
+1152|CVE-2011-3665|http://www.mozilla.org/security/announce/2011/mfsa2011-58.html|Vendor Advisory
+1153|CVE-2011-3666|http://www.mozilla.org/security/announce/2011/mfsa2011-59.html|Vendor Advisory
+1154|CVE-2009-1571|http://www.mozilla.org/security/announce/2010/mfsa2010-03.html|Vendor Advisory
+1155|CVE-2009-3988|http://www.mozilla.org/security/announce/2010/mfsa2010-04.html|
+1156|CVE-2010-0159|http://www.mozilla.org/security/announce/2010/mfsa2010-01.html|Vendor Advisory
+1157|CVE-2010-0160|http://www.mozilla.org/security/announce/2010/mfsa2010-02.html|Vendor Advisory
+1158|CVE-2010-0162|http://www.mozilla.org/security/announce/2010/mfsa2010-05.html|Vendor Advisory
+1159|CVE-2010-0654|http://www.mozilla.org/security/announce/2010/mfsa2010-46.html|
+1160|CVE-2009-3385|http://www.mozilla.org/security/announce/2010/mfsa2010-06.html|Vendor Advisory
+1161|CVE-2010-0164|http://www.mozilla.org/security/announce/2010/mfsa2010-09.html|Vendor Advisory
+1162|CVE-2010-0167,CVE-2010-0166,CVE-2010-0165|http://www.mozilla.org/security/announce/2010/mfsa2010-11.html|Patch,Vendor Advisory
+1163|CVE-2010-0168|http://www.mozilla.org/security/announce/2010/mfsa2010-13.html|
+1164|CVE-2010-0169|http://www.mozilla.org/security/announce/2010/mfsa2010-14.html|Vendor Advisory
+1165|CVE-2010-0170|http://www.mozilla.org/security/announce/2010/mfsa2010-10.html|Vendor Advisory
+1166|CVE-2010-0171|http://www.mozilla.org/security/announce/2010/mfsa2010-12.html|Patch
+1167|CVE-2010-0172|http://www.mozilla.org/security/announce/2010/mfsa2010-15.html|Patch
+1168|CVE-2004-2225|http://www.mozilla.org/projects/security/older-vulnerabilities.html#firefox0.10.1|
+1169|CVE-2002-2061,CVE-2002-2314|http://www.mozilla.org/releases/mozilla1.0.1/security-fixes-1.0.1.html|Patch
+1170|CVE-2020-26950|https://www.mozilla.org/security/advisories/mfsa2020-49/|Vendor Advisory
+1171|CVE-2020-26953,CVE-2020-26964,CVE-2020-26962,CVE-2020-26955,CVE-2020-26956,CVE-2020-26952,CVE-2020-26958,CVE-2020-26957,CVE-2020-26969,CVE-2020-26968,CVE-2020-26961,CVE-2020-26963,CVE-2020-26965,CVE-2020-26954,CVE-2020-26967,CVE-2020-26959,CVE-2020-26966,CVE-2020-26960,CVE-2020-26951|https://www.mozilla.org/security/advisories/mfsa2020-50/|Vendor Advisory
+1172|CVE-2020-26953,CVE-2020-26956,CVE-2020-26958,CVE-2020-26968,CVE-2020-26961,CVE-2020-26965,CVE-2020-26959,CVE-2020-26966,CVE-2020-26960,CVE-2020-26951|https://www.mozilla.org/security/advisories/mfsa2020-51/|Vendor Advisory
+1173|CVE-2020-26953,CVE-2020-26956,CVE-2020-26958,CVE-2020-26968,CVE-2020-26961,CVE-2020-26965,CVE-2020-26959,CVE-2020-26966,CVE-2020-26960,CVE-2020-26951|https://www.mozilla.org/security/advisories/mfsa2020-52/|Vendor Advisory
+1174|CVE-2020-26970|https://www.mozilla.org/security/advisories/mfsa2020-53/|Vendor Advisory
+1175|CVE-2018-18502,CVE-2018-18505,CVE-2018-18506,CVE-2018-18500,CVE-2018-18503,CVE-2018-18504,CVE-2018-18501|https://www.mozilla.org/security/advisories/mfsa2019-01/|Vendor Advisory
+1176|CVE-2018-18500,CVE-2018-18505,CVE-2018-18501|https://www.mozilla.org/security/advisories/mfsa2019-02/|Vendor Advisory
+1177|CVE-2019-17026|https://www.mozilla.org/security/advisories/mfsa2020-03/|Vendor Advisory
+1178|CVE-2019-17026|https://www.mozilla.org/security/advisories/mfsa2020-04/|Vendor Advisory
+1179|CVE-2020-6794,CVE-2020-6798,CVE-2020-6792,CVE-2020-6795,CVE-2020-6797,CVE-2020-6793,CVE-2020-6800|https://www.mozilla.org/security/advisories/mfsa2020-07/|Vendor Advisory
+1180|CVE-2020-6801,CVE-2020-6798,CVE-2020-6799,CVE-2020-6797,CVE-2020-6796,CVE-2020-6800|https://www.mozilla.org/security/advisories/mfsa2020-05/|Vendor Advisory
+1181|CVE-2020-6798,CVE-2020-6799,CVE-2020-6797,CVE-2020-6796,CVE-2020-6800|https://www.mozilla.org/security/advisories/mfsa2020-06/|Vendor Advisory
+1182|CVE-2020-6808,CVE-2020-6809,CVE-2020-6806,CVE-2020-6812,CVE-2020-6814,CVE-2020-6805,CVE-2020-6811,CVE-2020-6815,CVE-2020-6813,CVE-2020-6807,CVE-2020-6810|https://www.mozilla.org/security/advisories/mfsa2020-08/|Vendor Advisory
+1183|CVE-2020-6812,CVE-2020-6806,CVE-2020-6814,CVE-2020-6805,CVE-2020-6811,CVE-2020-6807|https://www.mozilla.org/security/advisories/mfsa2020-09/|Vendor Advisory
+1184|CVE-2020-6812,CVE-2020-6806,CVE-2020-6814,CVE-2020-6805,CVE-2020-6811,CVE-2020-6807|https://www.mozilla.org/security/advisories/mfsa2020-10/|Vendor Advisory

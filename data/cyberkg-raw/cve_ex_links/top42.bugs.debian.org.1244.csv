@@ -1,0 +1,1245 @@
+|cve-ids|ex_url|types
+0|CVE-2006-2450|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=376824|Patch
+1|CVE-2006-3404|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=377049|
+2|CVE-2006-3469|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=375694|
+3|CVE-2006-3746|http://bugs.debian.org/cgi-bin/bugreport.cgi/gnupg.CVE-2006-3746.diff?bug=381204;msg=15;att=1|
+4|CVE-2006-3122|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=380273|
+5|CVE-2006-3123|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=371076|
+6|CVE-2006-4030,CVE-2005-2734,CVE-2006-0330|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=325285|
+7|CVE-2006-3126|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=382474|Patch
+8|CVE-2006-4758|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=388120|
+9|CVE-2006-5063|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=389361|
+10|CVE-2006-4248|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=396277|
+11|CVE-2006-4980|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=391589|
+12|CVE-2006-5778,CVE-2006-6008|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=384454|Patch
+13|CVE-2006-5791,CVE-2006-5790|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=392016|
+14|CVE-2006-5869|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=356988|
+15|CVE-2006-6318|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=397875|Patch
+16|CVE-2006-6329,CVE-2006-6330,CVE-2006-6600,CVE-2006-6328,CVE-2006-6331|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=%23400582|Exploit
+17|CVE-2006-6331|http://bugs.debian.org/cgi-bin/bugreport.cgi/11_missed_security_fixes.dpatch?bug=400582;msg=71;att=1|Patch
+18|CVE-2006-6614|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=402644|Exploit
+19|CVE-2006-6681,CVE-2006-6684,CVE-2006-6683,CVE-2006-6679,CVE-2006-6682|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=394454|Patch,Vendor Advisory,Third Party Advisory
+20|CVE-2006-6692,CVE-2006-6693|http://bugs.debian.org/cgi-bin/bugreport.cgi/zabbix.security.patch?bug=391388;msg=5;att=1|Exploit
+21|CVE-2006-6692,CVE-2006-6693|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=391388|Exploit
+22|CVE-2006-6841,CVE-2006-6839,CVE-2006-6840|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=405980|
+23|CVE-2004-0770|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=263282&archive=yes|
+24|CVE-2004-0987|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=278384|
+25|CVE-2004-1170|http://bugs.debian.org/283134|
+26|CVE-2004-1177|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=287555|Patch
+27|CVE-2005-0117|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=289784|Vendor Advisory
+28|CVE-2005-0362,CVE-2005-0363|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=294488|Vendor Advisory
+29|CVE-2005-0625,CVE-2005-0624|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=295407|Vendor Advisory
+30|CVE-2004-1488,CVE-2004-1487|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=261755|Exploit,Vendor Advisory
+31|CVE-2005-0080|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=285839|
+32|CVE-2005-0337|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=267837|Vendor Advisory
+33|CVE-2005-0866|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=291376|
+34|CVE-2005-0870|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=301118|
+35|CVE-2005-0990|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=302412|Vendor Advisory
+36|CVE-2005-1228|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=305255|Patch
+37|CVE-2018-5730,CVE-2018-5729|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=891869|Third Party Advisory
+38|CVE-2018-7738|https://bugs.debian.org/892179|Patch,Third Party Advisory
+39|CVE-2018-7753|https://bugs.debian.org/892252|Third Party Advisory
+40|CVE-2018-7867,CVE-2018-7868,CVE-2018-7873,CVE-2018-7874,CVE-2018-7877,CVE-2018-7870,CVE-2018-7869,CVE-2018-7872,CVE-2018-7875,CVE-2018-7876,CVE-2018-7866,CVE-2018-7871|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=892260|Mailing List,Issue Tracking,Third Party Advisory
+41|CVE-2018-9240|https://bugs.debian.org/894724|Third Party Advisory
+42|CVE-2018-1000156|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=894667#19|Issue Tracking,Third Party Advisory
+43|CVE-2017-0359|https://bugs.debian.org/854723|Exploit,Patch,Third Party Advisory
+44|CVE-2017-0372|https://bugs.debian.org/861585|Third Party Advisory
+45|CVE-2017-18265|https://bugs.debian.org/875829|Mailing List,Issue Tracking
+46|CVE-2018-10992|https://bugs.debian.org/898373|Issue Tracking,Third Party Advisory
+47|CVE-2018-11319|https://bugs.debian.org/894736|Exploit,Issue Tracking,Third Party Advisory
+48|CVE-2015-0841|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=781043|Issue Tracking,Third Party Advisory
+49|CVE-2019-19905|https://bugs.debian.org/947005|Patch,Issue Tracking,Third Party Advisory
+50|CVE-2019-19920|https://bugs.debian.org/946829#24|Patch,Mailing List,Third Party Advisory
+51|CVE-2019-3467|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=946797|Exploit,Patch,Mailing List,Third Party Advisory
+52|CVE-2019-3467|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=947459|Mailing List,Third Party Advisory
+53|CVE-2012-5645|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=696306|Issue Tracking,Third Party Advisory
+54|CVE-2014-1858,CVE-2014-1859|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737778|Patch,Mailing List,Issue Tracking,Third Party Advisory
+55|CVE-2014-6027|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759574|Exploit,Issue Tracking,Third Party Advisory
+56|CVE-2014-9485|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774321|Mailing List,Third Party Advisory
+57|CVE-2018-6198|https://bugs.debian.org/888097|Patch,Issue Tracking,Third Party Advisory
+58|CVE-2017-18076|https://bugs.debian.org/888523|Issue Tracking,Third Party Advisory
+59|CVE-2017-18077|https://bugs.debian.org/862712|Third Party Advisory
+60|CVE-2011-2902|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=635849|Third Party Advisory
+61|CVE-2018-6485|http://bugs.debian.org/878159|Mailing List,Issue Tracking,Third Party Advisory
+62|CVE-2017-18120|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=878739|Mailing List,Third Party Advisory
+63|CVE-2017-18120|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=881120|Mailing List,Third Party Advisory
+64|CVE-2015-2091,CVE-2009-5144|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=578663|Patch,Mailing List,Issue Tracking
+65|CVE-2018-6596|https://bugs.debian.org/889450|Patch,Issue Tracking,Third Party Advisory
+66|CVE-2018-6612|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889272|Third Party Advisory
+67|CVE-2015-1418|https://bugs.debian.org/894667|
+68|CVE-2018-6767|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889276|Exploit,Issue Tracking,Third Party Advisory
+69|CVE-2018-7032|https://bugs.debian.org/840014|Exploit,Patch,Third Party Advisory
+70|CVE-2017-18189|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=881121|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+71|CVE-2018-7186|https://bugs.debian.org/890548|Third Party Advisory
+72|CVE-2018-7253|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889559|Mailing List,Issue Tracking,Third Party Advisory
+73|CVE-2018-7254|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889274|Mailing List,Issue Tracking,Third Party Advisory
+74|CVE-2004-2779|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=304913|Mailing List,Issue Tracking,Third Party Advisory
+75|CVE-2018-7263|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870608|Mailing List,Third Party Advisory
+76|CVE-2012-6709|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=694658|Issue Tracking,Third Party Advisory
+77|CVE-2017-18196|https://bugs.debian.org/885704|Mailing List,Third Party Advisory
+78|CVE-2018-7551,CVE-2018-7554,CVE-2018-7552,CVE-2018-7553|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=891527|Issue Tracking,Third Party Advisory
+79|CVE-2014-2527,CVE-2014-2528|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=741659|
+80|CVE-2014-5260|https://bugs.debian.org/756566|
+81|CVE-2014-3800|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=747428|
+82|CVE-2014-5459|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759282|Exploit,Issue Tracking,Third Party Advisory
+83|CVE-2014-6028,CVE-2014-6029|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759573|Exploit
+84|CVE-2012-6110|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=686650|Exploit,Patch
+85|CVE-2013-7329|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=739505|
+86|CVE-2014-7204|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742605|Exploit,Issue Tracking
+87|CVE-2014-7206|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=763780|
+88|CVE-2010-5077|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=665656|
+89|CVE-2014-1830,CVE-2014-1829|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=733108|Vendor Advisory,Issue Tracking
+90|CVE-2014-1875|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737835|Exploit
+91|CVE-2014-3209|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=746758|
+92|CVE-2014-7207|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=766195|
+93|CVE-2014-8350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=765920|Exploit
+94|CVE-2014-8991|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=725847|Issue Tracking,Third Party Advisory
+95|CVE-2004-2771|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=278748|Exploit
+96|CVE-2014-5353|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=773226|Mailing List,Issue Tracking,Third Party Advisory
+97|CVE-2013-4442|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=672241|
+98|CVE-2013-7416|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=731582|
+99|CVE-2014-9116|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=771125|Exploit,Issue Tracking
+100|CVE-2014-9351|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770514|
+101|CVE-2012-6329|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=695224|
+102|CVE-2012-5564|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=688280|
+103|CVE-2012-6093|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=697582|
+104|CVE-2008-6398|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496407|
+105|CVE-2008-3547|http://bugs.debian.org/493714|
+106|CVE-2009-0661|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=519940|
+107|CVE-2009-0758|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=517683|
+108|CVE-2009-0922|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=517405|
+109|CVE-2009-1073|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520476|Patch
+110|CVE-2009-0579|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=514437|
+111|CVE-2009-1208|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=521823|Patch
+112|CVE-2009-1215,CVE-2009-1214|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=521123|
+113|CVE-2009-1284|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520920|Exploit
+114|CVE-2009-1300|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=523213|
+115|CVE-2009-1339|http://bugs.debian.org/526258|
+116|CVE-2009-1358|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=433091|
+117|CVE-2009-1440|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=525078|Exploit
+118|CVE-2009-1513|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=526084|
+119|CVE-2009-1515|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=515603|
+120|CVE-2009-1515|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=525820|
+121|CVE-2009-1572|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=526311|Exploit,Patch
+122|CVE-2009-1573|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=526678|Exploit,Vendor Advisory
+123|CVE-2009-1631|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=526409|Exploit
+124|CVE-2009-1755|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=529418|Patch
+125|CVE-2009-1755|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=529420|Patch
+126|CVE-2009-1756|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=529306|Exploit
+127|CVE-2009-1769|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=529344|
+128|CVE-2009-1789|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=528778|
+129|CVE-2009-1904|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=532689|Patch
+130|CVE-2009-2084|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=524980|
+131|CVE-2009-2175|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=533361|Patch
+132|CVE-2009-2260|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=534731|
+133|CVE-2009-0667|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506416|Patch
+134|CVE-2009-0696|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=538975|
+135|CVE-2009-1891|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=534712|Exploit
+136|CVE-2009-2286|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=534973|
+137|CVE-2009-2659|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=539134|
+138|CVE-2009-2660|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=540146|
+139|CVE-2009-2737|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=518768|
+140|CVE-2009-2855|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=534982|
+141|CVE-2009-2855|http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=31;filename=diff;att=1;bug=534982|
+142|CVE-2009-2964|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=543818|
+143|CVE-2009-3026|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=542891|
+144|CVE-2008-7224|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=380347|Exploit
+145|CVE-2009-2937|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=546178|
+146|CVE-2009-2937|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=546179|
+147|CVE-2009-2946|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=515209|
+148|CVE-2009-3009|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=545063|
+149|CVE-2009-3232|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=519927|
+150|CVE-2009-3233|http://bugs.debian.org/546791|Exploit,Patch
+151|CVE-2009-3369|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=542218|
+152|CVE-2009-3611|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=543785|
+153|CVE-2009-3695|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=550457|
+154|CVE-2009-3892|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=546778|
+155|CVE-2009-3895|http://bugs.debian.org/557137|
+156|CVE-2009-3896|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=552035|Exploit
+157|CVE-2009-3938|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=534680|Exploit
+158|CVE-2009-2626|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=540605|Patch
+159|CVE-2009-3305|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=547047|
+160|CVE-2009-3563|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560074|
+161|CVE-2009-4128|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=555195|Exploit
+162|CVE-2009-4144|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560067|
+163|CVE-2009-4193|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=548546|
+164|CVE-2009-4228,CVE-2009-4227|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=559274|
+165|CVE-2009-4411|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=499076|
+166|CVE-2009-4413|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560779|
+167|CVE-2007-6350,CVE-2007-6415|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=437148|Exploit
+168|CVE-2007-6610|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=448437|
+169|CVE-2008-0299|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=460706|
+170|CVE-2019-8308|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=922059|Mailing List,Issue Tracking,Third Party Advisory
+171|CVE-2019-9706|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=809167|Exploit,Vendor Advisory,Mailing List
+172|CVE-2019-11627|https://bugs.debian.org/928256|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+173|CVE-2019-11675|https://bugs.debian.org/928304|Mitigation,Mailing List,Third Party Advisory
+174|CVE-2019-11766|https://bugs.debian.org/928440|Patch,Mailing List,Third Party Advisory
+175|CVE-2015-1350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770492|Exploit,Mailing List,Third Party Advisory
+176|CVE-2015-8863|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=802231|
+177|CVE-2011-5326|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=639414|
+178|CVE-2014-9771|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=820206|
+179|CVE-2016-3993|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=819818|
+180|CVE-2016-3994|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=785369|
+181|CVE-2016-4557|https://bugs.debian.org/823603|
+182|CVE-2016-3992|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=820331|Third Party Advisory
+183|CVE-2013-7458|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=832460|Mailing List,Third Party Advisory
+184|CVE-2016-1244,CVE-2016-1243|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=838248|Patch,VDB Entry,Third Party Advisory
+185|CVE-2016-6494|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=832908|Issue Tracking
+186|CVE-2015-0552|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774580|Exploit
+187|CVE-2014-1949|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759145|
+188|CVE-2013-6892|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775682|Issue Tracking,Third Party Advisory
+189|CVE-2014-9471|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=766147|Exploit,Issue Tracking,Third Party Advisory
+190|CVE-2010-0789|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=567633|
+191|CVE-2010-1132|http://bugs.debian.org/573228|
+192|CVE-2010-1194|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=311191|Patch
+193|CVE-2010-0629|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=567052|
+194|CVE-2010-0743|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=574935|Patch
+195|CVE-2010-0744|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=572818|
+196|CVE-2010-0828|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=575995|
+197|CVE-2010-1147|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=576308|
+198|CVE-2010-1149|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=576687|
+199|CVE-2010-1320|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=577490|
+200|CVE-2009-4835|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=530831|
+201|CVE-2010-1431|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=578909|Patch
+202|CVE-2010-1938|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=584932|
+203|CVE-2004-2768|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=225692|
+204|CVE-2010-2155,CVE-2009-4882|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=583290|
+205|CVE-2010-2072|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=585773|
+206|CVE-2010-2073|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=585776|
+207|CVE-2010-2055|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=583183|
+208|CVE-2010-2055|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=583316|
+209|CVE-2010-2448|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=584929|
+210|CVE-2010-2929,CVE-2010-1671,CVE-2010-2930|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=590670|
+211|CVE-2010-2195,CVE-2010-2320|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=590298|Exploit
+212|CVE-2010-2970,CVE-2010-2487,CVE-2010-2969|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=584809|
+213|CVE-2010-2944|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=593466|Patch
+214|CVE-2010-1326|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=593884|
+215|CVE-2010-2799|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=591443|
+216|CVE-2010-2953|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=594412|
+217|CVE-2010-3070|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=595248|
+218|CVE-2010-3071|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=595409|
+219|CVE-2010-3312|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=564690|
+220|CVE-2010-3349|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598283|
+221|CVE-2010-3350|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598284|Patch
+222|CVE-2010-3351|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598285|Exploit
+223|CVE-2010-3353|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598286|Exploit,Patch
+224|CVE-2010-3354|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598287|
+225|CVE-2010-3355|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598288|Exploit,Patch
+226|CVE-2010-3357|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598289|Exploit,Patch
+227|CVE-2010-3358|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598290|Exploit
+228|CVE-2010-3360|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598291|Exploit
+229|CVE-2010-3361|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598292|
+230|CVE-2010-3361|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598293|Exploit
+231|CVE-2010-3362|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598294|Exploit
+232|CVE-2010-3363|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598295|Exploit
+233|CVE-2010-3364|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598296|Exploit
+234|CVE-2010-3365|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598297|Exploit
+235|CVE-2010-3366|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598298|Exploit,Patch
+236|CVE-2010-3369|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598299|Exploit,Patch
+237|CVE-2010-3376|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598419|Exploit
+238|CVE-2010-3376|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598420|Exploit
+239|CVE-2010-3377|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598421|Exploit
+240|CVE-2010-3378|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598422|Exploit
+241|CVE-2010-3378|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598423|Exploit
+242|CVE-2010-3381|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598302|Exploit,Patch
+243|CVE-2010-3382|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598303|Exploit,Patch
+244|CVE-2010-3383|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598304|Exploit,Patch
+245|CVE-2010-3383|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598305|Exploit,Patch
+246|CVE-2010-3384|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598306|Exploit
+247|CVE-2010-3385|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598307|Exploit,Patch
+248|CVE-2010-3386|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598309|Exploit,Patch
+249|CVE-2010-3387|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598308|Exploit,Patch
+250|CVE-2010-3389|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598549|Exploit,Patch
+251|CVE-2010-3393|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598418|Exploit,Patch
+252|CVE-2010-3394|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598424|Exploit,Patch
+253|CVE-2010-3690,CVE-2010-3691,CVE-2010-3692|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=495542#82|
+254|CVE-2010-3814,CVE-2010-3855|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=602221|
+255|CVE-2010-4167|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=601824|
+256|CVE-2010-4257|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=605603|Mailing List,Issue Tracking,Third Party Advisory
+257|CVE-2010-4259|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=605537|Exploit,Patch
+258|CVE-2010-4336|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=605092|
+259|CVE-2008-5516,CVE-2008-5517|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=512330|
+260|CVE-2008-5824|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=510205|
+261|CVE-2008-5905,CVE-2008-5906|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504178|
+262|CVE-2008-5984|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504251|
+263|CVE-2008-5985|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504363|
+264|CVE-2008-5986|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504359|
+265|CVE-2008-5987|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504352|
+266|CVE-2008-6005|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=507587#15|Exploit
+267|CVE-2009-0124|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511509|Exploit
+268|CVE-2009-0125|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511517|Exploit
+269|CVE-2009-0126|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511521|Exploit
+270|CVE-2009-0127|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511515|
+271|CVE-2009-0128|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511511|Exploit
+272|CVE-2009-0129|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511519|Exploit
+273|CVE-2009-0130|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=511520|Exploit
+274|CVE-2009-0179|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476339|
+275|CVE-2006-7236|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=384593|
+276|CVE-2008-2383,CVE-2006-7236|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=510030|
+277|CVE-2007-6720|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=422021|
+278|CVE-2007-6720|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=461519|
+279|CVE-2009-0240|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=512191|
+280|CVE-2009-0282|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=512995|
+281|CVE-2009-0316|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=484305|
+282|CVE-2009-0316|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=493937|
+283|CVE-2008-6079|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=576469|
+284|CVE-2005-3325,CVE-2005-4878|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=336788|Patch
+285|CVE-2008-3074,CVE-2008-3075,CVE-2008-3076|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506919|
+286|CVE-2009-0362|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=514163|Exploit
+287|CVE-2009-0363|http://bugs.debian.org/515118|
+288|CVE-2009-0415|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=513456|Exploit
+289|CVE-2009-0547|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=508479|
+290|CVE-2009-0642|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=513528|
+291|CVE-2008-6397|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496368|
+292|CVE-2012-0808|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=655496|
+293|CVE-2012-1181|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=615814|
+294|CVE-2012-0863|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=659039|
+295|CVE-2012-0207|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=654876|Exploit,Mailing List,Third Party Advisory
+296|CVE-2012-2120|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668779|
+297|CVE-2012-0813|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652417|
+298|CVE-2011-4328|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=649384|
+299|CVE-2012-2668|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=676309|
+300|CVE-2012-3355|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=616673|
+301|CVE-2012-4048|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=680056|
+302|CVE-2012-3368|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=625302|
+303|CVE-2011-4944|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650555|
+304|CVE-2011-5146|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651931|
+305|CVE-2012-1176|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=663189|
+306|CVE-2012-1586|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=665923|
+307|CVE-2012-2103|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668778|
+308|CVE-2012-2104|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668666|
+309|CVE-2012-2135|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=670389|
+310|CVE-2012-2317|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=581170|
+311|CVE-2012-3378|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=678026|
+312|CVE-2012-3425|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668082|Third Party Advisory
+313|CVE-2012-3449|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683665|
+314|CVE-2012-3453|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683647|
+315|CVE-2012-3457|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683879|
+316|CVE-2012-3461|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=684121|
+317|CVE-2012-4678|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668667|
+318|CVE-2012-3410|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=681278|Patch
+319|CVE-2012-1151|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=661536|
+320|CVE-2012-1152|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=661548|
+321|CVE-2012-3526|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683984|
+322|CVE-2009-5067|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=548633|
+323|CVE-2011-4363|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650500|
+324|CVE-2012-3466|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683655|
+325|CVE-2012-3505|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=685281|
+326|CVE-2012-3549|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=686962|
+327|CVE-2012-4442|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=688007|
+328|CVE-2012-4442,CVE-2012-4443,CVE-2012-5303|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=688879|
+329|CVE-2012-4443|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=688008|
+330|CVE-2012-5303|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=672425|
+331|CVE-2012-3512|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=684075|Exploit
+332|CVE-2012-3513|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=684076|
+333|CVE-2012-0698|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=692649|
+334|CVE-2012-4520|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=691145|
+335|CVE-2012-4533|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=691062|Mailing List,Issue Tracking,Third Party Advisory
+336|CVE-2012-4575|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=692103|Third Party Advisory
+337|CVE-2012-5519|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=692791|Exploit
+338|CVE-2011-2732,CVE-2011-2731,CVE-2011-2730|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=677814|
+339|CVE-2012-0841|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=660846|
+340|CVE-2012-6453|http://bugs.debian.org/696179|
+341|CVE-2010-4695,CVE-2009-5018,CVE-2010-4694|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=550978|Patch
+342|CVE-2010-3448|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=565790|Third Party Advisory
+343|CVE-2015-0860|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798324|
+344|CVE-2015-8327|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=806886|
+345|CVE-2014-1604|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=735263|
+346|CVE-2014-0977|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=734304|
+347|CVE-2013-0157|http://bugs.debian.org/697464|
+348|CVE-2013-1853|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=702905|
+349|CVE-2013-6402|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=725876|
+350|CVE-2014-1624|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736247|
+351|CVE-2014-1638|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736359|Vendor Advisory
+352|CVE-2014-1639|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736357|Vendor Advisory
+353|CVE-2014-1640|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736358|
+354|CVE-2013-2037|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=706602|Mailing List,Issue Tracking,Third Party Advisory
+355|CVE-2010-4777|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=628836|
+356|CVE-2011-4613|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652249|Vendor Advisory
+357|CVE-2013-2074|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=707776|
+358|CVE-2014-1833|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737160|
+359|CVE-2014-1876|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737562|
+360|CVE-2014-2094,CVE-2014-2096,CVE-2014-2093,CVE-2014-2095|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=739958|
+361|CVE-2014-1921|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=738134|
+362|CVE-2013-4420|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=731860|
+363|CVE-2014-2653|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742513|Exploit
+364|CVE-2014-1839,CVE-2014-1838|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737051|
+365|CVE-2011-3195|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637477|
+366|CVE-2011-3196|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637485|
+367|CVE-2011-3197|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637487|
+368|CVE-2011-3197,CVE-2011-5272|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637498|
+369|CVE-2011-3198|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637537|
+370|CVE-2011-3199|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637584|
+371|CVE-2011-5273|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637629|
+372|CVE-2011-5274|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637630|
+373|CVE-2011-5275|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637618|
+374|CVE-2011-5276|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=637632|
+375|CVE-2013-6473|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=741333|
+376|CVE-2014-2327,CVE-2014-2709,CVE-2014-2708,CVE-2014-2328,CVE-2014-2326|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742768|Issue Tracking,Third Party Advisory
+377|CVE-2013-7345|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=703993|
+378|CVE-2012-2095|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=668397|
+379|CVE-2001-1593|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737385|
+380|CVE-2010-5105|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=584621|
+381|CVE-2011-4089|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=632862|Patch
+382|CVE-2013-0296|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700608|
+383|CVE-2013-4116|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=715325|Issue Tracking,Third Party Advisory
+384|CVE-2013-4565|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=729279|
+385|CVE-2013-7273|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683338|
+386|CVE-2013-7284|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=734789|
+387|CVE-2014-0466|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742902|
+388|CVE-2014-2893|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=744817|Issue Tracking,Third Party Advisory
+389|CVE-2014-3007,CVE-2014-1932|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737059|
+390|CVE-2013-6456|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=732394|
+391|CVE-2014-2310|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=684388|
+392|CVE-2014-1402|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=734747|
+393|CVE-2011-2198|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629688|Third Party Advisory
+394|CVE-2013-4577|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=632598|
+395|CVE-2013-6889|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=733505|Exploit
+396|CVE-2013-7041|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=731368|
+397|CVE-2014-3127,CVE-2014-3227|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=746306|
+398|CVE-2014-3864|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=746498|Vendor Advisory
+399|CVE-2014-3865|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=749183|
+400|CVE-2014-1934|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737062|
+401|CVE-2013-0350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=701211|
+402|CVE-2010-5111|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=606808|
+403|CVE-2014-4157|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=751417|Mailing List,Issue Tracking,Third Party Advisory
+404|CVE-2009-5023|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=544232|
+405|CVE-2012-3521|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=685324|
+406|CVE-2014-0478|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=749795|Exploit
+407|CVE-2014-4168|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=751834|
+408|CVE-2013-0238|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699267|
+409|CVE-2013-0232|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=698910|
+410|CVE-2013-0251|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699625|Vendor Advisory
+411|CVE-2013-0252|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699649|
+412|CVE-2013-0252|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699650|
+413|CVE-2013-0288|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=690319|
+414|CVE-2013-0308|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=701586|
+415|CVE-2013-1049|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700098|
+416|CVE-2013-1643,CVE-2013-1635|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=702221|
+417|CVE-2013-1667|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=702296|
+418|CVE-2013-0332|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700912|
+419|CVE-2012-3411|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=683372|Issue Tracking,Third Party Advisory
+420|CVE-2012-6076|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=654341|
+421|CVE-2012-6140|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=666129|
+422|CVE-2013-2776,CVE-2013-2777,CVE-2013-1776|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=701839|
+423|CVE-2013-1821|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=702525|
+424|CVE-2013-2220|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=714362|
+425|CVE-2013-2132|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=710597|
+426|CVE-2013-2162|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=711600|Exploit
+427|CVE-2013-4242|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=717880|
+428|CVE-2013-4147|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=714612|
+429|CVE-2013-4852|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=718779|
+430|CVE-2013-1444|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=724614|
+431|CVE-2013-4276|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=718682|Vendor Advisory
+432|CVE-2013-4298|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721273|
+433|CVE-2013-5724|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=711172|
+434|CVE-2013-2208|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=706644|
+435|CVE-2013-4391,CVE-2013-4392,CVE-2013-4394,CVE-2013-4393|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=725357|Issue Tracking,Third Party Advisory
+436|CVE-2013-4402|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=725433|
+437|CVE-2013-4453|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=726976|
+438|CVE-2013-1813|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=701965|
+439|CVE-2013-4473,CVE-2013-4474|http://bugs.debian.org/723124|Exploit
+440|CVE-2013-4579|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=729573|
+441|CVE-2013-4407|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721634|
+442|CVE-2013-6395|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=730507|Exploit,Patch
+443|CVE-2013-6409|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=730691|
+444|CVE-2013-7050|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=731849|
+445|CVE-2013-7085|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=732006|Exploit
+446|CVE-2013-6051|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=730513|
+447|CVE-2012-0101,CVE-2012-0119,CVE-2012-0116,CVE-2012-0114,CVE-2012-0102,CVE-2012-0492,CVE-2012-0113,CVE-2012-0484,CVE-2012-0087,CVE-2012-0115,CVE-2012-0485,CVE-2011-2262,CVE-2012-0120,CVE-2012-0075,CVE-2012-0118,CVE-2012-0112,CVE-2012-0490|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=659687|
+448|CVE-2011-4616|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=652587|Exploit
+449|CVE-2012-0039|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=655044|
+450|CVE-2012-0806|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=657217|Patch
+451|CVE-2012-0814|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=657445|
+452|CVE-2008-5657|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506550|
+453|CVE-2008-5704,CVE-2008-5703|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=508597|
+454|CVE-2008-5706,CVE-2008-5705|http://bugs.debian.org/506530|
+455|CVE-2008-4311|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=503532|
+456|CVE-2008-5080|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=495432#21|
+457|CVE-2007-0157|http://bugs.debian.org/cgi-bin/bugreport.cgi/neon26_0.26.2-3_to_mdx1.diff?bug=404723;msg=5;att=2|
+458|CVE-2007-0157|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=404723|
+459|CVE-2007-0175|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=410568|
+460|CVE-2006-7094|http://bugs.debian.org/384454|
+461|CVE-2006-7098|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=357561|
+462|CVE-2006-7162|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=400804|Patch,Vendor Advisory
+463|CVE-2007-1217|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=408530|
+464|CVE-2007-1387|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=414072|
+465|CVE-2007-1387|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=414072;msg=12;filename=DS_VideoDecoder.c---SVN--22205.patch;att=1|Patch
+466|CVE-2007-1444|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413658|
+467|CVE-2007-1667|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=414045|
+468|CVE-2007-2027|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=417789|
+469|CVE-2007-2052|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=416934|
+470|CVE-2007-2165|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=419255|Vendor Advisory
+471|CVE-2007-2459|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=421582|
+472|CVE-2007-2654|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=417894|Exploit
+473|CVE-2007-2721|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413033|Exploit,Vendor Advisory
+474|CVE-2007-2721|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413041|Exploit,Vendor Advisory
+475|CVE-2007-2721|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413041;msg=88|Exploit,Vendor Advisory
+476|CVE-2007-2807|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=427157|
+477|CVE-2007-2833|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=408929|
+478|CVE-2007-3209|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=428157|
+479|CVE-2007-2835|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=431336|
+480|CVE-2007-2836|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=430691|
+481|CVE-2007-2837|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=431332|Patch
+482|CVE-2007-3528|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=425335|
+483|CVE-2007-3641,CVE-2007-3644,CVE-2007-3645|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=432924|
+484|CVE-2007-2797|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=349924|
+485|CVE-2007-4460|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=438540|
+486|CVE-2007-4542|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=439346|
+487|CVE-2007-4601|http://bugs.debian.org/405342|
+488|CVE-2007-3912|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=440411|Patch
+489|CVE-2015-1191|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774978|Exploit
+490|CVE-2015-1192|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774989|Exploit
+491|CVE-2015-1194,CVE-2015-1193|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774716|Exploit
+492|CVE-2015-1196|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775227|Exploit
+493|CVE-2015-1038|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774660|Exploit,Third Party Advisory
+494|CVE-2014-9428|http://bugs.debian.org/774155|
+495|CVE-2014-8625|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=768485|Exploit
+496|CVE-2014-1831,CVE-2014-1832|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736958|
+497|CVE-2015-1197|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774669|Exploit
+498|CVE-2014-9556|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=773041|Exploit
+499|CVE-2012-6687|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=681591|
+500|CVE-2015-1545|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=776988|
+501|CVE-2015-1546|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=776991|
+502|CVE-2015-1589|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=776164|Exploit
+503|CVE-2013-7437|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=778646|
+504|CVE-2015-2063|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775003|Exploit
+505|CVE-2015-2785|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=778261|
+506|CVE-2015-0556|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774434|Exploit
+507|CVE-2015-0557|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774435|Exploit
+508|CVE-2015-2788|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780925|
+509|CVE-2015-3026|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=782120|Issue Tracking
+510|CVE-2015-3310|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=782450|
+511|CVE-2014-9713|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=761406|
+512|CVE-2015-3332|https://bugs.debian.org/782515|
+513|CVE-2013-7441|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=781547|
+514|CVE-2015-4472|https://bugs.debian.org/775687|Exploit
+515|CVE-2014-9732|https://bugs.debian.org/774665|Exploit
+516|CVE-2015-4467|https://bugs.debian.org/774725|Exploit
+517|CVE-2015-4468,CVE-2015-4469|https://bugs.debian.org/774726|Exploit
+518|CVE-2015-4470|https://bugs.debian.org/775498|Exploit
+519|CVE-2015-4471|https://bugs.debian.org/775499|Exploit
+520|CVE-2015-3905|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=779274|Exploit
+521|CVE-2015-4695|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=784205|Exploit
+522|CVE-2015-4696|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=784192|Exploit
+523|CVE-2015-6749|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=797461|
+524|CVE-2015-0852|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=797165|Patch
+525|CVE-2018-13259,CVE-2018-0502|https://bugs.debian.org/908000|Patch,Mailing List,Third Party Advisory
+526|CVE-2018-16976|https://bugs.debian.org/908699|Patch,Mailing List,Third Party Advisory
+527|CVE-2018-16554|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=908176|Exploit,Mailing List,Third Party Advisory
+528|CVE-2018-17088|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=907925|Exploit,Patch,Mailing List,Third Party Advisory
+529|CVE-2018-18074|https://bugs.debian.org/910766|Exploit,Patch,Issue Tracking,Third Party Advisory
+530|CVE-2018-18541|https://bugs.debian.org/911487|Patch,Mailing List,Third Party Advisory
+531|CVE-2018-18584|https://bugs.debian.org/911640|Mailing List,Third Party Advisory
+532|CVE-2018-18585|https://bugs.debian.org/911637|Mailing List,Third Party Advisory
+533|CVE-2018-18586|https://bugs.debian.org/911639|Mailing List,Third Party Advisory
+534|CVE-2018-18654|https://bugs.debian.org/911877|Vendor Advisory,Mailing List,Issue Tracking
+535|CVE-2018-18655|https://bugs.debian.org/911842|Patch,Mailing List,Issue Tracking,Third Party Advisory
+536|CVE-2018-19518|https://bugs.debian.org/913775|Mailing List,Third Party Advisory
+537|CVE-2018-19518|https://bugs.debian.org/913835|Mailing List,Third Party Advisory
+538|CVE-2018-19518|https://bugs.debian.org/913836|Mailing List,Third Party Advisory
+539|CVE-2018-19655|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=890086|Exploit,Mailing List,Third Party Advisory
+540|CVE-2018-19655|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=906529|Exploit,Mailing List,Third Party Advisory
+541|CVE-2018-19788|https://bugs.debian.org/915332|Mailing List,Issue Tracking,Third Party Advisory
+542|CVE-2018-19960|https://bugs.debian.org/915859|Issue Tracking,Third Party Advisory
+543|CVE-2008-0471|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=463589|
+544|CVE-2008-0554|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=464056|
+545|CVE-2008-0666,CVE-2008-0665|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=463907|Exploit
+546|CVE-2008-0806|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=466382|Exploit
+547|CVE-2008-0807|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=464058|
+548|CVE-2008-0808|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=465110|
+549|CVE-2008-0932|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=466449|
+550|CVE-2008-0931,CVE-2008-0930|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=468050|
+551|CVE-2008-1096|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=414370|
+552|CVE-2008-1097|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413034|
+553|CVE-2008-1292,CVE-2008-1290,CVE-2008-1291|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=471380|
+554|CVE-2008-1367|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=469058|
+555|CVE-2008-1417|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=471227|
+556|CVE-2008-1483|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=463011|
+557|CVE-2008-1568|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=462840|
+558|CVE-2008-0165|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=475445|
+559|CVE-2008-1142|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=469296|Vendor Advisory
+560|CVE-2008-1293|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=469462|
+561|CVE-2008-1692|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=473127|
+562|CVE-2008-1771|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476241|
+563|CVE-2008-1832|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476321|
+564|CVE-2008-1877|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=475747|
+565|CVE-2008-1901|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476588|
+566|CVE-2008-1902|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476572|
+567|CVE-2008-1927|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=454792|
+568|CVE-2008-1994|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=475733|
+569|CVE-2008-1994|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476603|
+570|CVE-2008-2040|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=478573|Exploit
+571|CVE-2008-2040|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=478680|Exploit
+572|CVE-2008-2085|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=479039|Exploit
+573|CVE-2008-2266|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=480972|
+574|CVE-2008-0169|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=483770|
+575|CVE-2008-2230|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=484311|Exploit
+576|CVE-2008-2230|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=484474|Exploit
+577|CVE-2008-2231|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=484499|
+578|CVE-2008-2516|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=481970|
+579|CVE-2008-2654|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=484572|Exploit
+580|CVE-2008-2827|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=487319|Exploit
+581|CVE-2008-2828|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=487222|
+582|CVE-2008-1447,CVE-2008-3656,CVE-2008-3657,CVE-2008-3655|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494401|Third Party Advisory
+583|CVE-2008-2232|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=490921|
+584|CVE-2008-2958|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=488140|
+585|CVE-2008-3162|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=489965|
+586|CVE-2008-3216|http://bugs.debian.org/489988|
+587|CVE-2008-3330|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=492578|Exploit
+588|CVE-2008-3532|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=492434|
+589|CVE-2008-3699|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494765|
+590|CVE-2008-3714|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=495432|
+591|CVE-2008-3746|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=476571|
+592|CVE-2008-3789|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496073|
+593|CVE-2008-3883|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496404|
+594|CVE-2008-4958,CVE-2008-3927|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496415|
+595|CVE-2008-3928|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496365|
+596|CVE-2008-3929|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496369|
+597|CVE-2008-3930|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496359|
+598|CVE-2008-3931|http://bugs.debian.org/496418|
+599|CVE-2008-3931|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496363|
+600|CVE-2008-3971|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=497835|Exploit
+601|CVE-2008-4085|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496381|
+602|CVE-2008-4098,CVE-2008-4097|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=480292#25|Issue Tracking,Third Party Advisory
+603|CVE-2008-4126,CVE-2008-4099|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=490217|Exploit
+604|CVE-2008-4100|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=492698|
+605|CVE-2008-4108|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=498899|
+606|CVE-2008-4109|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=498678|
+607|CVE-2008-4190|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496374|Patch
+608|CVE-2008-4191|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496431|
+609|CVE-2008-4192|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496410|
+610|CVE-2008-4201|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=499899|
+611|CVE-2006-7234|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=396949|
+612|CVE-2008-4406,CVE-2008-4407|http://bugs.debian.org/433996|
+613|CVE-2008-4440|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496397|
+614|CVE-2008-4474|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496389|
+615|CVE-2008-4475|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496432|
+616|CVE-2008-4475|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496464|
+617|CVE-2008-4476|http://bugs.debian.org/496405|
+618|CVE-2008-4476|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494969|
+619|CVE-2008-4477|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496398|
+620|CVE-2008-4553|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496394|
+621|CVE-2008-4654|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=502726|
+622|CVE-2008-4863|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=503632|
+623|CVE-2008-5256|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504149|
+624|CVE-2008-2378|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=504182|
+625|CVE-2008-4908|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496358|
+626|CVE-2008-4935|http://bugs.debian.org/496422|
+627|CVE-2008-4936|http://bugs.debian.org/496403|
+628|CVE-2008-4937|http://bugs.debian.org/496361|
+629|CVE-2008-4938|http://bugs.debian.org/496400|
+630|CVE-2008-4938|http://bugs.debian.org/496402|
+631|CVE-2008-4938|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496402|
+632|CVE-2008-4939|http://bugs.debian.org/496395|
+633|CVE-2008-4940|http://bugs.debian.org/496390|
+634|CVE-2008-4941|http://bugs.debian.org/496396|
+635|CVE-2008-4942,CVE-2008-4978|http://bugs.debian.org/496433|
+636|CVE-2008-4943|http://bugs.debian.org/496382|
+637|CVE-2008-4944|http://bugs.debian.org/496438|
+638|CVE-2008-4945|http://bugs.debian.org/496380|
+639|CVE-2008-4946|http://bugs.debian.org/496419|
+640|CVE-2008-4947|http://bugs.debian.org/496388|
+641|CVE-2008-4948|http://bugs.debian.org/496399|
+642|CVE-2008-4949|http://bugs.debian.org/496412|
+643|CVE-2008-4950|http://bugs.debian.org/496413|
+644|CVE-2008-4951|http://bugs.debian.org/496362|
+645|CVE-2008-4952|http://bugs.debian.org/496428|
+646|CVE-2008-4953|http://bugs.debian.org/496424|
+647|CVE-2008-4954|http://bugs.debian.org/496370|
+648|CVE-2008-4955|http://bugs.debian.org/496373|
+649|CVE-2008-4956|http://bugs.debian.org/496406|
+650|CVE-2008-4957|http://bugs.debian.org/496391|
+651|CVE-2008-4958|http://bugs.debian.org/496378|
+652|CVE-2008-4959|http://bugs.debian.org/496436|
+653|CVE-2008-4960|http://bugs.debian.org/496435|
+654|CVE-2008-4964|http://bugs.debian.org/496379|
+655|CVE-2008-4965|http://bugs.debian.org/496360|
+656|CVE-2008-4966|http://bugs.debian.org/496376|
+657|CVE-2008-4967|http://bugs.debian.org/496372|
+658|CVE-2008-4968|http://bugs.debian.org/496427|
+659|CVE-2008-4969|http://bugs.debian.org/496411|
+660|CVE-2008-4970|http://bugs.debian.org/496371|
+661|CVE-2008-4971|http://bugs.debian.org/496366|
+662|CVE-2008-4972|http://bugs.debian.org/496434|
+663|CVE-2008-4973|http://bugs.debian.org/496392|
+664|CVE-2008-4974|http://bugs.debian.org/496384|
+665|CVE-2008-4975|http://bugs.debian.org/496437|
+666|CVE-2008-4976|http://bugs.debian.org/496420|
+667|CVE-2008-4976|http://bugs.debian.org/496425|
+668|CVE-2008-4977|http://bugs.debian.org/496401|
+669|CVE-2008-4979|http://bugs.debian.org/496426|
+670|CVE-2008-4980|http://bugs.debian.org/496364|
+671|CVE-2008-4981|http://bugs.debian.org/496385|
+672|CVE-2008-4982|http://bugs.debian.org/496375|
+673|CVE-2008-4983|http://bugs.debian.org/496414|
+674|CVE-2008-4984|http://bugs.debian.org/496409|
+675|CVE-2008-4985|http://bugs.debian.org/496421|
+676|CVE-2008-4986|http://bugs.debian.org/496387|
+677|CVE-2008-4987|http://bugs.debian.org/496383|Exploit
+678|CVE-2008-4988|http://bugs.debian.org/496393|
+679|CVE-2008-4993|http://bugs.debian.org/496367|
+680|CVE-2008-4994|http://bugs.debian.org/496416|
+681|CVE-2008-4995|http://bugs.debian.org/496430|
+682|CVE-2008-4996|http://bugs.debian.org/496386|
+683|CVE-2008-4997|http://bugs.debian.org/496429|
+684|CVE-2008-4998|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494648|
+685|CVE-2008-5007|http://bugs.debian.org/496377|
+686|CVE-2008-5034|http://bugs.debian.org/496417|
+687|CVE-2008-5076|http://bugs.debian.org/504144|Exploit
+688|CVE-2008-5101|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=505399|
+689|CVE-2008-5110|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=505791|Third Party Advisory
+690|CVE-2008-5113|http://bugs.debian.org/504771|
+691|CVE-2008-5140,CVE-2008-5313,CVE-2008-5312|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506353#44|
+692|CVE-2008-5141|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506350|
+693|CVE-2008-5157|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506348|
+694|CVE-2008-5187|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=505714#15|
+695|CVE-2008-5297|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=506179|
+696|CVE-2008-5298,CVE-2008-5299|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=501959|
+697|CVE-2008-5303,CVE-2008-5302|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286905|Exploit
+698|CVE-2008-5303,CVE-2008-5302|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286922#36|Exploit
+699|CVE-2008-5394|http://bugs.debian.org/332198|
+700|CVE-2008-5394|http://bugs.debian.org/505071|
+701|CVE-2008-5394|http://bugs.debian.org/505271|
+702|CVE-2008-5396|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=507459|
+703|CVE-2021-26720|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=982796|Mailing List,Third Party Advisory
+704|CVE-2021-24031|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=981404|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+705|CVE-2021-24032|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=982519|Patch,Third Party Advisory
+706|CVE-2021-28374|https://bugs.debian.org/984810|Vendor Advisory,Mailing List
+707|CVE-2017-20002|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=877374|Vendor Advisory,Mailing List
+708|CVE-2017-20002|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=914957|Exploit,Vendor Advisory,Mailing List
+709|CVE-2021-28963|https://bugs.debian.org/985405|Mailing List,Third Party Advisory
+710|CVE-2005-1391|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=307852|
+711|CVE-2005-1774|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=310757|
+712|CVE-2005-1824|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=308031|Patch,Vendor Advisory
+713|CVE-2005-1858|http://bugs.debian.org/311634|Vendor Advisory
+714|CVE-2005-1992|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=315064|
+715|CVE-2005-2214|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=305142|Vendor Advisory
+716|CVE-2005-2471|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=319757|
+717|CVE-2005-2548|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=309308|Exploit,Vendor Advisory
+718|CVE-2005-2654|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=322423|Third Party Advisory
+719|CVE-2005-2672|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=324193|
+720|CVE-2005-2872|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=322237|Patch
+721|CVE-2005-2875|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=326976|Vendor Advisory
+722|CVE-2005-3011|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=328365|Exploit
+723|CVE-2005-3054|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=323585|Patch,Vendor Advisory
+724|CVE-2005-3070,CVE-2005-3069|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=329384|Vendor Advisory
+725|CVE-2005-0023|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=330907|Exploit
+726|CVE-2005-2963|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=323789|
+727|CVE-2005-3147,CVE-2005-3146,CVE-2005-3148|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=332434|
+728|CVE-2005-3149|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=331620|Patch
+729|CVE-2005-3239|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=333566|Vendor Advisory
+730|CVE-2005-3257|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=334113|Exploit,Vendor Advisory
+731|CVE-2005-3268|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=334616|
+732|CVE-2005-3302|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=330895|Exploit,Vendor Advisory
+733|CVE-2005-3331|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=335188|Vendor Advisory
+734|CVE-2005-3346|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=338312|
+735|CVE-2005-3573|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=327732|
+736|CVE-2005-3694|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=334089|Vendor Advisory
+737|CVE-2005-3737|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=330894|
+738|CVE-2005-3856|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=336169|Patch,Vendor Advisory
+739|CVE-2005-3862|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=340842|Vendor Advisory
+740|CVE-2005-3885|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=321501|
+741|CVE-2005-3191,CVE-2005-3192|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=342289|
+742|CVE-2005-3345|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=344424|
+743|CVE-2005-3532|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=211920|Patch
+744|CVE-2005-4348|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=343836|Mailing List,Issue Tracking,Third Party Advisory
+745|CVE-2005-4534|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=329387|Patch
+746|CVE-2005-4536|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=344029|
+747|CVE-2005-4601|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=345238|Exploit
+748|CVE-2005-4683,CVE-2006-0512|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=338920|
+749|CVE-2005-4693|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=337127|
+750|CVE-2005-4728|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=341424|Patch
+751|CVE-2005-4802|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=334350|Exploit
+752|CVE-2003-0612|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=203541|
+753|CVE-2004-0078|http://bugs.debian.org/126336|
+754|CVE-2003-0618|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=203426|
+755|CVE-2003-0193|http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=183525|
+756|CVE-2004-0639|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=257973|
+757|CVE-2004-0690|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=261386|Exploit,Vendor Advisory,Patch
+758|CVE-2004-0797|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=252253|
+759|CVE-2004-0911|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=273694|
+760|CVE-2004-1143|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286796|Patch
+761|CVE-2004-1296|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286371|
+762|CVE-2004-1296|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286372|
+763|CVE-2004-1336|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286370|Vendor Advisory
+764|CVE-2016-10937|https://bugs.debian.org/939702|Issue Tracking,Third Party Advisory
+765|CVE-2019-16378|https://bugs.debian.org/940081|Mailing List,Third Party Advisory
+766|CVE-2019-17266|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941912|Third Party Advisory
+767|CVE-2019-17455|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=942145|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+768|CVE-2019-17540|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=942578|Patch,Issue Tracking,Third Party Advisory
+769|CVE-2009-4899,CVE-2009-4900|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=597224|Mailing List,Third Party Advisory
+770|CVE-2010-3293|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=596397|Mailing List,Issue Tracking,Third Party Advisory
+771|CVE-2010-4245|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=604060|Patch,Mailing List,Third Party Advisory
+772|CVE-2010-3373|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598413|Mailing List,Third Party Advisory
+773|CVE-2010-3375|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598301|Third Party Advisory
+774|CVE-2010-4237|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598841|Issue Tracking,Third Party Advisory
+775|CVE-2011-4931|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651510|Mailing List,Third Party Advisory
+776|CVE-2010-2061|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=583435#5|Third Party Advisory
+777|CVE-2010-0747|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=573531|Exploit,Issue Tracking,Third Party Advisory
+778|CVE-2005-3056|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=330733|Mailing List,Third Party Advisory
+779|CVE-2005-2350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=311838|Exploit,Third Party Advisory
+780|CVE-2010-3660,CVE-2010-3671,CVE-2010-3661,CVE-2010-3673,CVE-2010-3668,CVE-2010-3669,CVE-2010-3670,CVE-2010-3672,CVE-2010-3674,CVE-2010-3665,CVE-2010-3663,CVE-2010-3666,CVE-2010-3662,CVE-2010-3667,CVE-2010-3664|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=590719|Mailing List,Third Party Advisory
+781|CVE-2005-2351|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=311296|Mailing List,Third Party Advisory
+782|CVE-2019-6470|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896122|Exploit,Mailing List,Third Party Advisory
+783|CVE-2005-2354|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=306822|Exploit,Third Party Advisory
+784|CVE-2011-1133,CVE-2011-1135,CVE-2011-1134|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=611661|Third Party Advisory
+785|CVE-2006-0061|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=318123|Exploit,Patch,Third Party Advisory
+786|CVE-2006-0061|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=399003|Exploit,Third Party Advisory
+787|CVE-2006-0062|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=309760|Exploit,Patch,Third Party Advisory
+788|CVE-2006-3100|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=358028|Exploit,Patch,Third Party Advisory
+789|CVE-2006-4245|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=385253|Exploit,Patch,Third Party Advisory
+790|CVE-2010-2471|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=592716|Mailing List,Third Party Advisory
+791|CVE-2010-2449|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=577958|Third Party Advisory
+792|CVE-2010-2450|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=571631|Patch,Mailing List,Third Party Advisory
+793|CVE-2010-2476|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=587481|Patch,Mailing List,Third Party Advisory
+794|CVE-2007-5743|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=416696|Exploit,Issue Tracking,Third Party Advisory
+795|CVE-2008-7272|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=514386|Issue Tracking,Third Party Advisory
+796|CVE-2010-2488|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=584929|Exploit,Mailing List,Third Party Advisory
+797|CVE-2010-3438|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=581194|Patch,Mailing List,Third Party Advisory
+798|CVE-2010-3439|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=575621|Exploit,Mailing List,Third Party Advisory
+799|CVE-2010-3095|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=596403|Mailing List,Third Party Advisory
+800|CVE-2010-3292|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=596396|Mailing List,Third Party Advisory
+801|CVE-2010-3440|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=591995|Mailing List,Third Party Advisory
+802|CVE-2010-3844|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=600130|Mailing List,Third Party Advisory
+803|CVE-2010-4177|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=605542|Mailing List,Third Party Advisory
+804|CVE-2019-18397|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=944327|Issue Tracking,Third Party Advisory
+805|CVE-2010-4532|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=603450|Third Party Advisory
+806|CVE-2010-4533|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=606962|Third Party Advisory
+807|CVE-2011-1136|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=612032|Exploit,Patch,Mailing List,Third Party Advisory
+808|CVE-2012-6070|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=696681|Issue Tracking,Third Party Advisory
+809|CVE-2012-6071|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=696707|Issue Tracking,Third Party Advisory
+810|CVE-2016-1000236|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=838618|Issue Tracking,Third Party Advisory
+811|CVE-2011-3349|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=639151|Mailing List,Third Party Advisory
+812|CVE-2011-3350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=638002|Issue Tracking,Third Party Advisory
+813|CVE-2014-1935|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737206|Exploit,Issue Tracking,Third Party Advisory
+814|CVE-2014-1936|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737125|Issue Tracking,Third Party Advisory
+815|CVE-2014-1937|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737324|Issue Tracking,Third Party Advisory
+816|CVE-2014-1938|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=737627|Issue Tracking,Third Party Advisory
+817|CVE-2015-2793|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=781483|Issue Tracking,Third Party Advisory
+818|CVE-2014-2904,CVE-2014-2902|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=792646|Patch,Mailing List,Third Party Advisory
+819|CVE-2014-5254,CVE-2014-5255|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=756600|Mailing List,Exploit,Third Party Advisory
+820|CVE-2014-6311|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=760709|Third Party Advisory
+821|CVE-2011-3355|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=641052|Third Party Advisory
+822|CVE-2011-3374|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=642480|Mailing List,Issue Tracking,Third Party Advisory
+823|CVE-2011-3583|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=641682|Third Party Advisory
+824|CVE-2011-3596|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=644289|Third Party Advisory
+825|CVE-2011-3632,CVE-2011-3630,CVE-2011-3631|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=645516|Issue Tracking,Third Party Advisory
+826|CVE-2011-4350|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=650009|Third Party Advisory
+827|CVE-2011-1933|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=622919|Third Party Advisory
+828|CVE-2011-1934|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=615103|Third Party Advisory
+829|CVE-2011-2187|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=627382|Exploit,Third Party Advisory
+830|CVE-2011-2207|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=627377|Third Party Advisory
+831|CVE-2011-2480|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=631160|Third Party Advisory
+832|CVE-2011-2480|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=631161|Third Party Advisory
+833|CVE-2016-10538|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=809252|Third Party Advisory
+834|CVE-2018-12015|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=900834|Exploit,Mailing List,Third Party Advisory
+835|CVE-2018-12066|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=900967|Issue Tracking,Third Party Advisory
+836|CVE-2018-12423|https://bugs.debian.org/901549|Mailing List,Third Party Advisory
+837|CVE-2018-12558|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=901873|Third Party Advisory
+838|CVE-2018-13043|https://bugs.debian.org/902409|Patch,Vendor Advisory
+839|CVE-2014-2079|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=739536|Patch,Mailing List,Third Party Advisory
+840|CVE-2018-14404|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=901817|Mailing List,Third Party Advisory
+841|CVE-2014-4150|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=748766|Mailing List,Third Party Advisory
+842|CVE-2015-9261|https://bugs.debian.org/803097|Patch,Mailing List,Issue Tracking,Third Party Advisory
+843|CVE-2018-1056|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889270|Exploit,Issue Tracking,Third Party Advisory
+844|CVE-2018-14679|https://bugs.debian.org/904802|Patch,Mailing List,Issue Tracking,Third Party Advisory
+845|CVE-2018-14680|https://bugs.debian.org/904801|Patch,Mailing List,Issue Tracking,Third Party Advisory
+846|CVE-2018-14681|https://bugs.debian.org/904799|Patch,Mailing List,Issue Tracking,Third Party Advisory
+847|CVE-2018-14682|https://bugs.debian.org/904800|Patch,Mailing List,Issue Tracking,Third Party Advisory
+848|CVE-2018-14952,CVE-2018-14951,CVE-2018-14954,CVE-2018-14955,CVE-2018-14953,CVE-2018-14950|https://bugs.debian.org/905023|Mailing List,Issue Tracking,Third Party Advisory
+849|CVE-2018-15473|https://bugs.debian.org/906236|Patch,Mailing List,Issue Tracking,Third Party Advisory
+850|CVE-2011-2765|https://bugs.debian.org/631912|Exploit,Issue Tracking,Third Party Advisory
+851|CVE-2018-1000637|https://bugs.debian.org/904819|Mailing List,Issue Tracking,Third Party Advisory
+852|CVE-2011-2767|https://bugs.debian.org/644169|Mailing List,Issue Tracking,Third Party Advisory
+853|CVE-2019-12735|https://bugs.debian.org/930020|Mailing List,Third Party Advisory
+854|CVE-2019-12735|https://bugs.debian.org/930024|Mailing List,Third Party Advisory
+855|CVE-2019-11038|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929821|Mailing List,Third Party Advisory
+856|CVE-2019-13012|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=931234#12|
+857|CVE-2019-12594|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=931222|Mailing List,Third Party Advisory
+858|CVE-2019-1010060|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=892458|Mailing List,Third Party Advisory
+859|CVE-2019-15058|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=934973|
+860|CVE-2016-10894|https://bugs.debian.org/830726|Patch,Issue Tracking,Third Party Advisory
+861|CVE-2012-4382,CVE-2012-4381,CVE-2012-4380,CVE-2012-4379,CVE-2012-4378,CVE-2012-4377|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=686330|Mailing List,Issue Tracking,Third Party Advisory
+862|CVE-2011-1935|https://bugs.debian.org/cgi-bin/bugreport.cgi?att=1;bug=623868;filename=0001-Fix-the-calculation-of-the-frame-size-in-memory-mapp.patch;msg=10|Patch,Issue Tracking,Third Party Advisory
+863|CVE-2011-1935|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=623868|Patch,Issue Tracking,Third Party Advisory
+864|CVE-2011-2684|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=633870|Third Party Advisory
+865|CVE-2017-16227|https://bugs.debian.org/879474|Patch,Issue Tracking,Third Party Advisory
+866|CVE-2017-16248|https://bugs.debian.org/880458|Third Party Advisory
+867|CVE-2008-7319|https://bugs.debian.org/881097|Patch,Issue Tracking,Third Party Advisory
+868|CVE-2017-16820|https://bugs.debian.org/881757|Issue Tracking,Third Party Advisory
+869|CVE-2017-8807|https://bugs.debian.org/881808|Issue Tracking,Third Party Advisory
+870|CVE-2017-16844|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=876511|Issue Tracking,Third Party Advisory
+871|CVE-2017-16852|https://bugs.debian.org/881857|Issue Tracking,Third Party Advisory
+872|CVE-2017-16853|https://bugs.debian.org/881856|Issue Tracking,Third Party Advisory
+873|CVE-2017-16899|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=881143|Issue Tracking,Third Party Advisory
+874|CVE-2017-16613|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=882314|Patch,Issue Tracking,Third Party Advisory
+875|CVE-2017-16926|https://bugs.debian.org/882372|Exploit,Vendor Advisory
+876|CVE-2017-15088|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=871698|Issue Tracking,Third Party Advisory
+877|CVE-2017-14176|https://bugs.debian.org/874429|Issue Tracking,Third Party Advisory
+878|CVE-2016-1253|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=848132|Patch,Vendor Advisory,Issue Tracking
+879|CVE-2017-17432|https://bugs.debian.org/883602|Mailing List,Issue Tracking,Third Party Advisory
+880|CVE-2017-17439|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=878144|Mailing List,Issue Tracking,Third Party Advisory
+881|CVE-2017-17440|https://bugs.debian.org/883528#35|Exploit,Third Party Advisory
+882|CVE-2017-17446|https://bugs.debian.org/883691|Issue Tracking
+883|CVE-2017-17512,CVE-2017-17523|https://bugs.debian.org/881767|Issue Tracking,Exploit,Third Party Advisory
+884|CVE-2017-17523|https://bugs.debian.org/884136|Issue Tracking,Third Party Advisory
+885|CVE-2017-16997|https://bugs.debian.org/884615|Patch,Mailing List,Issue Tracking,Third Party Advisory
+886|CVE-2014-4978|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=754899|Mailing List,Issue Tracking,Third Party Advisory
+887|CVE-2015-7758|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=756432|Vendor Advisory
+888|CVE-2016-3191|https://bugs.debian.org/815920|
+889|CVE-2016-3191|https://bugs.debian.org/815921|
+890|CVE-2015-7551|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=796344|
+891|CVE-2015-7551|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=796551|
+892|CVE-2014-9769|https://bugs.debian.org/819050|
+893|CVE-2020-24394|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=962254|Issue Tracking,Third Party Advisory
+894|CVE-2020-15861|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=966599|Issue Tracking,Third Party Advisory
+895|CVE-2020-15862|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=965166|Issue Tracking,Third Party Advisory
+896|CVE-2020-14304|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=960702|Issue Tracking,Third Party Advisory
+897|CVE-2020-26154|https://bugs.debian.org/968366|Issue Tracking,Third Party Advisory
+898|CVE-2020-26932|https://bugs.debian.org/971904|Vendor Advisory
+899|CVE-2020-27638|https://bugs.debian.org/972521|Issue Tracking,Third Party Advisory
+900|CVE-2017-8296|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=860817|Patch,Issue Tracking
+901|CVE-2017-8305|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=861347|Mailing List,Third Party Advisory
+902|CVE-2017-8342|https://bugs.debian.org/861514|Exploit,VDB Entry,Patch,Issue Tracking
+903|CVE-2016-8649|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845465|Third Party Advisory
+904|CVE-2017-8787|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=861738|Issue Tracking,Third Party Advisory
+905|CVE-2017-8829|https://bugs.debian.org/861958|Vendor Advisory,Issue Tracking
+906|CVE-2016-10369|https://bugs.debian.org/862098|Patch,Issue Tracking,Third Party Advisory
+907|CVE-2017-8933|https://bugs.debian.org/862570|Third Party Advisory
+908|CVE-2017-8934|https://bugs.debian.org/862571|Third Party Advisory
+909|CVE-2016-10374|https://bugs.debian.org/862667|Issue Tracking,Third Party Advisory
+910|CVE-2017-9031|https://bugs.debian.org/862611|Patch,Mailing List,Third Party Advisory
+911|CVE-2017-9058|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=862556|Patch,Issue Tracking,Third Party Advisory
+912|CVE-2017-9146|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=862707|Third Party Advisory
+913|CVE-2017-9149|https://bugs.debian.org/858058|Mailing List
+914|CVE-2016-10376|https://bugs.debian.org/863445|Third Party Advisory
+915|CVE-2017-9287|https://bugs.debian.org/863563|Patch,Issue Tracking,Third Party Advisory
+916|CVE-2017-9358|https://bugs.debian.org/863906|Mailing List,Third Party Advisory
+917|CVE-2017-9359|https://bugs.debian.org/863902|Mailing List,Third Party Advisory
+918|CVE-2017-9372|https://bugs.debian.org/863901|Mailing List,Third Party Advisory
+919|CVE-2014-9983|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774172|Exploit,Third Party Advisory
+920|CVE-2017-9461|https://bugs.debian.org/864291|Exploit,Patch,Issue Tracking,Third Party Advisory
+921|CVE-2017-9462|https://bugs.debian.org/861243|Patch,Mailing List,Issue Tracking,Third Party Advisory
+922|CVE-2017-9525|http://bugs.debian.org/864466|Vendor Advisory,Issue Tracking,Third Party Advisory
+923|CVE-2020-3812,CVE-2020-3811|https://bugs.debian.org/961060|Issue Tracking,Third Party Advisory
+924|CVE-2017-18869|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863985|Third Party Advisory
+925|CVE-2017-9735|https://bugs.debian.org/864631|Mailing List,Third Party Advisory
+926|CVE-2017-9780|https://bugs.debian.org/865413|Patch,Issue Tracking,Third Party Advisory
+927|CVE-2015-9099|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775959|Issue Tracking,Third Party Advisory
+928|CVE-2015-9100|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=777160|Issue Tracking,Third Party Advisory
+929|CVE-2015-9101|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=777161|Issue Tracking,Third Party Advisory
+930|CVE-2015-1591,CVE-2015-1590|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775681|Mailing List,Issue Tracking,Third Party Advisory
+931|CVE-2015-1591|https://bugs.debian.org/cgi-bin/bugreport.cgi?msg=17;filename=0001-fix-fifo-and-ctl-defaults-pointing-to-unsecure-tmp-d.patch;att=1;bug=775681|Mailing List,Third Party Advisory
+932|CVE-2015-8697|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=808730|Issue Tracking,Third Party Advisory
+933|CVE-2017-10807|https://bugs.debian.org/867032|Third Party Advisory
+934|CVE-2016-4000|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=864859|Mailing List,Third Party Advisory
+935|CVE-2017-11104|https://bugs.debian.org/865678|Issue Tracking,Third Party Advisory
+936|CVE-2017-11311|https://bugs.debian.org/867579|Patch,Issue Tracking,Third Party Advisory
+937|CVE-2017-11352|https://bugs.debian.org/868469|Patch,Issue Tracking,Third Party Advisory
+938|CVE-2017-11353|https://bugs.debian.org/868300|Patch,Issue Tracking,Third Party Advisory
+939|CVE-2017-11421|https://bugs.debian.org/868705|Issue Tracking,Third Party Advisory
+940|CVE-2017-11447|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867897|Patch,Issue Tracking,Third Party Advisory
+941|CVE-2017-11448|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867893|Patch,Issue Tracking,Third Party Advisory
+942|CVE-2017-11449|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867896|Patch,Issue Tracking,Third Party Advisory
+943|CVE-2017-11450|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867894|Patch,Issue Tracking,Third Party Advisory
+944|CVE-2017-11478|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867826|Patch,Issue Tracking,Third Party Advisory
+945|CVE-2017-0378|https://bugs.debian.org/868988|Mailing List,Third Party Advisory
+946|CVE-2015-3886|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=783601|Issue Tracking,Third Party Advisory
+947|CVE-2017-11505|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867824|Third Party Advisory
+948|CVE-2017-11522|https://bugs.debian.org/869209|Third Party Advisory
+949|CVE-2017-11523|https://bugs.debian.org/869210|Exploit,Patch,Third Party Advisory
+950|CVE-2017-11524|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867798|Third Party Advisory
+951|CVE-2017-11525|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867810|Third Party Advisory
+952|CVE-2017-11526|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867825|Mailing List,Third Party Advisory
+953|CVE-2017-11527|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867812|Mailing List,Issue Tracking,Third Party Advisory
+954|CVE-2017-11528|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867811|Mailing List,Issue Tracking,Third Party Advisory
+955|CVE-2017-11529|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867823|Mailing List,Issue Tracking,Third Party Advisory
+956|CVE-2017-11530|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=867821|Mailing List,Issue Tracking,Third Party Advisory
+957|CVE-2017-11565|https://bugs.debian.org/869153|Vendor Advisory,Mailing List,Issue Tracking
+958|CVE-2016-7539|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=833101|Patch,Issue Tracking,Third Party Advisory
+959|CVE-2017-11720|https://bugs.debian.org/777159|
+960|CVE-2017-11552|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870406|
+961|CVE-2017-12424|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=756630|Issue Tracking,Third Party Advisory
+962|CVE-2015-8621|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=751579|Issue Tracking,Third Party Advisory
+963|CVE-2010-3845|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=599712|Patch,Third Party Advisory
+964|CVE-2015-2310|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780565|Mailing List,Third Party Advisory
+965|CVE-2015-2311|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780566|Mailing List,Third Party Advisory
+966|CVE-2015-2312|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780567|Mailing List,Third Party Advisory
+967|CVE-2015-2313|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780568|Mailing List,Third Party Advisory
+968|CVE-2017-13139|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870109|Third Party Advisory
+969|CVE-2017-13140|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870111|Exploit,Patch,Third Party Advisory
+970|CVE-2017-13141|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870116|Issue Tracking,Third Party Advisory
+971|CVE-2017-13142|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870105|Patch,Third Party Advisory
+972|CVE-2017-13143|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870012|Issue Tracking,Third Party Advisory
+973|CVE-2017-13144|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=869728|Issue Tracking,Third Party Advisory
+974|CVE-2017-13145|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=869830|Issue Tracking,Third Party Advisory
+975|CVE-2017-13146|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870013|Issue Tracking,Third Party Advisory
+976|CVE-2017-12791|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=872399|Patch,Issue Tracking,Third Party Advisory
+977|CVE-2017-13658|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=870019|Issue Tracking,Third Party Advisory
+978|CVE-2014-4616|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=752395|Mailing List,Issue Tracking,Third Party Advisory
+979|CVE-2015-1395|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775873|Patch,Issue Tracking,Third Party Advisory
+980|CVE-2015-5701,CVE-2015-5700|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=775139|Issue Tracking,Third Party Advisory
+981|CVE-2017-13737|https://bugs.debian.org/878511|Issue Tracking,Third Party Advisory
+982|CVE-2013-7426|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=712083|Issue Tracking,Third Party Advisory
+983|CVE-2017-0379|https://bugs.debian.org/873383|Issue Tracking,Third Party Advisory
+984|CVE-2017-14032|https://bugs.debian.org/873557|Patch,Issue Tracking,Third Party Advisory
+985|CVE-2017-14098|https://bugs.debian.org/873909|Patch,Issue Tracking,Third Party Advisory
+986|CVE-2017-14099|https://bugs.debian.org/873907|Patch,Issue Tracking,Third Party Advisory
+987|CVE-2017-14100|https://bugs.debian.org/873908|Patch,Issue Tracking,Third Party Advisory
+988|CVE-2017-14120|https://bugs.debian.org/874059|Issue Tracking,Third Party Advisory
+989|CVE-2017-14121|https://bugs.debian.org/874061|Issue Tracking,Third Party Advisory
+990|CVE-2017-14122|https://bugs.debian.org/874060|Issue Tracking,Third Party Advisory
+991|CVE-2015-0853|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798863|Exploit,VDB Entry,Issue Tracking,Third Party Advisory
+992|CVE-2015-5705,CVE-2015-5704|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=794260|Vendor Advisory,Issue Tracking,Third Party Advisory
+993|CVE-2015-7225|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798466|Mailing List,Third Party Advisory
+994|CVE-2017-14313|https://bugs.debian.org/874416|Patch,Mailing List,Third Party Advisory
+995|CVE-2014-9635,CVE-2014-9634|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=769682|Third Party Advisory
+996|CVE-2017-14501|https://bugs.debian.org/875966|Mailing List,Issue Tracking,Third Party Advisory
+997|CVE-2017-14502|https://bugs.debian.org/875974|Mailing List,Issue Tracking,Third Party Advisory
+998|CVE-2017-14503|https://bugs.debian.org/875960|Mailing List,Issue Tracking,Third Party Advisory
+999|CVE-2017-14604|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=860268|Issue Tracking,Third Party Advisory
+1000|CVE-2015-2927|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=777013|Third Party Advisory
+1001|CVE-2015-1336|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=840357|Issue Tracking,Third Party Advisory
+1002|CVE-2017-14867|https://bugs.debian.org/876854|Mailing List,Issue Tracking,Third Party Advisory
+1003|CVE-2008-7315|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=496448|Third Party Advisory
+1004|CVE-2007-4656|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=439392|
+1005|CVE-2007-4739|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=440535|Patch
+1006|CVE-2007-4739|http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=5;filename=interdiff;att=1;bug=440535|
+1007|CVE-2007-5037|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=443913|
+1008|CVE-2007-3919|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=447795|
+1009|CVE-2007-5193|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=444982|
+1010|CVE-2007-5201|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=442840|Third Party Advisory
+1011|CVE-2007-5207|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=445308|Exploit
+1012|CVE-2007-5365|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=446354|
+1013|CVE-2007-5373|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=445582|
+1014|CVE-2007-5469|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=446956|
+1015|CVE-2007-5626|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=446809|Mailing List,Issue Tracking,Third Party Advisory
+1016|CVE-2007-5707|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=440632|
+1017|CVE-2007-5718|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=448319|
+1018|CVE-2007-5395|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=450695|
+1019|CVE-2007-5794|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=453868|
+1020|CVE-2007-5795|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=449008|
+1021|CVE-2007-5827|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=448873|
+1022|CVE-2007-5837|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=448721|
+1023|CVE-2007-5839|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=449149|
+1024|CVE-2007-5933,CVE-2007-6010|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=449541|
+1025|CVE-2007-5935|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=447081|Exploit
+1026|CVE-2007-6025|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=442387|
+1027|CVE-2007-6062|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=451875|
+1028|CVE-2007-6062|http://bugs.debian.org/cgi-bin/bugreport.cgi?msg=10;filename=90-remote-vulnerability.dpatch;att=1;bug=451875|
+1029|CVE-2007-6110|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=453278|
+1030|CVE-2007-6183|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=453689|
+1031|CVE-2007-6208|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=454089|
+1032|CVE-2007-6210|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=452682|Patch
+1033|CVE-2007-6381|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=457446|
+1034|CVE-2007-6389|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=455484|
+1035|CVE-2007-6418|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=448519|
+1036|CVE-2007-6454|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=457300|
+1037|CVE-2006-0043|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=350020|
+1038|CVE-2006-0082|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=345876|Exploit,Vendor Advisory
+1039|CVE-2006-0106|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=346197|Patch
+1040|CVE-2006-0321|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=348747|
+1041|CVE-2006-0467|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=350237|
+1042|CVE-2006-0046|http://bugs.debian.org/cgi-bin/bugreport.cgi/squid_redirect.diff?bug=350308;msg=5;att=1|
+1043|CVE-2006-0046|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=350308|
+1044|CVE-2006-0597|http://bugs.debian.org/cgi-bin/bugreport.cgi/0001-r1333-Fixed-crashes-with-very-long-revisions-attributes.txt?bug=349528;msg=15;att=1|
+1045|CVE-2006-0598,CVE-2006-0597,CVE-2006-0599,CVE-2006-0600|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=349528|
+1046|CVE-2006-0598|http://bugs.debian.org/cgi-bin/bugreport.cgi/0002-r1335-Applied-patch-from-Emiliano-to-fix-possible-buffer-overflow.txt?bug=349528;msg=15;att=2|
+1047|CVE-2006-0599|http://bugs.debian.org/cgi-bin/bugreport.cgi/0003-r1472-Do-not-distinguish-between-invalid-user-name-and-invalid-password.txt?bug=349528;msg=15;att=3|
+1048|CVE-2006-0709|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=352482|
+1049|CVE-2006-1319|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=356016|Exploit,Vendor Advisory,Patch
+1050|CVE-2006-1320|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=346322|Patch
+1051|CVE-2006-0047|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=355211|
+1052|CVE-2006-0052|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=358892|Patch
+1053|CVE-2006-1251|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=345071|
+1054|CVE-2006-1280,CVE-2006-1279|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=356555|Exploit
+1055|CVE-2006-1296|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=357392|
+1056|CVE-2006-1376|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=358210|
+1057|CVE-2006-1564|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=359234|Exploit,Patch
+1058|CVE-2006-1565|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=359239|Exploit,Patch
+1059|CVE-2006-1566|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=359241|Exploit,Patch
+1060|CVE-2006-0053|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=359661|
+1061|CVE-2006-1656|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=360438|Patch
+1062|CVE-2006-1695|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=361370|
+1063|CVE-2006-1744|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=360989|
+1064|CVE-2006-1772|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=361775|
+1065|CVE-2006-1796|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=328909|Patch
+1066|CVE-2006-1844|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=356939|Patch
+1067|CVE-2006-1902|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=356896|
+1068|CVE-2006-1516|http://bugs.debian.org/365938|
+1069|CVE-2006-1517,CVE-2006-1518|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=365939|Patch
+1070|CVE-2006-2148|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=365680|
+1071|CVE-2006-2213|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=365897|
+1072|CVE-2006-2366|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=366484|
+1073|CVE-2006-2440|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=345595|Patch
+1074|CVE-2006-2441|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=351986|Patch
+1075|CVE-2006-2442|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=337830|Patch
+1076|CVE-2006-2443|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=348306|Patch
+1077|CVE-2006-2542|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=366816|Patch
+1078|CVE-2006-2644|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=365910|
+1079|CVE-2006-2659|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=368834|Patch
+1080|CVE-2006-2685|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=370576|
+1081|CVE-2006-2193|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=370355|
+1082|CVE-2006-2200|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=374577|
+1083|CVE-2006-2753|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=369735|
+1084|CVE-2006-3081|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=373913|
+1085|CVE-2006-3118|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=375617|
+1086|CVE-2021-31826|https://bugs.debian.org/987608|Mailing List,Third Party Advisory
+1087|CVE-2015-1877|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=777722|
+1088|CVE-2013-4532|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=739589|Mailing List,Third Party Advisory
+1089|CVE-2012-4451|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=688946#10|Mailing List,Third Party Advisory
+1090|CVE-2019-17357|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=947374|Issue Tracking,Third Party Advisory
+1091|CVE-2010-3879|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=602333|Exploit,Patch,Third Party Advisory
+1092|CVE-2010-4334|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=606058|Patch
+1093|CVE-2010-4337|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=605419|
+1094|CVE-2010-4338|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598134|
+1095|CVE-2010-4339|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598743|
+1096|CVE-2010-4523|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=607427|Exploit,Patch
+1097|CVE-2010-4524|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=607693|
+1098|CVE-2010-4531|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=607781|Patch
+1099|CVE-2010-4540,CVE-2010-4541,CVE-2010-4543,CVE-2010-4542|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608497|Exploit
+1100|CVE-2011-0009|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=610850|Patch
+1101|CVE-2011-0010|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=609641|
+1102|CVE-2011-0343|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608491|Patch,Third Party Advisory
+1103|CVE-2011-0480|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=610550|Issue Tracking,Third Party Advisory
+1104|CVE-2011-0520|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=610834|
+1105|CVE-2010-4744,CVE-2010-3441,CVE-2010-4743|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=577014|Patch,Mailing List,Issue Tracking,Third Party Advisory
+1106|CVE-2011-0530|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=611187|
+1107|CVE-2011-0702|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=612035|Patch
+1108|CVE-2011-1007|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=614575|Patch
+1109|CVE-2011-1008|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=614576|Patch
+1110|CVE-2010-3695|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598584|Exploit,Patch
+1111|CVE-2011-0436|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=614302|
+1112|CVE-2011-0441|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=618489|Patch
+1113|CVE-2011-0762|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=622741|Issue Tracking,Third Party Advisory
+1114|CVE-2011-1022|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=615987|Patch
+1115|CVE-2011-1072|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=546164|
+1116|CVE-2011-1146|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=617773|Patch
+1117|CVE-2011-1176|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=618857|Patch,Issue Tracking,Third Party Advisory
+1118|CVE-2011-1548|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=606544|
+1119|CVE-2011-0285|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=621726|
+1120|CVE-2011-1071|http://bugs.debian.org/615120|Exploit
+1121|CVE-2011-1499|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=621493|Patch,Issue Tracking
+1122|CVE-2010-4802,CVE-2010-4803,CVE-2011-1589|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=622952|Exploit,Patch
+1123|CVE-2011-1522|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=622674|
+1124|CVE-2011-1574|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=622091|Patch
+1125|CVE-2011-1784|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=626281|
+1126|CVE-2011-1920|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=626673|Exploit,Patch
+1127|CVE-2011-1925|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=627042.|
+1128|CVE-2011-1928|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=627182|
+1129|CVE-2009-5044|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=538330|
+1130|CVE-2009-5078|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=538338|
+1131|CVE-2011-0082|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=627552|Exploit
+1132|CVE-2011-2472,CVE-2011-2473,CVE-2011-2471,CVE-2011-1760|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=624212|Exploit
+1133|CVE-2011-2188|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629225|
+1134|CVE-2011-2200|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629938|
+1135|CVE-2011-1931|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=624339|Patch
+1136|CVE-2011-2185|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629003|
+1137|CVE-2011-2489|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=631344|Patch
+1138|CVE-2011-2490|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=631345|Patch
+1139|CVE-2011-2510|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=631818|Patch
+1140|CVE-2011-2687|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=633385|
+1141|CVE-2011-2688|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=633637|Patch,Issue Tracking,Third Party Advisory
+1142|CVE-2010-4340|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=598463|
+1143|CVE-2011-2201|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629511|Exploit,Patch
+1144|CVE-2011-2766|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=607479|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+1145|CVE-2011-3211|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=640028|Patch
+1146|CVE-2011-3578,CVE-2011-3358,CVE-2011-3356,CVE-2011-3357|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=640297|Exploit,Patch
+1147|CVE-2011-1527|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629558|
+1148|CVE-2011-1764|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=624670|Patch
+1149|CVE-2011-2189|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629373|Exploit,Mailing List,Third Party Advisory
+1150|CVE-2011-3616|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=612033|Exploit
+1151|CVE-2011-4675,CVE-2011-1932|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=617960|
+1152|CVE-2011-4606|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651620|
+1153|CVE-2009-2624|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=507263|
+1154|CVE-2010-0015|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=560333|
+1155|CVE-2009-4642|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=536381|
+1156|CVE-2010-0301|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=564601|
+1157|CVE-2010-0303|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=550389|
+1158|CVE-2010-0394|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=567039|
+1159|CVE-2010-0426|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=570737|
+1160|CVE-2010-0442|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=567058|
+1161|CVE-2010-0668|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=569975|
+1162|CVE-2009-1299|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=573615|
+1163|CVE-2009-4720|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=539452|
+1164|CVE-2010-0397|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=573573|Exploit
+1165|CVE-2016-6823|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=834504|Patch,Issue Tracking,Third Party Advisory
+1166|CVE-2016-7101|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=836776|Issue Tracking,Third Party Advisory
+1167|CVE-2016-6160|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=829350|Mailing List,Issue Tracking
+1168|CVE-2016-2779|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815922|Issue Tracking,Third Party Advisory
+1169|CVE-2017-5992|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854442|Issue Tracking,Third Party Advisory
+1170|CVE-2017-6009|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854050|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+1171|CVE-2017-6010,CVE-2017-6011|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854054|Mailing List,Exploit,Issue Tracking,Vendor Advisory
+1172|CVE-2016-10134|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=850936|Third Party Advisory
+1173|CVE-2017-6056|https://bugs.debian.org/851304|Issue Tracking,Third Party Advisory
+1174|CVE-2017-6188|https://bugs.debian.org/855705|Issue Tracking,Third Party Advisory
+1175|CVE-2017-6100|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=814030|Patch,Third Party Advisory
+1176|CVE-2016-10149,CVE-2016-10127|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=850716|Patch,Mailing List,Issue Tracking,Third Party Advisory
+1177|CVE-2017-6497|https://bugs.debian.org/856882|Mailing List,Issue Tracking,Third Party Advisory
+1178|CVE-2017-6498|https://bugs.debian.org/856878|Mailing List,Issue Tracking,Third Party Advisory
+1179|CVE-2017-6499|https://bugs.debian.org/856880|Mailing List,Issue Tracking,Third Party Advisory
+1180|CVE-2017-6500|https://bugs.debian.org/856879|Mailing List,Issue Tracking,Third Party Advisory
+1181|CVE-2017-6501|https://bugs.debian.org/856881|Mailing List,Issue Tracking,Third Party Advisory
+1182|CVE-2016-10252|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=857426|Issue Tracking,Third Party Advisory
+1183|CVE-2017-6903|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=857699|Third Party Advisory
+1184|CVE-2017-6960|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854367|Issue Tracking,Third Party Advisory
+1185|CVE-2017-6961|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854441|Issue Tracking,Third Party Advisory
+1186|CVE-2017-6962|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=854447|Issue Tracking,Third Party Advisory
+1187|CVE-2017-7178|https://bugs.debian.org/857903|Third Party Advisory
+1188|CVE-2015-8954|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=777523|Third Party Advisory
+1189|CVE-2015-8985|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=779392|Issue Tracking,Third Party Advisory
+1190|CVE-2016-9774|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845393|Mailing List,Third Party Advisory
+1191|CVE-2016-9775|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845385|Mailing List,Third Party Advisory
+1192|CVE-2016-10144|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851485|Patch,Issue Tracking,Third Party Advisory
+1193|CVE-2016-10145|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851483|Patch,Issue Tracking,Third Party Advisory
+1194|CVE-2016-10146|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851380|Patch,Issue Tracking,Third Party Advisory
+1195|CVE-2016-3178,CVE-2016-3179|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=816759|Patch,Mailing List,Issue Tracking,Third Party Advisory
+1196|CVE-2017-5506|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851383|Patch,Issue Tracking,Third Party Advisory
+1197|CVE-2017-5507|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851382|Patch,Issue Tracking,Third Party Advisory
+1198|CVE-2017-5508|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851381|Patch,Issue Tracking,Third Party Advisory
+1199|CVE-2017-5509|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851377|Patch,Issue Tracking,Third Party Advisory
+1200|CVE-2017-5510|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851376|Patch,Issue Tracking,Third Party Advisory
+1201|CVE-2017-5511|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851374|Patch,Issue Tracking,Third Party Advisory
+1202|CVE-2017-7443|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=858739|Patch,Third Party Advisory
+1203|CVE-2017-7443|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=858833|Patch,Third Party Advisory
+1204|CVE-2015-8378|http://bugs.debian.org/791858|Mailing List,Third Party Advisory
+1205|CVE-2017-7617|https://bugs.debian.org/859910|Patch,Third Party Advisory
+1206|CVE-2012-6697,CVE-2015-6674|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=780880|Patch,Third Party Advisory
+1207|CVE-2016-7551|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=838832|Patch,Issue Tracking,Third Party Advisory
+1208|CVE-2016-7513|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=832455|Third Party Advisory
+1209|CVE-2007-6761,CVE-2010-5321|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=827340|Mailing List,Issue Tracking,Third Party Advisory
+1210|CVE-2016-6902|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=834949|Patch,Issue Tracking,Third Party Advisory
+1211|CVE-2016-6903|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=834946|Patch,Issue Tracking,Third Party Advisory
+1212|CVE-2004-2473|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=294352|
+1213|CVE-2004-2569|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=244709|
+1214|CVE-2004-2605|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=287604|
+1215|CVE-2003-0136|http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=188366|
+1216|CVE-2003-0308|http://bugs.debian.org/496408|
+1217|CVE-2003-0450|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=196063|Exploit,Vendor Advisory,Patch
+1218|CVE-2003-0596|http://bugs.debian.org/cgi-bin/bugreport.cgi?archive=no&bug=186219|
+1219|CVE-2003-0826|http://bugs.debian.org/211662|
+1220|CVE-2003-1053|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=213957|Patch,Vendor Advisory
+1221|CVE-2003-0866|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=215506|Exploit,Vendor Advisory,Patch
+1222|CVE-2003-1232|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=286183|
+1223|CVE-2003-1562|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=248747|
+1224|CVE-2002-1276|http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=167471|Patch,Vendor Advisory
+1225|CVE-2019-12412|https://bugs.debian.org/939937|Mailing List,Third Party Advisory
+1226|CVE-2020-29600|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=891469|Exploit,Mailing List,Issue Tracking,Third Party Advisory
+1227|CVE-2020-29668|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=976020|Mailing List,Third Party Advisory
+1228|CVE-2020-29385|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=977166|Issue Tracking,Third Party Advisory
+1229|CVE-2020-35730|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978491|Mailing List,Issue Tracking,Third Party Advisory
+1230|CVE-2015-9275|https://bugs.debian.org/774527|Patch,Issue Tracking,Third Party Advisory
+1231|CVE-2018-20683|https://bugs.debian.org/918849|Issue Tracking,Third Party Advisory
+1232|CVE-2018-20743|https://bugs.debian.org/919249|Mailing List,Issue Tracking,Third Party Advisory
+1233|CVE-2019-7282,CVE-2019-7283|https://bugs.debian.org/920486|Mailing List,Issue Tracking,Exploit,Vendor Advisory,Third Party Advisory
+1234|CVE-2019-3461|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=918956|Vendor Advisory,Mailing List
+1235|CVE-2019-7653|https://bugs.debian.org/921751|Exploit,Mailing List,Third Party Advisory
+1236|CVE-2014-4172|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759718|Third Party Advisory
+1237|CVE-2013-4441|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=726578|Mailing List,Third Party Advisory
+1238|CVE-2012-6114|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=698490|Third Party Advisory
+1239|CVE-2014-3230|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=746579|Exploit,Patch,Mailing List,Third Party Advisory
+1240|CVE-2016-9928|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845258|Exploit,Third Party Advisory
+1241|CVE-2012-1101|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=662029|Third Party Advisory
+1242|CVE-2019-20485|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=953078|Issue Tracking,Third Party Advisory
+1243|CVE-2020-11728,CVE-2020-11729|https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=956650|Mailing List,Third Party Advisory

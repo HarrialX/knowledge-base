@@ -1,0 +1,1364 @@
+|cve-ids|ex_url|types
+0|CVE-2006-3619|http://lists.debian.org/debian-gcc/2006/05/msg00317.html|
+1|CVE-2005-0390|http://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg118978.html|
+2|CVE-2018-7589,CVE-2018-7637,CVE-2018-7588,CVE-2018-7638,CVE-2018-7640,CVE-2019-1010174,CVE-2018-7639,CVE-2018-7641|https://lists.debian.org/debian-lts-announce/2019/09/msg00030.html|
+3|CVE-2018-7589,CVE-2018-7637,CVE-2018-7588,CVE-2018-7638,CVE-2018-7640,CVE-2019-1010174,CVE-2018-7639,CVE-2018-7641|https://lists.debian.org/debian-lts-announce/2020/10/msg00033.html|
+4|CVE-2017-6928,CVE-2017-6932,CVE-2017-6929,CVE-2017-6927|https://lists.debian.org/debian-lts-announce/2018/02/msg00030.html|Mailing List,Issue Tracking,Third Party Advisory
+5|CVE-2018-1066,CVE-2018-1093,CVE-2018-12233,CVE-2017-5753,CVE-2018-1000204,CVE-2018-10853,CVE-2018-9422,CVE-2018-3665,CVE-2018-10940,CVE-2018-1130,CVE-2018-11506,CVE-2017-5715,CVE-2018-5814|https://lists.debian.org/debian-lts-announce/2018/07/msg00015.html|Mailing List,Third Party Advisory
+6|CVE-2018-1066,CVE-2018-1093,CVE-2018-12233,CVE-2017-5753,CVE-2018-1000204,CVE-2018-10853,CVE-2018-9422,CVE-2018-3665,CVE-2018-10940,CVE-2018-1130,CVE-2018-11506,CVE-2017-5715,CVE-2018-5814|https://lists.debian.org/debian-lts-announce/2018/07/msg00016.html|Mailing List,Third Party Advisory
+7|CVE-2017-14461,CVE-2017-15130,CVE-2017-15132|https://lists.debian.org/debian-lts-announce/2018/03/msg00036.html|Mailing List,Third Party Advisory
+8|CVE-2018-7667|https://lists.debian.org/debian-lts-announce/2018/03/msg00014.html|Third Party Advisory
+9|CVE-2017-18216,CVE-2017-18017,CVE-2018-8822,CVE-2018-5750,CVE-2018-1068,CVE-2017-5715,CVE-2018-7740,CVE-2018-8781,CVE-2018-1000004,CVE-2017-16914,CVE-2018-7995,CVE-2017-0861,CVE-2018-7757,CVE-2017-16913,CVE-2018-1092,CVE-2018-5332,CVE-2018-5333,CVE-2017-13166,CVE-2017-16911,CVE-2018-7566,CVE-2018-7492,CVE-2017-16912,CVE-2018-1000199,CVE-2018-5803,CVE-2017-18203,CVE-2018-6927,CVE-2017-16526|https://lists.debian.org/debian-lts-announce/2018/05/msg00000.html|Mailing List,Third Party Advisory
+10|CVE-2018-9018,CVE-2017-18231,CVE-2017-18219,CVE-2017-18229,CVE-2017-18220,CVE-2017-18230|https://lists.debian.org/debian-lts-announce/2018/03/msg00025.html|Mailing List,Third Party Advisory
+11|CVE-2018-6799,CVE-2017-12936,CVE-2017-11403,CVE-2017-9098,CVE-2017-18230,CVE-2017-15930,CVE-2017-11637,CVE-2017-13777,CVE-2017-11102,CVE-2016-5239,CVE-2017-11140,CVE-2017-18219,CVE-2017-16352,CVE-2017-16547,CVE-2017-15277,CVE-2017-16545,CVE-2017-11638,CVE-2018-5685,CVE-2017-18220,CVE-2017-18229,CVE-2017-14504,CVE-2018-9018,CVE-2017-14994,CVE-2017-18231,CVE-2017-11642,CVE-2017-14997,CVE-2017-13776,CVE-2017-12935,CVE-2017-6335,CVE-2017-13737,CVE-2017-11641,CVE-2017-13775|https://lists.debian.org/debian-lts-announce/2018/08/msg00002.html|Mailing List,Third Party Advisory
+12|CVE-2018-7711|https://lists.debian.org/debian-lts-announce/2018/03/msg00017.html|Third Party Advisory
+13|CVE-2018-6381,CVE-2018-7726,CVE-2018-6869,CVE-2018-16548,CVE-2018-6484,CVE-2018-6541,CVE-2018-7725,CVE-2018-6540|https://lists.debian.org/debian-lts-announce/2020/06/msg00029.html|
+14|CVE-2017-18236,CVE-2018-7728,CVE-2017-18238,CVE-2017-18233,CVE-2017-18234,CVE-2018-7730|https://lists.debian.org/debian-lts-announce/2018/03/msg00013.html|Mailing List,Third Party Advisory
+15|CVE-2018-5730,CVE-2018-5729,CVE-2018-20217|https://lists.debian.org/debian-lts-announce/2019/01/msg00020.html|Mailing List,Third Party Advisory
+16|CVE-2017-15134,CVE-2018-1054,CVE-2018-1089,CVE-2015-1854,CVE-2018-10850|https://lists.debian.org/debian-lts-announce/2018/07/msg00018.html|Mailing List,Third Party Advisory
+17|CVE-2018-1000116|https://lists.debian.org/debian-lts-announce/2018/03/msg00020.html|Third Party Advisory
+18|CVE-2018-20763,CVE-2018-20762,CVE-2018-20761,CVE-2018-7752,CVE-2018-20760|https://lists.debian.org/debian-lts-announce/2019/02/msg00040.html|Mailing List,Third Party Advisory
+19|CVE-2018-7755,CVE-2018-16276,CVE-2018-15594,CVE-2018-14734,CVE-2018-14633,CVE-2018-6554,CVE-2018-14609,CVE-2018-6555,CVE-2018-16658,CVE-2018-14617,CVE-2018-9363,CVE-2018-10902,CVE-2018-17182,CVE-2018-9516,CVE-2018-14678,CVE-2018-13099,CVE-2018-10938,CVE-2018-15572|https://lists.debian.org/debian-lts-announce/2018/10/msg00003.html|Mailing List,Third Party Advisory
+20|CVE-2018-9009,CVE-2018-7873,CVE-2018-7876,CVE-2018-7866,CVE-2018-9132|https://lists.debian.org/debian-lts-announce/2018/05/msg00017.html|Mailing List,Third Party Advisory
+21|CVE-2018-7867,CVE-2018-7868,CVE-2018-7872,CVE-2018-7870,CVE-2018-7875,CVE-2018-6358,CVE-2018-9165,CVE-2018-7871|https://lists.debian.org/debian-lts-announce/2018/04/msg00008.html|Mailing List,Third Party Advisory
+22|CVE-2018-1071,CVE-2018-1083|https://lists.debian.org/debian-lts-announce/2018/03/msg00038.html|Mailing List,Third Party Advisory
+23|CVE-2017-18206,CVE-2019-20044,CVE-2018-0502,CVE-2018-1083,CVE-2018-13259,CVE-2018-1100,CVE-2018-1071|https://lists.debian.org/debian-lts-announce/2020/12/msg00000.html|
+24|CVE-2018-7998|https://lists.debian.org/debian-lts-announce/2018/03/msg00009.html|Third Party Advisory
+25|CVE-2018-7536,CVE-2018-7537|https://lists.debian.org/debian-lts-announce/2018/03/msg00006.html|Mailing List,Third Party Advisory
+26|CVE-2018-1000069|https://lists.debian.org/debian-lts-announce/2018/03/msg00019.html|Mailing List,Third Party Advisory
+27|CVE-2016-2337,CVE-2018-1000074,CVE-2018-1000073|https://lists.debian.org/debian-lts-announce/2018/08/msg00028.html|
+28|CVE-2018-1000074|https://lists.debian.org/debian-lts-announce/2018/04/msg00017.html|
+29|CVE-2018-1000077,CVE-2018-1000076,CVE-2018-1000074,CVE-2018-1000075,CVE-2018-1000078|https://lists.debian.org/debian-lts-announce/2019/05/msg00028.html|
+30|CVE-2018-1000077,CVE-2018-1000076,CVE-2018-1000075,CVE-2018-1000078|https://lists.debian.org/debian-lts-announce/2018/04/msg00000.html|Third Party Advisory
+31|CVE-2018-1000077,CVE-2018-1000076,CVE-2018-1000075,CVE-2018-1000078|https://lists.debian.org/debian-lts-announce/2018/04/msg00001.html|Third Party Advisory
+32|CVE-2018-1000077,CVE-2018-1000076,CVE-2018-8778,CVE-2018-1000075,CVE-2018-1000078,CVE-2018-8780,CVE-2018-8779,CVE-2017-17742,CVE-2018-6914,CVE-2018-8777|https://lists.debian.org/debian-lts-announce/2018/04/msg00023.html|Mailing List,Third Party Advisory
+33|CVE-2018-8778,CVE-2017-0903,CVE-2018-8779,CVE-2018-1000079,CVE-2017-14064,CVE-2018-1000077,CVE-2015-9096,CVE-2017-10784,CVE-2018-6914,CVE-2017-14033,CVE-2018-1000076,CVE-2018-8780,CVE-2017-0902,CVE-2018-1000078,CVE-2017-17742,CVE-2017-0901,CVE-2017-0898,CVE-2016-2339,CVE-2018-8777,CVE-2017-0899,CVE-2018-1000075,CVE-2017-17790,CVE-2017-17405,CVE-2016-7798,CVE-2017-0900|https://lists.debian.org/debian-lts-announce/2018/07/msg00012.html|Mailing List,Third Party Advisory
+34|CVE-2018-0202,CVE-2018-1000085|https://lists.debian.org/debian-lts-announce/2018/03/msg00011.html|Mailing List,Third Party Advisory
+35|CVE-2018-1050|https://lists.debian.org/debian-lts-announce/2018/03/msg00024.html|Mailing List,Third Party Advisory
+36|CVE-2018-1050,CVE-2018-1057,CVE-2017-9461,CVE-2019-3880|https://lists.debian.org/debian-lts-announce/2019/04/msg00013.html|Mailing List,Third Party Advisory
+37|CVE-2018-7750,CVE-2018-1000805|https://lists.debian.org/debian-lts-announce/2018/10/msg00018.html|Mailing List,Third Party Advisory
+38|CVE-2018-1000127|https://lists.debian.org/debian-lts-announce/2018/03/msg00031.html|Mailing List,Third Party Advisory
+39|CVE-2018-1000132|https://lists.debian.org/debian-lts-announce/2018/03/msg00034.html|Mailing List,Third Party Advisory
+40|CVE-2017-9462,CVE-2017-17458,CVE-2018-1000132|https://lists.debian.org/debian-lts-announce/2018/07/msg00005.html|Mailing List,Third Party Advisory
+41|CVE-2018-13347,CVE-2018-13346,CVE-2019-3902,CVE-2017-17458,CVE-2018-1000132,CVE-2018-13348|https://lists.debian.org/debian-lts-announce/2020/07/msg00032.html|
+42|CVE-2018-1000122,CVE-2018-1000121,CVE-2018-1000120|https://lists.debian.org/debian-lts-announce/2018/03/msg00012.html|Mailing List,Third Party Advisory
+43|CVE-2018-7033|https://lists.debian.org/debian-lts-announce/2018/04/msg00032.html|Mailing List,Third Party Advisory
+44|CVE-2018-10995,CVE-2018-7033|https://lists.debian.org/debian-lts-announce/2018/07/msg00029.html|Mailing List,Third Party Advisory
+45|CVE-2017-2518,CVE-2017-2519,CVE-2017-2520,CVE-2018-8740,CVE-2017-10989|https://lists.debian.org/debian-lts-announce/2019/01/msg00009.html|Mailing List,Third Party Advisory
+46|CVE-2019-9936,CVE-2020-13871,CVE-2019-5827,CVE-2019-16168,CVE-2018-8740,CVE-2020-11655,CVE-2020-13434,CVE-2019-20218,CVE-2019-9937,CVE-2018-20506,CVE-2020-13630,CVE-2018-20346,CVE-2020-13632|https://lists.debian.org/debian-lts-announce/2020/08/msg00037.html|Mailing List,Third Party Advisory
+47|CVE-2018-8741|https://lists.debian.org/debian-lts-announce/2018/04/msg00012.html|Mailing List,Third Party Advisory
+48|CVE-2018-8768,CVE-2018-21030,CVE-2018-19351|https://lists.debian.org/debian-lts-announce/2020/11/msg00033.html|
+49|CVE-2019-14981,CVE-2018-8804,CVE-2018-10177,CVE-2019-13454,CVE-2019-11470,CVE-2019-12974,CVE-2018-14551,CVE-2017-18252,CVE-2018-18024,CVE-2019-11472,CVE-2019-12978,CVE-2017-17681,CVE-2018-9133,CVE-2019-13295,CVE-2019-12977,CVE-2018-8960,CVE-2019-11597,CVE-2017-12805,CVE-2019-12979,CVE-2018-7443,CVE-2019-10131,CVE-2019-13297,CVE-2019-19949,CVE-2018-20467|https://lists.debian.org/debian-lts-announce/2020/08/msg00030.html|Mailing List,Third Party Advisory
+50|CVE-2018-8905|https://lists.debian.org/debian-lts-announce/2018/05/msg00008.html|Mailing List,Third Party Advisory
+51|CVE-2018-8905|https://lists.debian.org/debian-lts-announce/2018/05/msg00009.html|Mailing List,Third Party Advisory
+52|CVE-2017-11613,CVE-2018-8905,CVE-2018-10963,CVE-2018-5784,CVE-2018-7456|https://lists.debian.org/debian-lts-announce/2018/07/msg00002.html|Mailing List,Third Party Advisory
+53|CVE-2018-19128,CVE-2017-18245,CVE-2018-19130,CVE-2017-17127,CVE-2019-17542,CVE-2019-14443|https://lists.debian.org/debian-lts-announce/2019/12/msg00003.html|Mailing List,Third Party Advisory
+54|CVE-2018-1301,CVE-2017-15710,CVE-2018-1312|https://lists.debian.org/debian-lts-announce/2018/05/msg00020.html|Mailing List,Third Party Advisory
+55|CVE-2017-18248|https://lists.debian.org/debian-lts-announce/2018/05/msg00018.html|
+56|CVE-2017-18190,CVE-2017-18248|https://lists.debian.org/debian-lts-announce/2018/07/msg00003.html|Mailing List,Third Party Advisory
+57|CVE-2018-14613,CVE-2018-14612,CVE-2018-1128,CVE-2018-13096,CVE-2018-19407,CVE-2018-14610,CVE-2018-13406,CVE-2018-6554,CVE-2018-5391,CVE-2018-14616,CVE-2018-18281,CVE-2018-18690,CVE-2018-14614,CVE-2018-14611,CVE-2018-18710,CVE-2018-15471,CVE-2018-16862,CVE-2018-1129,CVE-2018-13097,CVE-2018-17972,CVE-2017-18249,CVE-2018-3639,CVE-2018-5848,CVE-2018-13053,CVE-2018-13100,CVE-2018-12896|https://lists.debian.org/debian-lts-announce/2019/03/msg00017.html|Mailing List,Third Party Advisory
+58|CVE-2018-8763|https://lists.debian.org/debian-lts-announce/2018/04/msg00007.html|Third Party Advisory
+59|CVE-2018-0739|https://lists.debian.org/debian-lts-announce/2018/03/msg00033.html|Third Party Advisory
+60|CVE-2017-11509|https://lists.debian.org/debian-lts-announce/2018/05/msg00005.html|Mailing List,Third Party Advisory
+61|CVE-2017-11509|https://lists.debian.org/debian-lts-announce/2020/02/msg00036.html|
+62|CVE-2018-1064,CVE-2018-5748|https://lists.debian.org/debian-lts-announce/2018/03/msg00018.html|Mailing List,Third Party Advisory
+63|CVE-2018-7600|https://lists.debian.org/debian-lts-announce/2018/03/msg00028.html|Third Party Advisory
+64|CVE-2018-10881,CVE-2018-12233,CVE-2018-10853,CVE-2018-10087,CVE-2018-10877,CVE-2018-10876,CVE-2018-10021,CVE-2018-10883,CVE-2018-1000204,CVE-2018-1120,CVE-2018-10878,CVE-2018-10879,CVE-2018-10880,CVE-2018-1118,CVE-2018-10882,CVE-2017-18255,CVE-2018-1130,CVE-2018-11506,CVE-2018-10124,CVE-2018-5814,CVE-2018-3639,CVE-2017-5753,CVE-2018-10940|https://lists.debian.org/debian-lts-announce/2018/07/msg00020.html|Mailing List,Third Party Advisory
+65|CVE-2018-1130,CVE-2018-10940,CVE-2018-1093,CVE-2018-8897|https://lists.debian.org/debian-lts-announce/2018/06/msg00000.html|Mailing List,Third Party Advisory
+66|CVE-2018-0492|https://lists.debian.org/debian-lts-announce/2018/04/msg00002.html|Mailing List,Third Party Advisory
+67|CVE-2018-0492|https://lists.debian.org/debian-security-announce/2018/msg00089.html|Mailing List,Third Party Advisory
+68|CVE-2018-8780,CVE-2018-8778,CVE-2018-8779,CVE-2017-17742,CVE-2018-6914,CVE-2018-8777|https://lists.debian.org/debian-lts-announce/2018/04/msg00024.html|Mailing List,Third Party Advisory
+69|CVE-2019-16255,CVE-2019-16201,CVE-2017-17742,CVE-2019-16254|https://lists.debian.org/debian-lts-announce/2019/12/msg00009.html|Third Party Advisory
+70|CVE-2019-16201,CVE-2019-8324,CVE-2019-16254,CVE-2019-8323,CVE-2017-17742,CVE-2019-8325,CVE-2019-8320,CVE-2019-8321,CVE-2019-16255,CVE-2019-8322|https://lists.debian.org/debian-lts-announce/2020/08/msg00027.html|Mailing List,Third Party Advisory
+71|CVE-2018-9240|https://lists.debian.org/debian-lts-announce/2020/04/msg00020.html|
+72|CVE-2018-14567,CVE-2017-18258,CVE-2018-14404,CVE-2018-9251|https://lists.debian.org/debian-lts-announce/2018/09/msg00035.html|Third Party Advisory
+73|CVE-2018-19625,CVE-2018-11356,CVE-2017-7700,CVE-2017-7747,CVE-2018-19624,CVE-2018-9260,CVE-2018-19626,CVE-2018-16058,CVE-2017-7703,CVE-2018-9262,CVE-2018-7336,CVE-2018-9256,CVE-2018-9265,CVE-2017-17935,CVE-2018-9263,CVE-2018-7324,CVE-2017-7746,CVE-2018-7325,CVE-2017-9766,CVE-2018-19622,CVE-2018-7323,CVE-2018-19623,CVE-2018-11359,CVE-2018-7331,CVE-2017-17997,CVE-2017-11409,CVE-2018-16057,CVE-2017-11406,CVE-2017-13765,CVE-2018-7417,CVE-2018-9269,CVE-2018-7420,CVE-2018-7418,CVE-2018-9259,CVE-2018-9267,CVE-2018-9268,CVE-2017-15191,CVE-2018-7322,CVE-2017-11407,CVE-2018-11357,CVE-2018-9270|https://lists.debian.org/debian-lts-announce/2019/01/msg00010.html|Mailing List,Third Party Advisory
+74|CVE-2018-9263,CVE-2018-9258,CVE-2018-9260,CVE-2018-9268,CVE-2018-11358,CVE-2018-11362,CVE-2018-9261,CVE-2018-9269,CVE-2018-9270|https://lists.debian.org/debian-lts-announce/2018/05/msg00019.html|Mailing List,Third Party Advisory
+75|CVE-2018-19985,CVE-2019-7221,CVE-2019-9213,CVE-2016-10741,CVE-2018-18281,CVE-2019-6974,CVE-2018-18690,CVE-2019-3701,CVE-2018-18710,CVE-2018-16884,CVE-2018-16862,CVE-2018-20169,CVE-2018-17972,CVE-2019-3819,CVE-2017-13305,CVE-2018-20511,CVE-2018-3639,CVE-2018-5848,CVE-2017-5753,CVE-2018-13053,CVE-2018-5953,CVE-2019-7222,CVE-2018-12896,CVE-2018-19824|https://lists.debian.org/debian-lts-announce/2019/03/msg00034.html|Mailing List,Third Party Advisory
+76|CVE-2018-19985,CVE-2019-7221,CVE-2019-9213,CVE-2016-10741,CVE-2018-18281,CVE-2019-6974,CVE-2018-18690,CVE-2019-3701,CVE-2018-18710,CVE-2018-16884,CVE-2018-16862,CVE-2018-20169,CVE-2018-17972,CVE-2019-3819,CVE-2017-13305,CVE-2018-20511,CVE-2018-3639,CVE-2018-5848,CVE-2017-5753,CVE-2018-13053,CVE-2018-5953,CVE-2019-7222,CVE-2018-12896,CVE-2018-19824|https://lists.debian.org/debian-lts-announce/2019/04/msg00004.html|Mailing List,Third Party Advisory
+77|CVE-2018-1000156|https://lists.debian.org/debian-lts-announce/2018/04/msg00013.html|Mailing List,Third Party Advisory
+78|CVE-2018-1270,CVE-2018-15756,CVE-2018-11040,CVE-2018-11039|https://lists.debian.org/debian-lts-announce/2021/04/msg00022.html|
+79|CVE-2017-18258,CVE-2020-7595,CVE-2019-19956,CVE-2018-14404,CVE-2020-24977,CVE-2019-20388,CVE-2017-8872,CVE-2018-14567|https://lists.debian.org/debian-lts-announce/2020/09/msg00009.html|Mailing List,Third Party Advisory
+80|CVE-2018-1308|https://lists.debian.org/debian-lts-announce/2018/04/msg00025.html|Third Party Advisory
+81|CVE-2017-2826,CVE-2016-10742|https://lists.debian.org/debian-lts-announce/2019/03/msg00010.html|Mailing List,Third Party Advisory
+82|CVE-2013-0169,CVE-2018-9989,CVE-2018-0498,CVE-2018-0497,CVE-2018-9988|https://lists.debian.org/debian-lts-announce/2018/09/msg00029.html|Mailing List,Third Party Advisory
+83|CVE-2018-10100,CVE-2018-10102|https://lists.debian.org/debian-lts-announce/2018/04/msg00031.html|Third Party Advisory
+84|CVE-2018-10119,CVE-2018-10120|https://lists.debian.org/debian-lts-announce/2018/04/msg00021.html|Third Party Advisory
+85|CVE-2018-0737,CVE-2018-0732|https://lists.debian.org/debian-lts-announce/2018/07/msg00043.html|Third Party Advisory
+86|CVE-2018-6913|https://lists.debian.org/debian-lts-announce/2018/04/msg00009.html|Mailing List,Third Party Advisory
+87|CVE-2018-1000164|https://lists.debian.org/debian-lts-announce/2018/04/msg00022.html|Third Party Advisory
+88|CVE-2018-10194|https://lists.debian.org/debian-lts-announce/2018/04/msg00028.html|Mailing List,Third Party Advisory
+89|CVE-2018-2761,CVE-2018-2771,CVE-2018-2781,CVE-2018-2818,CVE-2018-2817,CVE-2018-2773,CVE-2018-2813,CVE-2018-2755,CVE-2018-2819|https://lists.debian.org/debian-lts-announce/2018/04/msg00020.html|Mailing List,Third Party Advisory
+90|CVE-2018-2622,CVE-2018-2612,CVE-2018-2761,CVE-2018-2766,CVE-2018-2787,CVE-2018-2771,CVE-2018-2781,CVE-2017-10268,CVE-2018-2817,CVE-2018-2562,CVE-2017-10378,CVE-2018-2813,CVE-2018-2640,CVE-2018-2665,CVE-2018-2755,CVE-2018-2782,CVE-2018-2668,CVE-2018-2784,CVE-2018-2819|https://lists.debian.org/debian-lts-announce/2018/06/msg00015.html|Mailing List,Third Party Advisory
+91|CVE-2014-10073|https://lists.debian.org/debian-lts-announce/2018/04/msg00026.html|Mailing List,Third Party Advisory
+92|CVE-2018-16839,CVE-2016-7141,CVE-2018-16842,CVE-2016-7167,CVE-2016-9586|https://lists.debian.org/debian-lts-announce/2018/11/msg00005.html|Mailing List,Third Party Advisory
+93|CVE-2017-17833|https://lists.debian.org/debian-lts-announce/2018/04/msg00029.html|Mailing List,Issue Tracking,Third Party Advisory
+94|CVE-2017-7651,CVE-2017-7652|https://lists.debian.org/debian-lts-announce/2018/03/msg00037.html|Mailing List,Third Party Advisory
+95|CVE-2017-7651,CVE-2017-7652|https://lists.debian.org/debian-lts-announce/2018/06/msg00016.html|Mailing List,Third Party Advisory
+96|CVE-2017-12102,CVE-2017-2904,CVE-2017-2906,CVE-2017-12100,CVE-2017-2905,CVE-2017-2901,CVE-2017-2902,CVE-2017-2908,CVE-2017-12099,CVE-2017-2903,CVE-2017-2899,CVE-2017-2900,CVE-2017-12101,CVE-2017-2907,CVE-2017-12104,CVE-2017-2918,CVE-2017-12105,CVE-2017-12103,CVE-2017-12082,CVE-2017-12081,CVE-2017-12086|https://lists.debian.org/debian-lts-announce/2018/08/msg00011.html|Mailing List,Third Party Advisory
+97|CVE-2017-14448,CVE-2017-12122,CVE-2017-14442,CVE-2017-14450,CVE-2017-14441,CVE-2017-14440|https://lists.debian.org/debian-lts-announce/2018/04/msg00005.html|Third Party Advisory
+98|CVE-2018-3836|https://lists.debian.org/debian-lts-announce/2018/02/msg00019.html|Third Party Advisory
+99|CVE-2020-0499,CVE-2017-6888|https://lists.debian.org/debian-lts-announce/2021/01/msg00001.html|Mailing List,Third Party Advisory
+100|CVE-2018-10392,CVE-2017-14160,CVE-2018-10393|https://lists.debian.org/debian-lts-announce/2019/11/msg00031.html|
+101|CVE-2017-18030,CVE-2017-5525,CVE-2016-8576,CVE-2017-15289,CVE-2017-7980,CVE-2017-14167,CVE-2017-18043,CVE-2016-9907,CVE-2017-8112,CVE-2016-9915,CVE-2016-9921,CVE-2017-5526,CVE-2016-6833,CVE-2016-9916,CVE-2017-5715,CVE-2018-5683,CVE-2016-9603,CVE-2017-16845,CVE-2015-8666,CVE-2017-9374,CVE-2017-5579,CVE-2017-11434,CVE-2017-5987,CVE-2017-10806,CVE-2016-9914,CVE-2017-9373,CVE-2017-7718,CVE-2018-7550,CVE-2017-8086,CVE-2017-7493,CVE-2017-8309,CVE-2017-10911,CVE-2016-9602,CVE-2017-9330,CVE-2017-2620,CVE-2017-8379,CVE-2016-9776,CVE-2017-9503,CVE-2017-6505,CVE-2016-9911,CVE-2016-2198,CVE-2016-9922,CVE-2017-7377,CVE-2017-5667,CVE-2016-8669,CVE-2016-10155,CVE-2017-5856,CVE-2016-8667,CVE-2016-6835,CVE-2017-15038,CVE-2017-5973,CVE-2017-2615|https://lists.debian.org/debian-lts-announce/2018/09/msg00007.html|Mailing List,Third Party Advisory
+102|CVE-2017-17563,CVE-2017-17565,CVE-2017-14317,CVE-2017-17564,CVE-2017-15589,CVE-2017-17046,CVE-2017-15590,CVE-2017-15588,CVE-2017-14316,CVE-2018-10471,CVE-2017-15597,CVE-2017-14319,CVE-2017-17566,CVE-2018-10982|https://lists.debian.org/debian-lts-announce/2018/10/msg00009.html|Issue Tracking,Third Party Advisory
+103|CVE-2018-10472,CVE-2017-15595,CVE-2017-15592,CVE-2018-10981,CVE-2017-15594,CVE-2017-17044,CVE-2017-15593,CVE-2017-17045|https://lists.debian.org/debian-lts-announce/2018/10/msg00021.html|Mailing List,Third Party Advisory
+104|CVE-2018-10547,CVE-2018-10545,CVE-2018-10548|https://lists.debian.org/debian-lts-announce/2018/05/msg00004.html|Mailing List,Third Party Advisory
+105|CVE-2018-7584,CVE-2018-10548,CVE-2018-10546,CVE-2018-10547,CVE-2018-10545,CVE-2018-10549|https://lists.debian.org/debian-lts-announce/2018/06/msg00005.html|Mailing List,Third Party Advisory
+106|CVE-2016-6618,CVE-2016-6622,CVE-2016-6620,CVE-2016-9865,CVE-2016-6615,CVE-2016-6621,CVE-2016-6619,CVE-2016-6616,CVE-2017-18264,CVE-2016-6609,CVE-2016-6614|https://lists.debian.org/debian-lts-announce/2018/07/msg00006.html|Third Party Advisory
+107|CVE-2018-0494|https://lists.debian.org/debian-lts-announce/2018/05/msg00006.html|Mailing List,Third Party Advisory
+108|CVE-2017-18267,CVE-2018-13988,CVE-2018-10768,CVE-2018-16646|https://lists.debian.org/debian-lts-announce/2018/10/msg00024.html|Mailing List,Third Party Advisory
+109|CVE-2018-1000178|https://lists.debian.org/debian-lts-announce/2018/05/msg00001.html|Mailing List,Third Party Advisory
+110|CVE-2018-8897,CVE-2018-10981,CVE-2018-10982|https://lists.debian.org/debian-lts-announce/2018/05/msg00015.html|Mailing List,Issue Tracking,Third Party Advisory
+111|CVE-2018-7540,CVE-2018-15469,CVE-2018-15470,CVE-2018-8897,CVE-2018-12891,CVE-2018-12893,CVE-2018-7541|https://lists.debian.org/debian-lts-announce/2018/11/msg00013.html|Issue Tracking,Third Party Advisory
+112|CVE-2018-10999,CVE-2018-10998,CVE-2018-12265,CVE-2018-10958,CVE-2018-11531,CVE-2018-12264|https://lists.debian.org/debian-lts-announce/2018/06/msg00010.html|Mailing List,Third Party Advisory
+113|CVE-2018-10958,CVE-2018-10999,CVE-2018-16336|https://lists.debian.org/debian-lts-announce/2018/10/msg00012.html|Mailing List,Third Party Advisory
+114|CVE-2017-18266|https://lists.debian.org/debian-lts-announce/2018/05/msg00014.html|Third Party Advisory
+115|CVE-2018-21009,CVE-2019-10872,CVE-2018-16646,CVE-2019-9631,CVE-2018-20481,CVE-2019-9200,CVE-2019-12293,CVE-2017-18267|https://lists.debian.org/debian-lts-announce/2020/07/msg00018.html|
+116|CVE-2017-9987,CVE-2019-14372,CVE-2018-11102,CVE-2019-14442,CVE-2018-5766|https://lists.debian.org/debian-lts-announce/2019/09/msg00000.html|
+117|CVE-2018-8014,CVE-2018-1304,CVE-2017-12616,CVE-2017-7674,CVE-2018-1305|https://lists.debian.org/debian-lts-announce/2018/06/msg00008.html|Mailing List,Third Party Advisory
+118|CVE-2018-8014,CVE-2016-5388,CVE-2019-0221|https://lists.debian.org/debian-lts-announce/2019/08/msg00015.html|
+119|CVE-2018-11214,CVE-2018-1152,CVE-2016-3616,CVE-2018-11212,CVE-2018-11213|https://lists.debian.org/debian-lts-announce/2019/01/msg00015.html|Mailing List,Third Party Advisory
+120|CVE-2018-11129,CVE-2018-11099,CVE-2018-11130|https://lists.debian.org/debian-lts-announce/2019/05/msg00039.html|
+121|CVE-2017-18273,CVE-2018-11251,CVE-2017-18271|https://lists.debian.org/debian-lts-announce/2018/05/msg00012.html|Third Party Advisory
+122|CVE-2017-1000445,CVE-2017-14505,CVE-2017-13133,CVE-2017-12692,CVE-2017-15015,CVE-2017-14741,CVE-2017-14739,CVE-2017-12140,CVE-2017-12430,CVE-2017-14249,CVE-2017-13142,CVE-2017-14174,CVE-2017-14173,CVE-2017-11523,CVE-2017-13145,CVE-2017-18271,CVE-2017-15017,CVE-2017-14625,CVE-2017-14400,CVE-2017-12432,CVE-2017-17914,CVE-2017-12691,CVE-2017-12563,CVE-2017-15281,CVE-2017-11537,CVE-2017-14175,CVE-2017-14341,CVE-2017-1000476,CVE-2017-12670,CVE-2017-12435,CVE-2017-12587,CVE-2019-9956,CVE-2017-13768,CVE-2017-9500,CVE-2017-14060,CVE-2017-13658,CVE-2019-11598,CVE-2019-10650,CVE-2019-11597,CVE-2017-12674,CVE-2017-18273,CVE-2017-12693,CVE-2017-17682,CVE-2017-14532,CVE-2017-14172,CVE-2017-12643,CVE-2017-11446,CVE-2017-14626,CVE-2017-12875,CVE-2017-14624|https://lists.debian.org/debian-lts-announce/2019/05/msg00015.html|Mailing List,Third Party Advisory
+123|CVE-2017-1000445,CVE-2017-14505,CVE-2017-13133,CVE-2017-12692,CVE-2019-15139,CVE-2017-12429,CVE-2017-15015,CVE-2017-14741,CVE-2017-14739,CVE-2017-12140,CVE-2017-12430,CVE-2019-13391,CVE-2017-14249,CVE-2017-18209,CVE-2017-14173,CVE-2017-14174,CVE-2017-18271,CVE-2017-15017,CVE-2017-14625,CVE-2017-18211,CVE-2017-14400,CVE-2017-17914,CVE-2017-12691,CVE-2019-13135,CVE-2017-12563,CVE-2017-12806,CVE-2017-15281,CVE-2017-14175,CVE-2017-14341,CVE-2017-1000476,CVE-2017-12670,CVE-2017-12435,CVE-2018-16749,CVE-2018-18025,CVE-2017-13768,CVE-2017-14060,CVE-2017-13658,CVE-2019-11598,CVE-2017-12674,CVE-2017-18273,CVE-2017-12693,CVE-2017-17682,CVE-2017-14532,CVE-2017-14172,CVE-2017-12643,CVE-2017-14626,CVE-2017-12875,CVE-2019-13308,CVE-2017-13061,CVE-2018-16643,CVE-2017-14624|https://lists.debian.org/debian-lts-announce/2020/09/msg00007.html|Mailing List,Third Party Advisory
+124|CVE-2018-12600,CVE-2018-11251,CVE-2018-12599|https://lists.debian.org/debian-lts-announce/2018/06/msg00004.html|Third Party Advisory
+125|CVE-2018-11319|https://lists.debian.org/debian-lts-announce/2018/07/msg00036.html|Mailing List,Third Party Advisory
+126|CVE-2018-3640,CVE-2018-3639|https://lists.debian.org/debian-lts-announce/2018/07/msg00038.html|Mailing List,Third Party Advisory
+127|CVE-2018-3640,CVE-2018-3639,CVE-2018-3646,CVE-2018-3615,CVE-2017-5715,CVE-2018-3620|https://lists.debian.org/debian-lts-announce/2018/09/msg00017.html|Mailing List,Third Party Advisory
+128|CVE-2018-1123,CVE-2018-1122,CVE-2018-1125,CVE-2018-1126,CVE-2018-1124|https://lists.debian.org/debian-lts-announce/2018/05/msg00021.html|Mailing List,Third Party Advisory
+129|CVE-2018-1000301|https://lists.debian.org/debian-lts-announce/2018/05/msg00010.html|Mailing List,Third Party Advisory
+130|CVE-2018-8013|https://lists.debian.org/debian-lts-announce/2018/05/msg00016.html|Mailing List,Third Party Advisory
+131|CVE-2018-11503,CVE-2018-12495,CVE-2018-11504,CVE-2018-11468|https://lists.debian.org/debian-lts-announce/2018/09/msg00009.html|Mailing List,Third Party Advisory
+132|CVE-2019-14895,CVE-2019-19062,CVE-2019-19537,CVE-2019-19922,CVE-2019-17666,CVE-2019-19527,CVE-2019-2215,CVE-2019-15291,CVE-2019-19057,CVE-2019-14901,CVE-2019-19523,CVE-2019-19965,CVE-2019-19533,CVE-2019-19966,CVE-2019-17133,CVE-2019-19532,CVE-2019-19227,CVE-2019-19052,CVE-2019-15217,CVE-2019-15098,CVE-2019-19536,CVE-2019-15505,CVE-2019-17052,CVE-2019-19524,CVE-2019-19056,CVE-2019-19530,CVE-2019-17053,CVE-2019-16746,CVE-2019-10220,CVE-2019-17054,CVE-2019-19767,CVE-2019-14896,CVE-2019-19531,CVE-2019-19066,CVE-2019-19332,CVE-2019-17055,CVE-2019-14897,CVE-2019-19947,CVE-2019-17056,CVE-2019-19534,CVE-2019-19051|https://lists.debian.org/debian-lts-announce/2020/01/msg00013.html|Mailing List,Third Party Advisory
+133|CVE-2019-14895,CVE-2018-13093,CVE-2019-19447,CVE-2019-14816,CVE-2019-19062,CVE-2019-19535,CVE-2019-19537,CVE-2019-15917,CVE-2019-17666,CVE-2019-19527,CVE-2019-2215,CVE-2019-15291,CVE-2019-19057,CVE-2019-14901,CVE-2019-19523,CVE-2019-19965,CVE-2019-19533,CVE-2019-18809,CVE-2018-13094,CVE-2018-21008,CVE-2019-17133,CVE-2019-18683,CVE-2019-18282,CVE-2019-19532,CVE-2019-19227,CVE-2019-19052,CVE-2019-15217,CVE-2019-15098,CVE-2019-19536,CVE-2019-14815,CVE-2019-19525,CVE-2019-15505,CVE-2019-19068,CVE-2019-17052,CVE-2019-19524,CVE-2019-20096,CVE-2019-19037,CVE-2019-19056,CVE-2019-19530,CVE-2019-16746,CVE-2019-17053,CVE-2019-10220,CVE-2019-17054,CVE-2019-14814,CVE-2019-0136,CVE-2019-19767,CVE-2019-14896,CVE-2019-19531,CVE-2018-20976,CVE-2019-19066,CVE-2019-19332,CVE-2019-17055,CVE-2019-14897,CVE-2019-19947,CVE-2019-17056,CVE-2019-14615,CVE-2019-17075,CVE-2019-19534,CVE-2019-19051|https://lists.debian.org/debian-lts-announce/2020/03/msg00001.html|Mailing List,Third Party Advisory
+134|CVE-2020-28974,CVE-2019-19377,CVE-2020-8694,CVE-2020-27673,CVE-2020-25704,CVE-2020-27675,CVE-2020-25656,CVE-2019-19039,CVE-2019-19816,CVE-2019-19770,CVE-2020-25668,CVE-2020-25669,CVE-2020-28941,CVE-2020-0423,CVE-2020-14351|https://lists.debian.org/debian-lts-announce/2020/12/msg00015.html|Mailing List,Third Party Advisory
+135|CVE-2020-11565,CVE-2019-2182,CVE-2020-12770,CVE-2019-20806,CVE-2020-11608,CVE-2020-8428,CVE-2019-5108,CVE-2020-10751,CVE-2020-13143,CVE-2020-8648,CVE-2020-10757,CVE-2019-19319,CVE-2019-20811,CVE-2020-12114,CVE-2020-9383,CVE-2020-10711,CVE-2020-8647,CVE-2020-8649,CVE-2020-11609,CVE-2019-19462,CVE-2020-12653,CVE-2020-12464,CVE-2020-2732,CVE-2020-11494,CVE-2020-12654,CVE-2020-10942,CVE-2019-19768,CVE-2020-11668,CVE-2020-12652|https://lists.debian.org/debian-lts-announce/2020/06/msg00012.html|Mailing List,Third Party Advisory
+136|CVE-2019-19269|https://lists.debian.org/debian-lts-announce/2019/11/msg00039.html|Third Party Advisory
+137|CVE-2019-18609|https://lists.debian.org/debian-lts-announce/2019/12/msg00004.html|Mailing List,Third Party Advisory
+138|CVE-2019-19479|https://lists.debian.org/debian-lts-announce/2019/12/msg00031.html|
+139|CVE-2019-14275,CVE-2018-16140,CVE-2019-19555|https://lists.debian.org/debian-lts-announce/2020/01/msg00018.html|
+140|CVE-2019-18347,CVE-2019-18346,CVE-2019-18345|https://lists.debian.org/debian-lts-announce/2019/12/msg00016.html|
+141|CVE-2020-9430,CVE-2020-25863,CVE-2019-16319,CVE-2020-9428,CVE-2019-13619,CVE-2020-11647,CVE-2020-28030,CVE-2020-25862,CVE-2020-9431,CVE-2019-19553,CVE-2020-15466,CVE-2020-13164,CVE-2020-26418,CVE-2020-7045,CVE-2020-26575,CVE-2020-26421|https://lists.debian.org/debian-lts-announce/2021/02/msg00008.html|Mailing List,Third Party Advisory
+142|CVE-2019-19617|https://lists.debian.org/debian-lts-announce/2019/12/msg00006.html|Mailing List,Third Party Advisory
+143|CVE-2020-26935,CVE-2020-26934,CVE-2019-19617|https://lists.debian.org/debian-lts-announce/2020/10/msg00024.html|Mailing List,Third Party Advisory
+144|CVE-2019-2228|https://lists.debian.org/debian-lts-announce/2019/12/msg00030.html|
+145|CVE-2018-14613,CVE-2019-19447,CVE-2020-11565,CVE-2018-14612,CVE-2020-12770,CVE-2020-12769,CVE-2020-0009,CVE-2018-14610,CVE-2020-11608,CVE-2019-5108,CVE-2020-10751,CVE-2020-13143,CVE-2020-12826,CVE-2020-8648,CVE-2019-19319,CVE-2020-9383,CVE-2020-12114,CVE-2020-11609,CVE-2015-8839,CVE-2020-8647,CVE-2020-8649,CVE-2018-14611,CVE-2019-20636,CVE-2020-12653,CVE-2020-12464,CVE-2020-2732,CVE-2020-11494,CVE-2020-12654,CVE-2020-10690,CVE-2020-10942,CVE-2019-19768,CVE-2020-11668,CVE-2020-12652|https://lists.debian.org/debian-lts-announce/2020/06/msg00011.html|Third Party Advisory
+146|CVE-2018-14613,CVE-2019-19447,CVE-2020-11565,CVE-2018-14612,CVE-2020-12770,CVE-2020-12769,CVE-2020-0009,CVE-2018-14610,CVE-2020-11608,CVE-2019-5108,CVE-2020-10751,CVE-2020-13143,CVE-2020-12826,CVE-2020-8648,CVE-2019-19319,CVE-2020-9383,CVE-2020-12114,CVE-2020-11609,CVE-2015-8839,CVE-2020-8647,CVE-2020-8649,CVE-2018-14611,CVE-2019-20636,CVE-2020-12653,CVE-2020-12464,CVE-2020-2732,CVE-2020-11494,CVE-2020-12654,CVE-2020-10690,CVE-2020-10942,CVE-2019-19768,CVE-2020-11668,CVE-2020-12652|https://lists.debian.org/debian-lts-announce/2020/06/msg00013.html|Third Party Advisory
+147|CVE-2020-14331,CVE-2019-19813,CVE-2020-14385,CVE-2020-25285,CVE-2020-25212,CVE-2020-26088,CVE-2020-14314,CVE-2020-10781,CVE-2020-16166,CVE-2019-19816,CVE-2020-14356,CVE-2019-19448,CVE-2020-12888,CVE-2019-3874,CVE-2020-25284,CVE-2020-14386|https://lists.debian.org/debian-lts-announce/2020/09/msg00025.html|Mailing List,Third Party Advisory
+148|CVE-2020-25285,CVE-2020-15393,CVE-2020-12655,CVE-2020-12771,CVE-2020-14390,CVE-2019-9445,CVE-2020-25643,CVE-2020-26088,CVE-2019-19074,CVE-2020-25641,CVE-2020-25284,CVE-2020-14331,CVE-2020-25212,CVE-2019-19073,CVE-2020-14356,CVE-2020-14386,CVE-2020-25211,CVE-2020-25220,CVE-2020-14314,CVE-2020-16166,CVE-2019-19448,CVE-2020-12888|https://lists.debian.org/debian-lts-announce/2020/10/msg00032.html|Mailing List,Third Party Advisory
+149|CVE-2020-25285,CVE-2020-15393,CVE-2020-12655,CVE-2020-12771,CVE-2020-14390,CVE-2019-9445,CVE-2020-25643,CVE-2020-26088,CVE-2019-19074,CVE-2020-25641,CVE-2020-25284,CVE-2020-14331,CVE-2020-25212,CVE-2019-19073,CVE-2020-14356,CVE-2020-14386,CVE-2020-25211,CVE-2020-25220,CVE-2020-14314,CVE-2020-16166,CVE-2019-19448,CVE-2020-12888|https://lists.debian.org/debian-lts-announce/2020/10/msg00034.html|Mailing List,Third Party Advisory
+150|CVE-2019-19630|https://lists.debian.org/debian-lts-announce/2019/12/msg00008.html|Mailing List,Third Party Advisory
+151|CVE-2019-14907,CVE-2019-10218,CVE-2021-20254,CVE-2019-14833,CVE-2019-14902,CVE-2019-14870,CVE-2019-14861,CVE-2019-14847|https://lists.debian.org/debian-lts-announce/2021/05/msg00023.html|
+152|CVE-2019-14889|https://lists.debian.org/debian-lts-announce/2019/12/msg00020.html|Mailing List,Third Party Advisory
+153|CVE-2019-17358|https://lists.debian.org/debian-lts-announce/2019/12/msg00014.html|Mailing List,Third Party Advisory
+154|CVE-2018-11805,CVE-2019-12420|https://lists.debian.org/debian-lts-announce/2019/12/msg00019.html|Mailing List,Third Party Advisory
+155|CVE-2019-16779|https://lists.debian.org/debian-lts-announce/2020/01/msg00015.html|
+156|CVE-2019-19813,CVE-2021-26931,CVE-2020-29660,CVE-2021-27364,CVE-2021-28038,CVE-2020-29569,CVE-2021-27365,CVE-2020-28374,CVE-2020-27825,CVE-2019-19816,CVE-2021-3347,CVE-2021-26930,CVE-2020-29661,CVE-2020-36158,CVE-2020-29568,CVE-2021-3178,CVE-2020-27815,CVE-2021-26932,CVE-2021-27363,CVE-2019-19318|https://lists.debian.org/debian-lts-announce/2021/03/msg00010.html|Mailing List,Third Party Advisory
+157|CVE-2018-1311|https://lists.debian.org/debian-lts-announce/2020/12/msg00025.html|
+158|CVE-2019-1387|https://lists.debian.org/debian-lts-announce/2020/01/msg00019.html|
+159|CVE-2019-19906|https://lists.debian.org/debian-lts-announce/2019/12/msg00027.html|Mailing List,Third Party Advisory
+160|CVE-2019-17571|https://lists.debian.org/debian-lts-announce/2020/01/msg00008.html|Mailing List,Third Party Advisory
+161|CVE-2019-19920|https://lists.debian.org/debian-lts-announce/2020/01/msg00006.html|
+162|CVE-2019-11045,CVE-2019-11050,CVE-2019-11047,CVE-2019-11046|https://lists.debian.org/debian-lts-announce/2019/12/msg00034.html|Mailing List,Third Party Advisory
+163|CVE-2019-17563,CVE-2019-12418|https://lists.debian.org/debian-lts-announce/2020/01/msg00024.html|Third Party Advisory
+164|CVE-2019-17563,CVE-2020-1935,CVE-2020-1938,CVE-2020-9484|https://lists.debian.org/debian-lts-announce/2020/05/msg00026.html|Mailing List,Third Party Advisory
+165|CVE-2019-12418|https://lists.debian.org/debian-lts-announce/2020/03/msg00029.html|
+166|CVE-2019-3467|https://lists.debian.org/debian-lts-announce/2019/12/msg00023.html|Mailing List,Third Party Advisory
+167|CVE-2019-3467|https://lists.debian.org/debian-lts-announce/2020/01/msg00012.html|
+168|CVE-2019-19949,CVE-2019-19948|https://lists.debian.org/debian-lts-announce/2019/12/msg00033.html|Mailing List,Third Party Advisory
+169|CVE-2019-19953,CVE-2019-19950,CVE-2019-19951|https://lists.debian.org/debian-lts-announce/2020/01/msg00029.html|
+170|CVE-2019-19956|https://lists.debian.org/debian-lts-announce/2019/12/msg00032.html|Mailing List,Third Party Advisory
+171|CVE-2019-20041|https://lists.debian.org/debian-lts-announce/2020/01/msg00010.html|
+172|CVE-2019-20165,CVE-2019-20162,CVE-2018-21016,CVE-2019-20208,CVE-2019-20161,CVE-2019-20171,CVE-2019-20170,CVE-2018-21015,CVE-2019-13618,CVE-2019-20163|https://lists.debian.org/debian-lts-announce/2020/01/msg00017.html|
+173|CVE-2019-14466|https://lists.debian.org/debian-lts-announce/2019/08/msg00039.html|Mailing List,Third Party Advisory
+174|CVE-2017-18013|https://lists.debian.org/debian-lts-announce/2018/01/msg00033.html|
+175|CVE-2017-18013|https://lists.debian.org/debian-lts-announce/2018/01/msg00034.html|
+176|CVE-2017-1000445,CVE-2017-1000476|https://lists.debian.org/debian-lts-announce/2018/01/msg00002.html|Mailing List,Third Party Advisory
+177|CVE-2017-17760,CVE-2017-1000450|https://lists.debian.org/debian-lts-announce/2018/01/msg00008.html|Mailing List,Third Party Advisory
+178|CVE-2018-5268,CVE-2018-5269,CVE-2017-12599,CVE-2017-12862,CVE-2017-12863,CVE-2017-14136,CVE-2017-12864,CVE-2017-12603,CVE-2017-12606,CVE-2016-1516,CVE-2017-12605,CVE-2017-12597,CVE-2017-17760,CVE-2017-12604,CVE-2017-12598,CVE-2017-1000450,CVE-2017-12601|https://lists.debian.org/debian-lts-announce/2018/07/msg00030.html|Mailing List,Third Party Advisory
+179|CVE-2017-1000456|https://lists.debian.org/debian-lts-announce/2018/01/msg00001.html|Mailing List,Third Party Advisory
+180|CVE-2017-1000421|https://lists.debian.org/debian-lts-announce/2018/01/msg00006.html|Mailing List,Third Party Advisory
+181|CVE-2017-1000422|https://lists.debian.org/debian-lts-announce/2018/01/msg00007.html|Mailing List,Third Party Advisory
+182|CVE-2017-1000433|https://lists.debian.org/debian-lts-announce/2018/07/msg00000.html|Mailing List,Third Party Advisory
+183|CVE-2017-1000433,CVE-2021-21239|https://lists.debian.org/debian-lts-announce/2021/02/msg00038.html|Mailing List,Third Party Advisory
+184|CVE-2019-12109,CVE-2017-1000494,CVE-2019-12110,CVE-2019-12108,CVE-2019-12107,CVE-2019-12111|https://lists.debian.org/debian-lts-announce/2019/05/msg00045.html|Mailing List,Third Party Advisory
+185|CVE-2017-1000501|https://lists.debian.org/debian-lts-announce/2018/01/msg00012.html|Mailing List,Third Party Advisory
+186|CVE-2017-1000480|https://lists.debian.org/debian-lts-announce/2018/01/msg00023.html|
+187|CVE-2017-1000480|https://lists.debian.org/debian-lts-announce/2018/02/msg00000.html|
+188|CVE-2017-1000460,CVE-2015-1872,CVE-2018-6392,CVE-2018-1999012,CVE-2017-14058|https://lists.debian.org/debian-lts-announce/2019/03/msg00041.html|
+189|CVE-2017-1000472|https://lists.debian.org/debian-lts-announce/2018/01/msg00013.html|
+190|CVE-2017-1000487|https://lists.debian.org/debian-lts-announce/2018/01/msg00010.html|Mailing List,Third Party Advisory
+191|CVE-2017-1000487|https://lists.debian.org/debian-lts-announce/2018/01/msg00011.html|Mailing List,Third Party Advisory
+192|CVE-2017-5715|https://lists.debian.org/debian-lts-announce/2020/03/msg00025.html|Mailing List,Third Party Advisory
+193|CVE-2017-17806,CVE-2017-17805,CVE-2017-17558,CVE-2017-5754,CVE-2017-17807,CVE-2017-17741|https://lists.debian.org/debian-lts-announce/2018/01/msg00004.html|
+194|CVE-2018-6315,CVE-2018-5294,CVE-2018-6359,CVE-2018-5251|https://lists.debian.org/debian-lts-announce/2018/03/msg00008.html|Mailing List,Third Party Advisory
+195|CVE-2018-5268,CVE-2018-5269|https://lists.debian.org/debian-lts-announce/2018/04/msg00019.html|Third Party Advisory
+196|CVE-2018-5335,CVE-2018-5336,CVE-2018-5334|https://lists.debian.org/debian-lts-announce/2018/01/msg00032.html|Mailing List,Third Party Advisory
+197|CVE-2017-13194|https://lists.debian.org/debian-lts-announce/2018/02/msg00025.html|Mailing List,Third Party Advisory
+198|CVE-2018-0486|https://lists.debian.org/debian-lts-announce/2018/01/msg00016.html|Mailing List,Third Party Advisory
+199|CVE-2018-0486|https://lists.debian.org/debian-security-announce/2018/msg00007.html|Mailing List,Third Party Advisory
+200|CVE-2018-5685|https://lists.debian.org/debian-lts-announce/2018/01/msg00018.html|Mailing List,Third Party Advisory
+201|CVE-2018-5686,CVE-2019-6130,CVE-2018-6192|https://lists.debian.org/debian-lts-announce/2019/06/msg00027.html|Third Party Advisory
+202|CVE-2018-5702|https://lists.debian.org/debian-lts-announce/2018/01/msg00020.html|Mailing List,Third Party Advisory
+203|CVE-2018-5704|https://lists.debian.org/debian-lts-announce/2018/01/msg00027.html|Third Party Advisory
+204|CVE-2018-5711|https://lists.debian.org/debian-lts-announce/2018/01/msg00022.html|Third Party Advisory
+205|CVE-2019-6978,CVE-2018-5711,CVE-2018-1000222,CVE-2019-6977|https://lists.debian.org/debian-lts-announce/2019/01/msg00028.html|Mailing List,Third Party Advisory
+206|CVE-2018-5712|https://lists.debian.org/debian-lts-announce/2018/01/msg00025.html|Mailing List,Third Party Advisory
+207|CVE-2018-5764|https://lists.debian.org/debian-lts-announce/2018/01/msg00021.html|Mailing List,Third Party Advisory
+208|CVE-2016-9841,CVE-2016-9840,CVE-2016-9843,CVE-2018-5764,CVE-2016-9842|https://lists.debian.org/debian-lts-announce/2019/03/msg00027.html|Mailing List,Third Party Advisory
+209|CVE-2018-2622,CVE-2018-2562,CVE-2018-2640,CVE-2018-2665,CVE-2018-2668|https://lists.debian.org/debian-lts-announce/2018/01/msg00024.html|
+210|CVE-2018-2678,CVE-2018-2641,CVE-2018-2618,CVE-2018-2588,CVE-2018-2663,CVE-2018-2602,CVE-2018-2633,CVE-2018-2677,CVE-2018-2637,CVE-2018-2579,CVE-2018-2599,CVE-2018-2603,CVE-2018-2634,CVE-2018-2629|https://lists.debian.org/debian-lts-announce/2018/04/msg00003.html|Mailing List,Third Party Advisory
+211|CVE-2017-12197|https://lists.debian.org/debian-lts-announce/2017/11/msg00008.html|Third Party Advisory
+212|CVE-2017-11613,CVE-2018-5784|https://lists.debian.org/debian-lts-announce/2018/05/msg00022.html|Mailing List,Third Party Advisory
+213|CVE-2017-15108,CVE-2020-25652,CVE-2020-25653,CVE-2020-25650,CVE-2020-25651|https://lists.debian.org/debian-lts-announce/2021/01/msg00012.html|Mailing List,Third Party Advisory
+214|CVE-2016-10708|https://lists.debian.org/debian-lts-announce/2018/01/msg00031.html|Mailing List,Third Party Advisory
+215|CVE-2015-5600,CVE-2015-6563,CVE-2016-3115,CVE-2016-10708,CVE-2015-5352,CVE-2016-10009,CVE-2016-10011,CVE-2015-6564,CVE-2016-6515,CVE-2017-15906,CVE-2016-10012,CVE-2016-1908|https://lists.debian.org/debian-lts-announce/2018/09/msg00010.html|Mailing List,Third Party Advisory
+216|CVE-2017-15105|https://lists.debian.org/debian-lts-announce/2018/01/msg00039.html|Mailing List,Third Party Advisory
+217|CVE-2017-15105|https://lists.debian.org/debian-lts-announce/2019/02/msg00022.html|Mailing List,Third Party Advisory
+218|CVE-2018-5950|https://lists.debian.org/debian-lts-announce/2018/02/msg00007.html|Mailing List,Third Party Advisory
+219|CVE-2017-12184,CVE-2017-12176,CVE-2017-12187,CVE-2017-12177,CVE-2017-12182,CVE-2017-2624,CVE-2017-12185,CVE-2017-13723,CVE-2017-12180,CVE-2017-12178,CVE-2017-12183|https://lists.debian.org/debian-lts-announce/2017/11/msg00032.html|Mailing List,Third Party Advisory
+220|CVE-2018-1000007|https://lists.debian.org/debian-lts-announce/2018/01/msg00038.html|Mailing List,Third Party Advisory
+221|CVE-2018-6196,CVE-2018-6197|https://lists.debian.org/debian-lts-announce/2020/04/msg00025.html|
+222|CVE-2017-12379,CVE-2017-12376,CVE-2017-12375,CVE-2017-12374,CVE-2017-12377,CVE-2017-12380,CVE-2017-12378|https://lists.debian.org/debian-lts-announce/2018/01/msg00035.html|Mailing List,Third Party Advisory
+223|CVE-2017-18078,CVE-2019-3842|https://lists.debian.org/debian-lts-announce/2019/04/msg00022.html|Mailing List,Third Party Advisory
+224|CVE-2016-10711|https://lists.debian.org/debian-lts-announce/2018/02/msg00015.html|Third Party Advisory
+225|CVE-2016-10711|https://lists.debian.org/debian-lts-announce/2020/04/msg00028.html|
+226|CVE-2016-10711|https://lists.debian.org/debian-lts-announce/2020/05/msg00003.html|
+227|CVE-2017-17969|https://lists.debian.org/debian-lts-announce/2018/02/msg00003.html|Mailing List,Third Party Advisory
+228|CVE-2017-15698|https://lists.debian.org/debian-lts-announce/2018/02/msg00011.html|Mailing List,Third Party Advisory
+229|CVE-2017-18121,CVE-2018-6521,CVE-2017-18122|https://lists.debian.org/debian-lts-announce/2018/02/msg00008.html|Mailing List,Exploit,Third Party Advisory
+230|CVE-2017-18123|https://lists.debian.org/debian-lts-announce/2018/02/msg00004.html|Mailing List,Issue Tracking,Third Party Advisory
+231|CVE-2017-18123|https://lists.debian.org/debian-lts-announce/2018/07/msg00004.html|
+232|CVE-2018-6594|https://lists.debian.org/debian-lts-announce/2018/02/msg00018.html|Mailing List,Third Party Advisory
+233|CVE-2018-14423,CVE-2018-6616|https://lists.debian.org/debian-lts-announce/2018/12/msg00013.html|Mailing List,Issue Tracking,Third Party Advisory
+234|CVE-2018-7557,CVE-2017-14767,CVE-2018-6621,CVE-2017-9994,CVE-2017-14057,CVE-2017-15672,CVE-2017-9993,CVE-2017-14170,CVE-2018-14394,CVE-2017-14171,CVE-2018-1999010,CVE-2017-14056,CVE-2017-14055,CVE-2017-17130|https://lists.debian.org/debian-lts-announce/2019/01/msg00006.html|Mailing List,Third Party Advisory
+235|CVE-2017-15095,CVE-2017-7525,CVE-2019-10172|https://lists.debian.org/debian-lts-announce/2020/01/msg00037.html|Mailing List,Third Party Advisory
+236|CVE-2017-7525,CVE-2019-10172|https://lists.debian.org/debian-lts-announce/2020/08/msg00039.html|Mailing List,Third Party Advisory
+237|CVE-2018-6758|https://lists.debian.org/debian-lts-announce/2018/02/msg00010.html|Third Party Advisory
+238|CVE-2018-6794,CVE-2017-7177,CVE-2017-15377|https://lists.debian.org/debian-lts-announce/2018/12/msg00000.html|Mailing List,Third Party Advisory
+239|CVE-2018-6799|https://lists.debian.org/debian-lts-announce/2018/02/msg00017.html|Mailing List,Third Party Advisory
+240|CVE-2016-2540|https://lists.debian.org/debian-lts-announce/2018/02/msg00012.html|Third Party Advisory
+241|CVE-2017-5130|https://lists.debian.org/debian-lts-announce/2017/11/msg00034.html|Third Party Advisory
+242|CVE-2018-6789|https://lists.debian.org/debian-lts-announce/2018/02/msg00009.html|Mailing List,Third Party Advisory
+243|CVE-2018-6869|https://lists.debian.org/debian-lts-announce/2018/02/msg00022.html|Mailing List,Issue Tracking,Third Party Advisory
+244|CVE-2018-1053|https://lists.debian.org/debian-lts-announce/2018/02/msg00006.html|Mailing List,Third Party Advisory
+245|CVE-2018-1000027,CVE-2018-1000024|https://lists.debian.org/debian-lts-announce/2018/02/msg00001.html|Mailing List,Third Party Advisory
+246|CVE-2018-19985,CVE-2018-1000026,CVE-2019-7221,CVE-2019-3459,CVE-2019-3460,CVE-2019-9213,CVE-2019-3701,CVE-2018-16884,CVE-2018-20169,CVE-2019-7222,CVE-2018-14625,CVE-2018-19824,CVE-2019-3819,CVE-2019-6974,CVE-2019-8980|https://lists.debian.org/debian-lts-announce/2019/05/msg00002.html|Mailing List,Third Party Advisory
+247|CVE-2018-1000027|https://lists.debian.org/debian-lts-announce/2018/02/msg00002.html|Mailing List,Third Party Advisory
+248|CVE-2018-1000035|https://lists.debian.org/debian-lts-announce/2020/01/msg00026.html|
+249|CVE-2018-1000041|https://lists.debian.org/debian-lts-announce/2018/02/msg00013.html|Third Party Advisory
+250|CVE-2018-11775,CVE-2019-0222,CVE-2017-15709,CVE-2021-26117|https://lists.debian.org/debian-lts-announce/2021/03/msg00005.html|Mailing List,Third Party Advisory
+251|CVE-2017-18189,CVE-2017-15370,CVE-2017-15372,CVE-2017-15642|https://lists.debian.org/debian-lts-announce/2019/02/msg00042.html|Mailing List,Third Party Advisory
+252|CVE-2018-7051|https://lists.debian.org/debian-lts-announce/2018/03/msg00021.html|Mailing List,Third Party Advisory
+253|CVE-2018-7186,CVE-2018-7440|https://lists.debian.org/debian-lts-announce/2018/03/msg00005.html|Mailing List,Third Party Advisory
+254|CVE-2018-7186,CVE-2018-7441|https://lists.debian.org/debian-lts/2018/02/msg00054.html|Mailing List,Third Party Advisory
+255|CVE-2017-18190|https://lists.debian.org/debian-lts-announce/2018/02/msg00023.html|Mailing List,Third Party Advisory
+256|CVE-2018-7187|https://lists.debian.org/debian-lts-announce/2018/02/msg00029.html|Mailing List,Third Party Advisory
+257|CVE-2018-15688,CVE-2018-15686,CVE-2018-1049|https://lists.debian.org/debian-lts-announce/2018/11/msg00017.html|Mailing List,Third Party Advisory
+258|CVE-2018-5380,CVE-2018-5381,CVE-2018-5379|https://lists.debian.org/debian-lts-announce/2018/02/msg00021.html|Mailing List,Third Party Advisory
+259|CVE-2018-7225|https://lists.debian.org/debian-lts-announce/2018/03/msg00035.html|Mailing List,Third Party Advisory
+260|CVE-2014-6052,CVE-2018-20022,CVE-2018-20749,CVE-2018-20019,CVE-2018-20021,CVE-2016-9941,CVE-2018-20748,CVE-2018-6307,CVE-2018-15127,CVE-2019-15681,CVE-2018-20750,CVE-2014-6051,CVE-2018-20023,CVE-2014-6055,CVE-2014-6053,CVE-2014-6054,CVE-2018-20020,CVE-2016-9942,CVE-2018-7225,CVE-2018-20024,CVE-2018-15126|https://lists.debian.org/debian-lts-announce/2019/10/msg00042.html|Mailing List,Third Party Advisory
+261|CVE-2014-6053,CVE-2019-15681,CVE-2018-7225|https://lists.debian.org/debian-lts-announce/2019/11/msg00032.html|Mailing List,Third Party Advisory
+262|CVE-2018-20022,CVE-2019-15680,CVE-2019-15681,CVE-2019-8287,CVE-2018-20021,CVE-2018-7225,CVE-2014-6053,CVE-2019-15678,CVE-2019-15679|https://lists.debian.org/debian-lts-announce/2019/12/msg00028.html|Mailing List,Third Party Advisory
+263|CVE-2018-7435,CVE-2018-7437,CVE-2018-7438,CVE-2018-7439,CVE-2018-7436|https://lists.debian.org/debian-lts-announce/2018/03/msg00000.html|Mailing List,Third Party Advisory
+264|CVE-2018-7442|https://lists.debian.org/debian-lts/2018/02/msg00086.html|Mailing List,Third Party Advisory
+265|CVE-2018-7418,CVE-2018-7332,CVE-2018-7334,CVE-2018-7337,CVE-2018-7323,CVE-2018-7335,CVE-2018-7419,CVE-2018-7324,CVE-2018-7322,CVE-2018-7336,CVE-2018-7417,CVE-2018-7420|https://lists.debian.org/debian-lts-announce/2018/04/msg00018.html|Mailing List,Third Party Advisory
+266|CVE-2018-7443|https://lists.debian.org/debian-lts-announce/2018/02/msg00028.html|Mailing List,Third Party Advisory
+267|CVE-2018-1304,CVE-2018-1305|https://lists.debian.org/debian-lts-announce/2018/03/msg00004.html|Mailing List,Issue Tracking,Third Party Advisory
+268|CVE-2018-1304,CVE-2018-1305|https://lists.debian.org/debian-lts-announce/2018/07/msg00044.html|Mailing List,Third Party Advisory
+269|CVE-2017-18197|https://lists.debian.org/debian-lts-announce/2018/03/msg00002.html|Third Party Advisory
+270|CVE-2018-7456|https://lists.debian.org/debian-lts-announce/2018/04/msg00010.html|Mailing List,Third Party Advisory
+271|CVE-2018-7456|https://lists.debian.org/debian-lts-announce/2018/04/msg00011.html|Mailing List,Third Party Advisory
+272|CVE-2018-7553,CVE-2018-7554,CVE-2018-7487,CVE-2018-7551,CVE-2018-7552|https://lists.debian.org/debian-lts-announce/2018/04/msg00004.html|Mailing List,Third Party Advisory
+273|CVE-2018-0489|https://lists.debian.org/debian-lts-announce/2018/02/msg00031.html|Issue Tracking
+274|CVE-2018-7540,CVE-2018-7541|https://lists.debian.org/debian-lts-announce/2018/03/msg00003.html|Third Party Advisory
+275|CVE-2017-12627|https://lists.debian.org/debian-lts-announce/2018/03/msg00032.html|
+276|CVE-2018-7550|https://lists.debian.org/debian-lts-announce/2018/04/msg00015.html|Mailing List,Third Party Advisory
+277|CVE-2018-7550|https://lists.debian.org/debian-lts-announce/2018/04/msg00016.html|Mailing List,Third Party Advisory
+278|CVE-2018-7584|https://lists.debian.org/debian-lts-announce/2018/03/msg00030.html|Mailing List,Third Party Advisory
+279|CVE-2013-1418,CVE-2016-3120,CVE-2016-3119,CVE-2014-5353,CVE-2014-5351,CVE-2014-5355|https://lists.debian.org/debian-lts-announce/2018/01/msg00040.html|Mailing List,Third Party Advisory
+280|CVE-2015-3192,CVE-2015-5211,CVE-2014-3578,CVE-2014-3625,CVE-2016-9878|https://lists.debian.org/debian-lts-announce/2019/07/msg00012.html|
+281|CVE-2017-14169,CVE-2017-7865,CVE-2015-1207,CVE-2014-8542,CVE-2017-14223,CVE-2017-7863|https://lists.debian.org/debian-lts-announce/2019/02/msg00005.html|Mailing List,Third Party Advisory
+282|CVE-2014-8145|https://lists.debian.org/debian-lts-announce/2019/02/msg00034.html|Third Party Advisory
+283|CVE-2015-6822,CVE-2016-10190,CVE-2015-6761,CVE-2015-8662,CVE-2015-8661,CVE-2015-8363,CVE-2015-6826,CVE-2015-8217,CVE-2015-8216,CVE-2015-6821,CVE-2015-6820,CVE-2015-8364,CVE-2015-6825,CVE-2015-6818,CVE-2014-9317,CVE-2016-10191,CVE-2015-8663|https://lists.debian.org/debian-lts-announce/2018/12/msg00009.html|
+284|CVE-2008-5370,CVE-2008-6398,CVE-2008-5368,CVE-2008-5367,CVE-2008-5372,CVE-2008-5371,CVE-2008-5369,CVE-2008-5366|http://lists.debian.org/debian-devel/2008/08/msg00283.html|Exploit
+285|CVE-2009-0689|https://lists.debian.org/debian-lts-announce/2018/11/msg00001.html|
+286|CVE-2009-2416,CVE-2009-2414|http://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg678527.html|Exploit
+287|CVE-2019-8354,CVE-2019-8356,CVE-2019-8357,CVE-2019-8355|https://lists.debian.org/debian-lts-announce/2019/05/msg00040.html|
+288|CVE-2020-11800,CVE-2016-10742|https://lists.debian.org/debian-lts-announce/2020/11/msg00039.html|
+289|CVE-2019-8907,CVE-2019-8905|https://lists.debian.org/debian-lts-announce/2019/02/msg00044.html|Mailing List,Third Party Advisory
+290|CVE-2019-7548,CVE-2019-7164|https://lists.debian.org/debian-lts-announce/2019/03/msg00020.html|Mailing List,Third Party Advisory
+291|CVE-2019-9787,CVE-2019-8942|https://lists.debian.org/debian-lts-announce/2019/03/msg00044.html|Exploit,Third Party Advisory
+292|CVE-2020-0093,CVE-2017-7544,CVE-2018-20030,CVE-2016-6328,CVE-2020-12767|https://lists.debian.org/debian-lts-announce/2020/05/msg00016.html|Mailing List,Third Party Advisory
+293|CVE-2018-20030,CVE-2020-13114,CVE-2020-13113,CVE-2020-13112|https://lists.debian.org/debian-lts-announce/2020/05/msg00025.html|Mailing List,Third Party Advisory
+294|CVE-2018-5801,CVE-2018-5808,CVE-2018-5819,CVE-2018-5802,CVE-2018-5800,CVE-2018-5817,CVE-2018-5818|https://lists.debian.org/debian-lts-announce/2019/03/msg00036.html|Mailing List,Third Party Advisory
+295|CVE-2019-9640,CVE-2019-9638,CVE-2019-9641,CVE-2019-9022,CVE-2019-9637,CVE-2019-9639|https://lists.debian.org/debian-lts-announce/2019/03/msg00043.html|Mailing List,Third Party Advisory
+296|CVE-2018-20481,CVE-2018-19058,CVE-2019-9200,CVE-2018-20662,CVE-2019-7310|https://lists.debian.org/debian-lts-announce/2019/03/msg00008.html|Mailing List,Third Party Advisory
+297|CVE-2018-1056,CVE-2019-9210|https://lists.debian.org/debian-lts-announce/2019/03/msg00004.html|Mailing List,Third Party Advisory
+298|CVE-2019-1559|https://lists.debian.org/debian-lts-announce/2019/03/msg00003.html|Mailing List,Third Party Advisory
+299|CVE-2017-9349,CVE-2019-9209,CVE-2017-9344|https://lists.debian.org/debian-lts-announce/2019/03/msg00031.html|Mailing List,Third Party Advisory
+300|CVE-2019-9215|https://lists.debian.org/debian-lts-announce/2019/03/msg00022.html|
+301|CVE-2018-12389,CVE-2018-12395,CVE-2018-12397,CVE-2018-12392,CVE-2018-12393,CVE-2018-12396,CVE-2018-12390|https://lists.debian.org/debian-lts-announce/2018/11/msg00008.html|Mailing List,Third Party Advisory
+302|CVE-2018-12389,CVE-2018-12376,CVE-2017-16541,CVE-2018-12378,CVE-2018-12361,CVE-2018-12383,CVE-2018-5187,CVE-2018-12392,CVE-2018-12379,CVE-2018-5156,CVE-2018-12393,CVE-2018-12367,CVE-2018-12377,CVE-2018-12385,CVE-2018-12390|https://lists.debian.org/debian-lts-announce/2018/11/msg00011.html|Mailing List,Third Party Advisory
+303|CVE-2018-12405,CVE-2018-18498,CVE-2018-18493,CVE-2018-18492,CVE-2018-17466,CVE-2018-18494|https://lists.debian.org/debian-lts-announce/2018/12/msg00002.html|Mailing List,Third Party Advisory
+304|CVE-2019-3824|https://lists.debian.org/debian-lts-announce/2019/03/msg00000.html|Mailing List,Third Party Advisory
+305|CVE-2018-14498|https://lists.debian.org/debian-lts-announce/2019/03/msg00021.html|Mailing List,Third Party Advisory
+306|CVE-2020-14152,CVE-2020-13790,CVE-2018-1152,CVE-2018-14498|https://lists.debian.org/debian-lts-announce/2020/07/msg00033.html|
+307|CVE-2019-9631|https://lists.debian.org/debian-lts-announce/2019/04/msg00011.html|Mailing List,Third Party Advisory
+308|CVE-2019-9948,CVE-2019-10160,CVE-2019-9636,CVE-2019-9740,CVE-2019-9947,CVE-2018-14647|https://lists.debian.org/debian-lts-announce/2019/06/msg00022.html|Mailing List,Third Party Advisory
+309|CVE-2019-9740,CVE-2019-9947,CVE-2018-14647,CVE-2019-9636|https://lists.debian.org/debian-lts-announce/2019/06/msg00023.html|Mailing List,Third Party Advisory
+310|CVE-2020-8492,CVE-2019-9948,CVE-2018-20406,CVE-2019-16056,CVE-2019-16935,CVE-2019-5010,CVE-2019-10160,CVE-2018-20852,CVE-2019-18348,CVE-2019-9636,CVE-2019-9740,CVE-2019-9947,CVE-2020-14422|https://lists.debian.org/debian-lts-announce/2020/07/msg00011.html|Technical Description,Mailing List,Third Party Advisory
+311|CVE-2019-9948,CVE-2019-16056,CVE-2019-5010,CVE-2019-10160,CVE-2018-20852,CVE-2019-9636,CVE-2019-9740,CVE-2019-9947,CVE-2019-20907|https://lists.debian.org/debian-lts-announce/2020/08/msg00034.html|Mailing List,Third Party Advisory
+312|CVE-2019-9656|https://lists.debian.org/debian-lts-announce/2019/11/msg00021.html|
+313|CVE-2019-9658|https://lists.debian.org/debian-lts-announce/2019/04/msg00029.html|Third Party Advisory
+314|CVE-2019-9705,CVE-2019-9706,CVE-2017-9525,CVE-2019-9704|https://lists.debian.org/debian-lts-announce/2019/03/msg00025.html|Mailing List,Third Party Advisory
+315|CVE-2019-9740,CVE-2019-9947|https://lists.debian.org/debian-lts-announce/2019/06/msg00026.html|
+316|CVE-2019-9741|https://lists.debian.org/debian-lts-announce/2019/04/msg00007.html|Mailing List,Third Party Advisory
+317|CVE-2018-16874,CVE-2018-16873,CVE-2019-16276,CVE-2019-9741,CVE-2019-17596,CVE-2021-3114,CVE-2017-15041|https://lists.debian.org/debian-lts-announce/2021/03/msg00014.html|Mailing List,Third Party Advisory
+318|CVE-2018-16874,CVE-2018-16873,CVE-2019-16276,CVE-2019-9741,CVE-2019-17596,CVE-2021-3114,CVE-2017-15041|https://lists.debian.org/debian-lts-announce/2021/03/msg00015.html|Mailing List,Third Party Advisory
+319|CVE-2018-17937|https://lists.debian.org/debian-lts-announce/2019/03/msg00040.html|Mailing List,Third Party Advisory
+320|CVE-2019-9752|https://lists.debian.org/debian-lts-announce/2019/03/msg00023.html|
+321|CVE-2018-20180,CVE-2018-8795,CVE-2018-8791,CVE-2018-8792,CVE-2018-8797,CVE-2018-8800,CVE-2018-20178,CVE-2018-20176,CVE-2018-20181,CVE-2018-8793,CVE-2018-20174,CVE-2018-20175,CVE-2018-20177,CVE-2018-20182,CVE-2018-8794,CVE-2018-8796,CVE-2018-8798,CVE-2018-20179,CVE-2018-8799|https://lists.debian.org/debian-lts-announce/2019/02/msg00030.html|Mailing List,Third Party Advisory
+322|CVE-2018-11806,CVE-2018-18849|https://lists.debian.org/debian-lts-announce/2019/05/msg00010.html|Mailing List,Third Party Advisory
+323|CVE-2018-18898|https://lists.debian.org/debian-lts-announce/2020/02/msg00009.html|
+324|CVE-2018-19873,CVE-2020-17507,CVE-2018-19872,CVE-2018-19870,CVE-2018-15518,CVE-2018-19869,CVE-2018-19871|https://lists.debian.org/debian-lts-announce/2020/09/msg00023.html|
+325|CVE-2018-19872,CVE-2020-17507|https://lists.debian.org/debian-lts-announce/2020/09/msg00024.html|
+326|CVE-2018-19661,CVE-2017-14634,CVE-2017-14245,CVE-2019-3832,CVE-2017-6892,CVE-2018-19758,CVE-2017-14246,CVE-2018-19662|https://lists.debian.org/debian-lts-announce/2020/10/msg00030.html|
+327|CVE-2019-3859,CVE-2019-3856,CVE-2019-3860,CVE-2019-3857,CVE-2019-3861,CVE-2019-3862,CVE-2019-3855,CVE-2019-3863,CVE-2019-3858|https://lists.debian.org/debian-lts-announce/2019/03/msg00032.html|Mailing List,Third Party Advisory
+328|CVE-2019-3859|https://lists.debian.org/debian-lts-announce/2019/04/msg00006.html|Mailing List,Third Party Advisory
+329|CVE-2019-3859,CVE-2019-13115|https://lists.debian.org/debian-lts-announce/2019/07/msg00024.html|
+330|CVE-2019-6116|https://lists.debian.org/debian-lts-announce/2019/02/msg00016.html|Mailing List,Third Party Advisory
+331|CVE-2019-6454|https://lists.debian.org/debian-lts-announce/2019/02/msg00031.html|Mailing List,Third Party Advisory
+332|CVE-2019-6690|https://lists.debian.org/debian-lts-announce/2019/02/msg00021.html|Mailing List,Third Party Advisory
+333|CVE-2019-9898,CVE-2019-9897,CVE-2019-9894|https://lists.debian.org/debian-lts-announce/2019/04/msg00023.html|Mailing List,Third Party Advisory
+334|CVE-2019-3871|https://lists.debian.org/debian-lts-announce/2019/03/msg00039.html|
+335|CVE-2016-9401,CVE-2019-9924|https://lists.debian.org/debian-lts-announce/2019/03/msg00028.html|Mailing List,Third Party Advisory
+336|CVE-2019-9948|https://lists.debian.org/debian-lts-announce/2019/07/msg00011.html|
+337|CVE-2016-10743|https://lists.debian.org/debian-lts-announce/2019/03/msg00035.html|
+338|CVE-2019-10018,CVE-2018-19058,CVE-2017-14926,CVE-2018-20662,CVE-2017-14928,CVE-2019-14494,CVE-2019-9959,CVE-2018-20650,CVE-2019-7310|https://lists.debian.org/debian-lts-announce/2020/11/msg00014.html|Mailing List,Third Party Advisory
+339|CVE-2019-3835,CVE-2019-3838|https://lists.debian.org/debian-lts-announce/2019/04/msg00021.html|Mailing List,Third Party Advisory
+340|CVE-2019-3860|https://lists.debian.org/debian-lts-announce/2019/07/msg00028.html|
+341|CVE-2019-6341|https://lists.debian.org/debian-lts-announce/2019/04/msg00003.html|Mailing List,Third Party Advisory
+342|CVE-2019-5418,CVE-2019-5419|https://lists.debian.org/debian-lts-announce/2019/03/msg00042.html|Mailing List,Third Party Advisory
+343|CVE-2018-12550,CVE-2017-7655,CVE-2019-11779,CVE-2018-12551|https://lists.debian.org/debian-lts-announce/2019/10/msg00035.html|
+344|CVE-2019-14587,CVE-2019-14563,CVE-2019-14559,CVE-2019-14562,CVE-2019-14558,CVE-2019-14575,CVE-2019-14586,CVE-2019-0161|https://lists.debian.org/debian-lts-announce/2021/04/msg00032.html|
+345|CVE-2019-7524|https://lists.debian.org/debian-lts-announce/2019/03/msg00038.html|Mailing List,Third Party Advisory
+346|CVE-2019-0222|https://lists.debian.org/debian-lts-announce/2021/03/msg00004.html|Mailing List,Third Party Advisory
+347|CVE-2018-4300|https://lists.debian.org/debian-lts-announce/2019/09/msg00028.html|
+348|CVE-2018-10243,CVE-2018-10242|https://lists.debian.org/debian-lts-announce/2019/04/msg00010.html|Third Party Advisory
+349|CVE-2018-20449|https://www.mail-archive.com/debian-security-tracker@lists.debian.org/msg03808.html|Mailing List,Third Party Advisory
+350|CVE-2019-10871,CVE-2019-9959|https://lists.debian.org/debian-lts-announce/2019/10/msg00024.html|
+351|CVE-2019-10871|https://lists.debian.org/debian-lts-announce/2019/10/msg00025.html|
+352|CVE-2019-12293,CVE-2019-12360,CVE-2019-10872|https://lists.debian.org/debian-lts-announce/2019/06/msg00002.html|
+353|CVE-2019-10904|https://lists.debian.org/debian-lts-announce/2019/04/msg00009.html|Mailing List,Third Party Advisory
+354|CVE-2019-10732|https://lists.debian.org/debian-lts-announce/2019/06/msg00012.html|
+355|CVE-2019-11007,CVE-2019-11010,CVE-2019-11008,CVE-2019-11006,CVE-2017-10799,CVE-2019-11009|https://lists.debian.org/debian-lts-announce/2019/04/msg00015.html|Mailing List,Third Party Advisory
+356|CVE-2019-1788,CVE-2019-1787|https://lists.debian.org/debian-lts-announce/2019/04/msg00019.html|Mailing List,Third Party Advisory
+357|CVE-2019-0220,CVE-2019-0217|https://lists.debian.org/debian-lts-announce/2019/04/msg00008.html|Mailing List,Third Party Advisory
+358|CVE-2019-11025|https://lists.debian.org/debian-lts-announce/2019/04/msg00017.html|
+359|CVE-2019-10901,CVE-2019-10899,CVE-2019-10903,CVE-2019-10894,CVE-2019-10895|https://lists.debian.org/debian-lts-announce/2019/05/msg00034.html|
+360|CVE-2019-10901,CVE-2019-10899,CVE-2019-10903,CVE-2019-12295,CVE-2019-10894,CVE-2019-10896,CVE-2019-10895|https://lists.debian.org/debian-lts-announce/2020/10/msg00036.html|
+361|CVE-2019-3795|https://lists.debian.org/debian-lts-announce/2019/05/msg00026.html|
+362|CVE-2019-11068|https://lists.debian.org/debian-lts-announce/2019/04/msg00016.html|Mailing List,Third Party Advisory
+363|CVE-2018-5995,CVE-2019-6133,CVE-2019-11486,CVE-2019-3460,CVE-2019-3459,CVE-2019-11190,CVE-2019-11599,CVE-2019-3901,CVE-2019-3882|https://lists.debian.org/debian-lts-announce/2019/05/msg00041.html|Mailing List,Third Party Advisory
+364|CVE-2018-5995,CVE-2019-6133,CVE-2019-11486,CVE-2019-3460,CVE-2019-3459,CVE-2019-11190,CVE-2019-11599,CVE-2019-3901,CVE-2019-3882|https://lists.debian.org/debian-lts-announce/2019/05/msg00042.html|Mailing List,Third Party Advisory
+365|CVE-2019-11221,CVE-2019-11222|https://lists.debian.org/debian-lts-announce/2019/04/msg00025.html|Mailing List,Third Party Advisory
+366|CVE-2019-11236|https://lists.debian.org/debian-lts-announce/2019/06/msg00016.html|
+367|CVE-2019-3883|https://lists.debian.org/debian-lts-announce/2019/05/msg00008.html|Mailing List,Third Party Advisory
+368|CVE-2019-9495,CVE-2019-9498,CVE-2019-9497,CVE-2019-11555,CVE-2019-9499|https://lists.debian.org/debian-lts-announce/2019/07/msg00030.html|Mailing List,Third Party Advisory
+369|CVE-2016-10746|https://lists.debian.org/debian-lts-announce/2019/04/msg00032.html|Mailing List,Third Party Advisory
+370|CVE-2019-11035,CVE-2019-11036,CVE-2019-11034|https://lists.debian.org/debian-lts-announce/2019/05/msg00035.html|Mailing List,Third Party Advisory
+371|CVE-2018-16878,CVE-2020-25654,CVE-2018-16877|https://lists.debian.org/debian-lts-announce/2021/01/msg00007.html|Mailing List,Third Party Advisory
+372|CVE-2019-11338,CVE-2018-15822|https://lists.debian.org/debian-lts-announce/2019/05/msg00043.html|
+373|CVE-2019-11358|https://lists.debian.org/debian-lts-announce/2019/05/msg00006.html|Mailing List,Third Party Advisory
+374|CVE-2019-11831,CVE-2019-11358|https://lists.debian.org/debian-lts-announce/2019/05/msg00029.html|Mailing List,Third Party Advisory
+375|CVE-2019-11358|https://lists.debian.org/debian-lts-announce/2020/02/msg00024.html|Mailing List,Third Party Advisory
+376|CVE-2019-11365,CVE-2019-11366|https://lists.debian.org/debian-lts-announce/2019/05/msg00012.html|
+377|CVE-2019-11454,CVE-2019-11455|https://lists.debian.org/debian-lts-announce/2019/04/msg00028.html|Mailing List,Third Party Advisory
+378|CVE-2019-3902|https://lists.debian.org/debian-lts-announce/2019/04/msg00024.html|Third Party Advisory
+379|CVE-2019-10247,CVE-2017-9735,CVE-2018-12536,CVE-2019-10241,CVE-2020-27216|https://lists.debian.org/debian-lts-announce/2021/05/msg00016.html|Mailing List,Third Party Advisory
+380|CVE-2017-1000159,CVE-2019-1010006,CVE-2019-11459|https://lists.debian.org/debian-lts-announce/2019/08/msg00013.html|
+381|CVE-2017-1000159,CVE-2019-1010006,CVE-2019-11459|https://lists.debian.org/debian-lts-announce/2019/08/msg00014.html|
+382|CVE-2019-14981,CVE-2019-15139,CVE-2019-15140,CVE-2019-11470|https://lists.debian.org/debian-lts-announce/2019/10/msg00028.html|Mailing List,Third Party Advisory
+383|CVE-2019-11505,CVE-2019-11506,CVE-2019-11474,CVE-2019-11473|https://lists.debian.org/debian-lts-announce/2019/05/msg00027.html|
+384|CVE-2019-2684,CVE-2019-2602,CVE-2019-2698|https://lists.debian.org/debian-lts-announce/2019/05/msg00011.html|
+385|CVE-2019-11833,CVE-2019-11486,CVE-2019-3846,CVE-2019-11815,CVE-2019-5489,CVE-2019-10126,CVE-2019-11599,CVE-2019-11884|https://lists.debian.org/debian-lts-announce/2019/06/msg00011.html|Mailing List,Third Party Advisory
+386|CVE-2019-11487,CVE-2019-15218,CVE-2019-0136,CVE-2019-15292,CVE-2019-15219,CVE-2019-15926,CVE-2019-15220,CVE-2019-15666,CVE-2019-9506,CVE-2019-15215,CVE-2019-15538,CVE-2019-15924,CVE-2019-15807,CVE-2019-15221,CVE-2019-15216,CVE-2019-15212,CVE-2019-15211|https://lists.debian.org/debian-lts-announce/2019/09/msg00014.html|Mailing List,Third Party Advisory
+387|CVE-2019-11487,CVE-2019-15218,CVE-2019-0136,CVE-2019-15292,CVE-2019-15219,CVE-2019-15926,CVE-2019-15220,CVE-2019-15666,CVE-2019-9506,CVE-2019-15215,CVE-2019-15538,CVE-2019-15924,CVE-2019-15807,CVE-2019-15221,CVE-2019-15216,CVE-2019-15212,CVE-2019-15211|https://lists.debian.org/debian-lts-announce/2019/09/msg00015.html|Mailing List,Third Party Advisory
+388|CVE-2019-1010315,CVE-2018-19840,CVE-2018-19841,CVE-2019-11498,CVE-2020-35738,CVE-2019-1010317,CVE-2019-1010319|https://lists.debian.org/debian-lts-announce/2021/01/msg00013.html|Mailing List,Third Party Advisory
+389|CVE-2019-9928|https://lists.debian.org/debian-lts-announce/2019/04/msg00030.html|Mailing List,Third Party Advisory
+390|CVE-2019-9928|https://lists.debian.org/debian-lts-announce/2019/04/msg00031.html|Mailing List,Third Party Advisory
+391|CVE-2019-13648,CVE-2018-5995,CVE-2019-10639,CVE-2019-13631,CVE-2017-18509,CVE-2019-10638,CVE-2019-14283,CVE-2019-14284,CVE-2019-3900,CVE-2018-20836,CVE-2019-3882,CVE-2018-20856|https://lists.debian.org/debian-lts-announce/2019/08/msg00017.html|Mailing List,Third Party Advisory
+392|CVE-2017-18367|https://lists.debian.org/debian-lts-announce/2020/08/msg00016.html|
+393|CVE-2019-13631,CVE-2017-18509,CVE-2019-14283,CVE-2019-10638,CVE-2019-14284,CVE-2019-3900,CVE-2018-20836|https://lists.debian.org/debian-lts-announce/2019/08/msg00016.html|Mailing List,Third Party Advisory
+394|CVE-2018-18511,CVE-2019-9797,CVE-2019-7317|https://lists.debian.org/debian-lts-announce/2019/05/msg00032.html|
+395|CVE-2018-18511,CVE-2019-5798,CVE-2019-9797,CVE-2019-7317|https://lists.debian.org/debian-lts-announce/2019/05/msg00038.html|Third Party Advisory
+396|CVE-2019-11579|https://lists.debian.org/debian-lts-announce/2019/05/msg00024.html|
+397|CVE-2018-20509|https://www.mail-archive.com/debian-security-tracker@lists.debian.org/msg03902.html|Mailing List,Third Party Advisory
+398|CVE-2019-11627|https://lists.debian.org/debian-lts-announce/2019/05/msg00001.html|Mailing List,Third Party Advisory
+399|CVE-2019-11719,CVE-2019-11745,CVE-2020-12402,CVE-2018-12404,CVE-2019-11729,CVE-2020-12399|https://lists.debian.org/debian-lts-announce/2020/09/msg00029.html|Mailing List,Third Party Advisory
+400|CVE-2019-9826|https://lists.debian.org/debian-lts-announce/2019/05/msg00004.html|
+401|CVE-2019-11810,CVE-2019-11833,CVE-2019-3846,CVE-2019-5489,CVE-2019-10126,CVE-2019-11884|https://lists.debian.org/debian-lts-announce/2019/06/msg00010.html|Mailing List,Third Party Advisory
+402|CVE-2019-11840|https://lists.debian.org/debian-lts-announce/2019/06/msg00029.html|
+403|CVE-2019-11840,CVE-2019-11841,CVE-2020-9283|https://lists.debian.org/debian-lts-announce/2020/10/msg00014.html|
+404|CVE-2019-11840|https://lists.debian.org/debian-lts-announce/2020/11/msg00016.html|
+405|CVE-2019-11840|https://lists.debian.org/debian-lts-announce/2020/11/msg00030.html|
+406|CVE-2019-11840|https://lists.debian.org/debian-lts-announce/2021/01/msg00015.html|
+407|CVE-2019-12106|https://lists.debian.org/debian-lts-announce/2019/05/msg00037.html|
+408|CVE-2019-3839|https://lists.debian.org/debian-lts-announce/2019/05/msg00023.html|Third Party Advisory
+409|CVE-2019-12086|https://lists.debian.org/debian-lts-announce/2019/05/msg00030.html|Third Party Advisory
+410|CVE-2019-12213,CVE-2019-12211|https://lists.debian.org/debian-lts-announce/2019/12/msg00012.html|
+411|CVE-2019-12218,CVE-2019-12222,CVE-2019-12216,CVE-2019-12219,CVE-2019-12221,CVE-2018-3977,CVE-2019-12217,CVE-2019-5052,CVE-2019-12220,CVE-2019-7635|https://lists.debian.org/debian-lts-announce/2019/07/msg00021.html|Mailing List,Third Party Advisory
+412|CVE-2019-12218,CVE-2019-12222,CVE-2019-12216,CVE-2019-12219,CVE-2019-5051,CVE-2019-12221,CVE-2018-3977,CVE-2019-12217,CVE-2019-5052,CVE-2019-12220,CVE-2019-7635|https://lists.debian.org/debian-lts-announce/2019/07/msg00026.html|Mailing List,Third Party Advisory
+413|CVE-2019-9892|https://lists.debian.org/debian-lts-announce/2019/05/msg00003.html|Mailing List,Third Party Advisory
+414|CVE-2019-11841|https://lists.debian.org/debian-lts-announce/2019/09/msg00011.html|
+415|CVE-2019-0201|https://lists.debian.org/debian-lts-announce/2019/05/msg00033.html|Third Party Advisory
+416|CVE-2019-12068,CVE-2019-15890,CVE-2019-14378,CVE-2019-13164,CVE-2017-9375,CVE-2019-12155,CVE-2016-5126,CVE-2016-5403|https://lists.debian.org/debian-lts-announce/2019/09/msg00021.html|Mailing List,Third Party Advisory
+417|CVE-2016-10245|https://lists.debian.org/debian-lts-announce/2019/05/msg00046.html|
+418|CVE-2019-0221|https://lists.debian.org/debian-lts-announce/2019/05/msg00044.html|
+419|CVE-2019-12450|https://lists.debian.org/debian-lts-announce/2019/06/msg00013.html|
+420|CVE-2019-9858|https://lists.debian.org/debian-lts-announce/2019/06/msg00007.html|
+421|CVE-2018-12126,CVE-2018-12127,CVE-2018-12130,CVE-2019-11091|https://lists.debian.org/debian-lts-announce/2019/06/msg00018.html|
+422|CVE-2019-12481,CVE-2019-12483,CVE-2019-12482|https://lists.debian.org/debian-lts-announce/2019/06/msg00030.html|
+423|CVE-2018-21009,CVE-2018-20650,CVE-2019-12493|https://lists.debian.org/debian-lts-announce/2019/09/msg00033.html|
+424|CVE-2016-4037,CVE-2016-9101,CVE-2016-9105,CVE-2016-6888,CVE-2016-7155,CVE-2016-7421,CVE-2016-9103,CVE-2016-9106,CVE-2016-4001,CVE-2016-9104,CVE-2017-10664,CVE-2016-8909,CVE-2016-8578,CVE-2016-4002,CVE-2016-7909,CVE-2016-4454,CVE-2016-6351,CVE-2016-8910,CVE-2016-4441,CVE-2016-4439,CVE-2016-4020,CVE-2016-5107,CVE-2016-5338,CVE-2016-6836,CVE-2016-7908,CVE-2016-5105,CVE-2016-4952,CVE-2018-17963,CVE-2016-7161,CVE-2016-2858,CVE-2016-2857,CVE-2016-4453,CVE-2016-2391,CVE-2016-5337,CVE-2016-7156,CVE-2016-7170,CVE-2018-17962,CVE-2016-5238,CVE-2016-2538,CVE-2016-7116,CVE-2016-2841,CVE-2016-5106,CVE-2016-9102,CVE-2016-2392,CVE-2016-6834,CVE-2016-8577,CVE-2018-10839|https://lists.debian.org/debian-lts-announce/2018/11/msg00038.html|Mailing List,Third Party Advisory
+425|CVE-2017-12937,CVE-2016-7449,CVE-2016-7446,CVE-2017-17501,CVE-2017-11643,CVE-2017-17498,CVE-2017-16669,CVE-2017-17912,CVE-2017-17915,CVE-2016-3716,CVE-2016-3718,CVE-2017-13064,CVE-2016-7448,CVE-2017-14314,CVE-2017-13065,CVE-2017-17502,CVE-2016-3717,CVE-2017-17782,CVE-2016-7447,CVE-2017-13063,CVE-2017-16353,CVE-2017-17500,CVE-2017-13134,CVE-2016-5241,CVE-2017-14733,CVE-2017-17503,CVE-2017-11636|https://lists.debian.org/debian-lts-announce/2018/06/msg00009.html|Mailing List,Third Party Advisory
+426|CVE-2016-1051|https://lists.debian.org/debian-lts-announce/2017/11/msg00004.html|
+427|CVE-2015-8872,CVE-2016-4804|https://lists.debian.org/debian-lts-announce/2020/05/msg00028.html|
+428|CVE-2016-4963,CVE-2017-14431|https://lists.debian.org/debian-lts-announce/2018/09/msg00006.html|
+429|CVE-2016-4429|https://lists.debian.org/debian-lts-announce/2020/06/msg00027.html|
+430|CVE-2016-5104|https://lists.debian.org/debian-lts-announce/2020/02/msg00027.html|
+431|CVE-2016-5104|https://lists.debian.org/debian-lts-announce/2020/02/msg00028.html|
+432|CVE-2016-5836,CVE-2018-12895|https://lists.debian.org/debian-lts-announce/2018/07/msg00046.html|Mailing List,Third Party Advisory
+433|CVE-2016-3189,CVE-2019-12900|https://lists.debian.org/debian-lts-announce/2019/06/msg00021.html|
+434|CVE-2015-8947|https://lists.debian.org/debian-lts-announce/2019/12/msg00022.html|
+435|CVE-2014-9862|https://lists.debian.org/debian-lts-announce/2019/11/msg00028.html|
+436|CVE-2016-4609,CVE-2016-4610,CVE-2019-13118,CVE-2019-13117|https://lists.debian.org/debian-lts-announce/2019/07/msg00020.html|Mailing List,Third Party Advisory
+437|CVE-2016-6296|https://lists.debian.org/debian-lts-announce/2019/11/msg00029.html|
+438|CVE-2017-15705,CVE-2018-11780,CVE-2016-1238,CVE-2018-11781|https://lists.debian.org/debian-lts-announce/2018/11/msg00016.html|Mailing List,Third Party Advisory
+439|CVE-2016-5139,CVE-2015-1239|https://lists.debian.org/debian-lts-announce/2018/07/msg00025.html|
+440|CVE-2016-5636,CVE-2018-20406,CVE-2016-0772,CVE-2016-5699|https://lists.debian.org/debian-lts-announce/2019/02/msg00011.html|Mailing List,Third Party Advisory
+441|CVE-2016-6855|https://lists.debian.org/debian-lts-announce/2020/04/msg00018.html|
+442|CVE-2016-6318|https://lists.debian.org/debian-lts-announce/2020/05/msg00023.html|Mailing List,Third Party Advisory
+443|CVE-2017-14503,CVE-2017-5601,CVE-2017-14166,CVE-2016-8688,CVE-2016-10349,CVE-2015-8915,CVE-2016-10209,CVE-2016-10350,CVE-2016-8687,CVE-2017-14502,CVE-2017-14501,CVE-2016-8689|https://lists.debian.org/debian-lts-announce/2018/11/msg00037.html|Mailing List,Third Party Advisory
+444|CVE-2016-4303|https://lists.debian.org/debian-lts-announce/2020/01/msg00023.html|
+445|CVE-2016-7098|https://lists.debian.org/debian-lts-announce/2020/01/msg00031.html|
+446|CVE-2017-6314,CVE-2016-6352,CVE-2017-6312,CVE-2017-6313,CVE-2017-2870|https://lists.debian.org/debian-lts-announce/2019/12/msg00025.html|Mailing List,Third Party Advisory
+447|CVE-2018-20847,CVE-2016-9112|https://lists.debian.org/debian-lts-announce/2019/07/msg00010.html|
+448|CVE-2016-1248|https://lists.debian.org/debian-lts-announce/2016/11/msg00025.html|Mailing List,Third Party Advisory
+449|CVE-2016-1248|https://lists.debian.org/debian-security-announce/2016/msg00305.html|Third Party Advisory
+450|CVE-2016-9888|https://lists.debian.org/debian-lts-announce/2020/04/msg00016.html|
+451|CVE-2016-6628,CVE-2016-6631,CVE-2016-9849,CVE-2016-6626,CVE-2019-12616,CVE-2016-9850,CVE-2016-6632,CVE-2016-9864,CVE-2016-6613,CVE-2016-6612,CVE-2016-6624,CVE-2016-6630,CVE-2016-9861,CVE-2016-6607,CVE-2016-6606,CVE-2016-6611,CVE-2016-6627|https://lists.debian.org/debian-lts-announce/2019/06/msg00009.html|
+452|CVE-2013-7108,CVE-2014-1878,CVE-2016-9566,CVE-2013-7205,CVE-2018-18245|https://lists.debian.org/debian-lts-announce/2018/12/msg00014.html|Mailing List,Third Party Advisory
+453|CVE-2008-5983|http://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg586010.html|
+454|CVE-2009-0359|http://www.mail-archive.com/debian-testing-security-announce@lists.debian.org/msg00171.html|
+455|CVE-2009-0363|http://www.mail-archive.com/debian-testing-security-announce@lists.debian.org/msg00173.html|
+456|CVE-2008-6397,CVE-2008-4476,CVE-2008-4477|http://lists.debian.org/debian-devel/2008/08/msg00312.html|
+457|CVE-2015-8327|https://lists.debian.org/debian-printing/2015/11/msg00020.html|
+458|CVE-2015-8327|https://lists.debian.org/debian-printing/2015/12/msg00001.html|
+459|CVE-2020-11523,CVE-2020-11526,CVE-2020-11525,CVE-2020-13398,CVE-2020-13396,CVE-2020-11522,CVE-2020-13397,CVE-2020-11045,CVE-2020-11046,CVE-2020-11521,CVE-2014-0791,CVE-2020-11048,CVE-2020-11058,CVE-2020-11042|https://lists.debian.org/debian-lts-announce/2020/08/msg00054.html|Third Party Advisory
+460|CVE-2014-3488,CVE-2020-7238,CVE-2014-0193,CVE-2019-20445,CVE-2019-16869,CVE-2019-20444|https://lists.debian.org/debian-lts-announce/2020/02/msg00018.html|Mailing List,Third Party Advisory
+461|CVE-2017-5843,CVE-2015-0797,CVE-2016-9809,CVE-2017-5848|https://lists.debian.org/debian-lts-announce/2020/03/msg00038.html|Mailing List,Third Party Advisory
+462|CVE-2019-10156,CVE-2015-3908,CVE-2015-6240,CVE-2018-10875|https://lists.debian.org/debian-lts-announce/2019/09/msg00016.html|Vendor Advisory,Third Party Advisory
+463|CVE-2015-6822,CVE-2015-6824,CVE-2015-6823|https://lists.debian.org/debian-lts-announce/2018/12/msg00010.html|
+464|CVE-2018-16541,CVE-2018-15909,CVE-2018-16539,CVE-2018-16511,CVE-2018-15911,CVE-2018-16513,CVE-2018-16542,CVE-2018-16540,CVE-2018-11645,CVE-2018-16585,CVE-2018-16802,CVE-2018-15908,CVE-2018-15910,CVE-2018-16509|https://lists.debian.org/debian-lts-announce/2018/09/msg00015.html|Mailing List,Third Party Advisory
+465|CVE-2017-15412|https://lists.debian.org/debian-lts-announce/2017/12/msg00014.html|Mailing List,Third Party Advisory
+466|CVE-2017-7612,CVE-2019-7150,CVE-2017-7608,CVE-2018-16062,CVE-2017-7611,CVE-2018-18310,CVE-2017-7610,CVE-2019-7149,CVE-2019-7665,CVE-2018-18521,CVE-2017-7613,CVE-2018-18520|https://lists.debian.org/debian-lts-announce/2019/02/msg00036.html|Mailing List,Third Party Advisory
+467|CVE-2018-14622|https://lists.debian.org/debian-lts-announce/2018/08/msg00034.html|Third Party Advisory
+468|CVE-2018-16425,CVE-2018-16424,CVE-2018-16421,CVE-2019-15945,CVE-2018-16419,CVE-2018-16420,CVE-2018-16423,CVE-2018-16392,CVE-2018-16418,CVE-2018-16422,CVE-2018-16393,CVE-2018-16426,CVE-2018-16427,CVE-2018-16391,CVE-2019-15946|https://lists.debian.org/debian-lts-announce/2019/09/msg00009.html|Third Party Advisory
+469|CVE-2018-16413,CVE-2018-16642,CVE-2018-16645,CVE-2018-16749,CVE-2018-16412,CVE-2018-16643,CVE-2018-16644|https://lists.debian.org/debian-lts-announce/2018/10/msg00002.html|Mailing List,Third Party Advisory
+470|CVE-2018-16429,CVE-2019-13012,CVE-2018-16428|https://lists.debian.org/debian-lts-announce/2019/07/msg00029.html|
+471|CVE-2018-16430|https://lists.debian.org/debian-lts-announce/2018/09/msg00011.html|Mailing List,Third Party Advisory
+472|CVE-2018-16435|https://lists.debian.org/debian-lts-announce/2018/09/msg00005.html|Mailing List,Third Party Advisory
+473|CVE-2018-10930,CVE-2018-10914,CVE-2018-10911,CVE-2018-10927,CVE-2018-10907,CVE-2018-10913,CVE-2018-10904,CVE-2018-10929,CVE-2018-10926,CVE-2018-10928,CVE-2018-10923|https://lists.debian.org/debian-lts-announce/2018/09/msg00021.html|Mailing List,Third Party Advisory
+474|CVE-2018-16543,CVE-2018-17183|https://lists.debian.org/debian-lts-announce/2018/09/msg00038.html|Mailing List,Third Party Advisory
+475|CVE-2018-14624|https://lists.debian.org/debian-lts-announce/2018/09/msg00037.html|Mailing List,Third Party Advisory
+476|CVE-2018-1000671|https://lists.debian.org/debian-lts-announce/2018/09/msg00023.html|Mailing List,Third Party Advisory
+477|CVE-2020-26880,CVE-2018-1000671|https://lists.debian.org/debian-lts-announce/2020/11/msg00015.html|
+478|CVE-2018-1000801|https://lists.debian.org/debian-lts-announce/2018/09/msg00027.html|Mailing List,Third Party Advisory
+479|CVE-2018-13405,CVE-2018-5391,CVE-2018-5390|https://lists.debian.org/debian-lts-announce/2018/08/msg00014.html|Mitigation,Mailing List,Third Party Advisory
+480|CVE-2018-16646|https://lists.debian.org/debian-lts-announce/2018/11/msg00040.html|Mailing List,Third Party Advisory
+481|CVE-2018-16646|https://lists.debian.org/debian-lts-announce/2018/12/msg00004.html|Mailing List,Third Party Advisory
+482|CVE-2019-13290,CVE-2018-16648,CVE-2018-16647,CVE-2018-18662,CVE-2019-6130|https://lists.debian.org/debian-lts-announce/2020/07/msg00019.html|
+483|CVE-2018-16657|https://lists.debian.org/debian-lts-announce/2018/09/msg00013.html|Mailing List,Third Party Advisory
+484|CVE-2018-10871,CVE-2018-10935|https://lists.debian.org/debian-lts-announce/2018/08/msg00032.html|Mailing List,Third Party Advisory
+485|CVE-2018-16949,CVE-2018-16947,CVE-2018-16948|https://lists.debian.org/debian-lts-announce/2018/09/msg00024.html|Mailing List,Third Party Advisory
+486|CVE-2018-16741|https://lists.debian.org/debian-lts-announce/2018/09/msg00012.html|Mailing List,Third Party Advisory
+487|CVE-2018-17000,CVE-2018-19210,CVE-2019-7663|https://lists.debian.org/debian-lts-announce/2019/02/msg00026.html|Mailing List,Third Party Advisory
+488|CVE-2018-16554,CVE-2019-1010302,CVE-2019-1010301,CVE-2018-17088|https://lists.debian.org/debian-lts-announce/2019/12/msg00037.html|
+489|CVE-2018-17082|https://lists.debian.org/debian-lts-announce/2018/09/msg00020.html|Mailing List,Third Party Advisory
+490|CVE-2018-17100,CVE-2018-18557,CVE-2018-17101|https://lists.debian.org/debian-lts-announce/2018/10/msg00019.html|Mailing List,Third Party Advisory
+491|CVE-2018-1060,CVE-2017-1000158,CVE-2018-1061,CVE-2018-1000802|https://lists.debian.org/debian-lts-announce/2018/09/msg00030.html|Mailing List,Third Party Advisory
+492|CVE-2018-1060,CVE-2017-1000158,CVE-2018-1061,CVE-2018-1000802|https://lists.debian.org/debian-lts-announce/2018/09/msg00031.html|Mailing List,Third Party Advisory
+493|CVE-2021-26119,CVE-2018-13982,CVE-2021-26120|https://lists.debian.org/debian-lts-announce/2021/04/msg00004.html|Mailing List,Third Party Advisory
+494|CVE-2021-26119,CVE-2018-13982,CVE-2021-26120|https://lists.debian.org/debian-lts-announce/2021/04/msg00014.html|Mailing List,Third Party Advisory
+495|CVE-2018-17206,CVE-2017-9214,CVE-2015-8011,CVE-2020-35498,CVE-2018-17204|https://lists.debian.org/debian-lts-announce/2021/02/msg00032.html|Mailing List,Third Party Advisory
+496|CVE-2018-17141|https://lists.debian.org/debian-lts-announce/2018/09/msg00026.html|Mailing List,Third Party Advisory
+497|CVE-2018-17407|https://lists.debian.org/debian-security-announce/2018/msg00230.html|Mailing List,Third Party Advisory
+498|CVE-2018-17281|https://lists.debian.org/debian-lts-announce/2018/09/msg00034.html|Mailing List,Third Party Advisory
+499|CVE-2018-16152,CVE-2018-16151|https://lists.debian.org/debian-lts-announce/2018/09/msg00032.html|Mailing List,Third Party Advisory
+500|CVE-2018-16587,CVE-2018-16586|https://lists.debian.org/debian-lts-announce/2018/09/msg00033.html|Mailing List,Third Party Advisory
+501|CVE-2018-17581,CVE-2018-19535,CVE-2018-20097,CVE-2018-19108,CVE-2018-19107|https://lists.debian.org/debian-lts-announce/2019/02/msg00038.html|Third Party Advisory
+502|CVE-2018-14648|https://lists.debian.org/debian-lts-announce/2018/10/msg00015.html|Third Party Advisory
+503|CVE-2015-9268,CVE-2015-9267|https://lists.debian.org/debian-lts-announce/2018/11/msg00041.html|Mailing List,Third Party Advisory
+504|CVE-2018-17540|https://lists.debian.org/debian-lts-announce/2018/10/msg00001.html|Mailing List,Third Party Advisory
+505|CVE-2018-11784|https://lists.debian.org/debian-lts-announce/2018/10/msg00005.html|Third Party Advisory
+506|CVE-2018-11784|https://lists.debian.org/debian-lts-announce/2018/10/msg00006.html|Third Party Advisory
+507|CVE-2018-11797|https://lists.debian.org/debian-lts-announce/2018/10/msg00008.html|Mailing List,Third Party Advisory
+508|CVE-2018-18025|https://lists.debian.org/debian-lts-announce/2018/11/msg00014.html|Mailing List,Third Party Advisory
+509|CVE-2017-17480,CVE-2018-18088|https://lists.debian.org/debian-lts-announce/2018/11/msg00018.html|Mailing List,Third Party Advisory
+510|CVE-2018-19489,CVE-2018-17958,CVE-2018-19364|https://lists.debian.org/debian-lts-announce/2019/01/msg00023.html|Mailing List,Third Party Advisory
+511|CVE-2018-18284,CVE-2018-18073,CVE-2018-17961|https://lists.debian.org/debian-lts-announce/2018/10/msg00013.html|Mailing List,Third Party Advisory
+512|CVE-2018-15378|https://lists.debian.org/debian-lts-announce/2018/10/msg00014.html|Mailing List,Third Party Advisory
+513|CVE-2017-5934|https://lists.debian.org/debian-lts-announce/2018/10/msg00007.html|Mailing List,Third Party Advisory
+514|CVE-2018-3066,CVE-2018-3133,CVE-2018-3081,CVE-2018-3174,CVE-2018-2767,CVE-2018-3282,CVE-2018-3063,CVE-2018-3058,CVE-2018-3070|https://lists.debian.org/debian-lts-announce/2018/11/msg00004.html|Mailing List,Third Party Advisory
+515|CVE-2018-3169,CVE-2018-3214,CVE-2018-3180,CVE-2018-3136,CVE-2018-2952,CVE-2018-3139,CVE-2018-3149|https://lists.debian.org/debian-lts-announce/2018/11/msg00026.html|
+516|CVE-2018-3143,CVE-2018-3174,CVE-2018-3156,CVE-2018-3282,CVE-2018-3251|https://lists.debian.org/debian-lts-announce/2018/11/msg00007.html|Mailing List,Third Party Advisory
+517|CVE-2018-10933|https://lists.debian.org/debian-lts-announce/2018/10/msg00010.html|Mailing List,Third Party Advisory
+518|CVE-2018-12360,CVE-2018-12364,CVE-2018-5188,CVE-2018-12363,CVE-2018-12365,CVE-2018-12366,CVE-2018-5156,CVE-2018-12362,CVE-2018-12359|https://lists.debian.org/debian-lts-announce/2018/06/msg00014.html|Mailing List,Third Party Advisory
+519|CVE-2018-12360,CVE-2018-12372,CVE-2018-12364,CVE-2018-5188,CVE-2018-12363,CVE-2018-12374,CVE-2018-12365,CVE-2018-12366,CVE-2018-12373,CVE-2018-12362,CVE-2018-12359|https://lists.debian.org/debian-lts-announce/2018/07/msg00013.html|Patch,Mailing List,Third Party Advisory
+520|CVE-2018-4013|https://lists.debian.org/debian-lts-announce/2018/11/msg00020.html|Mailing List,Third Party Advisory
+521|CVE-2018-18584,CVE-2018-18585|https://lists.debian.org/debian-lts-announce/2018/10/msg00017.html|Mailing List,Third Party Advisory
+522|CVE-2018-16837|https://lists.debian.org/debian-lts-announce/2018/11/msg00012.html|Mailing List,Third Party Advisory
+523|CVE-2018-15751,CVE-2018-15750|https://lists.debian.org/debian-lts-announce/2020/07/msg00024.html|
+524|CVE-2019-17546,CVE-2018-18661,CVE-2018-12900,CVE-2017-17095,CVE-2019-6128|https://lists.debian.org/debian-lts-announce/2019/11/msg00027.html|Third Party Advisory
+525|CVE-2018-18718|https://lists.debian.org/debian-lts-announce/2018/11/msg00002.html|Third Party Advisory
+526|CVE-2018-0735,CVE-2018-5407|https://lists.debian.org/debian-lts-announce/2018/11/msg00024.html|Mailing List,Third Party Advisory
+527|CVE-2018-19139,CVE-2018-20622,CVE-2018-19539,CVE-2018-19541,CVE-2018-18873,CVE-2018-19542,CVE-2018-19540,CVE-2018-20570,CVE-2018-20584|https://lists.debian.org/debian-lts-announce/2019/01/msg00003.html|Mailing List,Third Party Advisory
+528|CVE-2018-14659,CVE-2018-14661,CVE-2018-14652,CVE-2018-14651,CVE-2018-14653|https://lists.debian.org/debian-lts-announce/2018/11/msg00003.html|Vendor Advisory,Third Party Advisory
+529|CVE-2018-11759|https://lists.debian.org/debian-lts-announce/2018/12/msg00007.html|Mailing List,Third Party Advisory
+530|CVE-2018-18820|https://lists.debian.org/debian-lts-announce/2018/11/msg00033.html|Third Party Advisory
+531|CVE-2014-10077|https://lists.debian.org/debian-lts-announce/2018/11/msg00021.html|Third Party Advisory
+532|CVE-2018-16845|https://lists.debian.org/debian-lts-announce/2018/11/msg00010.html|Mailing List,Third Party Advisory
+533|CVE-2018-19105|https://lists.debian.org/debian-lts-announce/2019/05/msg00005.html|
+534|CVE-2018-19115|https://lists.debian.org/debian-lts-announce/2018/11/msg00034.html|Mailing List,Third Party Advisory
+535|CVE-2018-19132|https://lists.debian.org/debian-lts-announce/2018/11/msg00032.html|Mailing List,Third Party Advisory
+536|CVE-2019-12529,CVE-2019-18677,CVE-2019-12528,CVE-2019-12523,CVE-2020-8449,CVE-2018-19132,CVE-2019-18679,CVE-2019-13345,CVE-2019-12525,CVE-2019-18678,CVE-2019-12520,CVE-2019-18676,CVE-2019-18860,CVE-2019-12521,CVE-2020-11945,CVE-2019-12519,CVE-2019-12526,CVE-2019-12524,CVE-2020-8450|https://lists.debian.org/debian-lts-announce/2020/07/msg00009.html|Mailing List,Third Party Advisory
+537|CVE-2018-19143,CVE-2018-19141|https://lists.debian.org/debian-lts-announce/2018/11/msg00028.html|Mailing List,Third Party Advisory
+538|CVE-2018-19198,CVE-2018-19200,CVE-2018-19199|https://lists.debian.org/debian-lts-announce/2018/11/msg00019.html|Third Party Advisory
+539|CVE-2018-16471|https://lists.debian.org/debian-lts-announce/2018/11/msg00022.html|Mailing List,Third Party Advisory
+540|CVE-2018-19296|https://lists.debian.org/debian-lts-announce/2018/12/msg00020.html|Mailing List,Third Party Advisory
+541|CVE-2018-16395,CVE-2018-16396|https://lists.debian.org/debian-lts-announce/2018/10/msg00020.html|Third Party Advisory
+542|CVE-2018-19274|https://lists.debian.org/debian-lts-announce/2018/11/msg00029.html|Mailing List,Third Party Advisory
+543|CVE-2018-19475,CVE-2018-19409,CVE-2018-19477,CVE-2018-19476|https://lists.debian.org/debian-lts-announce/2018/11/msg00036.html|Mailing List,Third Party Advisory
+544|CVE-2018-19661,CVE-2017-14634,CVE-2017-14246,CVE-2017-8362,CVE-2018-13139,CVE-2017-14245,CVE-2017-8365,CVE-2017-8361,CVE-2017-8363,CVE-2018-19432,CVE-2018-19662|https://lists.debian.org/debian-lts-announce/2018/12/msg00016.html|Mailing List,Issue Tracking,Third Party Advisory
+545|CVE-2018-19492,CVE-2018-19491,CVE-2018-19490|https://lists.debian.org/debian-lts-announce/2018/11/msg00031.html|Mailing List,Third Party Advisory
+546|CVE-2018-19492,CVE-2018-19491,CVE-2018-19490|https://lists.debian.org/debian-lts-announce/2018/11/msg00035.html|Mailing List,Third Party Advisory
+547|CVE-2018-20199,CVE-2019-15296,CVE-2018-19502,CVE-2018-20196,CVE-2019-6956,CVE-2018-20360|https://lists.debian.org/debian-lts-announce/2019/08/msg00033.html|Third Party Advisory
+548|CVE-2018-19518,CVE-2018-19935|https://lists.debian.org/debian-lts-announce/2018/12/msg00006.html|Mailing List,Third Party Advisory
+549|CVE-2018-19518|https://lists.debian.org/debian-lts-announce/2019/03/msg00001.html|Third Party Advisory
+550|CVE-2018-14629,CVE-2018-16851|https://lists.debian.org/debian-lts-announce/2018/12/msg00005.html|Mailing List,Third Party Advisory
+551|CVE-2018-8787,CVE-2018-8789,CVE-2018-8788,CVE-2018-8786|https://lists.debian.org/debian-lts-announce/2019/02/msg00015.html|Mailing List,Third Party Advisory
+552|CVE-2018-19497|https://lists.debian.org/debian-lts-announce/2018/12/msg00008.html|Third Party Advisory
+553|CVE-2018-19758|https://lists.debian.org/debian-lts-announce/2019/01/msg00008.html|Mailing List,Third Party Advisory
+554|CVE-2018-19787|https://lists.debian.org/debian-lts-announce/2018/12/msg00001.html|Mailing List,Third Party Advisory
+555|CVE-2018-19787|https://lists.debian.org/debian-lts-announce/2020/11/msg00044.html|
+556|CVE-2018-19788,CVE-2019-6133|https://lists.debian.org/debian-lts-announce/2019/01/msg00021.html|Mailing List,Third Party Advisory
+557|CVE-2018-18311|https://lists.debian.org/debian-lts-announce/2018/11/msg00039.html|Mailing List,Third Party Advisory
+558|CVE-2018-19966,CVE-2018-19962,CVE-2018-19961|https://lists.debian.org/debian-lts-announce/2019/10/msg00008.html|
+559|CVE-2018-20004,CVE-2016-4571,CVE-2016-4570|https://lists.debian.org/debian-lts-announce/2019/01/msg00018.html|Third Party Advisory
+560|CVE-2018-18356|https://lists.debian.org/debian-lts-announce/2019/02/msg00023.html|Mailing List,Third Party Advisory
+561|CVE-2018-18500,CVE-2018-18505,CVE-2018-18356,CVE-2018-18501|https://lists.debian.org/debian-lts-announce/2019/02/msg00024.html|Mailing List,Third Party Advisory
+562|CVE-2018-19968,CVE-2018-19970|https://lists.debian.org/debian-lts-announce/2019/02/msg00003.html|Mailing List,Third Party Advisory
+563|CVE-2018-16872,CVE-2018-12617|https://lists.debian.org/debian-lts-announce/2019/02/msg00041.html|Mailing List,Third Party Advisory
+564|CVE-2018-20147,CVE-2018-20152,CVE-2018-20151,CVE-2018-20150,CVE-2018-20148,CVE-2018-20153,CVE-2018-20149|https://lists.debian.org/debian-lts-announce/2019/02/msg00019.html|Mailing List,Third Party Advisory
+565|CVE-2018-20189,CVE-2018-20185,CVE-2018-20184|https://lists.debian.org/debian-lts-announce/2018/12/msg00018.html|Mailing List,Third Party Advisory
+566|CVE-2018-20194,CVE-2018-20198,CVE-2018-20362,CVE-2018-20197|https://lists.debian.org/debian-lts-announce/2019/05/msg00022.html|
+567|CVE-2017-16654,CVE-2018-11385,CVE-2018-14773,CVE-2017-16652,CVE-2018-11408,CVE-2018-19789,CVE-2018-19790|https://lists.debian.org/debian-lts-announce/2019/03/msg00009.html|Mailing List,Third Party Advisory
+568|CVE-2018-20749,CVE-2018-20748,CVE-2018-20750,CVE-2018-15126|https://lists.debian.org/debian-lts-announce/2019/01/msg00029.html|Mailing List,Third Party Advisory
+569|CVE-2018-20022,CVE-2018-20020,CVE-2018-15127,CVE-2018-20019,CVE-2018-20021,CVE-2018-20023,CVE-2018-20024,CVE-2018-6307|https://lists.debian.org/debian-lts-announce/2018/12/msg00017.html|Mailing List,Third Party Advisory
+570|CVE-2018-20024,CVE-2018-20022,CVE-2018-20020,CVE-2018-20021|https://lists.debian.org/debian-lts-announce/2019/11/msg00033.html|
+571|CVE-2018-1000877,CVE-2018-1000878|https://lists.debian.org/debian-lts-announce/2018/12/msg00011.html|Third Party Advisory
+572|CVE-2018-19134,CVE-2018-19478|https://lists.debian.org/debian-lts-announce/2018/12/msg00019.html|Third Party Advisory
+573|CVE-2018-20346|https://lists.debian.org/debian-lts-announce/2018/12/msg00012.html|Mailing List,Third Party Advisory
+574|CVE-2018-20349|https://lists.debian.org/debian-lts-announce/2019/12/msg00038.html|
+575|CVE-2018-20431,CVE-2018-20430|https://lists.debian.org/debian-lts-announce/2018/12/msg00015.html|Mailing List,Third Party Advisory
+576|CVE-2018-20433|https://lists.debian.org/debian-lts-announce/2018/12/msg00021.html|Mailing List,Third Party Advisory
+577|CVE-2018-20482|https://lists.debian.org/debian-lts-announce/2018/12/msg00023.html|Mailing List,Third Party Advisory
+578|CVE-2018-19873,CVE-2018-19870,CVE-2018-15518|https://lists.debian.org/debian-lts-announce/2019/01/msg00004.html|Mailing List,Third Party Advisory
+579|CVE-2018-19873,CVE-2018-19870,CVE-2018-15518,CVE-2018-19869,CVE-2018-19871|https://lists.debian.org/debian-lts-announce/2019/05/msg00014.html|
+580|CVE-2018-19869|https://lists.debian.org/debian-lts-announce/2020/10/msg00035.html|
+581|CVE-2018-1000888|https://lists.debian.org/debian-lts-announce/2019/02/msg00020.html|Third Party Advisory
+582|CVE-2018-20546,CVE-2018-20547,CVE-2018-20549,CVE-2018-20544|https://lists.debian.org/debian-lts-announce/2019/01/msg00007.html|Mailing List,Third Party Advisory
+583|CVE-2008-4474,CVE-2008-4475|http://lists.debian.org/debian-devel/2008/08/msg00271.html|
+584|CVE-2008-5138,CVE-2008-5142,CVE-2008-5145,CVE-2008-5380,CVE-2008-5140,CVE-2008-5378,CVE-2008-5139,CVE-2008-5137,CVE-2008-5136,CVE-2008-5141,CVE-2008-5379,CVE-2008-5144,CVE-2008-5135,CVE-2008-5143|http://lists.debian.org/debian-devel/2008/08/msg00285.html|
+585|CVE-2008-5135|http://lists.debian.org/debian-devel/2008/08/msg00296.html|
+586|CVE-2008-5375,CVE-2008-5376,CVE-2008-5148,CVE-2008-5150,CVE-2008-5149,CVE-2008-5154,CVE-2008-5155,CVE-2008-5374,CVE-2008-5146,CVE-2008-5152,CVE-2008-5153,CVE-2008-5156,CVE-2008-5157,CVE-2008-5373,CVE-2008-5377,CVE-2008-5151,CVE-2008-5147|http://lists.debian.org/debian-devel/2008/08/msg00347.html|Technical Description,Mailing List
+587|CVE-2020-35965,CVE-2019-17539|https://lists.debian.org/debian-lts-announce/2021/01/msg00026.html|Mailing List,Third Party Advisory
+588|CVE-2020-27830,CVE-2020-29569,CVE-2020-28374,CVE-2020-27825,CVE-2021-3347,CVE-2020-29661,CVE-2020-36158,CVE-2020-29568,CVE-2020-27815,CVE-2020-29660|https://lists.debian.org/debian-lts-announce/2021/02/msg00018.html|Mailing List,Third Party Advisory
+589|CVE-2020-27824,CVE-2020-27841,CVE-2020-27814,CVE-2020-27823,CVE-2020-27844,CVE-2020-27845|https://lists.debian.org/debian-lts-announce/2021/02/msg00011.html|Mailing List,Third Party Advisory
+590|CVE-2020-35728,CVE-2020-36183,CVE-2020-36188,CVE-2020-24750,CVE-2020-36179,CVE-2020-36180,CVE-2020-24616,CVE-2020-36184,CVE-2020-36185,CVE-2020-36182,CVE-2020-35491,CVE-2020-36186,CVE-2021-20190,CVE-2020-35490,CVE-2020-36187,CVE-2020-36189,CVE-2020-36181|https://lists.debian.org/debian-lts-announce/2021/04/msg00025.html|Mitigation,Mailing List,Third Party Advisory
+591|CVE-2020-26976|https://lists.debian.org/debian-lts-announce/2021/02/msg00001.html|Mailing List,Third Party Advisory
+592|CVE-2020-26976|https://lists.debian.org/debian-lts-announce/2021/02/msg00002.html|Mailing List,Third Party Advisory
+593|CVE-2020-26298|https://lists.debian.org/debian-lts-announce/2021/01/msg00014.html|
+594|CVE-2021-0308,CVE-2020-0256|https://lists.debian.org/debian-lts-announce/2021/02/msg00010.html|Mailing List,Third Party Advisory
+595|CVE-2020-35459|https://lists.debian.org/debian-lts-announce/2021/01/msg00021.html|Mailing List,Third Party Advisory
+596|CVE-2021-25329,CVE-2021-24122,CVE-2021-25122|https://lists.debian.org/debian-lts-announce/2021/03/msg00018.html|Mailing List,Third Party Advisory
+597|CVE-2020-28473|https://lists.debian.org/debian-lts-announce/2021/01/msg00019.html|Third Party Advisory
+598|CVE-2020-36193|https://lists.debian.org/debian-lts-announce/2021/01/msg00018.html|Mailing List,Third Party Advisory
+599|CVE-2020-36193|https://lists.debian.org/debian-lts-announce/2021/04/msg00007.html|Mailing List,Third Party Advisory
+600|CVE-2021-23336,CVE-2021-3426,CVE-2021-3177|https://lists.debian.org/debian-lts-announce/2021/04/msg00005.html|Mailing List,Third Party Advisory
+601|CVE-2021-3181|https://lists.debian.org/debian-lts-announce/2021/01/msg00017.html|Mailing List,Third Party Advisory
+602|CVE-2019-7636,CVE-2020-14409,CVE-2019-7577,CVE-2019-7578,CVE-2020-14410,CVE-2019-7638,CVE-2019-7575,CVE-2019-7635,CVE-2019-13616|https://lists.debian.org/debian-lts-announce/2021/01/msg00024.html|Mailing List,Third Party Advisory
+603|CVE-2020-25687,CVE-2020-25684,CVE-2020-25683,CVE-2020-25682,CVE-2020-25681|https://lists.debian.org/debian-lts-announce/2021/03/msg00027.html|Mailing List,Third Party Advisory
+604|CVE-2020-29443,CVE-2020-15469,CVE-2021-20221,CVE-2020-29130,CVE-2020-15859,CVE-2020-28916,CVE-2020-25084,CVE-2021-20181|https://lists.debian.org/debian-lts-announce/2021/02/msg00024.html|Mailing List,Third Party Advisory
+605|CVE-2020-36227,CVE-2020-36230,CVE-2020-36225,CVE-2020-36226,CVE-2020-36229,CVE-2020-36223,CVE-2020-36228,CVE-2020-36224,CVE-2020-36222,CVE-2020-36221|https://lists.debian.org/debian-lts-announce/2021/02/msg00005.html|Mailing List,Third Party Advisory
+606|CVE-2021-3156|https://lists.debian.org/debian-lts-announce/2021/01/msg00022.html|Mailing List,Third Party Advisory
+607|CVE-2021-3409,CVE-2021-20203,CVE-2021-3392,CVE-2021-20255,CVE-2020-17380,CVE-2021-3416|https://lists.debian.org/debian-lts-announce/2021/04/msg00009.html|
+608|CVE-2021-26931,CVE-2021-27364,CVE-2021-28038,CVE-2021-27365,CVE-2020-27170,CVE-2021-26930,CVE-2021-28660,CVE-2020-27171,CVE-2021-3348,CVE-2021-26932,CVE-2021-27363|https://lists.debian.org/debian-lts-announce/2021/03/msg00035.html|Mailing List,Third Party Advisory
+609|CVE-2021-21289|https://lists.debian.org/debian-lts-announce/2021/02/msg00021.html|Mailing List,Third Party Advisory
+610|CVE-2020-27768,CVE-2021-20244,CVE-2020-27770,CVE-2020-27762,CVE-2020-27759,CVE-2020-25675,CVE-2020-27764,CVE-2020-27772,CVE-2020-27774,CVE-2020-27771,CVE-2020-27767,CVE-2020-27775,CVE-2020-27758,CVE-2020-27754,CVE-2020-27761,CVE-2020-25676,CVE-2021-20241,CVE-2021-20176,CVE-2020-25666,CVE-2021-20246,CVE-2020-27766,CVE-2020-27757|https://lists.debian.org/debian-lts-announce/2021/03/msg00030.html|Mailing List,Third Party Advisory
+611|CVE-2021-21290|https://lists.debian.org/debian-lts-announce/2021/02/msg00016.html|Mailing List,Third Party Advisory
+612|CVE-2021-26910|https://lists.debian.org/debian-lts-announce/2021/02/msg00015.html|Third Party Advisory
+613|CVE-2021-26675,CVE-2021-26676|https://lists.debian.org/debian-lts-announce/2021/02/msg00013.html|Mailing List,Third Party Advisory
+614|CVE-2021-26937|https://lists.debian.org/debian-lts-announce/2021/02/msg00031.html|Mailing List,Third Party Advisory
+615|CVE-2021-27135|https://lists.debian.org/debian-lts-announce/2021/02/msg00019.html|Mailing List,Third Party Advisory
+616|CVE-2021-0326|https://lists.debian.org/debian-lts-announce/2021/02/msg00033.html|Mailing List,Third Party Advisory
+617|CVE-2021-21311|https://lists.debian.org/debian-lts-announce/2021/03/msg00002.html|Mailing List,Third Party Advisory
+618|CVE-2021-27212|https://lists.debian.org/debian-lts-announce/2021/02/msg00035.html|Mailing List,Third Party Advisory
+619|CVE-2021-26929|https://lists.debian.org/debian-lts-announce/2021/02/msg00028.html|Mailing List,Third Party Advisory
+620|CVE-2021-23336|https://lists.debian.org/debian-lts-announce/2021/02/msg00030.html|Mailing List,Third Party Advisory
+621|CVE-2021-23336,CVE-2019-16935|https://lists.debian.org/debian-lts-announce/2021/04/msg00015.html|Mailing List,Third Party Advisory
+622|CVE-2021-27229|https://lists.debian.org/debian-lts-announce/2021/02/msg00022.html|Mailing List,Third Party Advisory
+623|CVE-2020-8625|https://lists.debian.org/debian-lts-announce/2021/02/msg00029.html|Mailing List,Third Party Advisory
+624|CVE-2021-3405|https://lists.debian.org/debian-lts-announce/2021/04/msg00016.html|
+625|CVE-2020-26519,CVE-2021-3407|https://lists.debian.org/debian-lts-announce/2021/03/msg00012.html|Mailing List,Third Party Advisory
+626|CVE-2021-3410|https://lists.debian.org/debian-lts-announce/2021/03/msg00006.html|Mailing List,Third Party Advisory
+627|CVE-2021-23973,CVE-2021-23968,CVE-2021-23969,CVE-2021-23978|https://lists.debian.org/debian-lts-announce/2021/03/msg00000.html|Mailing List,Third Party Advisory
+628|CVE-2021-23961|https://lists.debian.org/debian-lts-announce/2021/04/msg00019.html|
+629|CVE-2021-23961|https://lists.debian.org/debian-lts-announce/2021/04/msg00020.html|
+630|CVE-2021-27803|https://lists.debian.org/debian-lts-announce/2021/03/msg00003.html|Mailing List,Third Party Advisory
+631|CVE-2020-28636,CVE-2020-35636,CVE-2020-35628,CVE-2020-28601|https://lists.debian.org/debian-lts-announce/2021/05/msg00002.html|
+632|CVE-2021-20272,CVE-2021-20276,CVE-2021-20275,CVE-2021-20273|https://lists.debian.org/debian-lts-announce/2021/03/msg00009.html|Mailing List,Third Party Advisory
+633|CVE-2021-20313,CVE-2021-20243,CVE-2021-20245,CVE-2021-20309,CVE-2021-20312,CVE-2020-27751|https://lists.debian.org/debian-lts-announce/2021/06/msg00000.html|
+634|CVE-2020-13936|https://lists.debian.org/debian-lts-announce/2021/03/msg00019.html|Mailing List,Third Party Advisory
+635|CVE-2020-13959|https://lists.debian.org/debian-lts-announce/2021/03/msg00021.html|Mailing List,Third Party Advisory
+636|CVE-2021-21375|https://lists.debian.org/debian-lts-announce/2021/04/msg00023.html|Mailing List,Third Party Advisory
+637|CVE-2021-21375|https://lists.debian.org/debian-lts-announce/2021/05/msg00020.html|Mailing List,Third Party Advisory
+638|CVE-2020-36278,CVE-2020-36277,CVE-2020-36281,CVE-2020-36279|https://lists.debian.org/debian-lts-announce/2021/03/msg00037.html|Mailing List,Third Party Advisory
+639|CVE-2021-28374|https://lists.debian.org/debian-lts-announce/2021/04/msg00011.html|Mailing List,Third Party Advisory
+640|CVE-2017-12424,CVE-2017-20002|https://lists.debian.org/debian-lts-announce/2021/03/msg00020.html|Vendor Advisory,Mailing List,Third Party Advisory
+641|CVE-2020-17525|https://lists.debian.org/debian-lts-announce/2021/05/msg00000.html|
+642|CVE-2021-27291|https://lists.debian.org/debian-lts-announce/2021/03/msg00024.html|Mailing List,Third Party Advisory
+643|CVE-2021-27291,CVE-2021-30152,CVE-2021-30159,CVE-2021-30155,CVE-2021-20270,CVE-2021-30158|https://lists.debian.org/debian-lts-announce/2021/05/msg00003.html|Mailing List,Third Party Advisory
+644|CVE-2021-27291,CVE-2021-30152,CVE-2021-30159,CVE-2021-30155,CVE-2021-20270,CVE-2021-30158|https://lists.debian.org/debian-lts-announce/2021/05/msg00006.html|Mailing List,Third Party Advisory
+645|CVE-2021-27928|https://lists.debian.org/debian-lts-announce/2021/03/msg00028.html|Mailing List,Third Party Advisory
+646|CVE-2021-28831|https://lists.debian.org/debian-lts-announce/2021/04/msg00001.html|Mailing List,Third Party Advisory
+647|CVE-2021-28957|https://lists.debian.org/debian-lts-announce/2021/03/msg00031.html|Mailing List,Third Party Advisory
+648|CVE-2021-21345,CVE-2021-21343,CVE-2021-21350,CVE-2021-21344,CVE-2021-21342,CVE-2021-21347,CVE-2021-21348,CVE-2021-21349,CVE-2021-21346,CVE-2021-21351,CVE-2021-21341|https://lists.debian.org/debian-lts-announce/2021/04/msg00002.html|Mailing List,Third Party Advisory
+649|CVE-2020-1946|https://lists.debian.org/debian-lts-announce/2021/04/msg00000.html|
+650|CVE-2021-23358|https://lists.debian.org/debian-lts-announce/2021/03/msg00038.html|Mailing List,Third Party Advisory
+651|CVE-2005-1514,CVE-2020-3811,CVE-2020-3812,CVE-2005-1513,CVE-2005-1515|https://lists.debian.org/debian-lts-announce/2020/06/msg00002.html|
+652|CVE-2005-2801|http://lists.debian.org/debian-kernel/2005/08/msg00238.html|Patch
+653|CVE-2005-2972|http://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg28251.html|Vendor Advisory
+654|CVE-2004-1387|http://lists.debian.org/debian-apache/2005/01/msg00076.html|
+655|CVE-2004-1388|http://www.mail-archive.com/debian-bugs-closed@lists.debian.org/msg02103.html|
+656|CVE-2019-14811,CVE-2019-14817,CVE-2019-14813|https://lists.debian.org/debian-lts-announce/2019/09/msg00007.html|Mailing List,Third Party Advisory
+657|CVE-2019-14821,CVE-2019-14835,CVE-2019-15118,CVE-2019-15117,CVE-2019-15902|https://lists.debian.org/debian-lts-announce/2019/10/msg00000.html|Mailing List,Third Party Advisory
+658|CVE-2019-15903|https://lists.debian.org/debian-lts-announce/2019/11/msg00006.html|
+659|CVE-2019-11755,CVE-2019-15903|https://lists.debian.org/debian-lts-announce/2019/11/msg00017.html|
+660|CVE-2019-14821,CVE-2019-14816,CVE-2019-15926,CVE-2019-15917,CVE-2019-9506,CVE-2019-15118,CVE-2019-15807,CVE-2019-15212,CVE-2018-21008,CVE-2019-15219,CVE-2019-15220,CVE-2019-15117,CVE-2019-15292,CVE-2019-15218,CVE-2019-14835,CVE-2019-15215,CVE-2019-15211,CVE-2019-14814,CVE-2019-0136,CVE-2016-10905,CVE-2018-20976,CVE-2019-15221|https://lists.debian.org/debian-lts-announce/2019/09/msg00025.html|Mailing List,Third Party Advisory
+661|CVE-2018-21010|https://lists.debian.org/debian-lts-announce/2019/10/msg00009.html|Mailing List,Third Party Advisory
+662|CVE-2019-15846|https://lists.debian.org/debian-lts-announce/2019/09/msg00004.html|Mailing List,Third Party Advisory
+663|CVE-2019-16056|https://lists.debian.org/debian-lts-announce/2019/09/msg00018.html|
+664|CVE-2019-16056|https://lists.debian.org/debian-lts-announce/2019/09/msg00019.html|
+665|CVE-2016-7398|https://lists.debian.org/debian-lts-announce/2019/09/msg00022.html|
+666|CVE-2019-9851,CVE-2019-9852,CVE-2019-9854,CVE-2019-9850,CVE-2019-9849,CVE-2019-9853,CVE-2019-9848|https://lists.debian.org/debian-lts-announce/2019/10/msg00005.html|Third Party Advisory
+667|CVE-2016-10937|https://lists.debian.org/debian-lts-announce/2019/10/msg00040.html|
+668|CVE-2019-16163|https://lists.debian.org/debian-lts-announce/2019/09/msg00010.html|
+669|CVE-2019-1563,CVE-2019-1547|https://lists.debian.org/debian-lts-announce/2019/09/msg00026.html|
+670|CVE-2019-16217,CVE-2019-16218,CVE-2019-16219,CVE-2019-16220,CVE-2019-16221,CVE-2019-16223,CVE-2019-16222|https://lists.debian.org/debian-lts-announce/2019/10/msg00023.html|
+671|CVE-2019-16275|https://lists.debian.org/debian-lts-announce/2019/09/msg00017.html|Mailing List,Third Party Advisory
+672|CVE-2019-16942,CVE-2019-16335,CVE-2019-16943,CVE-2019-14540|https://lists.debian.org/debian-lts-announce/2019/10/msg00001.html|Mailing List,Third Party Advisory
+673|CVE-2019-16239|https://lists.debian.org/debian-lts-announce/2019/10/msg00003.html|
+674|CVE-2019-16393,CVE-2019-16394,CVE-2019-16391,CVE-2019-16392|https://lists.debian.org/debian-lts-announce/2019/10/msg00038.html|
+675|CVE-2019-3689|https://lists.debian.org/debian-lts-announce/2019/10/msg00026.html|Third Party Advisory
+676|CVE-2019-16680|https://lists.debian.org/debian-lts-announce/2019/09/msg00032.html|Third Party Advisory
+677|CVE-2020-26870,CVE-2019-16728|https://lists.debian.org/debian-lts-announce/2020/10/msg00029.html|Mailing List,Third Party Advisory
+678|CVE-2019-16729|https://lists.debian.org/debian-lts-announce/2019/11/msg00020.html|
+679|CVE-2020-1983,CVE-2019-12068,CVE-2020-13765,CVE-2020-13362,CVE-2019-20382,CVE-2020-8608,CVE-2020-10756,CVE-2020-13361,CVE-2020-13754,CVE-2020-13659,CVE-2017-9503|https://lists.debian.org/debian-lts-announce/2020/07/msg00020.html|Mailing List,Third Party Advisory
+680|CVE-2019-5094|https://lists.debian.org/debian-lts-announce/2019/09/msg00029.html|Mailing List,Third Party Advisory
+681|CVE-2019-13627|https://lists.debian.org/debian-lts-announce/2019/09/msg00024.html|Mailing List,Third Party Advisory
+682|CVE-2019-13627|https://lists.debian.org/debian-lts-announce/2020/01/msg00001.html|Third Party Advisory
+683|CVE-2017-18635|https://lists.debian.org/debian-lts-announce/2019/10/msg00004.html|
+684|CVE-2019-10092|https://lists.debian.org/debian-lts-announce/2019/08/msg00034.html|Mailing List,Third Party Advisory
+685|CVE-2019-10092|https://lists.debian.org/debian-lts-announce/2019/09/msg00034.html|Mailing List,Third Party Advisory
+686|CVE-2019-16869|https://lists.debian.org/debian-lts-announce/2019/09/msg00035.html|Mailing List,Third Party Advisory
+687|CVE-2019-16869,CVE-2019-20444,CVE-2019-20445|https://lists.debian.org/debian-lts-announce/2020/09/msg00004.html|Mailing List,Third Party Advisory
+688|CVE-2019-9433,CVE-2019-9232|https://lists.debian.org/debian-lts-announce/2019/11/msg00030.html|
+689|CVE-2019-9278|https://lists.debian.org/debian-lts-announce/2020/02/msg00007.html|
+690|CVE-2019-16993|https://lists.debian.org/debian-lts-announce/2019/09/msg00036.html|Mailing List,Third Party Advisory
+691|CVE-2019-16993|https://lists.debian.org/debian-lts-announce/2019/10/msg00006.html|Third Party Advisory
+692|CVE-2018-14463,CVE-2018-16227,CVE-2018-14468,CVE-2018-14461,CVE-2018-14465,CVE-2018-16228,CVE-2018-16451,CVE-2018-14464,CVE-2018-16300,CVE-2018-14879,CVE-2018-14466,CVE-2018-14462,CVE-2018-14467,CVE-2018-10105,CVE-2018-14470,CVE-2018-16230,CVE-2018-14882,CVE-2019-15166,CVE-2018-10103,CVE-2018-14880,CVE-2018-16452,CVE-2018-14469,CVE-2018-14881,CVE-2018-16229|https://lists.debian.org/debian-lts-announce/2019/10/msg00015.html|Third Party Advisory
+693|CVE-2019-15165|https://lists.debian.org/debian-lts-announce/2019/10/msg00031.html|
+694|CVE-2019-17113|https://lists.debian.org/debian-lts-announce/2020/08/msg00003.html|
+695|CVE-2019-17266|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1705054.html|Third Party Advisory
+696|CVE-2019-17531,CVE-2019-17267|https://lists.debian.org/debian-lts-announce/2019/12/msg00013.html|Mailing List,Third Party Advisory
+697|CVE-2020-1740,CVE-2020-1733,CVE-2020-1739,CVE-2019-14846|https://lists.debian.org/debian-lts-announce/2020/05/msg00005.html|Mailing List,Third Party Advisory
+698|CVE-2019-10156,CVE-2019-14846,CVE-2017-7481,CVE-2019-14904|https://lists.debian.org/debian-lts-announce/2021/01/msg00023.html|Mailing List,Third Party Advisory
+699|CVE-2019-17362|https://lists.debian.org/debian-lts-announce/2019/10/msg00010.html|Mailing List,Third Party Advisory
+700|CVE-2019-17402|https://lists.debian.org/debian-lts-announce/2019/12/msg00001.html|
+701|CVE-2019-17455|https://lists.debian.org/debian-lts-announce/2020/05/msg00010.html|Mailing List,Third Party Advisory
+702|CVE-2017-18638|https://lists.debian.org/debian-lts-announce/2019/10/msg00030.html|
+703|CVE-2019-17533|https://lists.debian.org/debian-lts-announce/2020/06/msg00037.html|
+704|CVE-2020-13904,CVE-2019-13390,CVE-2019-17542|https://lists.debian.org/debian-lts-announce/2020/07/msg00022.html|Mailing List,Third Party Advisory
+705|CVE-2019-17544|https://lists.debian.org/debian-lts-announce/2019/10/msg00027.html|
+706|CVE-2019-17545|https://lists.debian.org/debian-lts-announce/2019/11/msg00005.html|
+707|CVE-2019-17546|https://lists.debian.org/debian-lts-announce/2020/03/msg00020.html|
+708|CVE-2017-1002201|https://lists.debian.org/debian-lts-announce/2019/11/msg00007.html|
+709|CVE-2019-17626|https://lists.debian.org/debian-lts-announce/2020/02/msg00019.html|
+710|CVE-2019-2945,CVE-2019-2964,CVE-2019-2987,CVE-2019-2989,CVE-2019-2978,CVE-2019-2962,CVE-2019-2983,CVE-2019-2981,CVE-2019-2933,CVE-2019-2999,CVE-2019-2973,CVE-2019-2988,CVE-2019-2958,CVE-2019-2992,CVE-2019-2949,CVE-2019-2894|https://lists.debian.org/debian-lts-announce/2019/12/msg00005.html|
+711|CVE-2019-17670,CVE-2019-17675,CVE-2019-17669,CVE-2019-17671|https://lists.debian.org/debian-lts-announce/2019/11/msg00000.html|
+712|CVE-2019-17670,CVE-2020-4048,CVE-2020-4047,CVE-2020-4049,CVE-2020-4050|https://lists.debian.org/debian-lts-announce/2020/09/msg00011.html|Mailing List,Third Party Advisory
+713|CVE-2019-14287|https://lists.debian.org/debian-lts-announce/2019/10/msg00022.html|Mailing List,Third Party Advisory
+714|CVE-2019-18197|https://lists.debian.org/debian-lts-announce/2019/10/msg00037.html|Third Party Advisory
+715|CVE-2019-18217|https://lists.debian.org/debian-lts-announce/2019/10/msg00036.html|
+716|CVE-2019-18218|https://lists.debian.org/debian-lts-announce/2019/10/msg00032.html|Third Party Advisory
+717|CVE-2019-17498|https://lists.debian.org/debian-lts-announce/2019/11/msg00010.html|Third Party Advisory
+718|CVE-2019-18408|https://lists.debian.org/debian-lts-announce/2019/10/msg00034.html|Mailing List,Third Party Advisory
+719|CVE-2019-12095|https://lists.debian.org/debian-lts-announce/2019/12/msg00015.html|
+720|CVE-2019-15681|https://lists.debian.org/debian-lts-announce/2019/10/msg00039.html|Mailing List,Third Party Advisory
+721|CVE-2019-18601,CVE-2019-18603,CVE-2019-18602|https://lists.debian.org/debian-lts-announce/2019/11/msg00002.html|
+722|CVE-2019-5068|https://lists.debian.org/debian-lts-announce/2019/11/msg00013.html|
+723|CVE-2019-18804|https://lists.debian.org/debian-lts-announce/2019/11/msg00004.html|Mailing List,Third Party Advisory
+724|CVE-2019-15144,CVE-2019-15145,CVE-2019-18804,CVE-2019-15143,CVE-2019-15142|https://lists.debian.org/debian-lts-announce/2021/05/msg00022.html|Mailing List,Third Party Advisory
+725|CVE-2019-18885,CVE-2020-15393,CVE-2019-18814,CVE-2020-12655,CVE-2020-13974,CVE-2019-20810,CVE-2020-12771|https://lists.debian.org/debian-lts-announce/2020/08/msg00019.html|Mailing List,Third Party Advisory
+726|CVE-2019-3465|https://lists.debian.org/debian-lts-announce/2019/11/msg00003.html|Mailing List,Third Party Advisory
+727|CVE-2013-1425|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1096253.html|Mailing List,Third Party Advisory
+728|CVE-2013-1429|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1113881.html|Mailing List,Third Party Advisory
+729|CVE-2019-14824|https://lists.debian.org/debian-lts-announce/2019/11/msg00036.html|Mailing List,Third Party Advisory
+730|CVE-2019-18849|https://lists.debian.org/debian-lts-announce/2019/11/msg00035.html|
+731|CVE-2019-18874|https://lists.debian.org/debian-lts-announce/2019/11/msg00018.html|
+732|CVE-2019-18848|https://lists.debian.org/debian-lts-announce/2020/10/msg00001.html|
+733|CVE-2019-11135,CVE-2019-11139|https://lists.debian.org/debian-lts-announce/2019/12/msg00035.html|
+734|CVE-2019-18978|https://lists.debian.org/debian-lts-announce/2020/02/msg00004.html|Mailing List,Third Party Advisory
+735|CVE-2019-18978|https://lists.debian.org/debian-lts-announce/2020/10/msg00000.html|Mailing List,Third Party Advisory
+736|CVE-2019-19204,CVE-2019-19012,CVE-2019-19246|https://lists.debian.org/debian-lts-announce/2019/12/msg00002.html|Mailing List,Third Party Advisory
+737|CVE-2016-1000006|https://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg506329.html|Mailing List,Third Party Advisory
+738|CVE-2019-5086,CVE-2019-5087|https://lists.debian.org/debian-lts-announce/2021/02/msg00014.html|Mailing List,Third Party Advisory
+739|CVE-2019-5086,CVE-2019-5087|https://lists.debian.org/debian-lts-announce/2021/03/msg00008.html|Mailing List,Third Party Advisory
+740|CVE-2019-18610,CVE-2019-13161,CVE-2019-18790|https://lists.debian.org/debian-lts-announce/2019/11/msg00038.html|Mailing List,Third Party Advisory
+741|CVE-2019-20479,CVE-2019-1010247,CVE-2019-14857|https://lists.debian.org/debian-lts-announce/2020/07/msg00028.html|
+742|CVE-2019-18678,CVE-2019-18677,CVE-2019-12526,CVE-2019-18679|https://lists.debian.org/debian-lts-announce/2019/12/msg00011.html|Third Party Advisory
+743|CVE-2019-16255,CVE-2019-15845,CVE-2019-16201,CVE-2019-16254|https://lists.debian.org/debian-lts-announce/2019/11/msg00025.html|Mailing List,Third Party Advisory
+744|CVE-2018-11439|https://lists.debian.org/debian-lts-announce/2018/07/msg00022.html|Mailing List,Third Party Advisory
+745|CVE-2018-10995|https://lists.debian.org/debian-lts-announce/2018/08/msg00008.html|Mailing List,Third Party Advisory
+746|CVE-2018-10196,CVE-2020-18032|https://lists.debian.org/debian-lts-announce/2021/05/msg00014.html|Mailing List,Third Party Advisory
+747|CVE-2016-1000343,CVE-2016-1000341,CVE-2016-1000346,CVE-2016-1000342,CVE-2016-1000345,CVE-2016-1000338,CVE-2016-1000339|https://lists.debian.org/debian-lts-announce/2018/07/msg00009.html|Mailing List,Third Party Advisory
+748|CVE-2017-9868,CVE-2017-7654,CVE-2017-7653|https://lists.debian.org/debian-lts-announce/2018/09/msg00036.html|Mailing List,Third Party Advisory
+749|CVE-2017-7793,CVE-2017-7825,CVE-2017-7819,CVE-2017-7818,CVE-2017-7814,CVE-2017-7810,CVE-2017-7823,CVE-2017-7824,CVE-2017-7805|https://lists.debian.org/debian-lts-announce/2017/11/msg00000.html|Mailing List,Third Party Advisory
+750|CVE-2017-7830,CVE-2017-7826,CVE-2017-7828|https://lists.debian.org/debian-lts-announce/2017/11/msg00018.html|Third Party Advisory
+751|CVE-2017-7830,CVE-2017-7826,CVE-2017-7828|https://lists.debian.org/debian-lts-announce/2017/12/msg00001.html|Third Party Advisory
+752|CVE-2017-7847,CVE-2017-7829,CVE-2017-7846,CVE-2017-7848|https://lists.debian.org/debian-lts-announce/2017/12/msg00026.html|Mailing List,Third Party Advisory
+753|CVE-2017-7843|https://lists.debian.org/debian-lts-announce/2017/12/msg00003.html|Third Party Advisory
+754|CVE-2018-5097,CVE-2018-5098,CVE-2018-5104,CVE-2018-5096,CVE-2018-5117,CVE-2018-5103,CVE-2018-5089,CVE-2018-5102,CVE-2018-5099,CVE-2018-5091,CVE-2018-5095|https://lists.debian.org/debian-lts-announce/2018/01/msg00030.html|Mailing List,Third Party Advisory
+755|CVE-2018-5097,CVE-2018-5098,CVE-2018-5104,CVE-2018-5096,CVE-2018-5117,CVE-2018-5103,CVE-2018-5089,CVE-2018-5102,CVE-2018-5099,CVE-2018-5095|https://lists.debian.org/debian-lts-announce/2018/01/msg00036.html|Mailing List,Third Party Advisory
+756|CVE-2018-5129,CVE-2018-5131,CVE-2018-5127,CVE-2018-5144,CVE-2018-5125,CVE-2018-5145,CVE-2018-5130|https://lists.debian.org/debian-lts-announce/2018/03/msg00010.html|Mailing List,Third Party Advisory
+757|CVE-2018-5146,CVE-2018-5129,CVE-2018-5144,CVE-2018-5127,CVE-2018-5125,CVE-2018-5145|https://lists.debian.org/debian-lts-announce/2018/03/msg00029.html|Mailing List,Third Party Advisory
+758|CVE-2018-5147,CVE-2018-5146|https://lists.debian.org/debian-lts-announce/2018/03/msg00022.html|Mailing List,Third Party Advisory
+759|CVE-2017-14633,CVE-2017-14632,CVE-2018-5146,CVE-2017-11333|https://lists.debian.org/debian-lts-announce/2018/04/msg00033.html|Mailing List,Third Party Advisory
+760|CVE-2018-5147|https://lists.debian.org/debian-lts-announce/2018/03/msg00016.html|Mailing List,Third Party Advisory
+761|CVE-2018-5148|https://lists.debian.org/debian-lts-announce/2018/03/msg00023.html|Third Party Advisory
+762|CVE-2018-5150,CVE-2018-5158,CVE-2018-5159,CVE-2018-5154,CVE-2018-5168,CVE-2018-5155,CVE-2018-5178,CVE-2018-5183,CVE-2018-5157|https://lists.debian.org/debian-lts-announce/2018/05/msg00007.html|Mailing List,Third Party Advisory
+763|CVE-2018-5150,CVE-2018-5161,CVE-2018-5159,CVE-2018-5154,CVE-2018-5168,CVE-2018-5170,CVE-2018-5155,CVE-2018-5162,CVE-2018-5178,CVE-2018-5183,CVE-2018-5185,CVE-2018-5184|https://lists.debian.org/debian-lts-announce/2018/05/msg00013.html|Mailing List,Third Party Advisory
+764|CVE-2018-0496|https://lists.debian.org/debian-lts-announce/2019/02/msg00033.html|Mailing List,Third Party Advisory
+765|CVE-2018-0495|https://lists.debian.org/debian-lts-announce/2018/06/msg00013.html|Mailing List,Third Party Advisory
+766|CVE-2018-12029,CVE-2015-7519|https://lists.debian.org/debian-lts-announce/2018/06/msg00007.html|Mailing List,Third Party Advisory
+767|CVE-2018-12564|https://lists.debian.org/debian-lts-announce/2018/06/msg00011.html|Third Party Advisory
+768|CVE-2018-12601,CVE-2018-12578|https://lists.debian.org/debian-lts-announce/2018/08/msg00010.html|Mailing List,Third Party Advisory
+769|CVE-2018-10852|https://lists.debian.org/debian-lts-announce/2018/07/msg00019.html|Mailing List,Third Party Advisory
+770|CVE-2015-9261,CVE-2018-1000517,CVE-2011-5325,CVE-2016-2147,CVE-2016-2148,CVE-2014-9645,CVE-2017-16544,CVE-2017-15873|https://lists.debian.org/debian-lts-announce/2018/07/msg00037.html|Mailing List,Third Party Advisory
+771|CVE-2015-9261,CVE-2018-1000517,CVE-2011-5325,CVE-2016-2147,CVE-2016-2148,CVE-2017-16544,CVE-2017-15873|https://lists.debian.org/debian-lts-announce/2021/02/msg00020.html|Mailing List,Third Party Advisory
+772|CVE-2018-1000528|https://lists.debian.org/debian-lts-announce/2018/07/msg00028.html|Mailing List,Third Party Advisory
+773|CVE-2018-1000544|https://lists.debian.org/debian-lts-announce/2018/08/msg00013.html|Mailing List,Third Party Advisory
+774|CVE-2018-1000544|https://lists.debian.org/debian-lts-announce/2020/08/msg00002.html|Mailing List,Third Party Advisory
+775|CVE-2018-1000550|https://lists.debian.org/debian-lts-announce/2018/07/msg00033.html|Mailing List,Third Party Advisory
+776|CVE-2018-13006,CVE-2018-13005|https://lists.debian.org/debian-lts-announce/2018/07/msg00024.html|Mailing List,Third Party Advisory
+777|CVE-2018-10860|https://lists.debian.org/debian-lts-announce/2018/07/msg00032.html|Mailing List,Third Party Advisory
+778|CVE-2018-13054|https://lists.debian.org/debian-lts-announce/2018/07/msg00011.html|Mailing List,Third Party Advisory
+779|CVE-2018-12910|https://lists.debian.org/debian-lts-announce/2018/07/msg00007.html|Mailing List,Third Party Advisory
+780|CVE-2018-10887,CVE-2018-15501,CVE-2018-10888|https://lists.debian.org/debian-lts-announce/2018/08/msg00024.html|Mailing List,Third Party Advisory
+781|CVE-2018-1116|https://lists.debian.org/debian-lts-announce/2018/07/msg00042.html|Mailing List,Third Party Advisory
+782|CVE-2018-0618,CVE-2018-13796|https://lists.debian.org/debian-lts-announce/2018/07/msg00034.html|Mailing List,Third Party Advisory
+783|CVE-2018-14040|https://lists.debian.org/debian-lts-announce/2018/08/msg00027.html|Third Party Advisory
+784|CVE-2018-0361,CVE-2018-0360|https://lists.debian.org/debian-lts-announce/2018/08/msg00020.html|Mailing List,Third Party Advisory
+785|CVE-2018-10859,CVE-2017-12976,CVE-2018-10857|https://lists.debian.org/debian-lts-announce/2018/09/msg00004.html|Mailing List,Third Party Advisory
+786|CVE-2017-11521,CVE-2018-12584|https://lists.debian.org/debian-lts-announce/2018/07/msg00031.html|Mailing List
+787|CVE-2018-14346,CVE-2018-14347|https://lists.debian.org/debian-lts-announce/2018/08/msg00025.html|Mailing List,Third Party Advisory
+788|CVE-2018-14356,CVE-2018-14360,CVE-2018-14362,CVE-2018-14353,CVE-2018-14359,CVE-2018-14355,CVE-2018-14350,CVE-2018-14363,CVE-2018-14357,CVE-2018-14352,CVE-2018-14354,CVE-2018-14361,CVE-2018-14351,CVE-2018-14358,CVE-2018-14349|https://lists.debian.org/debian-lts-announce/2018/08/msg00001.html|Mailing List,Third Party Advisory
+789|CVE-2018-3066,CVE-2018-3058,CVE-2018-3064,CVE-2018-3063|https://lists.debian.org/debian-lts-announce/2018/08/msg00036.html|Mailing List,Third Party Advisory
+790|CVE-2018-14339,CVE-2018-14343,CVE-2018-14368,CVE-2018-14342,CVE-2018-14340,CVE-2018-14341,CVE-2018-14369|https://lists.debian.org/debian-lts-announce/2018/07/msg00045.html|Mailing List,Third Party Advisory
+791|CVE-2018-7602|https://lists.debian.org/debian-lts-announce/2018/04/msg00030.html|Mailing List,Third Party Advisory
+792|CVE-2018-14447|https://lists.debian.org/debian-lts-announce/2018/08/msg00017.html|Third Party Advisory
+793|CVE-2016-10728|https://lists.debian.org/debian-lts-announce/2018/09/msg00019.html|Third Party Advisory
+794|CVE-2018-10906|https://lists.debian.org/debian-lts-announce/2018/08/msg00015.html|Mailing List,Third Party Advisory
+795|CVE-2018-10900|https://lists.debian.org/debian-lts-announce/2018/07/msg00048.html|Third Party Advisory
+796|CVE-2017-2625|https://lists.debian.org/debian-lts-announce/2019/11/msg00024.html|
+797|CVE-2018-1056|https://lists.debian.org/debian-lts-announce/2018/02/msg00016.html|Mailing List,Third Party Advisory
+798|CVE-2016-9637,CVE-2016-9603,CVE-2017-2620|https://lists.debian.org/debian-lts-announce/2018/02/msg00005.html|Third Party Advisory
+799|CVE-2017-2626|https://lists.debian.org/debian-lts-announce/2019/11/msg00022.html|
+800|CVE-2018-14679,CVE-2018-14680,CVE-2018-14681,CVE-2018-14682|https://lists.debian.org/debian-lts-announce/2018/08/msg00007.html|Mailing List,Third Party Advisory
+801|CVE-2018-14767|https://lists.debian.org/debian-lts-announce/2018/08/msg00018.html|Mailing List,Third Party Advisory
+802|CVE-2018-8020,CVE-2018-8019|https://lists.debian.org/debian-lts-announce/2018/08/msg00023.html|Mailing List,Third Party Advisory
+803|CVE-2018-8034|https://lists.debian.org/debian-lts-announce/2018/07/msg00047.html|Third Party Advisory
+804|CVE-2018-1336,CVE-2018-8034|https://lists.debian.org/debian-lts-announce/2018/09/msg00001.html|Mailing List,Third Party Advisory
+805|CVE-2015-9262|https://lists.debian.org/debian-lts-announce/2018/08/msg00016.html|Mailing List,Third Party Advisory
+806|CVE-2018-14851,CVE-2018-14883|https://lists.debian.org/debian-lts-announce/2018/09/msg00000.html|Mailing List,Third Party Advisory
+807|CVE-2018-14912|https://lists.debian.org/debian-lts-announce/2018/08/msg00005.html|Third Party Advisory
+808|CVE-2018-14593|https://lists.debian.org/debian-lts-announce/2018/08/msg00021.html|Mailing List,Third Party Advisory
+809|CVE-2018-14938|https://lists.debian.org/debian-lts-announce/2020/11/msg00046.html|
+810|CVE-2018-5383|https://lists.debian.org/debian-lts-announce/2019/04/msg00005.html|
+811|CVE-2018-14526|https://lists.debian.org/debian-lts-announce/2018/08/msg00009.html|Mailing List,Third Party Advisory
+812|CVE-2018-10915|https://lists.debian.org/debian-lts-announce/2018/08/msg00012.html|Third Party Advisory
+813|CVE-2018-6553,CVE-2018-4180,CVE-2018-4181|https://lists.debian.org/debian-lts-announce/2018/07/msg00014.html|Mailing List,Issue Tracking,Third Party Advisory
+814|CVE-2018-14348|https://lists.debian.org/debian-lts-announce/2018/08/msg00019.html|Mailing List,Third Party Advisory
+815|CVE-2018-14424|https://lists.debian.org/debian-lts-announce/2018/09/msg00003.html|Mailing List
+816|CVE-2018-3646,CVE-2018-3620|https://lists.debian.org/debian-lts-announce/2018/08/msg00029.html|
+817|CVE-2018-10873|https://lists.debian.org/debian-lts-announce/2018/08/msg00035.html|Mailing List,Third Party Advisory
+818|CVE-2018-10873|https://lists.debian.org/debian-lts-announce/2018/08/msg00037.html|Mailing List,Third Party Advisory
+819|CVE-2018-10873|https://lists.debian.org/debian-lts-announce/2018/08/msg00038.html|Mailing List,Third Party Advisory
+820|CVE-2018-15473|https://lists.debian.org/debian-lts-announce/2018/08/msg00022.html|Mailing List,Third Party Advisory
+821|CVE-2018-15494|https://lists.debian.org/debian-lts-announce/2018/09/msg00002.html|Third Party Advisory
+822|CVE-2018-1000632|https://lists.debian.org/debian-lts-announce/2018/09/msg00028.html|Mailing List,Third Party Advisory
+823|CVE-2018-1000637|https://lists.debian.org/debian-lts-announce/2018/09/msg00016.html|Mailing List,Third Party Advisory
+824|CVE-2018-1000656|https://lists.debian.org/debian-lts-announce/2019/08/msg00025.html|
+825|CVE-2018-15599|https://lists.debian.org/debian-lts-announce/2018/08/msg00026.html|Mailing List,Third Party Advisory
+826|CVE-2018-10845,CVE-2018-10844,CVE-2018-10846|https://lists.debian.org/debian-lts-announce/2018/10/msg00022.html|Mailing List,Third Party Advisory
+827|CVE-2018-14598,CVE-2018-14600,CVE-2018-14599|https://lists.debian.org/debian-lts-announce/2018/08/msg00030.html|Mailing List,Third Party Advisory
+828|CVE-2011-2767|https://lists.debian.org/debian-lts-announce/2018/09/msg00018.html|Mailing List,Third Party Advisory
+829|CVE-2019-12308|https://lists.debian.org/debian-lts-announce/2019/06/msg00001.html|
+830|CVE-2019-12308|https://lists.debian.org/debian-lts-announce/2019/07/msg00001.html|
+831|CVE-2017-17087,CVE-2017-11109,CVE-2019-12735|https://lists.debian.org/debian-lts-announce/2019/08/msg00003.html|
+832|CVE-2019-9187|https://lists.debian.org/debian-lts-announce/2019/03/msg00018.html|
+833|CVE-2019-12761|https://lists.debian.org/debian-lts-announce/2019/06/msg00006.html|
+834|CVE-2019-10639,CVE-2019-2101,CVE-2019-13272|https://lists.debian.org/debian-lts-announce/2019/07/msg00022.html|Mailing List,Third Party Advisory
+835|CVE-2019-11027|https://lists.debian.org/debian-lts-announce/2019/10/msg00014.html|
+836|CVE-2019-12749|https://lists.debian.org/debian-lts-announce/2019/06/msg00005.html|
+837|CVE-2019-12795|https://lists.debian.org/debian-lts-announce/2019/06/msg00014.html|
+838|CVE-2019-12816|https://lists.debian.org/debian-lts-announce/2019/06/msg00017.html|
+839|CVE-2019-12497,CVE-2019-12248|https://lists.debian.org/debian-lts-announce/2019/06/msg00004.html|Mailing List,Third Party Advisory
+840|CVE-2019-11038|https://lists.debian.org/debian-lts-announce/2019/06/msg00003.html|Mailing List,Third Party Advisory
+841|CVE-2019-12384,CVE-2019-12814|https://lists.debian.org/debian-lts-announce/2019/06/msg00019.html|Mailing List,Third Party Advisory
+842|CVE-2019-12900|https://lists.debian.org/debian-lts-announce/2019/07/msg00014.html|
+843|CVE-2019-12900|https://lists.debian.org/debian-lts-announce/2019/10/msg00012.html|
+844|CVE-2019-12900|https://lists.debian.org/debian-lts-announce/2019/10/msg00018.html|
+845|CVE-2018-20843|https://lists.debian.org/debian-lts-announce/2019/06/msg00028.html|Mailing List,Third Party Advisory
+846|CVE-2019-11272|https://lists.debian.org/debian-lts-announce/2019/07/msg00008.html|Mailing List,Third Party Advisory
+847|CVE-2020-6851,CVE-2019-12973,CVE-2020-8112,CVE-2020-15389|https://lists.debian.org/debian-lts-announce/2020/07/msg00008.html|Mailing List,Third Party Advisory
+848|CVE-2019-13304,CVE-2019-13305,CVE-2019-13297,CVE-2019-12974,CVE-2019-13306,CVE-2019-13135,CVE-2019-13295|https://lists.debian.org/debian-lts-announce/2019/08/msg00021.html|Mailing List,Third Party Advisory
+849|CVE-2019-13012|https://lists.debian.org/debian-lts-announce/2019/08/msg00004.html|
+850|CVE-2019-13031|https://lists.debian.org/debian-lts-announce/2019/07/msg00003.html|Third Party Advisory
+851|CVE-2019-12970|https://lists.debian.org/debian-lts-announce/2019/08/msg00000.html|
+852|CVE-2019-7165,CVE-2019-12594|https://lists.debian.org/debian-lts-announce/2019/07/msg00004.html|Mailing List,Third Party Advisory
+853|CVE-2019-13232|https://lists.debian.org/debian-lts-announce/2019/07/msg00005.html|Mailing List,Third Party Advisory
+854|CVE-2019-13232|https://lists.debian.org/debian-lts-announce/2019/07/msg00027.html|Third Party Advisory
+855|CVE-2019-13345|https://lists.debian.org/debian-lts-announce/2019/07/msg00006.html|Mailing List,Third Party Advisory
+856|CVE-2019-13458,CVE-2018-11563,CVE-2019-12746|https://lists.debian.org/debian-lts-announce/2019/08/msg00018.html|Mailing List,Third Party Advisory
+857|CVE-2019-13224|https://lists.debian.org/debian-lts-announce/2019/07/msg00013.html|
+858|CVE-2019-13132|https://lists.debian.org/debian-lts-announce/2019/07/msg00007.html|Mailing List,Third Party Advisory
+859|CVE-2019-13504|https://lists.debian.org/debian-lts-announce/2019/07/msg00015.html|
+860|CVE-2019-12838,CVE-2019-6438|https://lists.debian.org/debian-lts-announce/2020/03/msg00016.html|
+861|CVE-2019-12529,CVE-2019-12525|https://lists.debian.org/debian-lts-announce/2019/07/msg00018.html|
+862|CVE-2019-13574|https://lists.debian.org/debian-lts-announce/2019/10/msg00007.html|
+863|CVE-2018-20852|https://lists.debian.org/debian-lts-announce/2019/08/msg00022.html|
+864|CVE-2018-20852|https://lists.debian.org/debian-lts-announce/2019/08/msg00040.html|
+865|CVE-2019-1010305|https://lists.debian.org/debian-lts-announce/2019/08/msg00028.html|
+866|CVE-2019-14459,CVE-2019-1010057|https://lists.debian.org/debian-lts-announce/2020/09/msg00021.html|
+867|CVE-2019-13272|https://lists.debian.org/debian-lts-announce/2019/07/msg00023.html|Mailing List,Third Party Advisory
+868|CVE-2019-13636|https://lists.debian.org/debian-lts-announce/2019/07/msg00016.html|Third Party Advisory
+869|CVE-2019-1010247|https://lists.debian.org/debian-lts-announce/2019/08/msg00029.html|
+870|CVE-2019-12815|https://lists.debian.org/debian-lts-announce/2019/08/msg00006.html|
+871|CVE-2019-11709,CVE-2019-9811,CVE-2019-11711,CVE-2019-11712,CVE-2019-11717,CVE-2019-11715,CVE-2019-11713,CVE-2019-11730|https://lists.debian.org/debian-lts-announce/2019/08/msg00001.html|Third Party Advisory
+872|CVE-2019-11709,CVE-2019-9811,CVE-2019-11711,CVE-2019-11712,CVE-2019-11717,CVE-2019-11715,CVE-2019-11713,CVE-2019-11730|https://lists.debian.org/debian-lts-announce/2019/08/msg00002.html|Third Party Advisory
+873|CVE-2019-2816,CVE-2019-2769,CVE-2019-2745,CVE-2019-2762|https://lists.debian.org/debian-lts-announce/2019/08/msg00020.html|
+874|CVE-2019-13057,CVE-2019-13565|https://lists.debian.org/debian-lts-announce/2019/08/msg00024.html|Third Party Advisory
+875|CVE-2019-14379,CVE-2019-14439|https://lists.debian.org/debian-lts-announce/2019/08/msg00011.html|Mailing List,Third Party Advisory
+876|CVE-2015-9290|https://lists.debian.org/debian-lts-announce/2019/08/msg00019.html|
+877|CVE-2019-10181,CVE-2019-10185,CVE-2019-10182|https://lists.debian.org/debian-lts-announce/2019/09/msg00008.html|
+878|CVE-2019-14496,CVE-2019-14464,CVE-2019-14497|https://lists.debian.org/debian-lts-announce/2019/10/msg00029.html|
+879|CVE-2019-14496,CVE-2019-14464,CVE-2020-15569,CVE-2019-14497|https://lists.debian.org/debian-lts-announce/2020/07/msg00023.html|
+880|CVE-2019-0193|https://lists.debian.org/debian-lts-announce/2019/10/msg00013.html|
+881|CVE-2019-0193|https://lists.debian.org/debian-lts-announce/2020/08/msg00025.html|
+882|CVE-2019-14513|https://lists.debian.org/debian-lts-announce/2019/09/msg00013.html|
+883|CVE-2019-14744|https://lists.debian.org/debian-lts-announce/2019/08/msg00023.html|
+884|CVE-2019-11042,CVE-2019-11041|https://lists.debian.org/debian-lts-announce/2019/08/msg00010.html|Mailing List,Third Party Advisory
+885|CVE-2019-14934,CVE-2020-20740|https://lists.debian.org/debian-lts-announce/2020/12/msg00002.html|
+886|CVE-2019-9512,CVE-2019-9514|https://lists.debian.org/debian-lts-announce/2020/12/msg00011.html|
+887|CVE-2019-14973|https://lists.debian.org/debian-lts-announce/2019/08/msg00031.html|
+888|CVE-2019-15058|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1695025.html|
+889|CVE-2019-11187|https://lists.debian.org/debian-lts-announce/2019/08/msg00009.html|Mailing List,Third Party Advisory
+890|CVE-2016-10894|https://lists.debian.org/debian-lts-announce/2019/10/msg00019.html|
+891|CVE-2019-5477|https://lists.debian.org/debian-lts-announce/2019/09/msg00027.html|Mailing List,Third Party Advisory
+892|CVE-2020-15803,CVE-2019-15132|https://lists.debian.org/debian-lts-announce/2021/04/msg00018.html|Mailing List,Third Party Advisory
+893|CVE-2019-15144,CVE-2019-15142,CVE-2019-15145,CVE-2019-15143|https://lists.debian.org/debian-lts-announce/2019/08/msg00036.html|Mailing List,Third Party Advisory
+894|CVE-2019-10086|https://lists.debian.org/debian-lts-announce/2019/08/msg00030.html|Mailing List,Third Party Advisory
+895|CVE-2019-12385,CVE-2019-12386|https://lists.debian.org/debian-lts-announce/2019/11/msg00008.html|
+896|CVE-2019-10751|https://lists.debian.org/debian-lts-announce/2019/09/msg00031.html|
+897|CVE-2019-15531|https://lists.debian.org/debian-lts-announce/2019/08/msg00038.html|
+898|CVE-2019-13485,CVE-2019-13274,CVE-2019-13455,CVE-2019-13273,CVE-2019-13452,CVE-2019-13486,CVE-2019-13484,CVE-2019-13451|https://lists.debian.org/debian-lts-announce/2019/08/msg00032.html|Mailing List,Third Party Advisory
+899|CVE-2019-11500|https://lists.debian.org/debian-lts-announce/2019/08/msg00035.html|Mailing List,Third Party Advisory
+900|CVE-2019-15026|https://lists.debian.org/debian-lts-announce/2019/09/msg00006.html|
+901|CVE-2015-9381,CVE-2015-9383,CVE-2015-9382|https://lists.debian.org/debian-lts-announce/2019/09/msg00002.html|Third Party Advisory
+902|CVE-2017-12629|https://lists.debian.org/debian-lts-announce/2018/01/msg00028.html|Mailing List,Third Party Advisory
+903|CVE-2017-16649,CVE-2016-10208,CVE-2017-15868,CVE-2017-15115,CVE-2017-16939,CVE-2017-16532,CVE-2017-14051,CVE-2017-16533,CVE-2017-16525,CVE-2017-16531,CVE-2017-15299,CVE-2017-8831,CVE-2017-16536,CVE-2017-15265,CVE-2017-16643,CVE-2017-16529,CVE-2017-16535,CVE-2017-16537,CVE-2017-8824,CVE-2017-15649,CVE-2017-12190,CVE-2017-16527,CVE-2017-13080,CVE-2017-1000407|https://lists.debian.org/debian-lts-announce/2017/12/msg00004.html|Mailing List,Third Party Advisory
+904|CVE-2017-15642,CVE-2017-15370,CVE-2017-11359,CVE-2017-11358,CVE-2017-15371,CVE-2017-11332,CVE-2017-15372|https://lists.debian.org/debian-lts-announce/2017/11/msg00043.html|Mailing List,Third Party Advisory
+905|CVE-2017-15371,CVE-2017-11332,CVE-2017-11359,CVE-2017-11358|https://lists.debian.org/debian-lts-announce/2019/03/msg00007.html|Third Party Advisory
+906|CVE-2017-13078,CVE-2016-0801,CVE-2017-13079,CVE-2017-0561,CVE-2017-13077,CVE-2017-9417,CVE-2017-13080,CVE-2017-13081|https://lists.debian.org/debian-lts-announce/2018/11/msg00015.html|
+907|CVE-2017-8805|https://lists.debian.org/debian-mirrors/2017/10/msg00017.html|Vendor Advisory,Mailing List,Issue Tracking
+908|CVE-2017-15565,CVE-2017-14977,CVE-2017-14975,CVE-2017-14976|https://lists.debian.org/debian-lts-announce/2017/11/msg00023.html|Mailing List,Third Party Advisory
+909|CVE-2017-14687,CVE-2017-15587|https://lists.debian.org/debian-lts-announce/2017/11/msg00007.html|
+910|CVE-2017-15595,CVE-2017-15589,CVE-2017-15592,CVE-2017-15588,CVE-2017-15593|https://lists.debian.org/debian-lts-announce/2017/11/msg00027.html|
+911|CVE-2017-15600,CVE-2017-15922,CVE-2017-15267,CVE-2017-15602,CVE-2017-15266,CVE-2017-15601|https://lists.debian.org/debian-lts-announce/2017/12/msg00000.html|
+912|CVE-2017-10285,CVE-2017-10356,CVE-2017-10274,CVE-2017-10349,CVE-2017-10355,CVE-2017-10357,CVE-2017-10345,CVE-2017-10388,CVE-2017-10350,CVE-2017-10348,CVE-2017-10281,CVE-2017-10295,CVE-2017-10347,CVE-2017-10346|https://lists.debian.org/debian-lts-announce/2017/11/msg00033.html|
+913|CVE-2017-15722,CVE-2017-5356,CVE-2017-15228,CVE-2017-15721,CVE-2017-5193,CVE-2017-15227,CVE-2017-5194|https://lists.debian.org/debian-lts-announce/2017/12/msg00022.html|Mailing List,Third Party Advisory
+914|CVE-2016-10516|https://lists.debian.org/debian-lts-announce/2017/11/msg00037.html|
+915|CVE-2017-12613|https://lists.debian.org/debian-lts-announce/2017/11/msg00005.html|
+916|CVE-2017-12618|https://lists.debian.org/debian-lts-announce/2017/11/msg00006.html|
+917|CVE-2017-15953,CVE-2017-15954,CVE-2017-15955|https://lists.debian.org/debian-lts-announce/2017/11/msg00001.html|
+918|CVE-2017-1000256|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1556251.html|Mailing List,Issue Tracking,Third Party Advisory
+919|CVE-2017-16353,CVE-2017-16352|https://lists.debian.org/debian-lts-announce/2017/11/msg00002.html|Mailing List,Third Party Advisory
+920|CVE-2017-16510|https://lists.debian.org/debian-lts-announce/2017/11/msg00003.html|
+921|CVE-2017-16516|https://lists.debian.org/debian-lts-announce/2017/11/msg00010.html|Third Party Advisory
+922|CVE-2017-13134,CVE-2017-16547|https://lists.debian.org/debian-lts-announce/2017/11/msg00016.html|
+923|CVE-2017-16548,CVE-2017-17434,CVE-2017-17433|https://lists.debian.org/debian-lts-announce/2017/12/msg00020.html|Third Party Advisory
+924|CVE-2017-16663|https://lists.debian.org/debian-lts-announce/2017/11/msg00031.html|
+925|CVE-2017-16669|https://lists.debian.org/debian-lts-announce/2017/11/msg00013.html|Mailing List,Third Party Advisory
+926|CVE-2017-16651|https://lists.debian.org/debian-lts-announce/2017/11/msg00039.html|Mailing List,Third Party Advisory
+927|CVE-2017-12636,CVE-2017-12635|https://lists.debian.org/debian-lts-announce/2018/01/msg00026.html|
+928|CVE-2017-15923|https://lists.debian.org/debian-lts-announce/2017/11/msg00020.html|Mailing List,Third Party Advisory
+929|CVE-2017-16664,CVE-2017-16854,CVE-2017-16921,CVE-2017-15864|https://lists.debian.org/debian-lts-announce/2017/12/msg00015.html|Mailing List,Third Party Advisory
+930|CVE-2017-16844|https://lists.debian.org/debian-lts-announce/2017/11/msg00019.html|
+931|CVE-2017-16852|https://lists.debian.org/debian-lts-announce/2017/11/msg00025.html|
+932|CVE-2017-16853|https://lists.debian.org/debian-lts-announce/2017/11/msg00024.html|
+933|CVE-2017-1000231|https://lists.debian.org/debian-lts-announce/2017/11/msg00028.html|
+934|CVE-2017-1000158|https://lists.debian.org/debian-lts-announce/2017/11/msg00035.html|Mailing List,Third Party Advisory
+935|CVE-2017-1000158|https://lists.debian.org/debian-lts-announce/2017/11/msg00036.html|Mailing List,Third Party Advisory
+936|CVE-2017-1000229|https://lists.debian.org/debian-lts-announce/2017/11/msg00030.html|Mailing List,Third Party Advisory
+937|CVE-2017-1000211|https://lists.debian.org/debian-lts-announce/2017/11/msg00021.html|
+938|CVE-2017-11732,CVE-2017-16898,CVE-2017-16883|https://lists.debian.org/debian-lts-announce/2018/01/msg00014.html|Mailing List,Third Party Advisory
+939|CVE-2017-12607,CVE-2017-12608|https://lists.debian.org/debian-lts-announce/2017/12/msg00017.html|Mailing List,Third Party Advisory
+940|CVE-2017-16906|https://lists.debian.org/debian-lts-announce/2020/08/msg00049.html|
+941|CVE-2017-16907|https://lists.debian.org/debian-lts-announce/2020/08/msg00046.html|
+942|CVE-2017-16907|https://lists.debian.org/debian-lts-announce/2020/08/msg00047.html|
+943|CVE-2017-16908|https://lists.debian.org/debian-lts-announce/2020/08/msg00048.html|
+944|CVE-2017-16927|https://lists.debian.org/debian-lts-announce/2017/12/msg00005.html|
+945|CVE-2017-16932,CVE-2017-16931|https://lists.debian.org/debian-lts-announce/2017/11/msg00041.html|
+946|CVE-2017-16938|https://lists.debian.org/debian-lts-announce/2017/11/msg00042.html|
+947|CVE-2017-8028|https://lists.debian.org/debian-lts-announce/2017/11/msg00026.html|
+948|CVE-2017-1000159|https://lists.debian.org/debian-lts-announce/2017/12/msg00006.html|
+949|CVE-2017-15275|https://lists.debian.org/debian-lts-announce/2017/11/msg00029.html|
+950|CVE-2017-17565,CVE-2017-17564,CVE-2017-17044,CVE-2017-17566,CVE-2017-17045,CVE-2017-17563|https://lists.debian.org/debian-lts-announce/2018/01/msg00003.html|
+951|CVE-2017-8817|https://lists.debian.org/debian-lts-announce/2017/11/msg00040.html|
+952|CVE-2017-17085,CVE-2017-11408,CVE-2017-17083,CVE-2017-17084|https://lists.debian.org/debian-lts-announce/2017/12/msg00029.html|
+953|CVE-2017-16612|https://lists.debian.org/debian-lts-announce/2017/12/msg00002.html|
+954|CVE-2017-17090|https://lists.debian.org/debian-lts-announce/2017/12/msg00028.html|
+955|CVE-2017-17091,CVE-2017-17092,CVE-2017-17093,CVE-2017-17094|https://lists.debian.org/debian-lts-announce/2017/12/msg00019.html|Mailing List,Third Party Advisory
+956|CVE-2016-1253|https://lists.debian.org/debian-lts-announce/2016/12/msg00020.html|Vendor Advisory,Issue Tracking
+957|CVE-2016-1255|https://lists.debian.org/debian-lts-announce/2017/01/msg00002.html|Vendor Advisory,Issue Tracking
+958|CVE-2017-17432|https://lists.debian.org/debian-lts-announce/2017/12/msg00016.html|
+959|CVE-2017-17458|https://lists.debian.org/debian-lts-announce/2017/12/msg00027.html|Mailing List,Third Party Advisory
+960|CVE-2017-17458|https://lists.debian.org/debian-lts-announce/2018/07/msg00041.html|Mailing List,Third Party Advisory
+961|CVE-2017-17782,CVE-2017-17500,CVE-2017-17501,CVE-2017-17912,CVE-2017-17498,CVE-2017-17503,CVE-2017-17502,CVE-2017-17915|https://lists.debian.org/debian-lts-announce/2018/01/msg00005.html|Mailing List,Third Party Advisory
+962|CVE-2017-17504,CVE-2017-17914,CVE-2017-17682,CVE-2017-17879|https://lists.debian.org/debian-lts-announce/2018/01/msg00000.html|Mailing List,Third Party Advisory
+963|CVE-2017-17512|https://lists.debian.org/debian-lts-announce/2017/12/msg00012.html|
+964|CVE-2017-1000385|https://lists.debian.org/debian-lts-announce/2017/12/msg00010.html|
+965|CVE-2017-17511|https://lists.debian.org/debian-lts-announce/2017/12/msg00013.html|Mailing List,Third Party Advisory
+966|CVE-2017-17790,CVE-2017-17405|https://lists.debian.org/debian-lts-announce/2017/12/msg00024.html|Mailing List,Third Party Advisory
+967|CVE-2017-17790,CVE-2017-17405|https://lists.debian.org/debian-lts-announce/2017/12/msg00025.html|Mailing List,Third Party Advisory
+968|CVE-2017-17788,CVE-2017-17784,CVE-2017-17786,CVE-2017-17785,CVE-2017-17789,CVE-2017-17787|https://lists.debian.org/debian-lts-announce/2017/12/msg00023.html|Mailing List,Third Party Advisory
+969|CVE-2017-17476|https://lists.debian.org/debian-lts-announce/2017/12/msg00018.html|Mailing List,Third Party Advisory
+970|CVE-2017-17844,CVE-2017-17843,CVE-2017-17847,CVE-2017-17848,CVE-2017-17845,CVE-2017-17846|https://lists.debian.org/debian-lts-announce/2017/12/msg00021.html|Mailing List,Third Party Advisory
+971|CVE-2017-17844,CVE-2017-17843,CVE-2017-17847,CVE-2017-17848,CVE-2017-17845,CVE-2017-17846|https://lists.debian.org/debian-security-announce/2017/msg00333.html|Mailing List,Third Party Advisory
+972|CVE-2016-2774|https://lists.debian.org/debian-lts-announce/2019/11/msg00023.html|Third Party Advisory
+973|CVE-2020-3481,CVE-2020-3327,CVE-2020-3350|https://lists.debian.org/debian-lts-announce/2020/08/msg00010.html|
+974|CVE-2020-15890|https://lists.debian.org/debian-lts-announce/2020/07/msg00026.html|Third Party Advisory
+975|CVE-2020-6514,CVE-2020-6463|https://lists.debian.org/debian-lts-announce/2020/07/msg00027.html|Mailing List,Third Party Advisory
+976|CVE-2020-6514,CVE-2020-6463|https://lists.debian.org/debian-lts-announce/2020/08/msg00006.html|Mailing List,Third Party Advisory
+977|CVE-2020-15953|https://lists.debian.org/debian-lts-announce/2020/08/msg00026.html|
+978|CVE-2020-15954|https://lists.debian.org/debian-lts-announce/2020/07/msg00030.html|Third Party Advisory
+979|CVE-2020-12460|https://lists.debian.org/debian-lts-announce/2021/04/msg00026.html|
+980|CVE-2020-16117|https://lists.debian.org/debian-lts-announce/2020/08/msg00005.html|Third Party Advisory
+981|CVE-2020-16135|https://lists.debian.org/debian-lts-announce/2020/07/msg00034.html|Third Party Advisory
+982|CVE-2020-14347|https://lists.debian.org/debian-lts-announce/2020/08/msg00057.html|
+983|CVE-2020-16845,CVE-2020-15586|https://lists.debian.org/debian-lts-announce/2020/11/msg00037.html|Mailing List,Third Party Advisory
+984|CVE-2020-16845,CVE-2020-15586,CVE-2020-28367|https://lists.debian.org/debian-lts-announce/2020/11/msg00038.html|Mailing List,Third Party Advisory
+985|CVE-2020-11984|https://lists.debian.org/debian-lts-announce/2020/09/msg00001.html|Mailing List,Third Party Advisory
+986|CVE-2020-14364,CVE-2020-13253,CVE-2020-16092,CVE-2020-1711|https://lists.debian.org/debian-lts-announce/2020/09/msg00013.html|Mailing List,Third Party Advisory
+987|CVE-2020-17368,CVE-2020-17367|https://lists.debian.org/debian-lts-announce/2020/08/msg00033.html|
+988|CVE-2020-17489|https://lists.debian.org/debian-lts-announce/2020/09/msg00014.html|Third Party Advisory
+989|CVE-2020-12100,CVE-2020-12674,CVE-2020-12673|https://lists.debian.org/debian-lts-announce/2020/08/msg00024.html|Third Party Advisory
+990|CVE-2020-17446|https://lists.debian.org/debian-lts-announce/2020/09/msg00002.html|
+991|CVE-2020-16295,CVE-2020-16299,CVE-2020-16289,CVE-2020-16292,CVE-2020-16298,CVE-2020-16307,CVE-2020-16300,CVE-2020-16302,CVE-2020-16308,CVE-2020-16294,CVE-2020-16306,CVE-2020-16287,CVE-2020-16297,CVE-2020-16305,CVE-2020-17538,CVE-2020-16293,CVE-2020-16296,CVE-2020-16310,CVE-2020-16301,CVE-2020-16288,CVE-2020-16303,CVE-2020-16291,CVE-2020-16290,CVE-2020-16304,CVE-2020-16309|https://lists.debian.org/debian-lts-announce/2020/08/msg00032.html|Third Party Advisory
+992|CVE-2020-24361|https://lists.debian.org/debian-lts-announce/2020/10/msg00006.html|
+993|CVE-2020-24370|https://lists.debian.org/debian-lts-announce/2020/09/msg00019.html|
+994|CVE-2020-10745,CVE-2020-1472,CVE-2020-14303,CVE-2020-10704,CVE-2020-14323,CVE-2020-10730,CVE-2020-10760|https://lists.debian.org/debian-lts-announce/2020/11/msg00041.html|
+995|CVE-2020-24368|https://lists.debian.org/debian-lts-announce/2020/08/msg00040.html|Mailing List,Third Party Advisory
+996|CVE-2020-8622,CVE-2020-8623|https://lists.debian.org/debian-lts-announce/2020/08/msg00053.html|
+997|CVE-2020-14350|https://lists.debian.org/debian-lts-announce/2020/08/msg00028.html|Mailing List,Third Party Advisory
+998|CVE-2020-24606,CVE-2020-15049,CVE-2020-15810,CVE-2020-15811|https://lists.debian.org/debian-lts-announce/2020/10/msg00005.html|Mailing List,Third Party Advisory
+999|CVE-2020-7729|https://lists.debian.org/debian-lts-announce/2020/09/msg00008.html|Third Party Advisory
+1000|CVE-2019-20916|https://lists.debian.org/debian-lts-announce/2020/09/msg00010.html|Mailing List,Third Party Advisory
+1001|CVE-2020-1968|https://lists.debian.org/debian-lts-announce/2020/09/msg00016.html|Mailing List,Third Party Advisory
+1002|CVE-2020-25643,CVE-2020-25645,CVE-2020-25211|https://lists.debian.org/debian-lts-announce/2020/10/msg00028.html|Mailing List,Third Party Advisory
+1003|CVE-2020-24379,CVE-2020-24916|https://lists.debian.org/debian-lts-announce/2020/09/msg00022.html|
+1004|CVE-2020-25219|https://lists.debian.org/debian-lts-announce/2020/09/msg00012.html|Third Party Advisory
+1005|CVE-2020-13920|https://lists.debian.org/debian-lts-announce/2020/10/msg00013.html|Mailing List,Third Party Advisory
+1006|CVE-2019-20917,CVE-2020-25269|https://lists.debian.org/debian-lts-announce/2020/09/msg00015.html|
+1007|CVE-2020-15166|https://lists.debian.org/debian-lts-announce/2020/11/msg00017.html|
+1008|CVE-2020-15169|https://lists.debian.org/debian-lts-announce/2020/10/msg00015.html|Mailing List,Third Party Advisory
+1009|CVE-2020-8927|https://lists.debian.org/debian-lts-announce/2020/12/msg00003.html|
+1010|CVE-2020-14393,CVE-2020-14392,CVE-2019-20919|https://lists.debian.org/debian-lts-announce/2020/09/msg00026.html|
+1011|CVE-2020-28974,CVE-2020-8694,CVE-2020-27673,CVE-2020-25704,CVE-2020-27675,CVE-2020-25645,CVE-2020-25656,CVE-2020-25668,CVE-2020-25669,CVE-2020-0427,CVE-2020-14351|https://lists.debian.org/debian-lts-announce/2020/12/msg00027.html|Mailing List,Third Party Advisory
+1012|CVE-2020-25739|https://lists.debian.org/debian-lts-announce/2020/09/msg00018.html|Third Party Advisory
+1013|CVE-2020-27617,CVE-2020-25085,CVE-2020-25625|https://lists.debian.org/debian-lts-announce/2020/11/msg00047.html|Mailing List,Third Party Advisory
+1014|CVE-2020-26116,CVE-2019-20907|https://lists.debian.org/debian-lts-announce/2020/11/msg00032.html|
+1015|CVE-2020-26117|https://lists.debian.org/debian-lts-announce/2020/10/msg00007.html|Third Party Advisory
+1016|CVE-2020-26154|https://lists.debian.org/debian-lts-announce/2020/11/msg00024.html|
+1017|CVE-2020-15227|https://lists.debian.org/debian-lts-announce/2021/04/msg00003.html|
+1018|CVE-2020-15673,CVE-2020-15678,CVE-2020-15676,CVE-2020-15677|https://lists.debian.org/debian-lts-announce/2020/10/msg00020.html|
+1019|CVE-2020-7070|https://lists.debian.org/debian-lts-announce/2020/10/msg00008.html|Mailing List,Third Party Advisory
+1020|CVE-2020-14355|https://lists.debian.org/debian-lts-announce/2020/11/msg00001.html|Third Party Advisory
+1021|CVE-2020-14355|https://lists.debian.org/debian-lts-announce/2020/11/msg00002.html|Third Party Advisory
+1022|CVE-2020-13943|https://lists.debian.org/debian-lts-announce/2020/10/msg00019.html|Third Party Advisory
+1023|CVE-2020-15250|https://lists.debian.org/debian-lts-announce/2020/11/msg00003.html|Mailing List,Third Party Advisory
+1024|CVE-2020-27153|https://lists.debian.org/debian-lts-announce/2020/10/msg00022.html|
+1025|CVE-2020-14812,CVE-2020-14765|https://lists.debian.org/debian-lts-announce/2021/01/msg00027.html|Mailing List,Third Party Advisory
+1026|CVE-2020-14803,CVE-2020-14779,CVE-2020-14792,CVE-2020-14781,CVE-2020-14798,CVE-2020-14797,CVE-2020-14796,CVE-2020-14782|https://lists.debian.org/debian-lts-announce/2020/10/msg00031.html|Mailing List,Third Party Advisory
+1027|CVE-2020-27638|https://lists.debian.org/debian-lts-announce/2020/10/msg00025.html|Mailing List,Third Party Advisory
+1028|CVE-2020-27560,CVE-2020-27773,CVE-2020-27760,CVE-2020-29599,CVE-2020-19667,CVE-2017-14528,CVE-2020-25674,CVE-2020-25665,CVE-2020-27750,CVE-2020-27765,CVE-2020-27763|https://lists.debian.org/debian-lts-announce/2021/01/msg00010.html|Mailing List,Third Party Advisory
+1029|CVE-2020-15683|https://lists.debian.org/debian-lts-announce/2020/10/msg00027.html|Third Party Advisory
+1030|CVE-2020-15238|https://lists.debian.org/debian-lts-announce/2020/11/msg00005.html|Mailing List,Third Party Advisory
+1031|CVE-2020-28039,CVE-2020-28035,CVE-2020-28038,CVE-2020-28032,CVE-2020-28037,CVE-2020-28040,CVE-2020-28033,CVE-2020-28034,CVE-2020-28036|https://lists.debian.org/debian-lts-announce/2020/11/msg00004.html|Third Party Advisory
+1032|CVE-2017-8342|https://lists.debian.org/debian-lts-announce/2020/04/msg00019.html|
+1033|CVE-2017-8364|https://lists.debian.org/debian-lts-announce/2020/04/msg00022.html|
+1034|CVE-2017-8373,CVE-2017-8372,CVE-2017-8374|https://lists.debian.org/debian-lts-announce/2018/05/msg00011.html|
+1035|CVE-2017-8798|https://lists.debian.org/debian-lts-announce/2020/04/msg00027.html|
+1036|CVE-2017-12596,CVE-2020-11762,CVE-2017-9115,CVE-2020-11764,CVE-2020-15305,CVE-2017-9112,CVE-2020-15306,CVE-2017-9111,CVE-2017-9113,CVE-2020-11758,CVE-2017-9116,CVE-2017-9110,CVE-2020-11759,CVE-2020-11760,CVE-2020-11761,CVE-2020-11763,CVE-2017-9114,CVE-2020-11765|https://lists.debian.org/debian-lts-announce/2020/08/msg00056.html|
+1037|CVE-2016-5735|https://lists.debian.org/debian-lts-announce/2020/06/msg00028.html|
+1038|CVE-2016-9841,CVE-2016-9843,CVE-2016-9842,CVE-2016-9840|https://lists.debian.org/debian-lts-announce/2020/01/msg00030.html|
+1039|CVE-2017-8314|https://lists.debian.org/debian-lts-announce/2018/01/msg00019.html|Mailing List,Third Party Advisory
+1040|CVE-2016-10375|https://lists.debian.org/debian-lts-announce/2020/04/msg00026.html|
+1041|CVE-2015-9059|https://lists.debian.org/debian-lts-announce/2020/06/msg00030.html|
+1042|CVE-2020-11868|https://lists.debian.org/debian-lts-announce/2020/05/msg00004.html|Mailing List,Third Party Advisory
+1043|CVE-2020-11008|https://lists.debian.org/debian-lts-announce/2020/04/msg00015.html|Mailing List,Third Party Advisory
+1044|CVE-2020-13362,CVE-2020-1983,CVE-2020-13765,CVE-2020-13361|https://lists.debian.org/debian-lts-announce/2020/06/msg00032.html|
+1045|CVE-2020-12137|https://lists.debian.org/debian-lts-announce/2020/05/msg00002.html|
+1046|CVE-2020-1774,CVE-2020-1772,CVE-2020-1770|https://lists.debian.org/debian-lts-announce/2020/05/msg00000.html|Mailing List,Third Party Advisory
+1047|CVE-2020-12243|https://lists.debian.org/debian-lts-announce/2020/05/msg00001.html|Mailing List,Third Party Advisory
+1048|CVE-2020-10663|https://lists.debian.org/debian-lts-announce/2020/04/msg00030.html|Mailing List,Third Party Advisory
+1049|CVE-2020-11023,CVE-2020-11022|https://lists.debian.org/debian-lts-announce/2021/03/msg00033.html|Mailing List,Third Party Advisory
+1050|CVE-2020-11651,CVE-2020-11652|https://lists.debian.org/debian-lts-announce/2020/05/msg00027.html|
+1051|CVE-2020-11028,CVE-2020-11027,CVE-2020-11029,CVE-2020-11026|https://lists.debian.org/debian-lts-announce/2020/05/msg00011.html|
+1052|CVE-2020-12672|https://lists.debian.org/debian-lts-announce/2020/06/msg00004.html|
+1053|CVE-2020-12108|https://lists.debian.org/debian-lts-announce/2020/05/msg00007.html|Third Party Advisory
+1054|CVE-2020-12108,CVE-2020-15011|https://lists.debian.org/debian-lts-announce/2020/07/msg00007.html|
+1055|CVE-2020-12762|https://lists.debian.org/debian-lts-announce/2020/05/msg00032.html|
+1056|CVE-2020-12762|https://lists.debian.org/debian-lts-announce/2020/05/msg00034.html|
+1057|CVE-2020-12762|https://lists.debian.org/debian-lts-announce/2020/07/msg00031.html|
+1058|CVE-2020-12783|https://lists.debian.org/debian-lts-announce/2020/05/msg00017.html|
+1059|CVE-2020-12823|https://lists.debian.org/debian-lts-announce/2020/05/msg00015.html|
+1060|CVE-2020-3341,CVE-2020-3327|https://lists.debian.org/debian-lts-announce/2020/05/msg00018.html|
+1061|CVE-2020-8021,CVE-2020-8020|https://lists.debian.org/debian-lts-announce/2021/02/msg00006.html|Mailing List,Third Party Advisory
+1062|CVE-2020-3810|https://lists.debian.org/debian-security-announce/2020/msg00089.html|Vendor Advisory,Mailing List
+1063|CVE-2018-10756|https://lists.debian.org/debian-lts-announce/2020/05/msg00022.html|Mailing List,Third Party Advisory
+1064|CVE-2018-10756|https://lists.debian.org/debian-lts-announce/2020/08/msg00001.html|Mailing List,Third Party Advisory
+1065|CVE-2020-8035|https://lists.debian.org/debian-lts-announce/2020/05/msg00035.html|
+1066|CVE-2020-8034|https://lists.debian.org/debian-lts-announce/2020/05/msg00033.html|
+1067|CVE-2020-28935,CVE-2020-12663,CVE-2020-12662|https://lists.debian.org/debian-lts-announce/2021/02/msg00017.html|Mailing List,Third Party Advisory
+1068|CVE-2020-8616,CVE-2020-8617|https://lists.debian.org/debian-lts-announce/2020/05/msg00031.html|
+1069|CVE-2019-11048|https://lists.debian.org/debian-lts-announce/2020/06/msg00033.html|
+1070|CVE-2020-11078|https://lists.debian.org/debian-lts-announce/2020/06/msg00000.html|Mailing List,Third Party Advisory
+1071|CVE-2020-9484|https://lists.debian.org/debian-lts-announce/2020/05/msg00020.html|Third Party Advisory
+1072|CVE-2020-11996,CVE-2020-9484|https://lists.debian.org/debian-lts-announce/2020/07/msg00010.html|Mailing List,Third Party Advisory
+1073|CVE-2020-11076,CVE-2020-11077|https://lists.debian.org/debian-lts-announce/2020/10/msg00009.html|
+1074|CVE-2020-13434|https://lists.debian.org/debian-lts-announce/2020/05/msg00024.html|Mailing List,Third Party Advisory
+1075|CVE-2020-10936|https://lists.debian.org/debian-lts-announce/2020/10/msg00012.html|
+1076|CVE-2020-12867,CVE-2020-12863,CVE-2020-12862,CVE-2020-12865|https://lists.debian.org/debian-lts-announce/2020/08/msg00029.html|
+1077|CVE-2020-12867,CVE-2020-12863,CVE-2020-12862,CVE-2020-12865|https://lists.debian.org/debian-lts-announce/2020/10/msg00010.html|
+1078|CVE-2020-7663|https://lists.debian.org/debian-lts-announce/2020/08/msg00031.html|
+1079|CVE-2020-13254|https://lists.debian.org/debian-lts-announce/2020/06/msg00016.html|
+1080|CVE-2020-13848|https://lists.debian.org/debian-lts-announce/2020/06/msg00006.html|Mailing List,Third Party Advisory
+1081|CVE-2020-13848|https://lists.debian.org/debian-lts-announce/2021/03/msg00007.html|
+1082|CVE-2020-13881|https://lists.debian.org/debian-lts-announce/2020/06/msg00007.html|Mailing List,Third Party Advisory
+1083|CVE-2020-12695|https://lists.debian.org/debian-lts-announce/2020/08/msg00011.html|
+1084|CVE-2019-10064,CVE-2020-12695|https://lists.debian.org/debian-lts-announce/2020/08/msg00013.html|
+1085|CVE-2020-28926,CVE-2020-12695|https://lists.debian.org/debian-lts-announce/2020/12/msg00017.html|
+1086|CVE-2020-13625|https://lists.debian.org/debian-lts-announce/2020/06/msg00014.html|
+1087|CVE-2020-13625|https://lists.debian.org/debian-lts-announce/2020/08/msg00004.html|
+1088|CVE-2020-13696|https://lists.debian.org/debian-lts-announce/2020/06/msg00018.html|Mailing List,Third Party Advisory
+1089|CVE-2020-0198,CVE-2020-0182|https://lists.debian.org/debian-lts-announce/2020/06/msg00020.html|Mailing List,Third Party Advisory
+1090|CVE-2020-4048,CVE-2020-4046,CVE-2020-4047,CVE-2020-4049,CVE-2020-4050|https://lists.debian.org/debian-lts-announce/2020/07/msg00000.html|Mailing List,Third Party Advisory
+1091|CVE-2020-14195,CVE-2020-14062,CVE-2020-14061,CVE-2020-14060|https://lists.debian.org/debian-lts-announce/2020/07/msg00001.html|Mailing List,Third Party Advisory
+1092|CVE-2020-14093,CVE-2020-14954|https://lists.debian.org/debian-lts-announce/2020/06/msg00039.html|
+1093|CVE-2020-14093,CVE-2020-14954|https://lists.debian.org/debian-lts-announce/2020/06/msg00040.html|
+1094|CVE-2020-14148|https://lists.debian.org/debian-lts-announce/2020/06/msg00023.html|
+1095|CVE-2020-14405,CVE-2020-14402,CVE-2020-14404,CVE-2020-14403,CVE-2020-14397,CVE-2019-20839,CVE-2020-14401,CVE-2020-14400,CVE-2020-14399|https://lists.debian.org/debian-lts-announce/2020/06/msg00035.html|Mailing List,Third Party Advisory
+1096|CVE-2020-14405,CVE-2020-14402,CVE-2020-14404,CVE-2020-14403,CVE-2020-14397,CVE-2019-20839,CVE-2020-14401,CVE-2020-14400,CVE-2020-14399|https://lists.debian.org/debian-lts-announce/2020/08/msg00045.html|
+1097|CVE-2019-13033|https://lists.debian.org/debian-lts-announce/2020/06/msg00024.html|Third Party Advisory
+1098|CVE-2020-8165,CVE-2020-8164|https://lists.debian.org/debian-lts-announce/2020/06/msg00022.html|Mailing List,Third Party Advisory
+1099|CVE-2020-8163,CVE-2020-8165,CVE-2020-8164|https://lists.debian.org/debian-lts-announce/2020/07/msg00013.html|Mailing List,Third Party Advisory
+1100|CVE-2020-8184,CVE-2020-8161|https://lists.debian.org/debian-lts-announce/2020/07/msg00006.html|
+1101|CVE-2020-14929|https://lists.debian.org/debian-lts-announce/2020/06/msg00025.html|
+1102|CVE-2020-15011|https://lists.debian.org/debian-lts-announce/2020/06/msg00036.html|Mailing List,Third Party Advisory
+1103|CVE-2020-15005,CVE-2020-35479,CVE-2020-35480,CVE-2020-35477|https://lists.debian.org/debian-lts-announce/2020/12/msg00034.html|Mailing List,Third Party Advisory
+1104|CVE-2020-10177|https://lists.debian.org/debian-lts-announce/2020/08/msg00012.html|
+1105|CVE-2020-4067|https://lists.debian.org/debian-lts-announce/2020/07/msg00002.html|Mailing List,Third Party Advisory
+1106|CVE-2020-4044|https://lists.debian.org/debian-lts-announce/2020/08/msg00015.html|
+1107|CVE-2020-15476|https://lists.debian.org/debian-lts-announce/2020/08/msg00052.html|
+1108|CVE-2020-9498,CVE-2020-9497|https://lists.debian.org/debian-lts-announce/2020/11/msg00010.html|Mailing List,Third Party Advisory
+1109|CVE-2020-11061|https://lists.debian.org/debian-lts-announce/2020/08/msg00051.html|
+1110|CVE-2020-13934,CVE-2020-13935|https://lists.debian.org/debian-lts-announce/2020/07/msg00017.html|
+1111|CVE-2019-17637|https://lists.debian.org/debian-lts-announce/2020/10/msg00016.html|
+1112|CVE-2020-14579,CVE-2020-14593,CVE-2020-14578,CVE-2020-14581,CVE-2020-14583,CVE-2020-14556,CVE-2020-14577,CVE-2020-14621|https://lists.debian.org/debian-lts-announce/2020/08/msg00021.html|
+1113|CVE-2020-15803|https://lists.debian.org/debian-lts-announce/2020/08/msg00007.html|
+1114|CVE-2020-14001|https://lists.debian.org/debian-lts-announce/2020/08/msg00014.html|Mailing List,Third Party Advisory
+1115|CVE-2020-14928|https://lists.debian.org/debian-lts-announce/2020/07/msg00012.html|Mailing List,Third Party Advisory
+1116|CVE-2017-9831,CVE-2017-9832|https://lists.debian.org/debian-lts-announce/2020/04/msg00003.html|
+1117|CVE-2017-9935|https://lists.debian.org/debian-lts-announce/2017/12/msg00008.html|Mailing List,Third Party Advisory
+1118|CVE-2017-11733,CVE-2017-9988,CVE-2017-9989|https://lists.debian.org/debian-lts-announce/2017/11/msg00022.html|Mailing List,Third Party Advisory
+1119|CVE-2017-10672|https://lists.debian.org/debian-lts-announce/2017/11/msg00017.html|Third Party Advisory
+1120|CVE-2017-10790|https://lists.debian.org/debian-lts-announce/2020/06/msg00026.html|
+1121|CVE-2017-11107|https://lists.debian.org/debian-lts-announce/2018/10/msg00023.html|Mailing List,Third Party Advisory
+1122|CVE-2017-11423,CVE-2017-6419|https://lists.debian.org/debian-lts-announce/2018/02/msg00014.html|
+1123|CVE-2017-11464,CVE-2019-20446|https://lists.debian.org/debian-lts-announce/2020/07/msg00016.html|Mailing List,Third Party Advisory
+1124|CVE-2017-13748,CVE-2015-5221,CVE-2016-8690,CVE-2015-5203,CVE-2017-14132|https://lists.debian.org/debian-lts-announce/2018/11/msg00023.html|Mailing List,Third Party Advisory
+1125|CVE-2017-11747|https://lists.debian.org/debian-lts-announce/2020/03/msg00037.html|
+1126|CVE-2017-14633,CVE-2017-11333|https://lists.debian.org/debian-lts-announce/2019/12/msg00021.html|Mailing List,Third Party Advisory
+1127|CVE-2017-12425|https://lists.debian.org/debian-security-announce/2017/msg00186.html|Mailing List,Third Party Advisory
+1128|CVE-2017-3735|https://lists.debian.org/debian-lts-announce/2017/11/msg00011.html|
+1129|CVE-2017-12872,CVE-2017-12873,CVE-2017-12867,CVE-2017-12874,CVE-2017-12868,CVE-2017-12869|https://lists.debian.org/debian-lts-announce/2017/12/msg00007.html|Mailing List,Third Party Advisory
+1130|CVE-2017-0379|https://lists.debian.org/debian-security-announce/2017/msg00221.html|Patch,Mailing List,Third Party Advisory
+1131|CVE-2017-14062|https://lists.debian.org/debian-lts-announce/2018/07/msg00040.html|Mailing List,Third Party Advisory
+1132|CVE-2016-10510|https://lists.debian.org/debian-lts-announce/2018/01/msg00015.html|Mailing List,Third Party Advisory
+1133|CVE-2017-12872,CVE-2017-12868|https://lists.debian.org/debian-lts-announce/2018/06/msg00017.html|Mailing List,Third Party Advisory
+1134|CVE-2017-14122,CVE-2017-14121,CVE-2017-14120|https://lists.debian.org/debian-lts-announce/2021/02/msg00026.html|Mailing List,Third Party Advisory
+1135|CVE-2017-14731,CVE-2017-2816|https://lists.debian.org/debian-lts-announce/2017/11/msg00038.html|
+1136|CVE-2015-5395|https://lists.debian.org/debian-lts/2016/05/msg00197.html|Third Party Advisory
+1137|CVE-2015-6673|https://lists.debian.org/debian-lts-announce/2019/12/msg00017.html|
+1138|CVE-2015-6748|https://lists.debian.org/debian-lts-announce/2020/01/msg00021.html|
+1139|CVE-2017-14867|https://lists.debian.org/debian-security-announce/2017/msg00246.html|Mailing List,Third Party Advisory
+1140|CVE-2017-12617|https://lists.debian.org/debian-lts-announce/2017/11/msg00009.html|
+1141|CVE-2017-15185|https://lists.debian.org/debian-lts/2017/09/msg00115.html|Third Party Advisory
+1142|CVE-2017-15235|https://lists.debian.org/debian-lts-announce/2020/08/msg00050.html|
+1143|CVE-2007-4826|http://lists.debian.org/debian-security-announce/debian-security-announce-2007/msg00153.html|
+1144|CVE-2006-0482|http://lists.debian.org/debian-sparc/2006/01/msg00129.html|
+1145|CVE-2021-22876|https://lists.debian.org/debian-lts-announce/2021/05/msg00019.html|Mailing List,Third Party Advisory
+1146|CVE-2021-20307|https://lists.debian.org/debian-lts-announce/2021/04/msg00010.html|Mailing List,Third Party Advisory
+1147|CVE-2021-31863,CVE-2021-31865,CVE-2021-31866,CVE-2019-25026,CVE-2021-30163,CVE-2020-36308,CVE-2021-31864,CVE-2020-36307,CVE-2021-30164,CVE-2020-36306|https://lists.debian.org/debian-lts-announce/2021/05/msg00013.html|Mailing List,Third Party Advisory
+1148|CVE-2021-28658|https://lists.debian.org/debian-lts-announce/2021/04/msg00008.html|Mailing List,Third Party Advisory
+1149|CVE-2021-1405|https://lists.debian.org/debian-lts-announce/2021/04/msg00012.html|Mailing List,Third Party Advisory
+1150|CVE-2021-29450,CVE-2021-29447|https://lists.debian.org/debian-lts-announce/2021/04/msg00017.html|Mailing List,Third Party Advisory
+1151|CVE-2021-3497|https://lists.debian.org/debian-lts-announce/2021/04/msg00027.html|Mailing List,Third Party Advisory
+1152|CVE-2021-2163,CVE-2021-2161|https://lists.debian.org/debian-lts-announce/2021/04/msg00021.html|Mailing List,Third Party Advisory
+1153|CVE-2021-22204|https://lists.debian.org/debian-lts-announce/2021/05/msg00018.html|
+1154|CVE-2021-3472|https://lists.debian.org/debian-lts-announce/2021/04/msg00013.html|Mailing List,Third Party Advisory
+1155|CVE-2019-25042,CVE-2019-25032,CVE-2019-25031,CVE-2019-25038,CVE-2019-25041,CVE-2019-25040,CVE-2019-25034,CVE-2019-25036,CVE-2019-25037,CVE-2019-25035,CVE-2019-25033,CVE-2019-25039|https://lists.debian.org/debian-lts-announce/2021/05/msg00007.html|Mailing List,Third Party Advisory
+1156|CVE-2021-29472|https://lists.debian.org/debian-lts-announce/2021/05/msg00009.html|
+1157|CVE-2021-25216,CVE-2021-25214,CVE-2021-25215|https://lists.debian.org/debian-lts-announce/2021/05/msg00001.html|Mailing List,Third Party Advisory
+1158|CVE-2021-31542|https://lists.debian.org/debian-lts-announce/2021/05/msg00005.html|Mailing List,Third Party Advisory
+1159|CVE-2021-20204|https://lists.debian.org/debian-lts-announce/2021/05/msg00015.html|Mailing List,Third Party Advisory
+1160|CVE-2021-3504|https://lists.debian.org/debian-lts-announce/2021/05/msg00011.html|Mailing List,Third Party Advisory
+1161|CVE-2021-20277,CVE-2020-27840|https://lists.debian.org/debian-lts-announce/2021/03/msg00036.html|Mailing List,Third Party Advisory
+1162|CVE-2021-3537,CVE-2021-3518,CVE-2021-3517|https://lists.debian.org/debian-lts-announce/2021/05/msg00008.html|Mailing List,Third Party Advisory
+1163|CVE-2020-25709,CVE-2020-25710|https://lists.debian.org/debian-lts-announce/2020/12/msg00008.html|Mailing List,Third Party Advisory
+1164|CVE-2021-33477|https://lists.debian.org/debian-lts-announce/2021/05/msg00026.html|
+1165|CVE-2021-25217|https://lists.debian.org/debian-lts-announce/2021/06/msg00002.html|
+1166|CVE-2020-15180|https://lists.debian.org/debian-lts-announce/2020/10/msg00021.html|
+1167|CVE-2020-27661|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1770368.html|
+1168|CVE-2019-20218|https://lists.debian.org/debian-lts-announce/2020/12/msg00016.html|
+1169|CVE-2019-20330,CVE-2020-8840|https://lists.debian.org/debian-lts-announce/2020/02/msg00020.html|Mailing List,Third Party Advisory
+1170|CVE-2019-18792,CVE-2019-18625|https://lists.debian.org/debian-lts-announce/2020/01/msg00032.html|Third Party Advisory
+1171|CVE-2019-18179|https://lists.debian.org/debian-lts-announce/2020/01/msg00000.html|Mailing List,Third Party Advisory
+1172|CVE-2019-5188|https://lists.debian.org/debian-lts-announce/2020/03/msg00030.html|Mailing List,Third Party Advisory
+1173|CVE-2019-5188|https://lists.debian.org/debian-lts-announce/2020/07/msg00021.html|Mailing List,Third Party Advisory
+1174|CVE-2019-20367|https://lists.debian.org/debian-lts-announce/2021/02/msg00027.html|Mailing List,Third Party Advisory
+1175|CVE-2019-17024,CVE-2019-17016,CVE-2019-17017,CVE-2019-17022|https://lists.debian.org/debian-lts-announce/2020/01/msg00005.html|Mailing List,Third Party Advisory
+1176|CVE-2019-17024,CVE-2019-17016,CVE-2019-17017,CVE-2019-17022|https://lists.debian.org/debian-lts-announce/2020/01/msg00016.html|
+1177|CVE-2020-5504|https://lists.debian.org/debian-lts-announce/2020/01/msg00011.html|Mailing List,Third Party Advisory
+1178|CVE-2019-20373|https://lists.debian.org/debian-lts-announce/2020/01/msg00007.html|Patch,Mailing List,Third Party Advisory
+1179|CVE-2020-1766,CVE-2020-1765,CVE-2020-1767|https://lists.debian.org/debian-lts-announce/2020/01/msg00027.html|
+1180|CVE-2020-6851|https://lists.debian.org/debian-lts-announce/2020/01/msg00025.html|
+1181|CVE-2020-5390|https://lists.debian.org/debian-lts-announce/2020/02/msg00025.html|
+1182|CVE-2020-2583,CVE-2020-2659,CVE-2020-2590,CVE-2020-2654,CVE-2020-2601,CVE-2020-2604,CVE-2020-2593|https://lists.debian.org/debian-lts-announce/2020/02/msg00034.html|Mailing List,Third Party Advisory
+1183|CVE-2019-15961|https://lists.debian.org/debian-lts-announce/2020/02/msg00016.html|
+1184|CVE-2020-7105|https://lists.debian.org/debian-lts-announce/2020/01/msg00028.html|
+1185|CVE-2020-7106|https://lists.debian.org/debian-lts-announce/2020/01/msg00014.html|
+1186|CVE-2020-7039|https://lists.debian.org/debian-lts-announce/2020/01/msg00022.html|Mailing List,Third Party Advisory
+1187|CVE-2020-7039|https://lists.debian.org/debian-lts-announce/2020/01/msg00036.html|Mailing List,Third Party Advisory
+1188|CVE-2020-8608,CVE-2020-7039|https://lists.debian.org/debian-lts-announce/2021/02/msg00012.html|Mailing List,Third Party Advisory
+1189|CVE-2020-7040|https://lists.debian.org/debian-lts-announce/2020/02/msg00003.html|Mailing List,Third Party Advisory
+1190|CVE-2019-20387|https://lists.debian.org/debian-lts-announce/2020/01/msg00034.html|
+1191|CVE-2019-17570|https://lists.debian.org/debian-lts-announce/2020/01/msg00033.html|Third Party Advisory
+1192|CVE-2019-18900|https://lists.debian.org/debian-lts-announce/2020/03/msg00005.html|
+1193|CVE-2011-0536|http://lists.debian.org/debian-security-announce/2011/msg00005.html|
+1194|CVE-2011-1784,CVE-2011-2147|http://lists.debian.org/debian-security/2011/05/msg00012.html|
+1195|CVE-2011-1784,CVE-2011-2147|http://lists.debian.org/debian-security/2011/05/msg00013.html|
+1196|CVE-2011-1784,CVE-2011-2147|http://lists.debian.org/debian-security/2011/05/msg00018.html|
+1197|CVE-2011-3578,CVE-2011-3358,CVE-2011-3356,CVE-2011-3357|http://lists.debian.org/debian-security-tracker/2011/09/msg00012.html|Exploit,Patch
+1198|CVE-2010-0012|http://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg264483.html|
+1199|CVE-2010-0136|http://www.mail-archive.com/debian-openoffice@lists.debian.org/msg23178.html|
+1200|CVE-2017-7982,CVE-2017-5835,CVE-2017-6435,CVE-2017-5209,CVE-2017-5834,CVE-2017-6436,CVE-2017-6439,CVE-2017-5545|https://lists.debian.org/debian-lts-announce/2020/04/msg00002.html|
+1201|CVE-2016-2090|https://lists.debian.org/debian-lts-announce/2019/12/msg00036.html|Third Party Advisory
+1202|CVE-2017-5837,CVE-2016-9811,CVE-2017-5844|https://lists.debian.org/debian-lts-announce/2020/02/msg00032.html|
+1203|CVE-2016-5725|https://lists.debian.org/debian-lts-announce/2020/04/msg00017.html|
+1204|CVE-2016-7932,CVE-2016-7940,CVE-2017-5486,CVE-2016-7986,CVE-2016-7928,CVE-2016-7985,CVE-2017-5484,CVE-2016-7992,CVE-2016-8575,CVE-2016-7929,CVE-2017-5205,CVE-2016-8574,CVE-2016-7926,CVE-2016-7924,CVE-2016-7936,CVE-2016-7922,CVE-2016-7939,CVE-2016-7938,CVE-2016-7927,CVE-2016-7984,CVE-2017-5202,CVE-2016-7983,CVE-2017-5482,CVE-2016-7974,CVE-2016-7933,CVE-2017-5483,CVE-2016-7993,CVE-2017-5341,CVE-2016-7931,CVE-2017-5204,CVE-2017-5203,CVE-2016-7925,CVE-2017-5485,CVE-2016-7934,CVE-2017-5342,CVE-2016-7937,CVE-2016-7935,CVE-2016-7930,CVE-2016-7923,CVE-2016-7973,CVE-2016-7975|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1494526.html|Mailing List,Issue Tracking,Third Party Advisory
+1205|CVE-2017-5840,CVE-2016-10198|https://lists.debian.org/debian-lts-announce/2020/05/msg00029.html|
+1206|CVE-2017-5846,CVE-2017-5847|https://lists.debian.org/debian-lts-announce/2020/05/msg00030.html|Mailing List,Third Party Advisory
+1207|CVE-2016-4861|https://lists.debian.org/debian-lts-announce/2018/06/msg00012.html|
+1208|CVE-2016-9955,CVE-2016-9814|https://lists.debian.org/debian-lts-announce/2018/03/msg00001.html|Third Party Advisory
+1209|CVE-2017-6056|https://lists.debian.org/debian-security-announce/2017/msg00038.html|Third Party Advisory
+1210|CVE-2017-6056|https://lists.debian.org/debian-security-announce/2017/msg00039.html|Third Party Advisory
+1211|CVE-2017-6960|https://lists.debian.org/debian-lts-announce/2020/03/msg00039.html|
+1212|CVE-2017-7413,CVE-2017-7414|https://lists.debian.org/debian-lts-announce/2018/06/msg00006.html|
+1213|CVE-2017-0360|https://lists.debian.org/debian-security-announce/2017/msg00084.html|Third Party Advisory
+1214|CVE-2017-7875|https://lists.debian.org/debian-lts-announce/2020/05/msg00021.html|
+1215|CVE-2003-0644|http://lists.debian.org/debian-devel-changes/2003/09/msg00767.html|Vendor Advisory
+1216|CVE-2020-8037|https://lists.debian.org/debian-lts-announce/2020/11/msg00018.html|Mailing List,Third Party Advisory
+1217|CVE-2020-28049|https://lists.debian.org/debian-lts-announce/2020/11/msg00009.html|Mailing List,Third Party Advisory
+1218|CVE-2020-28241|https://lists.debian.org/debian-lts-announce/2020/11/msg00019.html|Mailing List,Third Party Advisory
+1219|CVE-2020-17490,CVE-2020-25592,CVE-2020-16846|https://lists.debian.org/debian-lts-announce/2020/12/msg00007.html|Mailing List,Third Party Advisory
+1220|CVE-2020-28196|https://lists.debian.org/debian-lts-announce/2020/11/msg00011.html|Third Party Advisory
+1221|CVE-2017-18926|https://lists.debian.org/debian-lts-announce/2020/11/msg00012.html|Mailing List,Third Party Advisory
+1222|CVE-2020-25074|https://lists.debian.org/debian-lts-announce/2020/11/msg00020.html|Mailing List,Third Party Advisory
+1223|CVE-2020-8695,CVE-2020-8696,CVE-2020-8698|https://lists.debian.org/debian-lts-announce/2021/02/msg00007.html|Mailing List,Third Party Advisory
+1224|CVE-2020-25696,CVE-2020-25695,CVE-2020-25694|https://lists.debian.org/debian-lts-announce/2020/12/msg00005.html|Mailing List,Third Party Advisory
+1225|CVE-2020-26217|https://lists.debian.org/debian-lts-announce/2020/12/msg00001.html|Mailing List,Third Party Advisory
+1226|CVE-2020-26215|https://lists.debian.org/debian-lts-announce/2020/12/msg00004.html|Third Party Advisory
+1227|CVE-2019-20933|https://lists.debian.org/debian-lts-announce/2020/12/msg00030.html|
+1228|CVE-2020-28948,CVE-2020-28949|https://lists.debian.org/debian-lts-announce/2020/11/msg00045.html|Mailing List,Third Party Advisory
+1229|CVE-2020-20739|https://lists.debian.org/debian-lts-announce/2020/11/msg00049.html|Mailing List,Third Party Advisory
+1230|CVE-2020-28896|https://lists.debian.org/debian-lts-announce/2020/11/msg00048.html|Mailing List,Third Party Advisory
+1231|CVE-2020-28984|https://lists.debian.org/debian-lts-announce/2020/12/msg00036.html|Mailing List,Third Party Advisory
+1232|CVE-2020-28928|https://lists.debian.org/debian-lts-announce/2020/11/msg00050.html|Mailing List,Third Party Advisory
+1233|CVE-2020-26237|https://lists.debian.org/debian-lts-announce/2020/12/msg00041.html|
+1234|CVE-2020-29074|https://lists.debian.org/debian-lts-announce/2020/12/msg00018.html|Mailing List,Third Party Advisory
+1235|CVE-2020-27813|https://lists.debian.org/debian-lts-announce/2021/01/msg00008.html|Mailing List,Third Party Advisory
+1236|CVE-2020-25638|https://lists.debian.org/debian-lts-announce/2021/01/msg00000.html|Mailing List,Third Party Advisory
+1237|CVE-2020-27783|https://lists.debian.org/debian-lts-announce/2020/12/msg00028.html|
+1238|CVE-2020-17527|https://lists.debian.org/debian-lts-announce/2020/12/msg00022.html|
+1239|CVE-2020-29600,CVE-2020-35176|https://lists.debian.org/debian-lts-announce/2020/12/msg00035.html|Mailing List,Third Party Advisory
+1240|CVE-2020-1971|https://lists.debian.org/debian-lts-announce/2020/12/msg00020.html|Mailing List,Third Party Advisory
+1241|CVE-2020-1971|https://lists.debian.org/debian-lts-announce/2020/12/msg00021.html|Mailing List,Third Party Advisory
+1242|CVE-2020-29668|https://lists.debian.org/debian-lts-announce/2020/12/msg00026.html|
+1243|CVE-2020-7788|https://lists.debian.org/debian-lts-announce/2020/12/msg00032.html|Mailing List,Third Party Advisory
+1244|CVE-2020-8285,CVE-2020-8284,CVE-2020-8286|https://lists.debian.org/debian-lts-announce/2020/12/msg00029.html|Mailing List,Third Party Advisory
+1245|CVE-2020-26259,CVE-2020-26258|https://lists.debian.org/debian-lts-announce/2020/12/msg00042.html|Mailing List,Third Party Advisory
+1246|CVE-2020-29362,CVE-2020-29361|https://lists.debian.org/debian-lts-announce/2021/01/msg00002.html|Mailing List,Third Party Advisory
+1247|CVE-2020-35573|https://lists.debian.org/debian-lts-announce/2020/12/msg00031.html|Mailing List,Third Party Advisory
+1248|CVE-2019-15523|https://lists.debian.org/debian-lts-announce/2021/01/msg00003.html|Mailing List,Third Party Advisory
+1249|CVE-2020-12658|https://lists.debian.org/debian-lts-announce/2021/01/msg00004.html|Mailing List,Third Party Advisory
+1250|CVE-2019-3500|https://lists.debian.org/debian-lts-announce/2019/01/msg00012.html|Mailing List,Third Party Advisory
+1251|CVE-2018-14721,CVE-2018-19361,CVE-2018-14718,CVE-2018-19360,CVE-2018-14719,CVE-2018-19362,CVE-2018-14720|https://lists.debian.org/debian-lts-announce/2019/03/msg00005.html|Mailing List,Third Party Advisory
+1252|CVE-2018-1320|https://lists.debian.org/debian-lts-announce/2019/02/msg00008.html|Mailing List,Third Party Advisory
+1253|CVE-2019-5716,CVE-2019-5719,CVE-2019-5717|https://lists.debian.org/debian-lts-announce/2019/01/msg00022.html|Mailing List,Third Party Advisory
+1254|CVE-2019-3498|https://lists.debian.org/debian-lts-announce/2019/01/msg00005.html|Mailing List,Third Party Advisory
+1255|CVE-2018-20685,CVE-2019-6111,CVE-2019-6109|https://lists.debian.org/debian-lts-announce/2019/03/msg00030.html|Mailing List,Third Party Advisory
+1256|CVE-2018-16864,CVE-2018-16865|https://lists.debian.org/debian-lts-announce/2019/01/msg00016.html|Mailing List,Third Party Advisory
+1257|CVE-2019-6245|https://lists.debian.org/debian-lts-announce/2019/02/msg00001.html|Third Party Advisory
+1258|CVE-2019-6256,CVE-2019-7314|https://lists.debian.org/debian-lts-announce/2019/02/msg00037.html|Mailing List,Third Party Advisory
+1259|CVE-2019-3811|https://lists.debian.org/debian-lts-announce/2019/01/msg00011.html|Mailing List,Third Party Advisory
+1260|CVE-2018-16846,CVE-2018-14662|https://lists.debian.org/debian-lts-announce/2019/03/msg00002.html|Mailing List,Third Party Advisory
+1261|CVE-2018-20721|https://lists.debian.org/debian-lts-announce/2019/02/msg00028.html|Third Party Advisory
+1262|CVE-2019-2422|https://lists.debian.org/debian-lts-announce/2019/03/msg00033.html|Mailing List,Third Party Advisory
+1263|CVE-2019-2529,CVE-2019-2537|https://lists.debian.org/debian-lts-announce/2019/02/msg00000.html|Mailing List,Third Party Advisory
+1264|CVE-2017-3145|https://lists.debian.org/debian-lts-announce/2018/01/msg00029.html|Third Party Advisory
+1265|CVE-2018-5733|https://lists.debian.org/debian-lts-announce/2018/03/msg00015.html|Third Party Advisory
+1266|CVE-2018-5740|https://lists.debian.org/debian-lts-announce/2018/08/msg00033.html|Third Party Advisory
+1267|CVE-2019-6338|https://lists.debian.org/debian-lts-announce/2019/02/msg00032.html|Mailing List,Third Party Advisory
+1268|CVE-2019-6339|https://lists.debian.org/debian-lts-announce/2019/02/msg00004.html|Third Party Advisory
+1269|CVE-2019-6486|https://lists.debian.org/debian-lts-announce/2019/02/msg00009.html|Mailing List,Third Party Advisory
+1270|CVE-2017-18359|https://lists.debian.org/debian-lts-announce/2019/01/msg00030.html|Third Party Advisory
+1271|CVE-2018-20743|https://lists.debian.org/debian-lts-announce/2019/02/msg00006.html|Third Party Advisory
+1272|CVE-2019-6799|https://lists.debian.org/debian-lts-announce/2019/02/msg00039.html|Mailing List,Third Party Advisory
+1273|CVE-2019-3815|https://lists.debian.org/debian-lts-announce/2019/03/msg00013.html|Mailing List,Third Party Advisory
+1274|CVE-2019-3462|https://lists.debian.org/debian-lts-announce/2019/01/msg00013.html|Vendor Advisory,Mailing List
+1275|CVE-2019-3462|https://lists.debian.org/debian-lts-announce/2019/01/msg00014.html|Vendor Advisory,Mailing List
+1276|CVE-2018-17199|https://lists.debian.org/debian-lts-announce/2019/01/msg00024.html|Mailing List,Third Party Advisory
+1277|CVE-2019-3461|https://lists.debian.org/debian-lts-announce/2019/01/msg00017.html|Vendor Advisory
+1278|CVE-2019-3461|https://lists.debian.org/debian-security-announce/2019/msg00003.html|Vendor Advisory,Mailing List
+1279|CVE-2019-3813|https://lists.debian.org/debian-lts-announce/2019/01/msg00026.html|Mailing List,Third Party Advisory
+1280|CVE-2019-1000018|https://lists.debian.org/debian-lts-announce/2019/01/msg00027.html|Mailing List,Third Party Advisory
+1281|CVE-2019-1000019,CVE-2019-1000020|https://lists.debian.org/debian-lts-announce/2019/02/msg00013.html|Mailing List,Third Party Advisory
+1282|CVE-2018-4056|https://lists.debian.org/debian-lts-announce/2019/02/msg00017.html|Third Party Advisory
+1283|CVE-2018-18500,CVE-2018-18505,CVE-2018-18501|https://lists.debian.org/debian-lts-announce/2019/01/msg00025.html|Mailing List,Third Party Advisory
+1284|CVE-2018-18506|https://lists.debian.org/debian-lts-announce/2019/03/msg00024.html|Mailing List,Third Party Advisory
+1285|CVE-2018-18506|https://lists.debian.org/debian-lts-announce/2019/04/msg00000.html|Mailing List,Third Party Advisory
+1286|CVE-2019-3463,CVE-2019-3464|https://lists.debian.org/debian-lts-announce/2019/02/msg00007.html|Mailing List,Third Party Advisory
+1287|CVE-2019-7636,CVE-2019-7577,CVE-2019-7578,CVE-2019-7573,CVE-2019-7638,CVE-2019-7575,CVE-2019-7637,CVE-2019-7635,CVE-2019-7576,CVE-2019-7572,CVE-2019-7574|https://lists.debian.org/debian-lts-announce/2019/03/msg00015.html|Mailing List,Third Party Advisory
+1288|CVE-2019-7636,CVE-2019-7577,CVE-2019-7578,CVE-2019-7573,CVE-2019-7638,CVE-2019-7575,CVE-2019-7637,CVE-2019-7635,CVE-2019-7576,CVE-2019-7572,CVE-2019-7574|https://lists.debian.org/debian-lts-announce/2019/03/msg00016.html|Mailing List,Third Party Advisory
+1289|CVE-2019-7636,CVE-2019-7577,CVE-2019-7578,CVE-2019-7573,CVE-2019-7638,CVE-2019-7575,CVE-2019-7637,CVE-2019-7635,CVE-2019-7576,CVE-2019-7572,CVE-2019-7574|https://lists.debian.org/debian-lts-announce/2019/10/msg00020.html|Mailing List,Third Party Advisory
+1290|CVE-2019-7636,CVE-2019-7577,CVE-2019-7578,CVE-2019-7573,CVE-2019-7638,CVE-2019-7575,CVE-2019-7637,CVE-2019-7635,CVE-2019-7576,CVE-2019-7572,CVE-2019-7574|https://lists.debian.org/debian-lts-announce/2019/10/msg00021.html|Mailing List,Third Party Advisory
+1291|CVE-2019-7653|https://lists.debian.org/debian-lts-announce/2019/03/msg00019.html|
+1292|CVE-2019-7659|https://lists.debian.org/debian-lts-announce/2019/02/msg00027.html|Mailing List,Third Party Advisory
+1293|CVE-2018-15587|https://lists.debian.org/debian-lts-announce/2019/04/msg00027.html|Mailing List,Third Party Advisory
+1294|CVE-2019-20444,CVE-2020-7238,CVE-2019-20445|https://lists.debian.org/debian-lts-announce/2020/02/msg00017.html|Mailing List,Third Party Advisory
+1295|CVE-2019-20444,CVE-2020-11612,CVE-2020-7238,CVE-2019-20445|https://lists.debian.org/debian-lts-announce/2020/09/msg00003.html|Mailing List,Third Party Advisory
+1296|CVE-2020-0549,CVE-2020-0548|https://lists.debian.org/debian-lts-announce/2020/06/msg00019.html|
+1297|CVE-2020-8112|https://lists.debian.org/debian-lts-announce/2020/01/msg00035.html|Mailing List,Third Party Advisory
+1298|CVE-2019-18634|https://lists.debian.org/debian-lts-announce/2020/02/msg00002.html|Mailing List,Third Party Advisory
+1299|CVE-2020-1930,CVE-2020-1931|https://lists.debian.org/debian-lts-announce/2020/02/msg00015.html|
+1300|CVE-2019-10782|https://lists.debian.org/debian-lts-announce/2020/02/msg00008.html|
+1301|CVE-2020-8597|https://lists.debian.org/debian-lts-announce/2020/02/msg00005.html|
+1302|CVE-2020-5208|https://lists.debian.org/debian-lts-announce/2020/02/msg00006.html|
+1303|CVE-2020-8631,CVE-2020-8632|https://lists.debian.org/debian-lts-announce/2020/02/msg00021.html|
+1304|CVE-2016-9928|https://lists.debian.org/debian-lts-announce/2020/06/msg00031.html|
+1305|CVE-2020-8608|https://lists.debian.org/debian-lts-announce/2020/03/msg00015.html|Third Party Advisory
+1306|CVE-2020-1711,CVE-2020-8608|https://lists.debian.org/debian-lts-announce/2020/03/msg00017.html|Third Party Advisory
+1307|CVE-2020-7059,CVE-2020-7060|https://lists.debian.org/debian-lts-announce/2020/02/msg00030.html|
+1308|CVE-2020-5529|https://lists.debian.org/debian-lts-announce/2020/08/msg00023.html|
+1309|CVE-2018-14553|https://lists.debian.org/debian-lts-announce/2020/02/msg00014.html|
+1310|CVE-2014-6262|https://lists.debian.org/debian-lts-announce/2020/03/msg00000.html|
+1311|CVE-2014-6262|https://lists.debian.org/debian-lts-announce/2020/03/msg00003.html|
+1312|CVE-2020-8955,CVE-2020-9760|https://lists.debian.org/debian-lts-announce/2020/03/msg00031.html|
+1313|CVE-2019-10785|https://lists.debian.org/debian-lts-announce/2020/02/msg00033.html|Mailing List,Third Party Advisory
+1314|CVE-2020-8518|https://lists.debian.org/debian-lts-announce/2020/04/msg00008.html|
+1315|CVE-2015-0258|https://lists.debian.org/debian-lts-announce/2020/02/msg00031.html|
+1316|CVE-2019-20479|https://lists.debian.org/debian-lts-announce/2020/02/msg00035.html|
+1317|CVE-2020-9273|https://lists.debian.org/debian-lts-announce/2020/02/msg00022.html|
+1318|CVE-2020-9273|https://lists.debian.org/debian-lts-announce/2020/03/msg00002.html|
+1319|CVE-2020-9283|https://lists.debian.org/debian-lts-announce/2020/11/msg00027.html|
+1320|CVE-2020-9283|https://lists.debian.org/debian-lts-announce/2020/11/msg00031.html|
+1321|CVE-2019-20044|https://lists.debian.org/debian-lts-announce/2020/03/msg00004.html|
+1322|CVE-2015-9542|https://lists.debian.org/debian-lts-announce/2020/02/msg00023.html|Mailing List,Third Party Advisory
+1323|CVE-2015-9542|https://lists.debian.org/debian-lts-announce/2020/08/msg00000.html|Mailing List,Third Party Advisory
+1324|CVE-2020-8130|https://lists.debian.org/debian-lts-announce/2020/02/msg00026.html|Mailing List,Third Party Advisory
+1325|CVE-2019-17569,CVE-2020-1935,CVE-2020-1938|https://lists.debian.org/debian-lts-announce/2020/03/msg00006.html|Mailing List,Third Party Advisory
+1326|CVE-2020-9274|https://lists.debian.org/debian-lts-announce/2020/02/msg00029.html|Mailing List,Third Party Advisory
+1327|CVE-2020-7062,CVE-2020-7063|https://lists.debian.org/debian-lts-announce/2020/03/msg00034.html|
+1328|CVE-2019-10064|https://lists.debian.org/debian-lts-announce/2020/03/msg00010.html|
+1329|CVE-2020-9546,CVE-2020-9548,CVE-2020-9547|https://lists.debian.org/debian-lts-announce/2020/03/msg00008.html|Mailing List,Third Party Advisory
+1330|CVE-2020-9549|https://lists.debian.org/debian-lts-announce/2020/03/msg00007.html|
+1331|CVE-2020-10185,CVE-2020-10184|https://lists.debian.org/debian-lts-announce/2020/03/msg00014.html|
+1332|CVE-2020-10188|https://lists.debian.org/debian-lts-announce/2020/05/msg00012.html|
+1333|CVE-2020-10188|https://lists.debian.org/debian-lts-announce/2020/08/msg00038.html|
+1334|CVE-2019-20503|https://lists.debian.org/debian-lts-announce/2020/03/msg00013.html|
+1335|CVE-2019-20503|https://lists.debian.org/debian-lts-announce/2020/03/msg00023.html|
+1336|CVE-2020-10232|https://lists.debian.org/debian-lts-announce/2020/03/msg00011.html|
+1337|CVE-2020-5259,CVE-2020-5258|https://lists.debian.org/debian-lts-announce/2020/03/msg00012.html|Mailing List,Third Party Advisory
+1338|CVE-2020-10531|https://lists.debian.org/debian-lts-announce/2020/03/msg00024.html|
+1339|CVE-2020-0556|https://lists.debian.org/debian-lts-announce/2020/06/msg00008.html|
+1340|CVE-2019-12921|https://lists.debian.org/debian-lts-announce/2020/03/msg00026.html|
+1341|CVE-2020-10673,CVE-2020-10672|https://lists.debian.org/debian-lts-announce/2020/03/msg00027.html|Mailing List,Third Party Advisory
+1342|CVE-2019-20485|https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1730509.html|Mailing List,Third Party Advisory
+1343|CVE-2020-5267|https://lists.debian.org/debian-lts-announce/2020/03/msg00022.html|Third Party Advisory
+1344|CVE-2020-10803,CVE-2020-10802|https://lists.debian.org/debian-lts-announce/2020/03/msg00028.html|Mailing List,Third Party Advisory
+1345|CVE-2020-1950,CVE-2020-1951|https://lists.debian.org/debian-lts-announce/2020/03/msg00035.html|
+1346|CVE-2020-8865|https://lists.debian.org/debian-lts-announce/2020/04/msg00009.html|
+1347|CVE-2020-8866|https://lists.debian.org/debian-lts-announce/2020/03/msg00036.html|
+1348|CVE-2020-9359|https://lists.debian.org/debian-lts-announce/2020/03/msg00033.html|Third Party Advisory
+1349|CVE-2020-10938|https://lists.debian.org/debian-lts-announce/2020/04/msg00007.html|
+1350|CVE-2020-1957|https://lists.debian.org/debian-lts-announce/2020/04/msg00014.html|
+1351|CVE-2020-11113,CVE-2020-10969,CVE-2020-10968,CVE-2020-11619,CVE-2020-11111,CVE-2020-11112,CVE-2020-11620|https://lists.debian.org/debian-lts-announce/2020/04/msg00012.html|Mailing List,Third Party Advisory
+1352|CVE-2020-10595|https://lists.debian.org/debian-lts-announce/2020/04/msg00000.html|Mailing List,Third Party Advisory
+1353|CVE-2020-7064,CVE-2020-7066|https://lists.debian.org/debian-lts-announce/2020/04/msg00021.html|Mailing List,Third Party Advisory
+1354|CVE-2020-11100|https://lists.debian.org/debian-security-announce/2020/msg00052.html|Mailing List,Third Party Advisory
+1355|CVE-2019-14868|https://lists.debian.org/debian-lts-announce/2020/07/msg00015.html|Mailing List,Third Party Advisory
+1356|CVE-2020-11655|https://lists.debian.org/debian-lts-announce/2020/05/msg00006.html|Mailing List,Third Party Advisory
+1357|CVE-2020-11724|https://lists.debian.org/debian-lts-announce/2020/07/msg00014.html|Mailing List,Third Party Advisory
+1358|CVE-2020-11736|https://lists.debian.org/debian-lts-announce/2020/04/msg00013.html|Third Party Advisory
+1359|CVE-2020-5260|https://lists.debian.org/debian-lts-announce/2020/04/msg00010.html|Mailing List,Third Party Advisory
+1360|CVE-2020-2830,CVE-2020-2773,CVE-2020-2756,CVE-2020-2800,CVE-2020-2781,CVE-2020-2803,CVE-2020-2805,CVE-2020-2757|https://lists.debian.org/debian-lts-announce/2020/04/msg00024.html|
+1361|CVE-2020-2875,CVE-2020-2933,CVE-2020-2934|https://lists.debian.org/debian-lts-announce/2020/06/msg00015.html|
+1362|CVE-2020-11728,CVE-2020-11729|https://lists.debian.org/debian-lts-announce/2020/04/msg00011.html|Mailing List,Third Party Advisory

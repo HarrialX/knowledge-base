@@ -1,0 +1,968 @@
+|cve-ids|ex_url|types
+0|CVE-2006-4339|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000079.html|
+1|CVE-2014-7257|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000142.html|VDB Entry,Third Party Advisory
+2|CVE-2015-2981|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000111.html|VDB Entry,Third Party Advisory
+3|CVE-2014-3884|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000058|Vendor Advisory
+4|CVE-2014-3885|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000059|Vendor Advisory
+5|CVE-2014-3886|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000060|Vendor Advisory
+6|CVE-2014-3889|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000065|Patch,Vendor Advisory
+7|CVE-2014-3890|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000066|Patch
+8|CVE-2014-3891|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000071|
+9|CVE-2014-1980|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000092|
+10|CVE-2014-3901|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000097|Vendor Advisory
+11|CVE-2014-3902|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000098|
+12|CVE-2014-3903|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000100|
+13|CVE-2014-3904|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000095|Vendor Advisory
+14|CVE-2014-3905|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000096|Vendor Advisory
+15|CVE-2014-3906|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000099|
+16|CVE-2014-3907|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000101|
+17|CVE-2014-3908|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000102|
+18|CVE-2014-3898|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000091|Vendor Advisory
+19|CVE-2014-3899|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000085|
+20|CVE-2014-3900|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000093|
+21|CVE-2014-5239|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000086|Vendor Advisory
+22|CVE-2014-3910|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000103|
+23|CVE-2014-3909|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000084|
+24|CVE-2014-7187,CVE-2014-7169,CVE-2014-6271,CVE-2014-6278,CVE-2014-6277,CVE-2014-7186|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000126|VDB Entry,Vendor Advisory,Third Party Advisory
+25|CVE-2014-5881|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000116.html|Vendor Advisory
+26|CVE-2014-4409|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-004316.html|
+27|CVE-2014-5313|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000104|
+28|CVE-2014-5315|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000105|
+29|CVE-2014-5316|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000110|
+30|CVE-2014-5317|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000106|
+31|CVE-2014-5318|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000108|
+32|CVE-2014-5319|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000107|Vendor Advisory
+33|CVE-2014-5320|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000109|
+34|CVE-2014-5321|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000114|
+35|CVE-2014-5322|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000113|
+36|CVE-2014-5323|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000111|Vendor Advisory
+37|CVE-2014-5324|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000112|
+38|CVE-2014-5327|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000120|
+39|CVE-2014-5328|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000119|
+40|CVE-2014-5330|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000121|Vendor Advisory
+41|CVE-2014-5331|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000122|
+42|CVE-2014-5314|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000130|
+43|CVE-2014-7246|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000129|
+44|CVE-2014-7247|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000131|Vendor Advisory
+45|CVE-2014-7248|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000133|
+46|CVE-2014-5325|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000117|
+47|CVE-2014-5326|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000118|
+48|CVE-2014-7241|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000124|Vendor Advisory
+49|CVE-2014-7243|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000140.html|
+50|CVE-2014-7249|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000132|Vendor Advisory
+51|CVE-2014-7250|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000134|Vendor Advisory
+52|CVE-2014-7251|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000141.html|
+53|CVE-2014-7252|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000137.html|
+54|CVE-2014-7253|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000138.html|Vendor Advisory
+55|CVE-2014-7254|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000139.html|
+56|CVE-2014-7255|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000135.html|VDB Entry,Third Party Advisory
+57|CVE-2014-7256|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000136.html|
+58|CVE-2014-7258|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000147.html|
+59|CVE-2014-7259|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000148.html|
+60|CVE-2014-7260|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000143|Vendor Advisory
+61|CVE-2014-7261|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000144|Vendor Advisory
+62|CVE-2014-7262|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000145|Vendor Advisory
+63|CVE-2014-7263|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000146|
+64|CVE-2014-7264|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000149|Vendor Advisory
+65|CVE-2014-7265|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000150|Vendor Advisory
+66|CVE-2014-7267|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000151|Vendor Advisory
+67|CVE-2014-7268|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000152|Vendor Advisory
+68|CVE-2009-4738|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000057.html|
+69|CVE-2012-5184|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000001|
+70|CVE-2012-5185|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000002|
+71|CVE-2012-5186|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000003|
+72|CVE-2012-5187|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000005|Vendor Advisory
+73|CVE-2012-5188|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000006|
+74|CVE-2013-0701|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000007|
+75|CVE-2013-0702|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000008|
+76|CVE-2013-0703|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000009|
+77|CVE-2013-0704|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000010|
+78|CVE-2013-0705|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000011|
+79|CVE-2013-0706|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000012|Vendor Advisory
+80|CVE-2008-6448|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000003.html|
+81|CVE-2008-6449|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000042.html|
+82|CVE-2008-6450|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000008.html|Vendor Advisory
+83|CVE-2008-6569|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000034.html|Vendor Advisory
+84|CVE-2008-6570|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000035.html|
+85|CVE-2009-0805|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000013.html|
+86|CVE-2009-0962|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000014.html|
+87|CVE-2009-0971|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000015.html|
+88|CVE-2008-6744|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000033.html|
+89|CVE-2009-1206|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000016.html|
+90|CVE-2009-1448|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000019.html|
+91|CVE-2009-1161|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000032.html|
+92|CVE-2009-1418|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000029.html|
+93|CVE-2009-1553|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000027.html|
+94|CVE-2009-1588|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000022.html|Patch
+95|CVE-2009-1589|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000021.html|
+96|CVE-2009-1590|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000023.html|
+97|CVE-2009-1591|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000024.html|
+98|CVE-2009-1790|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000028.html|
+99|CVE-2009-1683|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000040.html|
+100|CVE-2009-1880|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000033.html|
+101|CVE-2009-1881|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000034.html|
+102|CVE-2009-1908|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000025.html|
+103|CVE-2009-1909|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000026.html|
+104|CVE-2009-2162|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000041.html|
+105|CVE-2009-2165|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000035.html|
+106|CVE-2009-2221|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000045.html|
+107|CVE-2009-2222|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000046.html|
+108|CVE-2009-2226|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000044.html|
+109|CVE-2009-2240|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000031.html|
+110|CVE-2009-2292|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000030.html|
+111|CVE-2009-2445|http://jvndb.jvn.jp/jvndb/JVNDB-2009-002069|
+112|CVE-2009-2480|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000020.html|
+113|CVE-2009-2481|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000043.html|
+114|CVE-2009-2492|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000042.html|Patch
+115|CVE-2009-2565|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000048.html|
+116|CVE-2009-2738|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000053.html|
+117|CVE-2009-2739|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000052.html|
+118|CVE-2009-2964|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-002207.html|
+119|CVE-2009-2978|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000056.html|
+120|CVE-2009-3021|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000055.html|
+121|CVE-2009-3022|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000058.html|
+122|CVE-2009-3172|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-001930.html|
+123|CVE-2009-3240|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000062.html|
+124|CVE-2009-3283|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000063.html|
+125|CVE-2009-3284|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000064.html|
+126|CVE-2009-4032|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-003901.html|
+127|CVE-2009-4076|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000071.html|
+128|CVE-2009-4077|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000072.html|
+129|CVE-2009-4078|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000073.html|Patch
+130|CVE-2009-4079|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000074.html|Patch
+131|CVE-2009-4102|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000070|
+132|CVE-2009-4236|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000078.html|
+133|CVE-2009-4292|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000069.html|
+134|CVE-2009-4293|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000070.html|
+135|CVE-2009-4352|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000075.html|
+136|CVE-2009-4353|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000076.html|
+137|CVE-2009-4354|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000077.html|
+138|CVE-2009-4383|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000084.html|
+139|CVE-2009-4409|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000079.html|
+140|CVE-2008-0006|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-001043.html|
+141|CVE-2016-1185|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000055|Vendor Advisory
+142|CVE-2016-1202|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000054|Vendor Advisory
+143|CVE-2016-1205|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000057|Vendor Advisory
+144|CVE-2016-1199|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000051|Vendor Advisory
+145|CVE-2016-1200|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000052|Vendor Advisory
+146|CVE-2016-1201|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000053|Vendor Advisory
+147|CVE-2015-5207|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000058.html|
+148|CVE-2015-5208|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000059.html|
+149|CVE-2016-1208|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000063|Vendor Advisory
+150|CVE-2016-1209|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000064|Vendor Advisory
+151|CVE-2016-1206|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000061|Vendor Advisory
+152|CVE-2016-1207|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000062|Vendor Advisory
+153|CVE-2016-1211|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000066|Vendor Advisory
+154|CVE-2016-4812|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000071|Vendor Advisory
+155|CVE-2016-1212|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000069|Vendor Advisory
+156|CVE-2016-1222|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000070|VDB Entry,Vendor Advisory,Third Party Advisory
+157|CVE-2016-1229|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000068|Vendor Advisory
+158|CVE-2016-1230|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000072|Vendor Advisory
+159|CVE-2016-4449|http://jvndb.jvn.jp/en/contents/2017/JVNDB-2017-000066.html|
+160|CVE-2016-1183|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000098|Vendor Advisory
+161|CVE-2016-1223|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000074|Vendor Advisory
+162|CVE-2016-1224|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000089|Vendor Advisory
+163|CVE-2016-4813|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000075|Vendor Advisory
+164|CVE-2016-4814|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000090|Vendor Advisory
+165|CVE-2016-4815|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000086|Vendor Advisory
+166|CVE-2016-4816|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000087|Vendor Advisory
+167|CVE-2016-4817|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000091|Vendor Advisory
+168|CVE-2016-4819|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000099|Vendor Advisory
+169|CVE-2016-4820|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000100|Vendor Advisory
+170|CVE-2016-4821|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000101|Vendor Advisory
+171|CVE-2015-7775|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000084|Vendor Advisory
+172|CVE-2016-1195|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000081|Vendor Advisory
+173|CVE-2016-1197|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000083|Vendor Advisory
+174|CVE-2016-1225|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000073|Vendor Advisory
+175|CVE-2016-1226|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000088|Vendor Advisory
+176|CVE-2015-7776|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000085|Vendor Advisory
+177|CVE-2016-1191|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000078|Vendor Advisory
+178|CVE-2016-1192|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000095|Vendor Advisory
+179|CVE-2016-1196|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000082|Vendor Advisory
+180|CVE-2016-4811|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000076|Vendor Advisory
+181|CVE-2016-1188|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000077|Vendor Advisory
+182|CVE-2016-1189|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000093|Vendor Advisory
+183|CVE-2016-1190|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000094|Vendor Advisory
+184|CVE-2016-1193|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000079|Vendor Advisory
+185|CVE-2016-4822|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000107|Vendor Advisory
+186|CVE-2016-4823|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000108|Vendor Advisory
+187|CVE-2016-4824|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000109|Vendor Advisory
+188|CVE-2016-4825|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000115|Vendor Advisory
+189|CVE-2016-4826|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000116|Vendor Advisory
+190|CVE-2016-4827|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000117|Vendor Advisory
+191|CVE-2016-4828|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000118|Vendor Advisory
+192|CVE-2016-5840|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000103.html|
+193|CVE-2015-5664|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000119|Vendor Advisory
+194|CVE-2016-1227|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000105|Vendor Advisory
+195|CVE-2016-1228|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000106|Vendor Advisory
+196|CVE-2015-0899|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000042|Vendor Advisory
+197|CVE-2016-1181|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000096|VDB Entry,Vendor Advisory,Third Party Advisory
+198|CVE-2016-1182|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000097|VDB Entry,Vendor Advisory,Third Party Advisory
+199|CVE-2016-3092|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000121|VDB Entry,Vendor Advisory
+200|CVE-2016-4430|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000111|VDB Entry,Vendor Advisory
+201|CVE-2016-4431|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000113|VDB Entry,Vendor Advisory
+202|CVE-2016-4433|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000112|VDB Entry,Vendor Advisory
+203|CVE-2016-4438|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000110|VDB Entry,Vendor Advisory
+204|CVE-2016-4465|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000114|VDB Entry,Vendor Advisory
+205|CVE-2016-4831|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000123|Vendor Advisory
+206|CVE-2016-4834|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000126|VDB Entry,Third Party Advisory
+207|CVE-2016-4837|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000130|VDB Entry,Third Party Advisory
+208|CVE-2016-4833|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000125|VDB Entry,Third Party Advisory
+209|CVE-2016-4848|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000140|VDB Entry,Third Party Advisory
+210|CVE-2016-4851|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000152|VDB Entry,Third Party Advisory
+211|CVE-2016-4853|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000154|VDB Entry,Third Party Advisory
+212|CVE-2016-4852|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000151|VDB Entry,Third Party Advisory
+213|CVE-2016-4845|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000134|VDB Entry,Third Party Advisory
+214|CVE-2014-8370|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000007|VDB Entry,Third Party Advisory
+215|CVE-2010-0726|http://jvndb.jvn.jp/jvndb/JVNDB-2010-000005|
+216|CVE-2010-1040|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000006.html|
+217|CVE-2009-4737|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000018.html|
+218|CVE-2010-1331|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000010.html|
+219|CVE-2010-1332|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000007.html|
+220|CVE-2010-1333|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000008.html|
+221|CVE-2010-1333|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000009.html|
+222|CVE-2010-1424|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000015.html|
+223|CVE-2010-1426|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000012.html|Patch
+224|CVE-2010-1427|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000013.html|Patch
+225|CVE-2010-0594|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000014.html|
+226|CVE-2010-1941|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000019.html|
+227|CVE-2010-1942|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000018.html|
+228|CVE-2010-1943|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000020.html|
+229|CVE-2010-1985|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000017.html|
+230|CVE-2010-2029|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000016.html|
+231|CVE-2010-1384|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-001538.html|
+232|CVE-2010-2149|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000023.html|
+233|CVE-2010-2150|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000021.html|
+234|CVE-2010-2151|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000022.html|
+235|CVE-2010-2152|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000024.html|
+236|CVE-2010-2420|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000025.html|
+237|CVE-2010-2434|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000026.html|VDB Entry,Third Party Advisory
+238|CVE-2010-2360|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000029.html|
+239|CVE-2010-2360|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000030.html|
+240|CVE-2010-2361|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000027.html|
+241|CVE-2010-2362|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000028.html|
+242|CVE-2010-2363|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000032.html|
+243|CVE-2010-2364|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000033.html|
+244|CVE-2010-2365|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000034.html|
+245|CVE-2010-2366|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000035.html|
+246|CVE-2010-2367|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000036.html|
+247|CVE-2010-2368|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000037.html|
+248|CVE-2010-2369|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000038.html|
+249|CVE-2010-3156|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000041.html|
+250|CVE-2010-3157|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000040.html|
+251|CVE-2010-3158|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000039.html|
+252|CVE-2010-3159|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000043.html|VDB Entry,Third Party Advisory
+253|CVE-2010-3160|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000044.html|
+254|CVE-2010-3161|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000045.html|
+255|CVE-2010-3162|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000046.html|
+256|CVE-2010-3163|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000047.html|
+257|CVE-2010-3164|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000048.html|
+258|CVE-2010-3165|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000049.html|
+259|CVE-2010-3544|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000042.html|
+260|CVE-2010-3636|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000054.html|VDB Entry,Third Party Advisory
+261|CVE-2010-3913|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000050.html|
+262|CVE-2010-3914|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000051.html|
+263|CVE-2010-3915|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000052.html|
+264|CVE-2010-3916|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000053.html|
+265|CVE-2010-3918|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000057.html|
+266|CVE-2010-3919|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000058.html|
+267|CVE-2010-3920|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000059.html|
+268|CVE-2010-3921|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000060.html|
+269|CVE-2010-3922|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000061.html|
+270|CVE-2010-3923|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000066.html|
+271|CVE-2008-5808|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000067.html|
+272|CVE-2008-5809|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000083.html|
+273|CVE-2008-5814|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000084.html|
+274|CVE-2008-5845|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000031.html|
+275|CVE-2008-5940|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000005.html|
+276|CVE-2008-5941|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000004.html|
+277|CVE-2008-5942|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000003.html|
+278|CVE-2009-0245|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000001.html|
+279|CVE-2008-6298|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000076.html|
+280|CVE-2008-4308|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000010.html|
+281|CVE-2009-0469|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000008.html|
+282|CVE-2009-0569|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000011.html|
+283|CVE-2012-0314|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000010|
+284|CVE-2012-0315|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000011|VDB Entry,Third Party Advisory
+285|CVE-2012-0316|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000014|
+286|CVE-2012-0317|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000015|
+287|CVE-2012-0318,CVE-2012-1262|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000016|
+288|CVE-2012-0319|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000017|
+289|CVE-2012-0320|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000018|
+290|CVE-2012-0321|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000019|
+291|CVE-2012-0322|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000020|
+292|CVE-2012-0323|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000021|
+293|CVE-2012-0324|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000022|
+294|CVE-2012-0325|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000023|
+295|CVE-2012-0326|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000024|
+296|CVE-2012-0328|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000026|
+297|CVE-2012-0838|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000012|VDB Entry,Third Party Advisory
+298|CVE-2012-1236|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000027|
+299|CVE-2012-0269|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000035|
+300|CVE-2012-0327|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000025|
+301|CVE-2012-1237|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000029|
+302|CVE-2012-1238|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000030|
+303|CVE-2012-1239|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000028|
+304|CVE-2012-1240|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000032|
+305|CVE-2012-1241|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000031|
+306|CVE-2012-1242|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000034|
+307|CVE-2012-1243|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000033|
+308|CVE-2012-1244|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000037|
+309|CVE-2012-1245|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000036|
+310|CVE-2012-2399|http://jvndb.jvn.jp/jvndb/JVNDB-2012-002110|
+311|CVE-2012-1246|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000041|
+312|CVE-2012-1247|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000042|
+313|CVE-2012-1248|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000043|
+314|CVE-2012-1249|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000044|
+315|CVE-2012-1589|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000045|
+316|CVE-2011-4940|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000063|
+317|CVE-2012-1250|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000051|
+318|CVE-2012-1251|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000049|
+319|CVE-2012-1252|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000048|
+320|CVE-2012-1253|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000050|
+321|CVE-2012-1254|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000052|VDB Entry,Third Party Advisory
+322|CVE-2012-1255|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000053|VDB Entry,Third Party Advisory
+323|CVE-2012-2630|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000054|
+324|CVE-2012-2631|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000055|
+325|CVE-2012-2632|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000059|
+326|CVE-2012-2633|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000058|
+327|CVE-2012-2634|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000056|
+328|CVE-2012-2635|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000057|
+329|CVE-2012-2636|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000061|
+330|CVE-2012-2637|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000062|
+331|CVE-2012-2638|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000060|
+332|CVE-2012-2640|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000064|
+333|CVE-2012-2641|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000065|
+334|CVE-2012-2642|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000067|
+335|CVE-2012-2643|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000068|
+336|CVE-2012-2644|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000069|
+337|CVE-2012-2645|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000070|
+338|CVE-2012-2646|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000071|VDB Entry,Third Party Advisory
+339|CVE-2012-2647|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000072|
+340|CVE-2012-2648|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000073|
+341|CVE-2012-2649|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000075|
+342|CVE-2012-4004|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000076|
+343|CVE-2012-4005|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000074|
+344|CVE-2012-4006|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000077|Vendor Advisory
+345|CVE-2012-4007|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000078|
+346|CVE-2012-4008|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000081|
+347|CVE-2012-4009|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000082|
+348|CVE-2012-4010|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000080|
+349|CVE-2012-4340|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000047.html|
+350|CVE-2012-2998|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000090|Patch
+351|CVE-2012-4011|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000083|
+352|CVE-2012-4012|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000084|
+353|CVE-2012-4013|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000085|
+354|CVE-2012-4014|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000086|
+355|CVE-2012-4015|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000087|
+356|CVE-2012-4016|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000089|
+357|CVE-2012-4017|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000091|
+358|CVE-2012-4437|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000094.html|
+359|CVE-2012-4929|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000129.html|
+360|CVE-2012-4018|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000092|
+361|CVE-2012-4019|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000093|
+362|CVE-2012-4020|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000096|
+363|CVE-2012-4021|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000097|
+364|CVE-2012-4022|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000098|
+365|CVE-2012-4023|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000099|
+366|CVE-2012-5170|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000100|
+367|CVE-2012-5171|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000101|
+368|CVE-2012-5172|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000103|
+369|CVE-2012-5173|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000104|
+370|CVE-2012-5174|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000105|
+371|CVE-2012-5175|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000106|
+372|CVE-2012-5176|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000107|
+373|CVE-2012-5177|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000108|
+374|CVE-2012-5178|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000109|
+375|CVE-2012-5179|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000111|
+376|CVE-2012-5180|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000112|
+377|CVE-2012-5181|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000113|VDB Entry,Third Party Advisory
+378|CVE-2012-5182|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000114|
+379|CVE-2012-5183|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000115|
+380|CVE-2015-5665|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000166|Vendor Advisory
+381|CVE-2015-5668|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000167|Vendor Advisory
+382|CVE-2015-5669|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000168|Vendor Advisory
+383|CVE-2015-5670|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000169|Vendor Advisory
+384|CVE-2015-5671|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000170|Vendor Advisory
+385|CVE-2015-5667|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000171|Vendor Advisory
+386|CVE-2015-5673|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000175|Vendor Advisory
+387|CVE-2015-5672|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000174|Vendor Advisory
+388|CVE-2015-7770|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000176|Vendor Advisory
+389|CVE-2015-5655|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000159|Vendor Advisory
+390|CVE-2015-5441|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-005909.html|
+391|CVE-2013-5229|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000177|Vendor Advisory
+392|CVE-2015-7774|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000180|Vendor Advisory
+393|CVE-2015-7771|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000178|Vendor Advisory
+394|CVE-2015-7772|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000179|Vendor Advisory
+395|CVE-2015-7773|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000182|Vendor Advisory
+396|CVE-2015-7777|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000184|Vendor Advisory
+397|CVE-2015-5256|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000187.html|
+398|CVE-2015-7783|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000189|Vendor Advisory
+399|CVE-2015-7786|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000196|Vendor Advisory
+400|CVE-2015-7791|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000200|Vendor Advisory
+401|CVE-2015-5663|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000199|Vendor Advisory
+402|CVE-2015-7782|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000188|Vendor Advisory
+403|CVE-2015-7784|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000190|Vendor Advisory
+404|CVE-2015-7787|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000192|Vendor Advisory
+405|CVE-2015-7788|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000193|Vendor Advisory
+406|CVE-2015-7789|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000194|Vendor Advisory
+407|CVE-2015-7790|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000195|Vendor Advisory
+408|CVE-2015-7792|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000201|Vendor Advisory
+409|CVE-2015-7793|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000202|Vendor Advisory
+410|CVE-2015-7794|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000203|Vendor Advisory
+411|CVE-2013-5350|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000009|
+412|CVE-2014-0802|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000001|
+413|CVE-2014-0803|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000002|
+414|CVE-2014-0804|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000003|
+415|CVE-2014-0805|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000004|
+416|CVE-2014-0806|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000007|
+417|CVE-2014-0807|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000005|
+418|CVE-2014-0808|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000006|
+419|CVE-2014-0809|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000008|
+420|CVE-2014-0810|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000011|
+421|CVE-2013-6930,CVE-2013-6931|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000010|
+422|CVE-2014-0811|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000012|Vendor Advisory
+423|CVE-2014-0812|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000013|Vendor Advisory
+424|CVE-2014-0813|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000016|
+425|CVE-2014-0814|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000015|
+426|CVE-2014-0815|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000014|
+427|CVE-2014-0816|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000026|
+428|CVE-2014-0817|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000021|
+429|CVE-2014-0818|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000019|VDB Entry,Third Party Advisory
+430|CVE-2014-0819|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000020|VDB Entry,Third Party Advisory
+431|CVE-2014-0820|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000023|Vendor Advisory
+432|CVE-2014-0821|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000024|Vendor Advisory
+433|CVE-2014-1967|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000022|
+434|CVE-2014-1968|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000025|
+435|CVE-2014-1977|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000027|
+436|CVE-2014-1978|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000028|
+437|CVE-2014-1979|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000029|
+438|CVE-2013-4710|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000111|
+439|CVE-2014-0112,CVE-2014-0094|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000045|VDB Entry,Third Party Advisory
+440|CVE-2014-1970|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000033|
+441|CVE-2014-1971|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000032|
+442|CVE-2014-1975|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000031|
+443|CVE-2014-1976|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000030|
+444|CVE-2014-1983|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000039|VDB Entry,Third Party Advisory
+445|CVE-2014-1984|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000040|VDB Entry,Third Party Advisory
+446|CVE-2014-1985|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-000041.html|
+447|CVE-2014-1986|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000036|
+448|CVE-2014-0050|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000017|
+449|CVE-2014-1969|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000035|
+450|CVE-2014-1974|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000037|
+451|CVE-2014-1990|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000038|
+452|CVE-2014-2327|http://jvndb.jvn.jp/ja/contents/2014/JVNDB-2014-002239.html|VDB Entry,Third Party Advisory
+453|CVE-2010-4832|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000053.html|
+454|CVE-2014-1988|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000042|
+455|CVE-2014-1989|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000043|
+456|CVE-2014-1991|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000044|
+457|CVE-2014-2002|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000051|
+458|CVE-2014-2003|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000053|
+459|CVE-2014-2004|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000055|
+460|CVE-2014-2005|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000061|VDB Entry,Third Party Advisory
+461|CVE-2014-2006|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000063|
+462|CVE-2014-1997|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000046|
+463|CVE-2014-1998|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000047|
+464|CVE-2014-2000|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000049|
+465|CVE-2014-2001|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000050|
+466|CVE-2014-3881|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000064|
+467|CVE-2014-3882|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000062|
+468|CVE-2014-3883|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000057|
+469|CVE-2014-1987|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000073|Vendor Advisory
+470|CVE-2014-3892|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000080|Vendor Advisory
+471|CVE-2014-3894|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000079|Vendor Advisory
+472|CVE-2014-3895|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000087|
+473|CVE-2014-3896|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000089|VDB Entry,Third Party Advisory
+474|CVE-2014-3897|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000088|
+475|CVE-2014-1973|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000081|Vendor Advisory
+476|CVE-2014-1992|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000078|Vendor Advisory
+477|CVE-2014-1993|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000077|Vendor Advisory
+478|CVE-2014-1994|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000076|Vendor Advisory
+479|CVE-2014-1995|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000075|Vendor Advisory
+480|CVE-2014-1996|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000074|Vendor Advisory
+481|CVE-2014-1999|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000082|Vendor Advisory
+482|CVE-2013-0486|http://jvndb.jvn.jp/ja/contents/2013/JVNDB-2013-000030.html|
+483|CVE-2013-0707|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000015|
+484|CVE-2013-0708|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000013|
+485|CVE-2013-0709|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000014|
+486|CVE-2013-0710|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000016|
+487|CVE-2013-0711|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000018|
+488|CVE-2013-0712|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000019|
+489|CVE-2013-0713|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000020|
+490|CVE-2013-0714|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000021|
+491|CVE-2013-0715|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000022|
+492|CVE-2013-0716|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000023|
+493|CVE-2013-0717|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000024|
+494|CVE-2013-0718|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000029|
+495|CVE-2013-0719|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000026|
+496|CVE-2013-0720|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000027|
+497|CVE-2013-1154|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000017|
+498|CVE-2013-2300|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000028|
+499|CVE-2013-2301|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000025|
+500|CVE-2013-2302|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000031|
+501|CVE-2013-2303|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000032|
+502|CVE-2013-2304|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000033|
+503|CVE-2013-3269,CVE-2013-2305|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000034|
+504|CVE-2013-2306|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000036|
+505|CVE-2013-2307|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000037|
+506|CVE-2013-2308|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000035|
+507|CVE-2013-2311|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000040|
+508|CVE-2013-2312|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000041|
+509|CVE-2013-2313|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000042|
+510|CVE-2013-2314|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000043|
+511|CVE-2013-2315|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000044|
+512|CVE-2013-2309|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000038|
+513|CVE-2013-2310|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000039|
+514|CVE-2013-2316|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000045|
+515|CVE-2013-2317|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000046|
+516|CVE-2013-2318|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000047|
+517|CVE-2013-2319|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000048|
+518|CVE-2013-3640|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000049|
+519|CVE-2013-3641|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000054|
+520|CVE-2013-3642|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000055|
+521|CVE-2013-3643|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000056|
+522|CVE-2013-3644|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000058|
+523|CVE-2013-3645|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000057|
+524|CVE-2013-3646|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000059|
+525|CVE-2013-3647|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000060|Vendor Advisory
+526|CVE-2013-3648|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000066|
+527|CVE-2013-3649|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000067|
+528|CVE-2013-3650|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000061|
+529|CVE-2013-3651|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000062|
+530|CVE-2013-3652|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000063|
+531|CVE-2013-3653|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000064|
+532|CVE-2013-3654|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000065|
+533|CVE-2013-2165|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000072|VDB Entry,Third Party Advisory
+534|CVE-2013-3655|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000068|
+535|CVE-2013-3656|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000069|
+536|CVE-2013-3776|http://jvndb.jvn.jp/en/contents/2013/JVNDB-2013-000071.html|
+537|CVE-2013-3781|http://jvndb.jvn.jp/ja/contents/2013/JVNDB-2013-000070.html|
+538|CVE-2013-3791|http://jvndb.jvn.jp/jvndb/JVNDB-2013-003391|
+539|CVE-2013-4697|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000076|
+540|CVE-2013-4698|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000077|
+541|CVE-2013-4699|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000078|
+542|CVE-2013-4700|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000079|
+543|CVE-2013-4701|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000080|
+544|CVE-2013-4702|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000081|
+545|CVE-2013-3659|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000075|
+546|CVE-2013-3657|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000085|
+547|CVE-2013-3658|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000084|
+548|CVE-2013-4703|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000082|
+549|CVE-2013-4704|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000088|
+550|CVE-2013-4705|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000086|
+551|CVE-2013-4706|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000089|
+552|CVE-2013-4707|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000090|
+553|CVE-2013-4709|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000092|Vendor Advisory
+554|CVE-2013-3893|http://jvndb.jvn.jp/ja/contents/2013/JVNDB-2013-000093.html|
+555|CVE-2013-4708|http://jvndb.jvn.jp/ja/contents/2013/JVNDB-2013-000091.html|
+556|CVE-2013-4711|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000094|
+557|CVE-2013-4712|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000095|
+558|CVE-2013-4713|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000096|
+559|CVE-2013-5990|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000103|
+560|CVE-2013-5991|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000104|
+561|CVE-2013-5992|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000105|
+562|CVE-2013-5993|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000097|
+563|CVE-2013-5994|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000098|
+564|CVE-2013-5995|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000106|
+565|CVE-2013-5996|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000107|
+566|CVE-2013-5997|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000109|
+567|CVE-2013-5998|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000110|
+568|CVE-2013-5999|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000108|
+569|CVE-2013-4714|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000099|
+570|CVE-2013-4715|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000100|
+571|CVE-2013-4716|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000101|
+572|CVE-2013-5973|http://jvndb.jvn.jp/en/contents/2013/JVNDB-2013-000123.html|
+573|CVE-2013-6000|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000112|
+574|CVE-2013-6001|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000114|
+575|CVE-2013-6002|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000115|
+576|CVE-2013-6003|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000116|
+577|CVE-2013-6004|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000117|
+578|CVE-2013-6005|http://jvndb.jvn.jp/en/contents/2013/JVNDB-2013-000118.html|
+579|CVE-2013-6006|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000125|
+580|CVE-2013-6196|http://jvndb.jvn.jp/en/contents/2013/JVNDB-2013-000126.html|
+581|CVE-2013-6906,CVE-2013-6908,CVE-2013-6913,CVE-2013-6900,CVE-2013-6901,CVE-2013-6907,CVE-2013-6910,CVE-2013-6911,CVE-2013-6914,CVE-2013-6915,CVE-2013-6904,CVE-2013-6905,CVE-2013-6902,CVE-2013-6903,CVE-2013-6909,CVE-2013-6912,CVE-2013-6916|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000113|
+582|CVE-2013-6958|http://jvndb.jvn.jp/ja/contents/2013/JVNDB-2013-000119.html|
+583|CVE-2013-6929|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000124|
+584|CVE-2013-6932|http://jvndb.jvn.jp/jvndb/JVNDB-2013-000120|
+585|CVE-2007-6751|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000108.html|
+586|CVE-2011-4057|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000003.html|
+587|CVE-2012-0077|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000007.html|
+588|CVE-2012-0309|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000001|
+589|CVE-2012-0310|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000002|
+590|CVE-2012-0311|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000004|
+591|CVE-2012-0312|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000005|
+592|CVE-2012-0313|http://jvndb.jvn.jp/jvndb/JVNDB-2012-000008|
+593|CVE-2008-5720|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000085.html|
+594|CVE-2008-5721|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000086.html|
+595|CVE-2008-5723|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000078.html|
+596|CVE-2007-1262|http://jvndb.jvn.jp/ja/contents/2007/JVNDB-2007-000398.html|
+597|CVE-2007-3488|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000012.html|
+598|CVE-2015-0867|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000006|Vendor Advisory
+599|CVE-2015-0870|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000010|Vendor Advisory
+600|CVE-2014-3578|http://jvndb.jvn.jp/jvndb/JVNDB-2014-000054|VDB Entry,Third Party Advisory
+601|CVE-2014-9282|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000023|Vendor Advisory
+602|CVE-2014-7266|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000001|Vendor Advisory
+603|CVE-2014-7269|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000011|Vendor Advisory
+604|CVE-2014-7270|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000012|Vendor Advisory
+605|CVE-2015-0868|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000008|Vendor Advisory
+606|CVE-2015-0869|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000009|Vendor Advisory
+607|CVE-2015-0875|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000016|Vendor Advisory
+608|CVE-2015-0878|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000020|Vendor Advisory
+609|CVE-2015-0879|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000021|Vendor Advisory
+610|CVE-2015-0880|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000022|Vendor Advisory
+611|CVE-2015-0881|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000019|Vendor Advisory
+612|CVE-2015-0882|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000027|VDB Entry,Third Party Advisory
+613|CVE-2015-0883|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000026|Vendor Advisory
+614|CVE-2015-0885|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000032|Vendor Advisory
+615|CVE-2015-0886|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000033|VDB Entry,Vendor Advisory,Third Party Advisory
+616|CVE-2015-0887|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000031|Vendor Advisory
+617|CVE-2015-0888|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000028|Vendor Advisory
+618|CVE-2015-0889|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000024|Vendor Advisory
+619|CVE-2014-9283|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000029|Vendor Advisory
+620|CVE-2015-0890|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000030|Vendor Advisory
+621|CVE-2015-0891|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000034|Vendor Advisory
+622|CVE-2015-0892|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000035|Vendor Advisory
+623|CVE-2015-0893|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000036|Vendor Advisory
+624|CVE-2015-0894|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000037|Vendor Advisory
+625|CVE-2015-0895|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000038|Vendor Advisory
+626|CVE-2015-0896|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000039|Vendor Advisory
+627|CVE-2015-0898|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000041|Vendor Advisory
+628|CVE-2015-0900|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000043|Vendor Advisory
+629|CVE-2015-0901|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000044|Vendor Advisory
+630|CVE-2015-0279|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-001959.html|VDB Entry,Third Party Advisory
+631|CVE-2015-0876|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000017|Vendor Advisory
+632|CVE-2015-0877|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000018|Vendor Advisory
+633|CVE-2015-0902|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000046|Vendor Advisory
+634|CVE-2015-0903|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000048|Vendor Advisory
+635|CVE-2015-0905|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000047|Vendor Advisory
+636|CVE-2015-0906|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000050|Vendor Advisory
+637|CVE-2015-0907|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000051|Vendor Advisory
+638|CVE-2015-0910|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000054|Vendor Advisory
+639|CVE-2015-0911|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000055|Vendor Advisory
+640|CVE-2015-0912|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000060|Vendor Advisory
+641|CVE-2015-0913|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000061|Vendor Advisory
+642|CVE-2015-0914|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000062|Vendor Advisory
+643|CVE-2015-0915|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000063|Vendor Advisory
+644|CVE-2015-0916|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000064|Vendor Advisory
+645|CVE-2015-2945|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000067|Vendor Advisory
+646|CVE-2015-2946|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000068|Vendor Advisory
+647|CVE-2015-2948|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000070|Vendor Advisory
+648|CVE-2015-2949|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000071|Vendor Advisory
+649|CVE-2015-2960|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000074|Vendor Advisory
+650|CVE-2015-2961|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000076|Vendor Advisory
+651|CVE-2015-2962|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000087|Vendor Advisory
+652|CVE-2015-2965|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000091|Vendor Advisory
+653|CVE-2015-2966|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000093|Vendor Advisory
+654|CVE-2014-9284|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000085|Vendor Advisory
+655|CVE-2015-2308|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000089|Vendor Advisory
+656|CVE-2015-2944|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000069|Vendor Advisory
+657|CVE-2015-2950|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000072|Patch
+658|CVE-2015-2951|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000073|Vendor Advisory
+659|CVE-2015-2952|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000077|Vendor Advisory
+660|CVE-2015-2953|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000078|Vendor Advisory
+661|CVE-2015-2954|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000079|Vendor Advisory
+662|CVE-2015-2955|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000080|Vendor Advisory
+663|CVE-2015-2956|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000081|Vendor Advisory
+664|CVE-2015-2957|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000082|Vendor Advisory
+665|CVE-2015-2958|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000083|Vendor Advisory
+666|CVE-2015-2959|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000075|Vendor Advisory
+667|CVE-2015-1758|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000086.html|
+668|CVE-2015-4453|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000092|Vendor Advisory
+669|CVE-2015-2963|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000088|Vendor Advisory
+670|CVE-2015-2964|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000090|Vendor Advisory
+671|CVE-2015-2967|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000094|Vendor Advisory
+672|CVE-2015-2969|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000096|Vendor Advisory
+673|CVE-2015-2970|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000097|Vendor Advisory
+674|CVE-2015-2971|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000098|Vendor Advisory
+675|CVE-2015-2972|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000099|Vendor Advisory
+676|CVE-2015-2973|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000103|Vendor Advisory
+677|CVE-2015-2974|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000106|Vendor Advisory
+678|CVE-2015-2975|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000105|Vendor Advisory
+679|CVE-2015-2976|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000104|Vendor Advisory
+680|CVE-2015-2977|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000107|Vendor Advisory
+681|CVE-2015-2978|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000108|Vendor Advisory
+682|CVE-2015-2979|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000109|Vendor Advisory
+683|CVE-2015-2980|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000110|Vendor Advisory
+684|CVE-2015-2982|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000113|Vendor Advisory
+685|CVE-2015-2983|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000114|Vendor Advisory
+686|CVE-2015-2984|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000117|Vendor Advisory
+687|CVE-2015-2987|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000119|Vendor Advisory
+688|CVE-2014-1972|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000118|Vendor Advisory
+689|CVE-2015-5624|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000127|Vendor Advisory
+690|CVE-2015-5625|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000128|Vendor Advisory
+691|CVE-2015-2985|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000301|Vendor Advisory
+692|CVE-2015-2986|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000302|Vendor Advisory
+693|CVE-2015-2989|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000121|Vendor Advisory
+694|CVE-2015-2990|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000122|Vendor Advisory
+695|CVE-2015-2991|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000123|Vendor Advisory
+696|CVE-2015-5631|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000129|Vendor Advisory
+697|CVE-2015-5629|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000115|Vendor Advisory
+698|CVE-2015-5630|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000116|Vendor Advisory
+699|CVE-2015-5638|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000136|Vendor Advisory
+700|CVE-2015-5632|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000130|Vendor Advisory
+701|CVE-2015-5633|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000131|Vendor Advisory
+702|CVE-2015-5634|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000132|Vendor Advisory
+703|CVE-2015-5635|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000133|Vendor Advisory
+704|CVE-2015-5636|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000134|Vendor Advisory
+705|CVE-2015-5637|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000135|Vendor Advisory
+706|CVE-2015-5653|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000140|Vendor Advisory
+707|CVE-2015-5651|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000148|Vendor Advisory
+708|CVE-2015-5640|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000138|Vendor Advisory
+709|CVE-2015-5641|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000139|Vendor Advisory
+710|CVE-2015-5642|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000143|Vendor Advisory
+711|CVE-2015-5643|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000144|Vendor Advisory
+712|CVE-2015-5644|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000145|Vendor Advisory
+713|CVE-2015-5645|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000146|Vendor Advisory
+714|CVE-2015-5650|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000147|Vendor Advisory
+715|CVE-2015-5652|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000141|Vendor Advisory
+716|CVE-2015-7314|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000149|Vendor Advisory
+717|CVE-2015-5649|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000152|Vendor Advisory
+718|CVE-2015-5648|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000154|Vendor Advisory
+719|CVE-2015-5654|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000153|Vendor Advisory
+720|CVE-2015-5659|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000158|Vendor Advisory
+721|CVE-2015-5646,CVE-2015-5647|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000151|Vendor Advisory
+722|CVE-2015-7628|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-005234.html|
+723|CVE-2015-5660|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000126|Vendor Advisory
+724|CVE-2015-5662|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000160|Vendor Advisory
+725|CVE-2015-5661|http://jvndb.jvn.jp/jvndb/JVNDB-2015-000162|Vendor Advisory
+726|CVE-2008-0303|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000013.html|
+727|CVE-2008-0416|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000021.html|
+728|CVE-2008-1187|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000016.html|
+729|CVE-2008-1226|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000004.html|
+730|CVE-2008-1604|http://jvndb.jvn.jp/contents/ja/2008/JVNDB-2008-000019.html|
+731|CVE-2008-1589|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000039.html|
+732|CVE-2008-2579|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000040.html|VDB Entry,Third Party Advisory
+733|CVE-2008-3023|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000036.html|
+734|CVE-2008-3316|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000045.html|
+735|CVE-2008-3482|http://jvndb.jvn.jp/contents/ja/2008/JVNDB-2008-000037.html|
+736|CVE-2008-3739|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000048.html|
+737|CVE-2008-4066|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000058.html|
+738|CVE-2008-4326|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000061.html|
+739|CVE-2008-2236|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000073.html|
+740|CVE-2008-3271|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000069.html|
+741|CVE-2008-4020|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000070.html|
+742|CVE-2008-4446|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000066.html|VDB Entry,Third Party Advisory
+743|CVE-2008-4481|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000038.html|
+744|CVE-2008-4533|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000060.html|
+745|CVE-2008-4534|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000065.html|
+746|CVE-2008-4535|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000064.html|
+747|CVE-2008-4537|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000062.html|
+748|CVE-2008-4629|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000071.html|
+749|CVE-2008-4634|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000072.html|
+750|CVE-2008-4635|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000068.html|
+751|CVE-2008-4663|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000043.html|
+752|CVE-2008-4663|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000044.html|
+753|CVE-2008-4796|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000074.html|
+754|CVE-2008-4797|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000059.html|
+755|CVE-2008-4991|http://jvndb.jvn.jp/en/contents/2008/JVNDB-2008-000075.html|
+756|CVE-2008-5495|http://jvndb.jvn.jp/ja/contents/2008/JVNDB-2008-000077.html|
+757|CVE-2014-7242|http://jvndb.jvn.jp/en/contents/2014/JVNDB-2014-000125.html|VDB Entry,Third Party Advisory
+758|CVE-2016-1131|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000001|Vendor Advisory
+759|CVE-2016-1133|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000003|Vendor Advisory
+760|CVE-2016-1142|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000002|Vendor Advisory
+761|CVE-2016-1134|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000005|Vendor Advisory
+762|CVE-2016-1135|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000006|Vendor Advisory
+763|CVE-2016-1136|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000007|Vendor Advisory
+764|CVE-2016-1137|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000008|Vendor Advisory
+765|CVE-2016-1138|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000009|Vendor Advisory
+766|CVE-2016-1139|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000010|Vendor Advisory
+767|CVE-2016-1140|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000011|Vendor Advisory
+768|CVE-2016-1141|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000012|Vendor Advisory
+769|CVE-2016-1143|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000016|Vendor Advisory
+770|CVE-2016-1144|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000017|VDB Entry,Vendor Advisory,Third Party Advisory
+771|CVE-2016-1145|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000015|Vendor Advisory
+772|CVE-2015-7797,CVE-2015-7798,CVE-2016-1150,CVE-2015-7796,CVE-2016-1149,CVE-2015-7795|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000026|Vendor Advisory
+773|CVE-2015-8483|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000025|Vendor Advisory
+774|CVE-2015-8485,CVE-2015-8486,CVE-2015-8484,CVE-2016-1152|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000023|Vendor Advisory
+775|CVE-2015-8487|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000022|Vendor Advisory
+776|CVE-2015-8488|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000021|Vendor Advisory
+777|CVE-2015-8489,CVE-2016-1153|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000020|Vendor Advisory
+778|CVE-2016-1151|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000024|Vendor Advisory
+779|CVE-2016-0069|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000028.html|
+780|CVE-2015-7769|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000030|Vendor Advisory
+781|CVE-2016-1154|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000027|Vendor Advisory
+782|CVE-2016-1156|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000029|Vendor Advisory
+783|CVE-2016-1157|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000031|Vendor Advisory
+784|CVE-2016-1158|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000032|Vendor Advisory
+785|CVE-2016-1160|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000034|Vendor Advisory
+786|CVE-2016-1167|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000036|Vendor Advisory
+787|CVE-2016-1168|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000035|Vendor Advisory
+788|CVE-2016-1175|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000039|Vendor Advisory
+789|CVE-2016-1176|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000038|Vendor Advisory
+790|CVE-2016-1177|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000037|Vendor Advisory
+791|CVE-2016-1169|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000044|Vendor Advisory
+792|CVE-2016-1170|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000045|Vendor Advisory
+793|CVE-2016-1171|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000040|Vendor Advisory
+794|CVE-2016-1172|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000041|Vendor Advisory
+795|CVE-2016-1173|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000042|Vendor Advisory
+796|CVE-2016-1174|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000043|Vendor Advisory
+797|CVE-2016-1180|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000048|VDB Entry,Vendor Advisory,Third Party Advisory
+798|CVE-2016-4854|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000194|VDB Entry,Third Party Advisory
+799|CVE-2016-4863|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000168|VDB Entry,Third Party Advisory
+800|CVE-2016-4900|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000206|VDB Entry,Third Party Advisory
+801|CVE-2016-4901|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000207|VDB Entry,Third Party Advisory
+802|CVE-2016-4904|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000209.html|VDB Entry
+803|CVE-2016-4905|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000210.html|VDB Entry,Third Party Advisory
+804|CVE-2016-7804|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000211|VDB Entry,Third Party Advisory
+805|CVE-2017-2161|http://jvndb.jvn.jp/en/contents/2017/JVNDB-2017-000090.html|VDB Entry,Third Party Advisory
+806|CVE-2017-2162|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000091|VDB Entry,Third Party Advisory
+807|CVE-2017-2168|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000092|VDB Entry,Third Party Advisory
+808|CVE-2017-2169|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000093|VDB Entry,Third Party Advisory
+809|CVE-2017-2171|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000094|VDB Entry,Third Party Advisory
+810|CVE-2017-2173|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000096|VDB Entry,Third Party Advisory
+811|CVE-2017-2174|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000097|VDB Entry,Third Party Advisory
+812|CVE-2017-2175|http://jvndb.jvn.jp/jvndb/JVNDB-2017-000098|VDB Entry,Third Party Advisory
+813|CVE-2015-7780|http://jvndb.jvn.jp/ja/contents/2015/JVNDB-2015-000185.html|VDB Entry,Third Party Advisory
+814|CVE-2015-7781|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000186.html|VDB Entry,Third Party Advisory
+815|CVE-2015-0904|http://jvndb.jvn.jp/ja/contents/2015/JVNDB-2015-000049.html|VDB Entry,Third Party Advisory
+816|CVE-2015-2943|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000065.html|VDB Entry,Third Party Advisory
+817|CVE-2015-5169|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000125.html|VDB Entry,Third Party Advisory
+818|CVE-2015-5666|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000164.html|VDB Entry,Third Party Advisory
+819|CVE-2015-7785|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000191.html|VDB Entry,Third Party Advisory
+820|CVE-2015-0874|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000015.html|VDB Entry,Third Party Advisory
+821|CVE-2015-2988|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000120.html|VDB Entry,Third Party Advisory
+822|CVE-2015-5639|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000137.html|VDB Entry,Third Party Advisory
+823|CVE-2015-7778|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000181.html|VDB Entry,Third Party Advisory
+824|CVE-2007-6563|http://jvndb.jvn.jp/contents/ja/2007/JVNDB-2007-000822.html|
+825|CVE-2010-3924|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000003.html|
+826|CVE-2010-3925|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000001.html|
+827|CVE-2010-3926|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000002.html|
+828|CVE-2010-3927|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000004.html|
+829|CVE-2010-3928|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000005.html|
+830|CVE-2010-3931|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000006.html|Third Party Advisory
+831|CVE-2011-0352|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000007.html|
+832|CVE-2011-0450|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000010.html|
+833|CVE-2010-3929|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000008.html|
+834|CVE-2010-3930|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000009.html|
+835|CVE-2011-0451|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000011.html|
+836|CVE-2011-0452|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000012.html|
+837|CVE-2011-0453|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000013|Patch
+838|CVE-2011-0454|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000014|
+839|CVE-2011-0455|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000015|
+840|CVE-2011-0456|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000019|
+841|CVE-2011-0458|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000022|
+842|CVE-2011-1325|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000029|
+843|CVE-2011-1326|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000027|
+844|CVE-2011-1327|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000028|
+845|CVE-2011-1328|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000030|
+846|CVE-2011-1329|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000032|
+847|CVE-2011-1772|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000106|
+848|CVE-2011-1330|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000042|
+849|CVE-2011-1332|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000044|
+850|CVE-2011-1333|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000045|
+851|CVE-2011-1334|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000046|
+852|CVE-2011-1335|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000047|
+853|CVE-2011-1331|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000043|
+854|CVE-2011-1336|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000048|
+855|CVE-2011-1337|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000049.html|
+856|CVE-2011-1338|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000050|
+857|CVE-2011-1339|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000054|
+858|CVE-2011-1340|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000056|
+859|CVE-2011-1341|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000062|Patch
+860|CVE-2011-1342|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000063|Patch
+861|CVE-2011-1961|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000060.html|
+862|CVE-2009-5086|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000071.html|
+863|CVE-2009-5092|http://jvndb.jvn.jp/ja/contents/2009/JVNDB-2009-000009.html|
+864|CVE-2010-4831|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000072|
+865|CVE-2011-2671|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000073.html|
+866|CVE-2011-2672|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000074|
+867|CVE-2011-3382,CVE-2011-3381|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000068|
+868|CVE-2011-3384|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000069|
+869|CVE-2011-3385|http://jvndb.jvn.jp/en/contents/2011/JVNDB-2011-000067.html|
+870|CVE-2011-0459|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000023|
+871|CVE-2011-2673|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000065|
+872|CVE-2011-2674|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000066|
+873|CVE-2011-2675|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000077|
+874|CVE-2011-2677|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000079.html|
+875|CVE-2011-3383|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000080|VDB Entry,Third Party Advisory
+876|CVE-2011-3426|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000088|
+877|CVE-2011-3983|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000081|
+878|CVE-2011-3984|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000082|VDB Entry,Third Party Advisory
+879|CVE-2011-3988|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000087.html|
+880|CVE-2011-2676|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000078|
+881|CVE-2011-3985|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000083|
+882|CVE-2011-3986|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000084|
+883|CVE-2011-3987|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000085|
+884|CVE-2011-3989|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000086.html|
+885|CVE-2011-3991|http://jvndb.jvn.jp/ja/contents/2011/JVNDB-2011-000091.html|
+886|CVE-2011-3992|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000092|
+887|CVE-2011-3993|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000093|
+888|CVE-2011-3994|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000094|
+889|CVE-2011-3995|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000089|
+890|CVE-2011-3996|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000095|
+891|CVE-2011-3997|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000096|
+892|CVE-2011-3998|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000097|
+893|CVE-2011-3999|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000098|
+894|CVE-2011-4000|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000099|
+895|CVE-2011-4002|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000076|
+896|CVE-2011-3415|http://jvndb.jvn.jp/jvndb/JVNDB-2011-003557|
+897|CVE-2011-3990|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000107|Patch
+898|CVE-2011-4001|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000075|
+899|CVE-2011-4263|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000100|
+900|CVE-2011-4264|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000101|
+901|CVE-2011-4265|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000103|
+902|CVE-2011-4266|http://jvndb.jvn.jp/jvndb/JVNDB-2011-000104|
+903|CVE-2011-4815|http://jvndb.jvn.jp/ja/contents/2012/JVNDB-2012-000066.html|
+904|CVE-2009-4608|http://jvndb.jvn.jp/en/contents/2009/JVNDB-2009-000066.html|VDB Entry,Third Party Advisory
+905|CVE-2010-0348|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000003.html|
+906|CVE-2010-0349|http://jvndb.jvn.jp/ja/contents/2010/JVNDB-2010-000002.html|
+907|CVE-2010-0488|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000011.html|
+908|CVE-2016-9260|http://jvndb.jvn.jp/en/contents/2017/JVNDB-2017-000013.html|VDB Entry,Third Party Advisory
+909|CVE-2016-4861|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000158|VDB Entry,Third Party Advisory
+910|CVE-2016-1178|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000047.html|VDB Entry,Third Party Advisory
+911|CVE-2016-1179|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000046.html|VDB Entry,Third Party Advisory
+912|CVE-2016-4891|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000196.html|VDB Entry,Third Party Advisory
+913|CVE-2016-4892|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000197.html|VDB Entry,Third Party Advisory
+914|CVE-2016-4893|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000198.html|VDB Entry
+915|CVE-2016-4894|http://jvndb.jvn.jp/ja/contents/2016/JVNDB-2016-000199.html|VDB Entry
+916|CVE-2016-4895|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000200.html|VDB Entry
+917|CVE-2016-4896|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000201.html|VDB Entry
+918|CVE-2016-4897|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000202.html|VDB Entry,Third Party Advisory
+919|CVE-2016-1132|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000004.html|VDB Entry,Third Party Advisory
+920|CVE-2016-4875|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000167.html|VDB Entry,Third Party Advisory
+921|CVE-2016-4888|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000169.html|VDB Entry,Third Party Advisory
+922|CVE-2016-4889|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000170.html|VDB Entry,Third Party Advisory
+923|CVE-2016-4890|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000171.html|VDB Entry,Third Party Advisory
+924|CVE-2016-4865|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000184.html|VDB Entry,Third Party Advisory
+925|CVE-2016-4866|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000185.html|VDB Entry,Third Party Advisory
+926|CVE-2016-4867|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000187.html|VDB Entry,Third Party Advisory
+927|CVE-2016-4868|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000190.html|VDB Entry,Third Party Advisory
+928|CVE-2016-4869|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000191.html|VDB Entry,Third Party Advisory
+929|CVE-2016-4870|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000186.html|VDB Entry,Third Party Advisory
+930|CVE-2016-4871|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000192.html|VDB Entry,Third Party Advisory
+931|CVE-2016-4872|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000188.html|VDB Entry,Third Party Advisory
+932|CVE-2016-4873|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000189.html|VDB Entry
+933|CVE-2016-4874|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000193.html|VDB Entry,Third Party Advisory
+934|CVE-2016-1219|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000148.html|VDB Entry,Third Party Advisory
+935|CVE-2016-4847|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000141.html|VDB Entry,Third Party Advisory
+936|CVE-2016-4849|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000150.html|VDB Entry,Third Party Advisory
+937|CVE-2016-1213|http://jvndb.jvn.jp/jvndb/JVNDB-2016-000142|VDB Entry,Third Party Advisory
+938|CVE-2016-1214|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000143.html|VDB Entry,Third Party Advisory
+939|CVE-2016-1215|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000144.html|VDB Entry
+940|CVE-2016-1216|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000145.html|VDB Entry
+941|CVE-2016-1217|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000146.html|VDB Entry
+942|CVE-2016-1218|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000147.html|VDB Entry,Third Party Advisory
+943|CVE-2016-1220|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000149.html|VDB Entry,Third Party Advisory
+944|CVE-2016-4818|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000092.html|VDB Entry,Third Party Advisory
+945|CVE-2016-4842|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000136.html|VDB Entry,Third Party Advisory
+946|CVE-2016-4843|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000137.html|VDB Entry
+947|CVE-2016-4844|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000138.html|VDB Entry,Third Party Advisory
+948|CVE-2016-4850|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000153.html|VDB Entry,Third Party Advisory
+949|CVE-2016-4862|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000157.html|VDB Entry,Third Party Advisory
+950|CVE-2016-1148|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000019.html|VDB Entry,Third Party Advisory
+951|CVE-2016-1184|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000049.html|VDB Entry,Third Party Advisory
+952|CVE-2016-1194|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000080.html|VDB Entry,Third Party Advisory
+953|CVE-2016-4829|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000120.html|VDB Entry,Third Party Advisory
+954|CVE-2016-4830|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000122.html|VDB Entry,Third Party Advisory
+955|CVE-2016-4832|http://jvndb.jvn.jp/ja/contents/2016/JVNDB-2016-000124.html|VDB Entry,Third Party Advisory
+956|CVE-2016-4840|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000133.html|VDB Entry,Third Party Advisory
+957|CVE-2016-4841|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000135.html|VDB Entry,Third Party Advisory
+958|CVE-2016-4846|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000139.html|VDB Entry,Third Party Advisory
+959|CVE-2016-1186|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000056.html|VDB Entry,Third Party Advisory
+960|CVE-2016-1187|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000060.html|VDB Entry,Third Party Advisory
+961|CVE-2016-1198|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000050.html|VDB Entry,Third Party Advisory
+962|CVE-2016-1210|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000065.html|VDB Entry,Third Party Advisory
+963|CVE-2016-1221|http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000067.html|VDB Entry,Third Party Advisory
+964|CVE-2003-0107|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000066.html|
+965|CVE-2010-3917|http://jvndb.jvn.jp/en/contents/2010/JVNDB-2010-000056.html|VDB Entry,Third Party Advisory
+966|CVE-2015-2992|http://jvndb.jvn.jp/en/contents/2015/JVNDB-2015-000124.html|VDB Entry,Third Party Advisory
