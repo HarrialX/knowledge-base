@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 *.ipynb
+notebooks/
 .vscode/
 data/med-visit/
 data/query2box-data/
