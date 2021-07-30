@@ -1,3 +1,0 @@
-find three websites that has good patch
-
-./CVE-ID/patchsource
